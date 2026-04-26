@@ -1,212 +1,1752 @@
 [
-  {
-    "word": "Algorithm",
-    "phonetic": "/ˈælɡərɪðəm/",
-    "meaning": "アルゴリズム、計算手順",
-    "example": "The search engine uses a complex algorithm to rank pages.",
-    "example_ja": "その検索エンジンは、ページをランク付けするために複雑なアルゴリズムを使用しています。"
-  },
-  {
-    "word": "Encryption",
-    "phonetic": "/ɪnˈkrɪpʃn/",
-    "meaning": "暗号化",
-    "example": "Data encryption is essential for secure online transactions.",
-    "example_ja": "安全なオンライン取引にはデータの暗号化が不可欠です。"
-  },
-  {
-    "word": "Framework",
-    "phonetic": "/ˈfreɪmwɜːrk/",
-    "meaning": "フレームワーク、枠組み",
-    "example": "We are using a new JavaScript framework for this project.",
-    "example_ja": "このプロジェクトでは新しいJavaScriptフレームワークを使用しています。"
-  },
-  {
-    "word": "Database",
-    "phonetic": "/ˈdeɪtəbeɪs/",
-    "meaning": "データベース",
-    "example": "The customer information is stored in a secure database.",
-    "example_ja": "顧客情報は安全なデータベースに保存されています。"
-  },
-  {
-    "word": "Deployment",
-    "phonetic": "/dɪˈplɔɪmənt/",
-    "meaning": "配備、デプロイメント",
-    "example": "The deployment of the new software version went smoothly.",
-    "example_ja": "新しいソフトウェアバージョンのデプロイはスムーズに進みました。"
-  },
-  {
-    "word": "Interface",
-    "phonetic": "/ˈɪntərfeɪs/",
-    "meaning": "インターフェース、接点",
-    "example": "The user interface is intuitive and easy to navigate.",
-    "example_ja": "ユーザーインターフェースは直感的で操作が簡単です。"
-  },
-  {
-    "word": "Protocol",
-    "phonetic": "/ˈproʊtəkɑːl/",
-    "meaning": "プロトコル、通信規約",
-    "example": "HTTP is the standard protocol for web communication.",
-    "example_ja": "HTTPはウェブ通信の標準プロトコルです。"
-  },
-  {
-    "word": "Serverless",
-    "phonetic": "/ˈsɜːrvərləs/",
-    "meaning": "サーバーレス",
-    "example": "Serverless computing allows developers to focus on code.",
-    "example_ja": "サーバーレスコンピューティングにより、開発者はコードに集中できます。"
-  },
-  {
-    "word": "Authentication",
-    "phonetic": "/ɔːˌθentɪˈkeɪʃn/",
-    "meaning": "認証",
-    "example": "Multi-factor authentication adds an extra layer of security.",
-    "example_ja": "多要素認証により、セキュリティの層がさらに追加されます。"
-  },
-  {
-    "word": "Repository",
-    "phonetic": "/rɪˈpɑːzətɔːri/",
-    "meaning": "リポジトリ、貯蔵庫",
-    "example": "Please push your changes to the remote repository.",
-    "example_ja": "変更をリモートリポジトリにプッシュしてください。"
-  },
-  {
-    "word": "Architecture",
-    "phonetic": "/ˈɑːrkɪtektʃər/",
-    "meaning": "アーキテクチャ、構成",
-    "example": "The system architecture is based on microservices.",
-    "example_ja": "システムアーキテクチャはマイクロサービスに基づいています。"
-  },
-  {
-    "word": "Optimization",
-    "phonetic": "/ˌɑːptɪməˈzeɪʃn/",
-    "meaning": "最適化",
-    "example": "Code optimization can significantly improve performance.",
-    "example_ja": "コードの最適化により、パフォーマンスを大幅に向上させることができます。"
-  },
-  {
-    "word": "Vulnerability",
-    "phonetic": "/ˌvʌlnərəˈbɪləti/",
-    "meaning": "脆弱性",
-    "example": "The security patch fixes a critical vulnerability.",
-    "example_ja": "そのセキュリティパッチは重大な脆弱性を修正します。"
-  },
-  {
-    "word": "API",
-    "phonetic": "/ˌeɪ piː ˈaɪ/",
-    "meaning": "API (アプリケーション・プログラミング・インターフェース)",
-    "example": "We use a third-party API to process payments.",
-    "example_ja": "支払処理にはサードパーティのAPIを使用しています。"
-  },
-  {
-    "word": "Compatibility",
-    "phonetic": "/kəmˌpætəˈbɪləti/",
-    "meaning": "互換性",
-    "example": "We need to ensure backward compatibility with older versions.",
-    "example_ja": "旧バージョンとの後方互換性を確保する必要があります。"
-  },
-  {
-    "word": "Configuration",
-    "phonetic": "/kənˌfɪɡjəˈreɪʃn/",
-    "meaning": "設定、構成",
-    "example": "Check the configuration file for any errors.",
-    "example_ja": "設定ファイルにエラーがないか確認してください。"
-  },
-  {
-    "word": "Redundancy",
-    "phonetic": "/rɪˈdʌndənsi/",
-    "meaning": "冗長性",
-    "example": "System redundancy ensures high availability.",
-    "example_ja": "システムの冗長性により、高い可用性が確保されます。"
-  },
-  {
-    "word": "Scalability",
-    "phonetic": "/ˌskeɪləˈbɪləti/",
-    "meaning": "拡張性、スケーラビリティ",
-    "example": "Cloud computing offers excellent scalability for growing businesses.",
-    "example_ja": "クラウドコンピューティングは、成長するビジネスに優れた拡張性を提供します。"
-  },
-  {
-    "word": "Latency",
-    "phonetic": "/ˈleɪtənsi/",
-    "meaning": "遅延、レイテンシ",
-    "example": "Low latency is crucial for real-time applications.",
-    "example_ja": "リアルタイムアプリケーションにとって低レイテンシは非常に重要です。"
-  },
-  {
-    "word": "Middleware",
-    "phonetic": "/ˈmɪdlwer/",
-    "meaning": "ミドルウェア",
-    "example": "Middleware helps different software applications communicate.",
-    "example_ja": "ミドルウェアは異なるソフトウェアアプリケーション間の通信を助けます。"
-  },
-  {
-    "word": "Agile",
-    "phonetic": "/ˈædʒl/",
-    "meaning": "アジャイル、機敏な",
-    "example": "Our team follows the Agile methodology for development.",
-    "example_ja": "私たちのチームは開発にアジャイル手法を採用しています。"
-  },
-  {
-    "word": "Debugging",
-    "phonetic": "/ˌdiːˈbʌɡɪŋ/",
-    "meaning": "デバッグ",
-    "example": "He spent all afternoon debugging the new feature.",
-    "example_ja": "彼は午後の間ずっと新機能のデバッグに費やしました。"
-  },
-  {
-    "word": "Back-end",
-    "phonetic": "/ˈbæk end/",
-    "meaning": "バックエンド",
-    "example": "The back-end of the application handles data processing.",
-    "example_ja": "アプリケーションのバックエンドがデータ処理を担当します。"
-  },
-  {
-    "word": "Front-end",
-    "phonetic": "/ˈfrʌnt end/",
-    "meaning": "フロントエンド",
-    "example": "The front-end developer is working on the user interface.",
-    "example_ja": "フロントエンド開発者がユーザーインターフェースの作業をしています。"
-  },
-  {
-    "word": "Virtualization",
-    "phonetic": "/ˌvɜːrtʃuələˈzeɪʃn/",
-    "meaning": "仮想化",
-    "example": "Virtualization allows multiple OS to run on a single machine.",
-    "example_ja": "仮想化により、1台のマシンで複数のOSを実行できます。"
-  },
-  {
-    "word": "Endpoint",
-    "phonetic": "/ˈendpɔɪnt/",
-    "meaning": "エンドポイント",
-    "example": "The API endpoint returns data in JSON format.",
-    "example_ja": "そのAPIエンドポイントはJSON形式でデータを返します。"
-  },
-  {
-    "word": "Integration",
-    "phonetic": "/ˌɪntɪˈɡreɪʃn/",
-    "meaning": "統合、インテグレーション",
-    "example": "Continuous integration helps catch bugs early in development.",
-    "example_ja": "継続的インテグレーションは、開発の初期段階でバグを見つけるのに役立ちます。"
-  },
-  {
-    "word": "Migration",
-    "phonetic": "/maɪˈɡreɪʃn/",
-    "meaning": "移行、マイグレーション",
-    "example": "We are planning a database migration next weekend.",
-    "example_ja": "来週末にデータベースの移行を計画しています。"
-  },
-  {
-    "word": "Sandbox",
-    "phonetic": "/ˈsændbɑːks/",
-    "meaning": "サンドボックス（テスト環境）",
-    "example": "Test the new code in the sandbox before deploying to production.",
-    "example_ja": "本番環境にデプロイする前に、サンドボックスで新しいコードをテストしてください。"
-  },
-  {
-    "word": "Analytics",
-    "phonetic": "/ˌænəˈlɪtɪks/",
-    "meaning": "分析、アナリティクス",
-    "example": "Data analytics provide insights into user behavior.",
-    "example_ja": "データ分析により、ユーザー行動に関する洞察が得られます。"
-  }
+    {
+        "word": "Containerization",
+        "phonetic": "/kənˌteɪnərəˈzeɪʃən/",
+        "meaning": "コンテナ化",
+        "example": "Containerization allows applications to run reliably when moved from one computing environment to another.",
+        "example_ja": "コンテナ化により、アプリケーションは、あるコンピューティング環境から別の環境に移動した際も確実に動作します。"
+    },
+    {
+        "word": "Orchestration",
+        "phonetic": "/ˌɔːrkəˈstreɪʃən/",
+        "meaning": "オーケストレーション",
+        "example": "Kubernetes is a popular tool for container orchestration.",
+        "example_ja": "Kubernetesは、コンテナオーケストレーションのための人気のあるツールです。"
+    },
+    {
+        "word": "Observability",
+        "phonetic": "/əbˌzɜːrvəˈbɪləti/",
+        "meaning": "オブザーバビリティ（可観測性）",
+        "example": "Observability helps engineers understand the internal state of a system by examining its external outputs.",
+        "example_ja": "オブザーバビリティは、エンジニアが外部出力を調べることでシステムの内部状態を理解するのに役立ちます。"
+    },
+    {
+        "word": "Idempotency",
+        "phonetic": "/ˌaɪdəmˈpoʊtənsi/",
+        "meaning": "べき等性",
+        "example": "An idempotent API request can be called multiple times without changing the result beyond the initial application.",
+        "example_ja": "べき等なAPIリクエストは、初回の適用以降、結果を変えることなく複数回呼び出すことができます。"
+    },
+    {
+        "word": "Polyfill",
+        "phonetic": "/ˈpɒlifɪl/",
+        "meaning": "ポリフィル",
+        "example": "We used a polyfill to support modern JavaScript features in older browsers.",
+        "example_ja": "古いブラウザで最新のJavaScript機能をサポートするためにポリフィルを使用しました。"
+    },
+    {
+        "word": "Hydration",
+        "phonetic": "/haɪˈdreɪʃən/",
+        "meaning": "ハイドレーション",
+        "example": "In web development, hydration is the process of attaching event listeners to static HTML.",
+        "example_ja": "ウェブ開発において、ハイドレーションとは静的なHTMLにイベントリスナーを付加するプロセスです。"
+    },
+    {
+        "word": "Tree Shaking",
+        "phonetic": "/triː ˈʃeɪkɪŋ/",
+        "meaning": "ツリーシェイキング",
+        "example": "Tree shaking removes unused code from the final bundle to reduce file size.",
+        "example_ja": "ツリーシェイキングは、ファイルサイズを削減するために最終的なバンドルから未使用のコードを削除します。"
+    },
+    {
+        "word": "Server-Side Rendering",
+        "phonetic": "/ˈsɜːrvər saɪd ˈrendərɪŋ/",
+        "meaning": "サーバーサイドレンダリング (SSR)",
+        "example": "Server-side rendering can improve SEO and the initial load time of a web application.",
+        "example_ja": "サーバーサイドレンダリングは、ウェブアプリケーションのSEOと初期ロード時間を改善できます。"
+    },
+    {
+        "word": "Static Site Generation",
+        "phonetic": "/ˈstætɪk saɪt ˌdʒɛnəˈreɪʃən/",
+        "meaning": "静的サイト生成 (SSG)",
+        "example": "Static Site Generation builds the entire website at build time rather than on request.",
+        "example_ja": "静的サイト生成は、リクエスト時ではなくビルド時にウェブサイト全体を構築します。"
+    },
+    {
+        "word": "Progressive Web App",
+        "phonetic": "/prəˈɡrɛsɪv wɛb æp/",
+        "meaning": "プログレッシブウェブアプリ (PWA)",
+        "example": "A Progressive Web App provides a native app-like experience within a web browser.",
+        "example_ja": "プログレッシブウェブアプリは、ウェブブラウザ内でネイティブアプリのような体験を提供します。"
+    },
+    {
+        "word": "WebAssembly",
+        "phonetic": "/wɛb əˈsɛmbli/",
+        "meaning": "ウェブアセンブリ (Wasm)",
+        "example": "WebAssembly allows high-performance code to run in the browser alongside JavaScript.",
+        "example_ja": "WebAssemblyを使用すると、JavaScriptと並行して高性能なコードをブラウザで実行できます。"
+    },
+    {
+        "word": "Micro-frontend",
+        "phonetic": "/ˈmaɪkroʊ ˈfrʌnt ɛnd/",
+        "meaning": "マイクロフロントエンド",
+        "example": "The team adopted a micro-frontend architecture to scale their large web application.",
+        "example_ja": "チームは、大規模なウェブアプリケーションを拡張するためにマイクロフロントエンドアーキテクチャを採用しました。"
+    },
+    {
+        "word": "Infrastructure as Code",
+        "phonetic": "/ˈɪnfrəstrʌktʃər æz koʊd/",
+        "meaning": "Infrastructure as Code (IaC)",
+        "example": "Terraform is a widely used tool for managing infrastructure as code.",
+        "example_ja": "Terraformは、コードとしてのインフラ管理に広く使用されているツールです。"
+    },
+    {
+        "word": "Continuous Deployment",
+        "phonetic": "/kənˈtɪnjuəs dɪˈplɔɪmənt/",
+        "meaning": "継続的デプロイ (CD)",
+        "example": "Continuous deployment automatically releases every successful build to production.",
+        "example_ja": "継続的デプロイは、成功したすべてのビルドを本番環境に自動的にリリースします。"
+    },
+    {
+        "word": "Blue-Green Deployment",
+        "phonetic": "/bluː ɡriːn dɪˈplɔɪmənt/",
+        "meaning": "ブルーグリーンデプロイメント",
+        "example": "Blue-green deployment reduces downtime by running two identical production environments.",
+        "example_ja": "ブルーグリーンデプロイメントは、2つの同一の本番環境を実行することでダウンタイムを短縮します。"
+    },
+    {
+        "word": "Canary Release",
+        "phonetic": "/kəˈnɛri rɪˈliːs/",
+        "meaning": "カナリアリリース",
+        "example": "A canary release involves rolling out a new feature to a small subset of users first.",
+        "example_ja": "カナリアリリースとは、まず一部のユーザーに新機能を展開することです。"
+    },
+    {
+        "word": "Reverse Proxy",
+        "phonetic": "/rɪˈvɜːrs ˈprɒksi/",
+        "meaning": "リバースプロキシ",
+        "example": "Nginx can function as a reverse proxy to balance traffic and enhance security.",
+        "example_ja": "Nginxは、トラフィックの分散とセキュリティ向上のためにリバースプロキシとして機能します。"
+    },
+    {
+        "word": "Content Delivery Network",
+        "phonetic": "/ˈkɒntɛnt dɪˈlɪvəri ˈnɛtwɜːrk/",
+        "meaning": "コンテンツデリバリネットワーク (CDN)",
+        "example": "A CDN serves static assets from servers located closest to the user.",
+        "example_ja": "CDNは、ユーザーに最も近い場所にあるサーバーから静的アセットを配信します。"
+    },
+    {
+        "word": "Rate Limiting",
+        "phonetic": "/reɪt ˈlɪmɪtɪŋ/",
+        "meaning": "レート制限",
+        "example": "Rate limiting is used to prevent API abuse by restricting the number of requests a user can make.",
+        "example_ja": "レート制限は、ユーザーのリクエスト数を制限することでAPIの乱用を防ぐために使用されます。"
+    },
+    {
+        "word": "Cross-Origin Resource Sharing",
+        "phonetic": "/krɒs ˈɒrɪdʒɪn rɪˈsɔːrs ˈʃɛərɪŋ/",
+        "meaning": "CORS (オリジン間リソース共有)",
+        "example": "CORS is a security feature that controls which domains can access your API.",
+        "example_ja": "CORSは、どのドメインがAPIにアクセスできるかを制御するセキュリティ機能です。"
+    },
+    {
+        "word": "Single Sign-On",
+        "phonetic": "/ˈsɪŋɡəl saɪn ɒn/",
+        "meaning": "シングルサインオン (SSO)",
+        "example": "SSO allows users to log in once and access multiple related applications.",
+        "example_ja": "SSOを使用すると、ユーザーは一度ログインするだけで、関連する複数のアプリケーションにアクセスできます。"
+    },
+    {
+        "word": "JSON Web Token",
+        "phonetic": "/ˈdʒeɪsən wɛb ˈtoʊkən/",
+        "meaning": "JSON Web Token (JWT)",
+        "example": "JWTs are commonly used for securely transmitting information between parties as a JSON object.",
+        "example_ja": "JWTは、情報をJSONオブジェクトとして安全に送信するために一般的に使用されます。"
+    },
+    {
+        "word": "OAuth",
+        "phonetic": "/ˈoʊˌɔːθ/",
+        "meaning": "OAuth",
+        "example": "OAuth is an open standard for access delegation, commonly used for 'Login with Google'.",
+        "example_ja": "OAuthはアクセスの委譲のためのオープン標準であり、一般的に「Googleでログイン」などで使用されます。"
+    },
+    {
+        "word": "Webhook",
+        "phonetic": "/ˈwɛbhʊk/",
+        "meaning": "ウェブフック",
+        "example": "A webhook allows one application to provide real-time information to another when an event occurs.",
+        "example_ja": "ウェブフックを使用すると、イベントが発生した際にあるアプリケーションから別のアプリケーションへリアルタイムに情報を提供できます。"
+    },
+    {
+        "word": "Message Queue",
+        "phonetic": "/ˈmɛsɪdʒ kjuː/",
+        "meaning": "メッセージキュー",
+        "example": "A message queue facilitates asynchronous communication between microservices.",
+        "example_ja": "メッセージキューは、マイクロサービス間の非同期通信を容易にします。"
+    },
+    {
+        "word": "Pub/Sub",
+        "phonetic": "/pʌb sʌb/",
+        "meaning": "パブリッシュ/サブスクライブ",
+        "example": "The Pub/Sub pattern decouples message senders from message receivers.",
+        "example_ja": "Pub/Subパターンは、メッセージの送信者と受信者を切り離します。"
+    },
+    {
+        "word": "NoSQL",
+        "phonetic": "/ˈnoʊ ˌɛs kjuː ˈɛl/",
+        "meaning": "NoSQL",
+        "example": "NoSQL databases are designed for large-scale data storage and flexible schemas.",
+        "example_ja": "NoSQLデータベースは、大規模なデータストレージと柔軟なスキーマのために設計されています。"
+    },
+    {
+        "word": "ACID",
+        "phonetic": "/ˈæsɪd/",
+        "meaning": "ACID特性",
+        "example": "ACID properties ensure that database transactions are processed reliably.",
+        "example_ja": "ACID特性により、データベースのトランザクションが確実に処理されることが保証されます。"
+    },
+    {
+        "word": "Eventual Consistency",
+        "phonetic": "/ɪˈvɛntʃuəl kənˈsɪstənsi/",
+        "meaning": "結果整合性",
+        "example": "Eventual consistency is common in distributed databases where data will eventually be the same across all nodes.",
+        "example_ja": "結果整合性は、最終的にすべてのノードでデータが同一になる分散データベースで一般的です。"
+    },
+    {
+        "word": "Sharding",
+        "phonetic": "/ˈʃɑːrdɪŋ/",
+        "meaning": "シャーディング",
+        "example": "Sharding involves horizontal partitioning of data across multiple database instances.",
+        "example_ja": "シャーディングには、複数のデータベースインスタンスにわたるデータの水平分割が含まれます。"
+    },
+    {
+        "word": "Replication",
+        "phonetic": "/ˌrɛplɪˈkeɪʃən/",
+        "meaning": "レプリケーション",
+        "example": "Database replication improves read performance and provides high availability.",
+        "example_ja": "データベースのレプリケーションは、読み取りパフォーマンスを向上させ、高可用性を提供します。"
+    },
+    {
+        "word": "Natural Language Processing",
+        "phonetic": "/ˈnætʃərəl ˈlæŋɡwɪdʒ ˈproʊsɛsɪŋ/",
+        "meaning": "自然言語処理 (NLP)",
+        "example": "Natural Language Processing enables computers to understand and generate human language.",
+        "example_ja": "自然言語処理により、コンピュータは人間の言語を理解し、生成することができます。"
+    },
+    {
+        "word": "Inference",
+        "phonetic": "/ˈɪnfərəns/",
+        "meaning": "推論",
+        "example": "In AI, inference is the process of using a trained model to make predictions on new data.",
+        "example_ja": "AIにおいて、推論とは学習済みモデルを使用して新しいデータに対して予測を行うプロセスです。"
+    },
+    {
+        "word": "Training Data",
+        "phonetic": "/ˈtreɪnɪŋ ˈdeɪtə/",
+        "meaning": "学習データ",
+        "example": "The quality of the training data directly impacts the performance of a machine learning model.",
+        "example_ja": "学習データの質は、機械学習モデルのパフォーマンスに直接影響します。"
+    },
+    {
+        "word": "Overfitting",
+        "phonetic": "/ˌoʊvərˈfɪtɪŋ/",
+        "meaning": "過学習",
+        "example": "Overfitting occurs when a model learns the training data too well, failing to generalize to new data.",
+        "example_ja": "過学習は、モデルが学習データを学習しすぎてしまい、新しいデータに一般化できなくなることです。"
+    },
+    {
+        "word": "Large Language Model",
+        "phonetic": "/lɑːrdʒ ˈlæŋɡwɪdʒ ˈmɒdl/",
+        "meaning": "大規模言語モデル (LLM)",
+        "example": "GPT-4 is an example of a Large Language Model capable of complex reasoning.",
+        "example_ja": "GPT-4は、複雑な推論が可能な大規模言語モデルの一例です。"
+    },
+    {
+        "word": "Prompt Engineering",
+        "phonetic": "/prɒmpt ˌɛndʒɪˈnɪərɪŋ/",
+        "meaning": "プロンプトエンジニアリング",
+        "example": "Prompt engineering is the craft of designing effective inputs for AI models.",
+        "example_ja": "プロンプトエンジニアリングは、AIモデルに対して効果的な入力を設計する技術です。"
+    },
+    {
+        "word": "Vector Database",
+        "phonetic": "/ˈvɛktər ˈdeɪtəbeɪs/",
+        "meaning": "ベクトルデータベース",
+        "example": "Vector databases are optimized for storing and searching high-dimensional data embeddings.",
+        "example_ja": "ベクトルデータベースは、高次元のデータ埋め込みを保存し、検索するために最適化されています。"
+    },
+    {
+        "word": "Fine-tuning",
+        "phonetic": "/faɪn ˈtuːnɪŋ/",
+        "meaning": "ファインチューニング",
+        "example": "Fine-tuning allows a pre-trained model to be adapted for a specific task or domain.",
+        "example_ja": "ファインチューニングにより、学習済みモデルを特定のタスクやドメインに適応させることができます。"
+    },
+    {
+        "word": "Reinforcement Learning",
+        "phonetic": "/ˌriːɪnˈfɔːrsmənt ˈlɜːrnɪŋ/",
+        "meaning": "強化学習",
+        "example": "Reinforcement learning trains agents to make decisions by rewarding desired behaviors.",
+        "example_ja": "強化学習は、望ましい行動に報酬を与えることで、エージェントが意思決定を行えるよう学習させます。"
+    },
+    {
+        "word": "Supervised Learning",
+        "phonetic": "/ˈsuːpərvaɪzd ˈlɜːrnɪŋ/",
+        "meaning": "教師あり学習",
+        "example": "Supervised learning uses labeled datasets to train algorithms to classify data or predict outcomes.",
+        "example_ja": "教師あり学習は、ラベル付きデータセットを使用して、データを分類したり結果を予測したりするようアルゴリズムを学習させます。"
+    },
+    {
+        "word": "Unsupervised Learning",
+        "phonetic": "/ʌnˈsuːpərvaɪzd ˈlɜːrnɪŋ/",
+        "meaning": "教師なし学習",
+        "example": "Unsupervised learning finds hidden patterns or intrinsic structures in input data without labels.",
+        "example_ja": "教師なし学習は、ラベルのない入力データから隠れたパターンや固有の構造を見つけ出します。"
+    },
+    {
+        "word": "Hyperparameter",
+        "phonetic": "/ˌhaɪpərˈpærəmɪtər/",
+        "meaning": "ハイパーパラメータ",
+        "example": "Learning rate is a crucial hyperparameter that needs to be tuned for optimal training.",
+        "example_ja": "学習率は、最適な学習のために調整が必要な重要なハイパーパラメータです。"
+    },
+    {
+        "word": "API Gateway",
+        "phonetic": "/ˌeɪ piː ˈaɪ ˈɡeɪtweɪ/",
+        "meaning": "APIゲートウェイ",
+        "example": "An API gateway acts as a single entry point for all client requests in a microservices architecture.",
+        "example_ja": "APIゲートウェイは、マイクロサービスアーキテクチャにおいてすべてのクライアントリクエストの単一のエントリポイントとして機能します。"
+    },
+    {
+        "word": "Service Mesh",
+        "phonetic": "/ˈsɜːrvɪs mɛʃ/",
+        "meaning": "サービスメッシュ",
+        "example": "A service mesh manages service-to-service communication within a cluster.",
+        "example_ja": "サービスメッシュは、クラスター内のサービス間通信を管理します。"
+    },
+    {
+        "word": "Cold Start",
+        "phonetic": "/koʊld stɑːrt/",
+        "meaning": "コールドスタート",
+        "example": "Cold start latency occurs when a serverless function is invoked after a period of inactivity.",
+        "example_ja": "コールドスタートの遅延は、サーバーレス関数が一定期間の非アクティブ状態の後に呼び出されたときに発生します。"
+    },
+    {
+        "word": "Hot Reloading",
+        "phonetic": "/hɒt ˌriːˈloʊdɪŋ/",
+        "meaning": "ホットリローディング",
+        "example": "Hot reloading allows developers to see code changes instantly without losing the application state.",
+        "example_ja": "ホットリローディングにより、開発者はアプリケーションの状態を失うことなく、コードの変更を即座に確認できます。"
+    },
+    {
+        "word": "State Management",
+        "phonetic": "/steɪt ˈmænɪdʒmənt/",
+        "meaning": "状態管理",
+        "example": "Libraries like Redux or Vuex are used for complex state management in frontend applications.",
+        "example_ja": "ReduxやVuexなどのライブラリは、フロントエンドアプリケーションにおける複雑な状態管理に使用されます。"
+    },
+    {
+        "word": "Virtual DOM",
+        "phonetic": "/ˈvɜːrtʃuəl dɒm/",
+        "meaning": "仮想DOM",
+        "example": "The Virtual DOM allows React to update the user interface efficiently by minimizing direct DOM manipulation.",
+        "example_ja": "仮想DOMにより、Reactは直接的なDOM操作を最小限に抑えることで、ユーザーインターフェースを効率的に更新できます。"
+    },
+    {
+        "word": "GraphQL",
+        "phonetic": "/ˈɡræf kjuː ɛl/",
+        "meaning": "GraphQL",
+        "example": "GraphQL allows clients to request exactly the data they need, reducing over-fetching.",
+        "example_ja": "GraphQLを使用すると、クライアントは必要なデータだけをリクエストでき、過剰なデータ取得を減らすことができます。"
+    },
+    {
+        "word": "Kubernetes",
+        "phonetic": "/ˌkuːbərˈnɛtiːz/",
+        "meaning": "クバネティス",
+        "example": "Kubernetes automates the deployment, scaling, and management of containerized applications.",
+        "example_ja": "Kubernetesは、コンテナ化されたアプリケーションのデプロイ、スケーリング、管理を自動化します。"
+    },
+    {
+        "word": "Docker",
+        "phonetic": "/ˈdɒkər/",
+        "meaning": "ドッカー",
+        "example": "Docker simplifies the process of creating, deploying, and running applications by using containers.",
+        "example_ja": "Dockerは、コンテナを使用することで、アプリケーションの作成、デプロイ、実行プロセスを簡素化します。"
+    },
+    {
+        "word": "Serverless",
+        "phonetic": "/ˈsɜːrvərləs/",
+        "meaning": "サーバーレス",
+        "example": "Serverless computing allows developers to build and run applications without managing infrastructure.",
+        "example_ja": "サーバーレスコンピューティングにより、開発者はインフラを管理することなくアプリケーションを構築し実行できます。"
+    },
+    {
+        "word": "Lambda",
+        "phonetic": "/ˈlæmdə/",
+        "meaning": "ラムダ (関数)",
+        "example": "AWS Lambda is a serverless compute service that runs your code in response to events.",
+        "example_ja": "AWS Lambdaは、イベントに応答してコードを実行するサーバーレスコンピューティングサービスです。"
+    },
+    {
+        "word": "FaaS",
+        "phonetic": "/fæs/",
+        "meaning": "Function as a Service",
+        "example": "FaaS provides a platform allowing customers to develop, run, and manage application functionalities without the complexity of building and maintaining infrastructure.",
+        "example_ja": "FaaSは、インフラの構築や保守の複雑さを伴わずに、アプリケーションの機能を開発、実行、管理できるプラットフォームを提供します。"
+    },
+    {
+        "word": "Microservices",
+        "phonetic": "/ˌmaɪkroʊˈsɜːrvɪsɪz/",
+        "meaning": "マイクロサービス",
+        "example": "Microservices architecture structures an application as a collection of loosely coupled services.",
+        "example_ja": "マイクロサービスアーキテクチャは、アプリケーションを疎結合なサービスの集合として構成します。"
+    },
+    {
+        "word": "Monolith",
+        "phonetic": "/ˈmɒnəlɪθ/",
+        "meaning": "モノリス",
+        "example": "A monolithic application is built as a single, unified unit.",
+        "example_ja": "モノリシックなアプリケーションは、単一の統合されたユニットとして構築されます。"
+    },
+    {
+        "word": "CI/CD",
+        "phonetic": "/siː aɪ siː diː/",
+        "meaning": "継続的インテグレーション/継続的デリバリー",
+        "example": "CI/CD pipelines automate the software delivery process from code commit to production.",
+        "example_ja": "CI/CDパイプラインは、コードのコミットから本番環境までのソフトウェア配信プロセスを自動化します。"
+    },
+    {
+        "word": "Pipeline",
+        "phonetic": "/ˈpaɪplaɪn/",
+        "meaning": "パイプライン",
+        "example": "The deployment pipeline ensures that every code change goes through a series of automated tests.",
+        "example_ja": "デプロイメントパイプラインは、すべてのコード変更が一連の自動テストを通過することを保証します。"
+    },
+    {
+        "word": "Jenkins",
+        "phonetic": "/ˈdʒɛŋkɪnz/",
+        "meaning": "ジェンキンス",
+        "example": "Jenkins is an open-source automation server used for building, testing, and deploying software.",
+        "example_ja": "Jenkinsは、ソフトウェアのビルド、テスト、デプロイに使用されるオープンソースの自動化サーバーです。"
+    },
+    {
+        "word": "GitOps",
+        "phonetic": "/ˈɡɪtɒps/",
+        "meaning": "ギットオプス",
+        "example": "GitOps uses Git as the single source of truth for infrastructure and application configurations.",
+        "example_ja": "GitOpsは、インフラとアプリケーション構成の単一の真実のソースとしてGitを使用します。"
+    },
+    {
+        "word": "Terraform",
+        "phonetic": "/ˈtɛrəfɔːrm/",
+        "meaning": "テラフォーム",
+        "example": "Terraform allows you to define and provide data center infrastructure using a declarative configuration language.",
+        "example_ja": "Terraformを使用すると、宣言的な構成言語を使用してデータセンターインフラを定義および提供できます。"
+    },
+    {
+        "word": "Ansible",
+        "phonetic": "/ˈænsɪbəl/",
+        "meaning": "アンシブル",
+        "example": "Ansible is an open-source automation tool for configuration management and application deployment.",
+        "example_ja": "Ansibleは、構成管理とアプリケーションデプロイのためのオープンソースの自動化ツールです。"
+    },
+    {
+        "word": "Chef",
+        "phonetic": "/ʃɛf/",
+        "meaning": "シェフ",
+        "example": "Chef is a configuration management tool used to streamline the task of configuring and maintaining servers.",
+        "example_ja": "Chefは、サーバーの構成と保守タスクを効率化するために使用される構成管理ツールです。"
+    },
+    {
+        "word": "Puppet",
+        "phonetic": "/ˈpʌpɪt/",
+        "meaning": "パペット",
+        "example": "Puppet automates the management and configuration of infrastructure throughout its lifecycle.",
+        "example_ja": "Puppetは、ライフサイクル全体を通じてインフラの管理と構成を自動化します。"
+    },
+    {
+        "word": "Grafana",
+        "phonetic": "/ɡrəˈfɑːnə/",
+        "meaning": "グラファナ",
+        "example": "Grafana is used for visualizing time-series data from various sources like Prometheus.",
+        "example_ja": "Grafanaは、Prometheusなどのさまざまなソースからの時系列データを視覚化するために使用されます。"
+    },
+    {
+        "word": "Prometheus",
+        "phonetic": "/prəˈmiːθiəs/",
+        "meaning": "プロメテウス",
+        "example": "Prometheus is an open-source monitoring and alerting toolkit designed for reliability.",
+        "example_ja": "Prometheusは、信頼性のために設計されたオープンソースのモニタリングおよびアラートツールキットです。"
+    },
+    {
+        "word": "ELK Stack",
+        "phonetic": "/ɛl keɪ stæk/",
+        "meaning": "ELKスタック",
+        "example": "The ELK stack (Elasticsearch, Logstash, Kibana) is a powerful set of tools for log analysis.",
+        "example_ja": "ELKスタック（Elasticsearch, Logstash, Kibana）は、ログ分析のための強力なツールセットです。"
+    },
+    {
+        "word": "Logstash",
+        "phonetic": "/ˈlɒɡstæʃ/",
+        "meaning": "ログスタッシュ",
+        "example": "Logstash collects, processes, and forwards logs and events.",
+        "example_ja": "Logstashは、ログやイベントを収集、処理、転送します。"
+    },
+    {
+        "word": "Kibana",
+        "phonetic": "/kɪˈbɑːnə/",
+        "meaning": "キバナ",
+        "example": "Kibana provides a user interface for searching and visualizing data stored in Elasticsearch.",
+        "example_ja": "Kibanaは、Elasticsearchに保存されたデータを検索および視覚化するためのユーザーインターフェースを提供します。"
+    },
+    {
+        "word": "Redis",
+        "phonetic": "/ˈrɛdɪs/",
+        "meaning": "レディス",
+        "example": "Redis is an in-memory data structure store used as a database, cache, and message broker.",
+        "example_ja": "Redisは、データベース、キャッシュ、メッセージブローカーとして使用されるインメモリデータ構造ストアです。"
+    },
+    {
+        "word": "Memcached",
+        "phonetic": "/ˈmɛmkæʃt/",
+        "meaning": "メムキャッシュディー",
+        "example": "Memcached is a general-purpose distributed memory-caching system.",
+        "example_ja": "Memcachedは、汎用の分散メモリキャッシュシステムです。"
+    },
+    {
+        "word": "Kafka",
+        "phonetic": "/ˈkæfkə/",
+        "meaning": "カフカ",
+        "example": "Apache Kafka is a distributed event streaming platform used for high-performance data pipelines.",
+        "example_ja": "Apache Kafkaは、高性能データパイプラインに使用される分散イベントストリーミングプラットフォームです。"
+    },
+    {
+        "word": "RabbitMQ",
+        "phonetic": "/ˈræbɪt ɛm kjuː/",
+        "meaning": "ラビットエムキュー",
+        "example": "RabbitMQ is one of the most popular open-source message brokers.",
+        "example_ja": "RabbitMQは、最も人気のあるオープンソースメッセージブローカーの一つです。"
+    },
+    {
+        "word": "gRPC",
+        "phonetic": "/dʒiː ɑːr piː siː/",
+        "meaning": "gRPC",
+        "example": "gRPC is a high-performance RPC framework developed by Google.",
+        "example_ja": "gRPCは、Googleによって開発された高性能なRPCフレームワークです。"
+    },
+    {
+        "word": "REST",
+        "phonetic": "/rɛst/",
+        "meaning": "レスト (表現状態移譲)",
+        "example": "RESTful APIs use HTTP methods to perform operations on resources.",
+        "example_ja": "RESTful APIは、リソースに対して操作を行うためにHTTPメソッドを使用します。"
+    },
+    {
+        "word": "SOAP",
+        "phonetic": "/soʊp/",
+        "meaning": "ソープ",
+        "example": "SOAP is a messaging protocol specification for exchanging structured information in the implementation of web services.",
+        "example_ja": "SOAPは、ウェブサービスの実装において構造化された情報を交換するためのメッセージングプロトコル仕様です。"
+    },
+    {
+        "word": "XML",
+        "phonetic": "/ˌɛks ɛm ˈɛl/",
+        "meaning": "XML (拡張可能なマークアップ言語)",
+        "example": "XML is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+        "example_ja": "XMLは、人間にも機械にも読みやすい形式でドキュメントをエンコードするためのルールセットを定義するマークアップ言語です。"
+    },
+    {
+        "word": "JSON",
+        "phonetic": "/ˈdʒeɪsən/",
+        "meaning": "JSON (ジェイソン)",
+        "example": "JSON is a lightweight data-interchange format that is easy for humans to read and write.",
+        "example_ja": "JSONは、人間にとって読み書きが容易な軽量のデータ交換形式です。"
+    },
+    {
+        "word": "YAML",
+        "phonetic": "/ˈjæməl/",
+        "meaning": "ヤメル",
+        "example": "YAML is commonly used for configuration files and in applications where data is being stored or transmitted.",
+        "example_ja": "YAMLは一般的に、構成ファイルやデータが保存または送信されるアプリケーションで使用されます。"
+    },
+    {
+        "word": "TOML",
+        "phonetic": "/ˈtɒməl/",
+        "meaning": "トムル",
+        "example": "TOML is a configuration file format that's easy to read due to its obvious semantics.",
+        "example_ja": "TOMLは、明白な意味論により読みやすい構成ファイル形式です。"
+    },
+    {
+        "word": "Markdown",
+        "phonetic": "/ˈmɑːrkdaʊn/",
+        "meaning": "マークダウン",
+        "example": "Markdown is a lightweight markup language with plain-text formatting syntax.",
+        "example_ja": "マークダウンは、プレーンテキスト形式の構文を持つ軽量マークアップ言語です。"
+    },
+    {
+        "word": "SQL",
+        "phonetic": "/ˌɛs kjuː ˈɛl/",
+        "meaning": "SQL (シーケル)",
+        "example": "SQL is a standard language for accessing and manipulating databases.",
+        "example_ja": "SQLは、データベースへのアクセスや操作のための標準言語です。"
+    },
+    {
+        "word": "PostgreSQL",
+        "phonetic": "/ˈpoʊstɡrɛs ˌɛs kjuː ˈɛl/",
+        "meaning": "ポストグレスキューエル",
+        "example": "PostgreSQL is a powerful, open-source object-relational database system.",
+        "example_ja": "PostgreSQLは、強力なオープンソースのオブジェクトリレーショナルデータベースシステムです。"
+    },
+    {
+        "word": "MySQL",
+        "phonetic": "/maɪ ˌɛs kjuː ˈɛl/",
+        "meaning": "マイエスキューエル",
+        "example": "MySQL is the world's most popular open-source database.",
+        "example_ja": "MySQLは、世界で最も人気のあるオープンソースデータベースです。"
+    },
+    {
+        "word": "MongoDB",
+        "phonetic": "/ˈmɒŋɡoʊ diː biː/",
+        "meaning": "モンゴディービー",
+        "example": "MongoDB is a source-available cross-platform document-oriented database program.",
+        "example_ja": "MongoDBは、ドキュメント指向のクロスプラットフォームなデータベースプログラムです。"
+    },
+    {
+        "word": "Cassandra",
+        "phonetic": "/kəˈsændrə/",
+        "meaning": "カサンドラ",
+        "example": "Apache Cassandra is a free and open-source, distributed, wide-column store, NoSQL database management system.",
+        "example_ja": "Apache Cassandraは、無料かつオープンソースの分散型ワイドカラムストアNoSQLデータベース管理システムです。"
+    },
+    {
+        "word": "DynamoDB",
+        "phonetic": "/ˈdaɪnəmoʊ diː biː/",
+        "meaning": "ダイナモディービー",
+        "example": "Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.",
+        "example_ja": "Amazon DynamoDBは、シームレスなスケーラビリティを備え、高速で予測可能なパフォーマンスを提供するフルマネージドNoSQLデータベースサービスです。"
+    },
+    {
+        "word": "Neo4j",
+        "phonetic": "/ˌniːoʊ fɔːr dʒeɪ/",
+        "meaning": "ネオフォージェイ",
+        "example": "Neo4j is a graph database management system developed by Neo4j, Inc.",
+        "example_ja": "Neo4jは、Neo4j社によって開発されたグラフデータベース管理システムです。"
+    },
+    {
+        "word": "Snowflake",
+        "phonetic": "/ˈsnoʊfleɪk/",
+        "meaning": "スノーフレイク",
+        "example": "Snowflake is a cloud-based data-warehousing company.",
+        "example_ja": "Snowflakeは、クラウドベースのデータウェアハウス企業（およびその製品）です。"
+    },
+    {
+        "word": "Data Warehouse",
+        "phonetic": "/ˈdeɪtə ˈwɛərhaʊs/",
+        "meaning": "データウェアハウス",
+        "example": "A data warehouse is a central repository of integrated data from one or more disparate sources.",
+        "example_ja": "データウェアハウスは、1つ以上の異なるソースから統合されたデータの中心的なリポジトリです。"
+    },
+    {
+        "word": "Data Lake",
+        "phonetic": "/ˈdeɪtə leɪk/",
+        "meaning": "データレイク",
+        "example": "A data lake is a centralized repository that allows you to store all your structured and unstructured data at any scale.",
+        "example_ja": "データレイクは、あらゆる規模の構造化および非構造化データをすべて保存できる中央リポジトリです。"
+    },
+    {
+        "word": "ETL",
+        "phonetic": "/iː tiː ɛl/",
+        "meaning": "抽出・変換・格納 (ETL)",
+        "example": "ETL is a type of data integration that involves three steps (extract, transform, load).",
+        "example_ja": "ETLは、3つのステップ（抽出、変換、格納）を含むデータ統合の一種です。"
+    },
+    {
+        "word": "Batch Processing",
+        "phonetic": "/bætʃ ˈproʊsɛsɪŋ/",
+        "meaning": "バッチ処理",
+        "example": "Batch processing is the execution of a series of jobs in a program without manual intervention.",
+        "example_ja": "バッチ処理は、手動の介入なしにプログラム内の一連のジョブを実行することです。"
+    },
+    {
+        "word": "Stream Processing",
+        "phonetic": "/striːm ˈproʊsɛsɪŋ/",
+        "meaning": "ストリーム処理",
+        "example": "Stream processing is a computer programming paradigm that equivalent to dataflow programming.",
+        "example_ja": "ストリーム処理は、データフロープログラミングに相当するコンピュータプログラミングパラダイムです。"
+    },
+    {
+        "word": "Apache Spark",
+        "phonetic": "/əˈpætʃi spɑːrk/",
+        "meaning": "アパッチスパーク",
+        "example": "Apache Spark is an open-source unified analytics engine for large-scale data processing.",
+        "example_ja": "Apache Sparkは、大規模データ処理のためのオープンソースの統合分析エンジンです。"
+    },
+    {
+        "word": "Hadoop",
+        "phonetic": "/həˈduːp/",
+        "meaning": "ハドゥープ",
+        "example": "Apache Hadoop is a collection of open-source software utilities that facilitates using a network of many computers to solve problems involving massive amounts of data and computation.",
+        "example_ja": "Apache Hadoopは、大量のデータと計算を含む問題を解決するために多くのコンピュータのネットワークを利用することを容易にするオープンソースソフトウェアユーティリティの集合です。"
+    },
+    {
+        "word": "MapReduce",
+        "phonetic": "/ˈmæp rɪˈdjuːs/",
+        "meaning": "マップリデュース",
+        "example": "MapReduce is a programming model and an associated implementation for processing and generating big data sets with a parallel, distributed algorithm on a cluster.",
+        "example_ja": "MapReduceは、クラスター上の並列分散アルゴリズムを使用して大規模なデータセットを処理および生成するためのプログラミングモデルと関連実装です。"
+    },
+    {
+        "word": "Edge Computing",
+        "phonetic": "/ɛdʒ kəmˈpjuːtɪŋ/",
+        "meaning": "エッジコンピューティング",
+        "example": "Edge computing is a distributed computing paradigm that brings computation and data storage closer to the sources of data.",
+        "example_ja": "エッジコンピューティングは、計算とデータストレージをデータの発生源に近づける分散コンピューティングパラダイムです。"
+    },
+    {
+        "word": "Fog Computing",
+        "phonetic": "/fɒɡ kəmˈpjuːtɪŋ/",
+        "meaning": "フォグコンピューティング",
+        "example": "Fog computing is an architecture that uses edge devices to carry out a substantial amount of computation, storage, and communication locally.",
+        "example_ja": "フォグコンピューティングは、エッジデバイスを使用して、かなりの量の計算、ストレージ、および通信をローカルで実行するアーキテクチャです。"
+    },
+    {
+        "word": "Blockchain",
+        "phonetic": "/ˈblɒktʃeɪn/",
+        "meaning": "ブロックチェーン",
+        "example": "A blockchain is a growing list of records, called blocks, that are linked together using cryptography.",
+        "example_ja": "ブロックチェーンは、暗号技術を使用して互いにリンクされた「ブロック」と呼ばれる記録の成長し続けるリストです。"
+    },
+    {
+        "word": "Smart Contract",
+        "phonetic": "/smɑːrt ˈkɒntrækt/",
+        "meaning": "スマートコントラクト",
+        "example": "A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions.",
+        "example_ja": "スマートコントラクトは、法的関連イベントやアクションを自動的に実行、制御、または記録することを目的としたコンピュータプログラムまたはトランザクションプロトコルです。"
+    },
+    {
+        "word": "Ethereum",
+        "phonetic": "/ɪˈθɪəriəm/",
+        "meaning": "イーサリアム",
+        "example": "Ethereum is a decentralized, open-source blockchain with smart contract functionality.",
+        "example_ja": "イーサリアムは、スマートコントラクト機能を備えた分散型のオープンソースブロックチェーンです。"
+    },
+    {
+        "word": "DeFi",
+        "phonetic": "/diː faɪ/",
+        "meaning": "分散型金融",
+        "example": "Decentralized finance (DeFi) offers financial instruments without relying on intermediaries such as brokerages, exchanges, or banks.",
+        "example_ja": "分散型金融 (DeFi) は、証券会社、取引所、銀行などの仲介者に頼ることなく金融商品を提供します。"
+    },
+    {
+        "word": "NFT",
+        "phonetic": "/ɛn ɛf tiː/",
+        "meaning": "非代替性トークン",
+        "example": "A non-fungible token (NFT) is a unique and non-interchangeable unit of data stored on a digital ledger.",
+        "example_ja": "非代替性トークン (NFT) は、デジタル台帳に保存されたユニークで交換不可能なデータの単位です。"
+    },
+    {
+        "word": "IPFS",
+        "phonetic": "/aɪ piː ɛf ɛs/",
+        "meaning": "IPFS (インタープラネタリー・ファイル・システム)",
+        "example": "IPFS is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.",
+        "example_ja": "IPFSは、分散ファイルシステムにデータを保存し共有するためのプロトコルおよびP2Pネットワークです。"
+    },
+    {
+        "word": "Zero Knowledge Proof",
+        "phonetic": "/ˈzɪəroʊ ˈnɒlɪdʒ pruːf/",
+        "meaning": "ゼロ知識証明",
+        "example": "A zero-knowledge proof is a method by which one party can prove to another party that a given statement is true, without conveying any information apart from the fact that the statement is indeed true.",
+        "example_ja": "ゼロ知識証明は、ある当事者が別の当事者に対して、その記述が真実であること以外の情報を伝えることなく、特定の記述が真実であることを証明できる手法です。"
+    },
+    {
+        "word": "Consensus Algorithm",
+        "phonetic": "/kənˈsɛnsəs ˈælɡərɪðəm/",
+        "meaning": "合意形成アルゴリズム",
+        "example": "Consensus algorithms are used in blockchain to achieve agreement on a single data value among distributed processes or systems.",
+        "example_ja": "合意形成アルゴリズムは、分散されたプロセスやシステム間で単一のデータ値に関する合意に達するためにブロックチェーンで使用されます。"
+    },
+    {
+        "word": "Proof of Work",
+        "phonetic": "/pruːf əv wɜːrk/",
+        "meaning": "プルーフ・オブ・ワーク (PoW)",
+        "example": "Proof of work is a form of cryptographic zero-knowledge proof in which one party proves to others that a certain amount of computational effort has been expended for some purpose.",
+        "example_ja": "プルーフ・オブ・ワークは、ある当事者が特定の目的のために一定量の計算努力を費やしたことを他者に証明する暗号学的ゼロ知識証明の一形式です。"
+    },
+    {
+        "word": "Proof of Stake",
+        "phonetic": "/pruːf əv steɪk/",
+        "meaning": "プルーフ・オブ・ステーク (PoS)",
+        "example": "Proof of stake is a type of consensus mechanism by which a cryptocurrency blockchain network achieves distributed consensus.",
+        "example_ja": "プルーフ・オブ・ステークは、暗号通貨のブロックチェーンネットワークが分散合意を達成するための合意形成メカニズムの一種です。"
+    },
+    {
+        "word": "Cyberattack",
+        "phonetic": "/ˈsaɪbərətæk/",
+        "meaning": "サイバー攻撃",
+        "example": "A cyberattack is any offensive maneuver that targets computer information systems, infrastructures, computer networks, or personal computer devices.",
+        "example_ja": "サイバー攻撃は、コンピュータ情報システム、インフラ、ネットワーク、または個人のコンピュータデバイスを標的とするあらゆる攻撃的な機動です。"
+    },
+    {
+        "word": "Malware",
+        "phonetic": "/ˈmælwɛər/",
+        "meaning": "マルウェア",
+        "example": "Malware is any software intentionally designed to cause damage to a computer, server, client, or computer network.",
+        "example_ja": "マルウェアは、コンピュータ、サーバー、クライアント、またはコンピュータネットワークに意図的に損傷を与えるよう設計されたソフトウェアです。"
+    },
+    {
+        "word": "Ransomware",
+        "phonetic": "/ˈrænsəmwɛər/",
+        "meaning": "ランサムウェア",
+        "example": "Ransomware is a type of malware that threatens to publish the victim's data or perpetually block access to it unless a ransom is paid.",
+        "example_ja": "ランサムウェアは、身代金が支払われない限り、被害者のデータを公開するかアクセスを永久にブロックすると脅すマルウェアの一種です。"
+    },
+    {
+        "word": "Phishing",
+        "phonetic": "/ˈfɪʃɪŋ/",
+        "meaning": "フィッシング",
+        "example": "Phishing is a type of social engineering where an attacker sends a fraudulent message designed to trick a human victim into revealing sensitive information.",
+        "example_ja": "フィッシングは、攻撃者が機密情報を漏らすよう人間を騙すために不正なメッセージを送信するソーシャルエンジニアリングの一種です。"
+    },
+    {
+        "word": "Social Engineering",
+        "phonetic": "/ˈsoʊʃəl ˌɛndʒɪˈnɪərɪŋ/",
+        "meaning": "ソーシャルエンジニアリング",
+        "example": "Social engineering is the psychological manipulation of people into performing actions or divulging confidential information.",
+        "example_ja": "ソーシャルエンジニアリングは、人々を心理的に操作して特定の行動をとらせたり機密情報を漏らさせたりすることです。"
+    },
+    {
+        "word": "DDoS",
+        "phonetic": "/diː dɒs/",
+        "meaning": "分散型サービス拒否攻撃 (DDoS)",
+        "example": "A DDoS attack occurs when multiple systems flood the bandwidth or resources of a targeted system.",
+        "example_ja": "DDoS攻撃は、複数のシステムが標的とするシステムの帯域幅やリソースを氾濫させたときに発生します。"
+    },
+    {
+        "word": "Firewall",
+        "phonetic": "/ˈfaɪərwɔːl/",
+        "meaning": "ファイアウォール",
+        "example": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.",
+        "example_ja": "ファイアウォールは、あらかじめ定められたセキュリティルールに基づいて、送受信されるネットワークトラフィックを監視および制御するネットワークセキュリティシステムです。"
+    },
+    {
+        "word": "IDS",
+        "phonetic": "/aɪ diː ɛs/",
+        "meaning": "侵入検知システム (IDS)",
+        "example": "An intrusion detection system (IDS) is a device or software application that monitors a network or systems for malicious activity or policy violations.",
+        "example_ja": "侵入検知システム (IDS) は、ネットワークやシステムを監視して悪意のある活動やポリシー違反を検知するデバイスまたはソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "Zero Trust",
+        "phonetic": "/ˈzɪəroʊ trʌst/",
+        "meaning": "ゼロトラスト",
+        "example": "Zero trust is a security framework requiring all users to be authenticated, authorized, and continuously validated before being granted access to applications and data.",
+        "example_ja": "ゼロトラストは、アプリケーションやデータへのアクセスが許可される前に、すべてのユーザーが認証、承認され、継続的に検証されることを要求するセキュリティフレームワークです。"
+    },
+    {
+        "word": "Encryption",
+        "phonetic": "/ɪnˈkrɪpʃən/",
+        "meaning": "暗号化",
+        "example": "Encryption is the process of converting information or data into a code, especially to prevent unauthorized access.",
+        "example_ja": "暗号化は、特に不正アクセスを防ぐために、情報やデータをコードに変換するプロセスです。"
+    },
+    {
+        "word": "Symmetric Key",
+        "phonetic": "/sɪˈmɛtrɪk kiː/",
+        "meaning": "共通鍵 (対称鍵)",
+        "example": "Symmetric-key algorithms are algorithms for cryptography that use the same cryptographic keys for both encryption of plaintext and decryption of ciphertext.",
+        "example_ja": "共通鍵アルゴリズムは、平文の暗号化と暗号文の復号の両方に同じ暗号鍵を使用する暗号アルゴリズムです。"
+    },
+    {
+        "word": "Asymmetric Key",
+        "phonetic": "/ˌeɪsɪˈmɛtrɪk kiː/",
+        "meaning": "公開鍵 (非対称鍵)",
+        "example": "Asymmetric cryptography, or public-key cryptography, is a cryptographic system that uses pairs of keys.",
+        "example_ja": "非対称暗号（公開鍵暗号）は、鍵のペアを使用する暗号システムです。"
+    },
+    {
+        "word": "Hashing",
+        "phonetic": "/ˈhæʃɪŋ/",
+        "meaning": "ハッシュ化",
+        "example": "Hashing is the process of transforming any given key or a string of characters into another value.",
+        "example_ja": "ハッシュ化は、任意の鍵や文字列を別の値に変換するプロセスです。"
+    },
+    {
+        "word": "Salt",
+        "phonetic": "/sɔːlt/",
+        "meaning": "ソルト",
+        "example": "In cryptography, a salt is random data that is used as an additional input to a one-way function that hashes data, a password or passphrase.",
+        "example_ja": "暗号学において、ソルトはデータ、パスワード、またはパスフレーズをハッシュ化する一方向関数への追加入力として使用されるランダムなデータです。"
+    },
+    {
+        "word": "Pentesting",
+        "phonetic": "/ˈpɛnˌtɛstɪŋ/",
+        "meaning": "ペネトレーションテスト (侵入テスト)",
+        "example": "Pentesting is the practice of testing a computer system, network or web application to find security vulnerabilities that an attacker could exploit.",
+        "example_ja": "ペネトレーションテストは、攻撃者が悪用できる可能性のあるセキュリティの脆弱性を見つけるために、コンピュータシステム、ネットワーク、またはウェブアプリケーションをテストする手法です。"
+    },
+    {
+        "word": "Vulnerability",
+        "phonetic": "/ˌvʌlnərəˈbɪləti/",
+        "meaning": "脆弱性",
+        "example": "A vulnerability is a weakness which can be exploited by a cyberattack to gain unauthorized access to or perform unauthorized actions on a computer system.",
+        "example_ja": "脆弱性とは、サイバー攻撃によって不正アクセスを取得したり、コンピュータシステム上で不正な操作を実行したりするために悪用される可能性のある弱点のことです。"
+    },
+    {
+        "word": "Buffer Overflow",
+        "phonetic": "/ˈbʌfər ˌoʊvərˈfloʊ/",
+        "meaning": "バッファオーバーフロー",
+        "example": "A buffer overflow occurs when more data is written to a buffer than it can hold.",
+        "example_ja": "バッファオーバーフローは、バッファが保持できる量以上のデータが書き込まれたときに発生します。"
+    },
+    {
+        "word": "SQL Injection",
+        "phonetic": "/ˌɛs kjuː ˈɛl ɪnˈdʒɛkʃən/",
+        "meaning": "SQLインジェクション",
+        "example": "SQL injection is a code injection technique, used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution.",
+        "example_ja": "SQLインジェクションは、データ駆動型のアプリケーションを攻撃するために使用されるコードインジェクション手法で、実行のために悪意のあるSQL文を入力フィールドに挿入します。"
+    },
+    {
+        "word": "XSS",
+        "phonetic": "/krɒs saɪt ˈskrɪptɪŋ/",
+        "meaning": "クロスサイトスクリプティング (XSS)",
+        "example": "Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications.",
+        "example_ja": "クロスサイトスクリプティング (XSS) は、通常ウェブアプリケーションで見られるセキュリティ脆弱性の一種です。"
+    },
+    {
+        "word": "CSRF",
+        "phonetic": "/krɒs saɪt rɪˈkwɛst ˈfɔːrdʒəri/",
+        "meaning": "クロスサイトリクエストフォージェリ (CSRF)",
+        "example": "Cross-site request forgery (CSRF) is a type of malicious exploit of a website where unauthorized commands are submitted from a user that the web application trusts.",
+        "example_ja": "クロスサイトリクエストフォージェリ (CSRF) は、ウェブアプリケーションが信頼しているユーザーから不正なコマンドが送信されるウェブサイトの悪用手法の一種です。"
+    },
+    {
+        "word": "Penetration Testing",
+        "phonetic": "/ˌpɛnɪˈtreɪʃən ˈtɛstɪŋ/",
+        "meaning": "ペネトレーションテスト",
+        "example": "Penetration testing is the practice of testing a computer system, network or web application to find security vulnerabilities.",
+        "example_ja": "ペネトレーションテストは、セキュリティ脆弱性を見つけるためにコンピュータシステム、ネットワーク、またはウェブアプリケーションをテストする手法です。"
+    },
+    {
+        "word": "Biometrics",
+        "phonetic": "/ˌbaɪoʊˈmɛtrɪks/",
+        "meaning": "バイオメトリクス (生体認証)",
+        "example": "Biometrics are body measurements and calculations related to human characteristics.",
+        "example_ja": "バイオメトリクスは、人間の特性に関連する身体の測定と計算です。"
+    },
+    {
+        "word": "MFA",
+        "phonetic": "/mʌlti fæk tər ɔː θɛn tɪ keɪ ʃən/",
+        "meaning": "多要素認証 (MFA)",
+        "example": "Multi-factor authentication (MFA) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence.",
+        "example_ja": "多要素認証 (MFA) は、2つ以上の証拠を提示することに成功した後にのみ、ユーザーにウェブサイトやアプリケーションへのアクセスが許可される電子認証方法です。"
+    },
+    {
+        "word": "VPN",
+        "phonetic": "/ˌviː piː ˈɛn/",
+        "meaning": "仮想プライベートネットワーク (VPN)",
+        "example": "A virtual private network (VPN) extends a private network across a public network.",
+        "example_ja": "仮想プライベートネットワーク (VPN) は、パブリックネットワークを介してプライベートネットワークを拡張します。"
+    },
+    {
+        "word": "Proxy",
+        "phonetic": "/ˈprɒksi/",
+        "meaning": "プロキシ",
+        "example": "In computer networking, a proxy server is a server application or appliance that acts as an intermediary for requests from clients seeking resources from other servers.",
+        "example_ja": "コンピュータネットワークにおいて、プロキシサーバーは、他のサーバーからリソースを求めるクライアントからのリクエストの仲介役として機能するサーバーアプリケーションまたはアプライアンスです。"
+    },
+    {
+        "word": "Tunneling",
+        "phonetic": "/ˈtʌnəlɪŋ/",
+        "meaning": "トンネリング",
+        "example": "Tunneling is a protocol that allows for the secure movement of data from one network to another.",
+        "example_ja": "トンネリングは、あるネットワークから別のネットワークへデータを安全に移動させるためのプロトコルです。"
+    },
+    {
+        "word": "TLS/SSL",
+        "phonetic": "/tiː ɛl ɛs ɛs ɛs ɛl/",
+        "meaning": "TLS/SSL (トランスポート・レイヤー・セキュリティ)",
+        "example": "TLS is a cryptographic protocol designed to provide communications security over a computer network.",
+        "example_ja": "TLSは、コンピュータネットワーク上での通信セキュリティを提供するために設計された暗号プロトコルです。"
+    },
+    {
+        "word": "Certificate Authority",
+        "phonetic": "/sərˈtɪfɪkət ɔːˈθɒrɪti/",
+        "meaning": "認証局 (CA)",
+        "example": "A certificate authority (CA) is an entity that issues digital certificates.",
+        "example_ja": "認証局 (CA) は、デジタル証明書を発行する実体です。"
+    },
+    {
+        "word": "PKI",
+        "phonetic": "/piː keɪ aɪ/",
+        "meaning": "公開鍵基盤 (PKI)",
+        "example": "Public Key Infrastructure (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption.",
+        "example_ja": "公開鍵基盤 (PKI) は、デジタル証明書を作成、管理、配布、使用、保存、失効させ、公開鍵暗号を管理するために必要な役割、ポリシー、ハードウェア、ソフトウェア、および手順のセットです。"
+    },
+    {
+        "word": "E2EE",
+        "phonetic": "/ɛnd tu ɛnd ɛnˈkrɪpʃən/",
+        "meaning": "エンドツーエンド暗号化 (E2EE)",
+        "example": "End-to-end encryption (E2EE) is a system of communication where only the communicating users can read the messages.",
+        "example_ja": "エンドツーエンド暗号化 (E2EE) は、通信しているユーザーだけがメッセージを読むことができる通信システムです。"
+    },
+    {
+        "word": "Digital Signature",
+        "phonetic": "/ˈdɪdʒɪtəl ˈsɪɡnətʃər/",
+        "meaning": "デジタル署名",
+        "example": "A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents.",
+        "example_ja": "デジタル署名は、デジタルメッセージやドキュメントの真正性を検証するための数学的スキームです。"
+    },
+    {
+        "word": "OAuth 2.0",
+        "phonetic": "/ˈoʊˌɔːθ tuː point ˈzɪəroʊ/",
+        "meaning": "OAuth 2.0",
+        "example": "OAuth 2.0 is the industry-standard protocol for authorization.",
+        "example_ja": "OAuth 2.0は、認可のための業界標準プロトコルです。"
+    },
+    {
+        "word": "OpenID Connect",
+        "phonetic": "/ˈoʊpən aɪ diː kəˈnɛkt/",
+        "meaning": "OpenID Connect (OIDC)",
+        "example": "OpenID Connect is an identity layer on top of the OAuth 2.0 protocol.",
+        "example_ja": "OpenID Connectは、OAuth 2.0プロトコルの上にあるアイデンティティレイヤーです。"
+    },
+    {
+        "word": "SAML",
+        "phonetic": "/ˈsæməl/",
+        "meaning": "SAML (Security Assertion Markup Language)",
+        "example": "SAML is an open standard for exchanging authentication and authorization data between parties.",
+        "example_ja": "SAMLは、当事者間で認証および認可データを交換するためのオープン標準です。"
+    },
+    {
+        "word": "RBAC",
+        "phonetic": "/ˈɑːr bæk/",
+        "meaning": "ロールベースアクセス制御 (RBAC)",
+        "example": "Role-based access control (RBAC) is an approach to restricting system access to authorized users.",
+        "example_ja": "ロールベースアクセス制御 (RBAC) は、許可されたユーザーにシステムアクセスを制限するアプローチです。"
+    },
+    {
+        "word": "ABAC",
+        "phonetic": "/ˈeɪ bæk/",
+        "meaning": "属性ベースアクセス制御 (ABAC)",
+        "example": "Attribute-based access control (ABAC) defines an access control paradigm whereby access rights are granted to users through the use of policies which combine attributes together.",
+        "example_ja": "属性ベースアクセス制御 (ABAC) は、属性を組み合わせたポリシーを使用してユーザーにアクセス権を付与するアクセス制御パラダイムです。"
+    },
+    {
+        "word": "Principle of Least Privilege",
+        "phonetic": "/ˈprɪnsəpəl əv liːst ˈprɪvɪlɪdʒ/",
+        "meaning": "最小権限の原則",
+        "example": "The principle of least privilege requires that in a particular abstraction layer of a computing environment, every module must be able to access only the information and resources that are necessary for its legitimate purpose.",
+        "example_ja": "最小権限の原則は、コンピューティング環境の特定の抽象化レイヤーにおいて、すべてのモジュールが正当な目的のために必要な情報とリソースにのみアクセスできるようにすることを要求します。"
+    },
+    {
+        "word": "Sandbox",
+        "phonetic": "/ˈsændbɒks/",
+        "meaning": "サンドボックス",
+        "example": "In computer security, a sandbox is a security mechanism for separating running programs, usually in an effort to mitigate system failures or software vulnerabilities from spreading.",
+        "example_ja": "コンピュータセキュリティにおいて、サンドボックスは実行中のプログラムを分離するためのセキュリティメカニズムであり、通常はシステム障害やソフトウェアの脆弱性の拡散を軽減するために使用されます。"
+    },
+    {
+        "word": "Bastion Host",
+        "phonetic": "/ˈbæstiən hoʊst/",
+        "meaning": "踏み台サーバー (バスチオンホスト)",
+        "example": "A bastion host is a special-purpose computer on a network specifically designed and configured to withstand attacks.",
+        "example_ja": "バスチオンホストは、攻撃に耐えるように特別に設計および構成されたネットワーク上の専用コンピュータです。"
+    },
+    {
+        "word": "Honeypot",
+        "phonetic": "/ˈhʌnipɒt/",
+        "meaning": "ハニーポット",
+        "example": "A honeypot is a computer security mechanism set to detect, deflect, or, in some manner, counteract attempts at unauthorized use of information systems.",
+        "example_ja": "ハニーポットは、情報システムの不正使用の試みを検知、偏向、または何らかの方法で対抗するために設置されたコンピュータセキュリティメカニズムです。"
+    },
+    {
+        "word": "Neural Network",
+        "phonetic": "/ˈnjʊərəl ˈnɛtwɜːrk/",
+        "meaning": "ニューラルネットワーク",
+        "example": "An artificial neural network is a computational model based on the structure and functions of biological neural networks.",
+        "example_ja": "人工ニューラルネットワークは、生物学的なニューラルネットワークの構造と機能に基づいた計算モデルです。"
+    },
+    {
+        "word": "Deep Learning",
+        "phonetic": "/diːp ˈlɜːrnɪŋ/",
+        "meaning": "ディープラーニング (深層学習)",
+        "example": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning.",
+        "example_ja": "ディープラーニングは、表現学習を伴う人工ニューラルネットワークに基づいた機械学習手法のより広範なファミリーの一部です。"
+    },
+    {
+        "word": "Computer Vision",
+        "phonetic": "/kəmˈpjuːtər ˈvɪʒən/",
+        "meaning": "コンピュータビジョン",
+        "example": "Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos.",
+        "example_ja": "コンピュータビジョンは、コンピュータがデジタル画像や動画からどのように高レベルの理解を得ることができるかを扱う学際的な科学分野です。"
+    },
+    {
+        "word": "CNN",
+        "phonetic": "/ˌkɒnvəˈluːʃənəl ˈnjʊərəl ˈnɛtwɜːrk/",
+        "meaning": "畳み込みニューラルネットワーク (CNN)",
+        "example": "Convolutional neural networks are most commonly applied to analyzing visual imagery.",
+        "example_ja": "畳み込みニューラルネットワークは、視覚的な画像の分析に最も一般的に適用されます。"
+    },
+    {
+        "word": "RNN",
+        "phonetic": "/rɪˈkɜːrənt ˈnjʊərəl ˈnɛtwɜːrk/",
+        "meaning": "回帰型ニューラルネットワーク (RNN)",
+        "example": "Recurrent neural networks are a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence.",
+        "example_ja": "回帰型ニューラルネットワークは、ノード間の接続が時間的なシーケンスに沿って有向グラフを形成する人工ニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Transformer",
+        "phonetic": "/trænsˈfɔːrmər/",
+        "meaning": "トランスフォーマー (AIモデル)",
+        "example": "A transformer is a deep learning model that adopts the mechanism of self-attention.",
+        "example_ja": "トランスフォーマーは、自己注意（セルフアテンション）のメカニズムを採用したディープラーニングモデルです。"
+    },
+    {
+        "word": "Attention Mechanism",
+        "phonetic": "/əˈtɛnʃən ˈmɛkənɪzəm/",
+        "meaning": "注意機構 (アテンション)",
+        "example": "The attention mechanism is a technique that mimics cognitive attention.",
+        "example_ja": "注意機構は、認知的な注意を模倣する技術です。"
+    },
+    {
+        "word": "GAN",
+        "phonetic": "/ˌdʒɛnəˈreɪtɪv ædvərˈsɛəriəl ˈnɛtwɜːrk/",
+        "meaning": "敵対的生成ネットワーク (GAN)",
+        "example": "Generative adversarial networks are a class of machine learning frameworks designed by Ian Goodfellow and his colleagues in 2014.",
+        "example_ja": "敵対的生成ネットワークは、2014年にイアン・グッドフェローらによって設計された機械学習フレームワークの一種です。"
+    },
+    {
+        "word": "Autoencoder",
+        "phonetic": "/ˌɔːtoʊɛnˈkoʊdər/",
+        "meaning": "オートエンコーダ",
+        "example": "An autoencoder is a type of artificial neural network used to learn efficient codings of unlabeled data.",
+        "example_ja": "オートエンコーダは、ラベルのないデータの効率的なコーディングを学習するために使用される人工ニューラルネットワークの一種です。"
+    },
+    {
+        "word": "Dimensionality Reduction",
+        "phonetic": "/daɪˌmɛnʃəˈnæləti rɪˈdʌkʃən/",
+        "meaning": "次元削減",
+        "example": "Dimensionality reduction is the transformation of data from a high-dimensional space into a low-dimensional space.",
+        "example_ja": "次元削減は、高次元空間から低次元空間へのデータの変換です。"
+    },
+    {
+        "word": "PCA",
+        "phonetic": "/ˌpriː sɪ pəl ˈkɒm pə nənt əˈnæl ə sɪs/",
+        "meaning": "主成分分析 (PCA)",
+        "example": "Principal component analysis (PCA) is a popular technique for dimensionality reduction.",
+        "example_ja": "主成分分析 (PCA) は、次元削減のための人気のある手法です。"
+    },
+    {
+        "word": "Clustering",
+        "phonetic": "/ˈklʌstərɪŋ/",
+        "meaning": "クラスタリング",
+        "example": "Clustering is the task of grouping a set of objects in such a way that objects in the same group are more similar to each other than to those in other groups.",
+        "example_ja": "クラスタリングは、同じグループ内のオブジェクトが他のグループのオブジェクトよりも互いに似ているように、オブジェクトの集合をグループ化するタスクです。"
+    },
+    {
+        "word": "K-Means",
+        "phonetic": "/keɪ miːnz/",
+        "meaning": "K-means法",
+        "example": "K-means clustering is a method of vector quantization.",
+        "example_ja": "K-meansクラスタリングは、ベクトル量子化の手法です。"
+    },
+    {
+        "word": "Decision Tree",
+        "phonetic": "/dɪˈsɪʒən triː/",
+        "meaning": "決定木",
+        "example": "A decision tree is a flowchart-like structure in which each internal node represents a test on an attribute.",
+        "example_ja": "決定木は、各内部ノードが属性に対するテストを表すフローチャートのような構造です。"
+    },
+    {
+        "word": "Random Forest",
+        "phonetic": "/ˈrændəm ˈfɒrɪst/",
+        "meaning": "ランダムフォレスト",
+        "example": "Random forests are an ensemble learning method for classification, regression and other tasks.",
+        "example_ja": "ランダムフォレストは、分類、回帰、その他のタスクのためのアンサンブル学習法です。"
+    },
+    {
+        "word": "Gradient Boosting",
+        "phonetic": "/ˈɡreɪdiənt ˈbuːstɪŋ/",
+        "meaning": "勾配ブースティング",
+        "example": "Gradient boosting is a machine learning technique for regression and classification problems.",
+        "example_ja": "勾配ブースティングは、回帰および分類問題のための機械学習手法です。"
+    },
+    {
+        "word": "XGBoost",
+        "phonetic": "/ˌɛks dʒiː ˈbuːst/",
+        "meaning": "XGBoost",
+        "example": "XGBoost is an open-source software library which provides a regularized gradient boosting framework.",
+        "example_ja": "XGBoostは、正則化された勾配ブースティングフレームワークを提供するオープンソースソフトウェアライブラリです。"
+    },
+    {
+        "word": "TensorFlow",
+        "phonetic": "/ˈtɛnsərfloʊ/",
+        "meaning": "テンソルフロー",
+        "example": "TensorFlow is a free and open-source software library for machine learning and artificial intelligence.",
+        "example_ja": "TensorFlowは、機械学習および人工知能のための無料かつオープンソースのソフトウェアライブラリです。"
+    },
+    {
+        "word": "PyTorch",
+        "phonetic": "/ˈpaɪtɔːrtʃ/",
+        "meaning": "パイトーチ",
+        "example": "PyTorch is an open-source machine learning library based on the Torch library.",
+        "example_ja": "PyTorchは、Torchライブラリに基づいたオープンソースの機械学習ライブラリです。"
+    },
+    {
+        "word": "Scikit-learn",
+        "phonetic": "/ˈsaɪkɪt lɜːrn/",
+        "meaning": "サイキットラーン",
+        "example": "Scikit-learn is a free software machine learning library for the Python programming language.",
+        "example_ja": "Scikit-learnは、Pythonプログラミング言語用の無料ソフトウェア機械学習ライブラリです。"
+    },
+    {
+        "word": "Pandas",
+        "phonetic": "/ˈpændəz/",
+        "meaning": "パンダス",
+        "example": "Pandas is a software library written for the Python programming language for data manipulation and analysis.",
+        "example_ja": "Pandasは、データの操作と分析のためにPythonプログラミング言語で書かれたソフトウェアライブラリです。"
+    },
+    {
+        "word": "NumPy",
+        "phonetic": "/ˈnʌmpaɪ/",
+        "meaning": "ナムパイ",
+        "example": "NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices.",
+        "example_ja": "NumPyはPythonプログラミング言語用のライブラリで、大規模な多次元配列や行列のサポートを追加します。"
+    },
+    {
+        "word": "Jupyter Notebook",
+        "phonetic": "/ˈdʒuːpɪtər ˈnoʊtbʊk/",
+        "meaning": "ジュピターノートブック",
+        "example": "Jupyter Notebook is a web-based interactive computing platform.",
+        "example_ja": "Jupyter Notebookは、ウェブベースの対話型コンピューティングプラットフォームです。"
+    },
+    {
+        "word": "Data Mining",
+        "phonetic": "/ˈdeɪtə ˈmaɪnɪŋ/",
+        "meaning": "データマイニング",
+        "example": "Data mining is a process of discovering patterns in large data sets.",
+        "example_ja": "データマイニングは、大規模なデータセットからパターンを発見するプロセスです。"
+    },
+    {
+        "word": "Big Data",
+        "phonetic": "/bɪɡ ˈdeɪtə/",
+        "meaning": "ビッグデータ",
+        "example": "Big data is a field that treats ways to analyze, systematically extract information from, or otherwise deal with data sets that are too large or complex.",
+        "example_ja": "ビッグデータは、あまりにも大きく複雑なデータセットを分析、体系的に情報を抽出、またはその他の方法で扱う方法を扱う分野です。"
+    },
+    {
+        "word": "Scalability",
+        "phonetic": "/ˌskeɪləˈbɪləti/",
+        "meaning": "スケーラビリティ (拡張性)",
+        "example": "Scalability is the property of a system to handle a growing amount of work by adding resources to the system.",
+        "example_ja": "スケーラビリティは、リソースを追加することで、増加する仕事量に対応できるシステムの特性です。"
+    },
+    {
+        "word": "High Availability",
+        "phonetic": "/haɪ əˌveɪləˈbɪləti/",
+        "meaning": "高可用性",
+        "example": "High availability is a characteristic of a system which aims to ensure an agreed level of operational performance.",
+        "example_ja": "高可用性は、合意されたレベルの運用パフォーマンスを保証することを目的としたシステムの特性です。"
+    },
+    {
+        "word": "Fault Tolerance",
+        "phonetic": "/fɔːlt ˈtɒlərəns/",
+        "meaning": "フォルトトレランス (耐故障性)",
+        "example": "Fault tolerance is the property that enables a system to continue operating properly in the event of the failure of some of its components.",
+        "example_ja": "フォルトトレランスは、コンポーネントの一部が故障してもシステムが正常に動作し続けられるようにする特性です。"
+    },
+    {
+        "word": "Disaster Recovery",
+        "phonetic": "/dɪˈzæstər rɪˈkʌvəri/",
+        "meaning": "災害復旧 (DR)",
+        "example": "Disaster recovery involves a set of policies, tools and procedures to enable the recovery or continuation of vital technology infrastructure and systems following a natural or human-induced disaster.",
+        "example_ja": "災害復旧には、自然災害または人為的災害の後に重要な技術インフラやシステムを復旧または継続させるための一連のポリシー、ツール、および手順が含まれます。"
+    },
+    {
+        "word": "Latency",
+        "phonetic": "/ˈleɪtənsi/",
+        "meaning": "レイテンシ (遅延)",
+        "example": "Latency is a time interval between the stimulation and response.",
+        "example_ja": "レイテンシは、刺激と反応の間の時間間隔（遅延時間）です。"
+    },
+    {
+        "word": "Throughput",
+        "phonetic": "/ˈθruːpʊt/",
+        "meaning": "スループット",
+        "example": "Throughput is the amount of material or items passing through a system or process.",
+        "example_ja": "スループットは、システムやプロセスを通過する材料やアイテム（データ量）の量です。"
+    },
+    {
+        "word": "Bandwidth",
+        "phonetic": "/ˈbændwɪdθ/",
+        "meaning": "帯域幅",
+        "example": "In computer networking, bandwidth is the maximum rate of data transfer across a given path.",
+        "example_ja": "コンピュータネットワークにおいて、帯域幅は特定のパスにおけるデータ転送の最大速度です。"
+    },
+    {
+        "word": "Jitter",
+        "phonetic": "/ˈdʒɪtər/",
+        "meaning": "ジッター",
+        "example": "Jitter is the deviation from true periodicity of a presumably periodic signal.",
+        "example_ja": "ジッターは、周期的であるはずの信号の真の周期性からのずれです。"
+    },
+    {
+        "word": "Packet Loss",
+        "phonetic": "/ˈpækɪt lɒs/",
+        "meaning": "パケット損失",
+        "example": "Packet loss occurs when one or more packets of data travelling across a computer network fail to reach their destination.",
+        "example_ja": "パケット損失は、コンピュータネットワークを移動する1つ以上のデータパケットが目的地に到達できなかったときに発生します。"
+    },
+    {
+        "word": "Routing",
+        "phonetic": "/ˈraʊtɪŋ/",
+        "meaning": "ルーティング",
+        "example": "Routing is the process of selecting a path for traffic in a network or between or across multiple networks.",
+        "example_ja": "ルーティングは、ネットワーク内、あるいは複数のネットワーク間でのトラフィックの経路を選択するプロセスです。"
+    },
+    {
+        "word": "Switching",
+        "phonetic": "/ˈswɪtʃɪŋ/",
+        "meaning": "スイッチング",
+        "example": "Network switching is the process of channeling data from one network to another.",
+        "example_ja": "ネットワークスイッチングは、あるネットワークから別のネットワークへデータをチャネリングするプロセスです。"
+    },
+    {
+        "word": "Load Balancing",
+        "phonetic": "/loʊd ˈbælənsɪŋ/",
+        "meaning": "負荷分散 (ロードバランシング)",
+        "example": "Load balancing refers to the process of distributing a set of tasks over a set of resources.",
+        "example_ja": "負荷分散は、一連のリソースに一連のタスクを分散するプロセスを指します。"
+    },
+    {
+        "word": "TCP/IP",
+        "phonetic": "/tiː siː piː aɪ piː/",
+        "meaning": "TCP/IP",
+        "example": "TCP/IP is a conceptual model and set of communications protocols used in the Internet and similar computer networks.",
+        "example_ja": "TCP/IPは、インターネットや同様のコンピュータネットワークで使用される概念モデルおよび一連の通信プロトコルです。"
+    },
+    {
+        "word": "OSI Model",
+        "phonetic": "/ˌoʊ ɛs ˈaɪ ˈmɒdl/",
+        "meaning": "OSI参照モデル",
+        "example": "The OSI model is a conceptual model that characterizes and standardizes the communication functions of a computing system.",
+        "example_ja": "OSIモデルは、コンピュータシステムの通信機能を特徴付け、標準化する概念モデルです。"
+    },
+    {
+        "word": "DNS",
+        "phonetic": "/diː ɛn ɛs/",
+        "meaning": "ドメイン名システム (DNS)",
+        "example": "The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet.",
+        "example_ja": "ドメイン名システム (DNS) は、インターネットに接続されたコンピュータ、サービス、またはその他のリソースのための階層的で分散された命名システムです。"
+    },
+    {
+        "word": "DHCP",
+        "phonetic": "/diː eɪtʃ siː piː/",
+        "meaning": "DHCP (動的ホスト構成プロトコル)",
+        "example": "DHCP is a network management protocol used on Internet Protocol (IP) networks.",
+        "example_ja": "DHCPは、インターネットプロトコル (IP) ネットワークで使用されるネットワーク管理プロトコルです。"
+    },
+    {
+        "word": "HTTP/3",
+        "phonetic": "/eɪtʃ tiː tiː piː θriː/",
+        "meaning": "HTTP/3",
+        "example": "HTTP/3 is the third major version of the Hypertext Transfer Protocol used to exchange information on the World Wide Web.",
+        "example_ja": "HTTP/3は、World Wide Webで情報を交換するために使用されるハイパーテキスト転送プロトコルの3番目の主要なバージョンです。"
+    },
+    {
+        "word": "QUIC",
+        "phonetic": "/kwɪk/",
+        "meaning": "QUICプロトコル",
+        "example": "QUIC is a general-purpose transport layer network protocol.",
+        "example_ja": "QUICは、汎用のトランスポート層ネットワークプロトコルです。"
+    },
+    {
+        "word": "IPv6",
+        "phonetic": "/aɪ piː viː sɪks/",
+        "meaning": "IPv6",
+        "example": "Internet Protocol version 6 (IPv6) is the most recent version of the Internet Protocol.",
+        "example_ja": "インターネットプロトコルバージョン6 (IPv6) は、インターネットプロトコルの最新バージョンです。"
+    },
+    {
+        "word": "Subnetting",
+        "phonetic": "/ˈsʌbnɛtɪŋ/",
+        "meaning": "サブネッティング",
+        "example": "Subnetting is the practice of dividing a network into two or more networks.",
+        "example_ja": "サブネッティングは、ネットワークを2つ以上のネットワークに分割する手法です。"
+    },
+    {
+        "word": "VLAN",
+        "phonetic": "/ˈviːlæn/",
+        "meaning": "仮想LAN (VLAN)",
+        "example": "A virtual local area network (VLAN) is any broadcast domain that is partitioned and isolated in a computer network at the data link layer.",
+        "example_ja": "仮想ローカルエリアネットワーク (VLAN) は、データリンクレイヤーでコンピュータネットワーク内で分割および分離されたブロードキャストドメインです。"
+    },
+    {
+        "word": "SD-WAN",
+        "phonetic": "/ˌɛs diː ˈwæn/",
+        "meaning": "SD-WAN",
+        "example": "An SD-WAN simplifies the management and operation of a WAN.",
+        "example_ja": "SD-WANは、WANの管理と運用を簡素化します。"
+    },
+    {
+        "word": "SDN",
+        "phonetic": "/ˌɛs diː ˈɛn/",
+        "meaning": "ソフトウェア定義ネットワーク (SDN)",
+        "example": "Software-defined networking (SDN) is an approach to network architecture that enables the network to be intelligently and centrally controlled, or programmed, using software applications.",
+        "example_ja": "ソフトウェア定義ネットワーク (SDN) は、ソフトウェアアプリケーションを使用してネットワークをインテリジェントに集中制御、またはプログラム可能にするネットワークアーキテクチャへのアプローチです。"
+    },
+    {
+        "word": "Network Topology",
+        "phonetic": "/ˈnɛtwɜːrk təˈpɒlədʒi/",
+        "meaning": "ネットワークトポロジ",
+        "example": "Network topology is the arrangement of the elements of a communication network.",
+        "example_ja": "ネットワークトポロジは、通信ネットワークの要素の配置（構成形態）です。"
+    },
+    {
+        "word": "Fiber Optics",
+        "phonetic": "/ˈfaɪbər ˈɒptɪks/",
+        "meaning": "光ファイバー",
+        "example": "Fiber optics is the technology and medium associated with the transmission of information as light pulses along a glass or plastic strand or fiber.",
+        "example_ja": "光ファイバーは、ガラスやプラスチックのストランド（繊維）に沿って光パルスとして情報を送信する技術および媒体です。"
+    },
+    {
+        "word": "IDE",
+        "phonetic": "/ˌaɪ diː ˈiː/",
+        "meaning": "統合開発環境 (IDE)",
+        "example": "An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development.",
+        "example_ja": "統合開発環境 (IDE) は、ソフトウェア開発のためにコンピュータプログラマーに包括的な機能を提供するソフトウェアアプリケーションです。"
+    },
+    {
+        "word": "VCS",
+        "phonetic": "/viː siː ɛs/",
+        "meaning": "バージョン管理システム (VCS)",
+        "example": "Version control is the practice of tracking and managing changes to software code.",
+        "example_ja": "バージョン管理は、ソフトウェアコードへの変更を追跡および管理する手法です。"
+    },
+    {
+        "word": "Git",
+        "phonetic": "/ɡɪt/",
+        "meaning": "ギット",
+        "example": "Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.",
+        "example_ja": "Gitは、ファイルの変更を追跡するためのソフトウェアであり、通常、ソフトウェア開発中にソースコードを共同で開発するプログラマー間の作業を調整するために使用されます。"
+    },
+    {
+        "word": "Subversion",
+        "phonetic": "/səbˈvɜːrʒən/",
+        "meaning": "サブバージョン (SVN)",
+        "example": "Apache Subversion is a software versioning and revision control system.",
+        "example_ja": "Apache Subversionは、ソフトウェアのバージョン管理およびリビジョン管理システムです。"
+    },
+    {
+        "word": "Branching",
+        "phonetic": "/ˈbræntʃɪŋ/",
+        "meaning": "ブランチ作成 (枝分かれ)",
+        "example": "In revision control, branching is the duplication of an object under revision control.",
+        "example_ja": "リビジョン管理において、ブランチ作成とは、リビジョン管理下にあるオブジェクトの複製（枝分かれ）です。"
+    },
+    {
+        "word": "Merging",
+        "phonetic": "/ˈmɜːrdʒɪŋ/",
+        "meaning": "マージ (統合)",
+        "example": "In version control, merging is a fundamental operation that reconciles multiple changes made to a version-controlled collection of files.",
+        "example_ja": "バージョン管理において、マージは、バージョン管理されたファイルの集合に対して行われた複数の変更を調整する基本的な操作です。"
+    },
+    {
+        "word": "Pull Request",
+        "phonetic": "/pʊl rɪˈkwɛst/",
+        "meaning": "プルリクエスト",
+        "example": "A pull request is a method of submitting contributions to an open-source project.",
+        "example_ja": "プルリクエストは、オープンソースプロジェクトに貢献を提出するための手法です。"
+    },
+    {
+        "word": "Code Review",
+        "phonetic": "/koʊd rɪˈvjuː/",
+        "meaning": "コードレビュー",
+        "example": "Code review is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code.",
+        "example_ja": "コードレビューは、1人または数人が主にソースコードの一部を見て読むことでプログラムをチェックするソフトウェア品質保証活動です。"
+    },
+    {
+        "word": "Linting",
+        "phonetic": "/ˈlɪntɪŋ/",
+        "meaning": "リンティング",
+        "example": "A linter is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs.",
+        "example_ja": "リンターは、プログラミングエラー、バグ、スタイルエラー、および不審な構造にフラグを立てるためにソースコードを分析するツールです。"
+    },
+    {
+        "word": "Debugging",
+        "phonetic": "/ˌdiːˈbʌɡɪŋ/",
+        "meaning": "デバッグ",
+        "example": "Debugging is the process of finding and resolving bugs within computer programs, software, or systems.",
+        "example_ja": "デバッグは、コンピュータプログラム、ソフトウェア、またはシステム内のバグを見つけ、解決するプロセスです。"
+    },
+    {
+        "word": "Profiling",
+        "phonetic": "/ˈproʊfaɪlɪŋ/",
+        "meaning": "プロファイリング",
+        "example": "In software engineering, profiling is a form of dynamic program analysis that measures, for example, the space (memory) or time complexity of a program.",
+        "example_ja": "ソフトウェアエンジニアリングにおいて、プロファイリングは、プログラムの空間（メモリ）や時間計算量などを測定する動的プログラム分析の一形式です。"
+    },
+    {
+        "word": "Refactoring",
+        "phonetic": "/riːˈfæktərɪŋ/",
+        "meaning": "リファクタリング",
+        "example": "Code refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior.",
+        "example_ja": "コードリファクタリングは、外部の動作を変えずに、既存のコンピュータコードを再構築（構成の変更）するプロセスです。"
+    },
+    {
+        "word": "Technical Debt",
+        "phonetic": "/ˈtɛknɪkəl dɛt/",
+        "meaning": "技術的負債",
+        "example": "Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now instead of using a better approach that would take longer.",
+        "example_ja": "技術的負債は、ソフトウェア開発における概念で、時間がかかるより良いアプローチを使用する代わりに、今簡単な解決策を選択したことによって生じる追加のやり直しの暗黙のコストを反映したものです。"
+    },
+    {
+        "word": "Agile",
+        "phonetic": "/ˈædʒaɪl/",
+        "meaning": "アジャイル",
+        "example": "Agile software development is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customers.",
+        "example_ja": "アジャイルソフトウェア開発は、自己組織化されたクロスファンクショナルなチームとその顧客の共同作業を通じて要件とソリューションが進化する、ソフトウェア開発へのアプローチです。"
+    },
+    {
+        "word": "Scrum",
+        "phonetic": "/skrʌm/",
+        "meaning": "スクラム",
+        "example": "Scrum is an agile framework for managing knowledge work.",
+        "example_ja": "スクラムは、ナレッジワークを管理するためのアジャイルフレームワークです。"
+    },
+    {
+        "word": "Kanban",
+        "phonetic": "/ˈkænbæn/",
+        "meaning": "看板 (カンバン)",
+        "example": "Kanban is a lean method to manage and improve work across systems.",
+        "example_ja": "カンバンは、システム全体の作業を管理し改善するためのリーン手法です。"
+    },
+    {
+        "word": "Sprint",
+        "phonetic": "/sprɪnt/",
+        "meaning": "スプリント",
+        "example": "A sprint is a short, time-boxed period when a scrum team works to complete a set amount of work.",
+        "example_ja": "スプリントは、スクラムチームが決められた量の作業を完了させるために取り組む、短く区切られた期間です。"
+    },
+    {
+        "word": "Backlog",
+        "phonetic": "/ˈbækˌlɒɡ/",
+        "meaning": "バックログ",
+        "example": "A product backlog is a prioritized list of work for the development team that is derived from the roadmap and its requirements.",
+        "example_ja": "プロダクトバックログは、ロードマップとその要件から導き出された、開発チームのための優先順位付けされた作業リストです。"
+    },
+    {
+        "word": "User Story",
+        "phonetic": "/ˈjuːzər ˈstɔːri/",
+        "meaning": "ユーザーストーリー",
+        "example": "In software development and product management, a user story is an informal, natural language description of one or more features of a software system.",
+        "example_ja": "ソフトウェア開発およびプロダクトマネジメントにおいて、ユーザーストーリーは、ソフトウェアシステムの1つ以上の機能についての、非公式で自然言語による記述です。"
+    },
+    {
+        "word": "Waterfall",
+        "phonetic": "/ˈwɔːtərfɔːl/",
+        "meaning": "ウォーターフォール",
+        "example": "The waterfall model is a breakdown of project activities into linear sequential phases.",
+        "example_ja": "ウォーターフォールモデルは、プロジェクト活動を直線的で連続したフェーズに分割するモデルです。"
+    },
+    {
+        "word": "DevOps",
+        "phonetic": "/ˈdɛvˌɒps/",
+        "meaning": "デブオプス",
+        "example": "DevOps is a set of practices that combines software development (Dev) and IT operations (Ops).",
+        "example_ja": "DevOpsは、ソフトウェア開発 (Dev) とIT運用 (Ops) を組み合わせた一連のプラクティスです。"
+    },
+    {
+        "word": "DevSecOps",
+        "phonetic": "/ˈdɛvˌsɛkˌɒps/",
+        "meaning": "デブセクオプス",
+        "example": "DevSecOps is the integration of security practices into a DevOps software delivery pipeline.",
+        "example_ja": "DevSecOpsは、セキュリティプラクティスをDevOpsソフトウェア配信パイプラインに統合することです。"
+    },
+    {
+        "word": "SRE",
+        "phonetic": "/ɛs ɑːr iː/",
+        "meaning": "サイト信頼性エンジニアリング (SRE)",
+        "example": "Site Reliability Engineering (SRE) is a discipline that incorporates aspects of software engineering and applies them to infrastructure and operations problems.",
+        "example_ja": "サイト信頼性エンジニアリング (SRE) は、ソフトウェアエンジニアリングの側面を取り入れ、それをインフラや運用の問題に適用する学問分野です。"
+    },
+    {
+        "word": "QA",
+        "phonetic": "/kjuː eɪ/",
+        "meaning": "品質保証 (QA)",
+        "example": "Quality assurance (QA) is a way of preventing mistakes and defects in manufactured products and avoiding problems when delivering products or services to customers.",
+        "example_ja": "品質保証 (QA) は、製造された製品のミスや欠陥を防ぎ、顧客に製品やサービスを届ける際の問題を回避するための方法です。"
+    },
+    {
+        "word": "Unit Testing",
+        "phonetic": "/ˈjuːnɪt ˈtɛstɪŋ/",
+        "meaning": "ユニットテスト (単体テスト)",
+        "example": "Unit testing is a software testing method by which individual units of source code are tested.",
+        "example_ja": "ユニットテストは、ソースコードの個々のユニット（単体）をテストするソフトウェアテスト手法です。"
+    },
+    {
+        "word": "Integration Testing",
+        "phonetic": "/ˌɪntɪˈɡreɪʃən ˈtɛstɪŋ/",
+        "meaning": "統合テスト",
+        "example": "Integration testing is the phase in software testing in which individual software modules are combined and tested as a group.",
+        "example_ja": "統合テストは、個々のソフトウェアモジュールを組み合わせてグループとしてテストするソフトウェアテストのフェーズです。"
+    },
+    {
+        "word": "Regression Testing",
+        "phonetic": "/rɪˈɡrɛʃən ˈtɛstɪŋ/",
+        "meaning": "回帰テスト (リグレッションテスト)",
+        "example": "Regression testing is re-running functional and non-functional tests to ensure that previously developed and tested software still performs after a change.",
+        "example_ja": "回帰テストは、以前に開発およびテストされたソフトウェアが変更後も機能することを保証するために、機能テストおよび非機能テストを再実行することです。"
+    },
+    {
+        "word": "E2E Testing",
+        "phonetic": "/iː tuː iː ˈtɛstɪŋ/",
+        "meaning": "E2Eテスト (エンドツーエンドテスト)",
+        "example": "End-to-end testing is a technique that tests the entire software product from beginning to end to ensure the application flow behaves as expected.",
+        "example_ja": "エンドツーエンドテストは、アプリケーションのフローが期待通りに動作することを保証するために、ソフトウェア製品全体を最初から最後までテストする手法です。"
+    },
+    {
+        "word": "TDD",
+        "phonetic": "/tiː diː diː/",
+        "meaning": "テスト駆動開発 (TDD)",
+        "example": "Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed.",
+        "example_ja": "テスト駆動開発 (TDD) は、ソフトウェアが完全に開発される前に、要件をテストケースに変換することに依存するソフトウェア開発プロセスです。"
+    },
+    {
+        "word": "BDD",
+        "phonetic": "/biː diː diː/",
+        "meaning": "ビヘイビア駆動開発 (BDD)",
+        "example": "Behavior-driven development (BDD) is an agile software development process that encourages collaboration among developers, QA and non-technical or business participants in a software project.",
+        "example_ja": "ビヘイビア駆動開発 (BDD) は、ソフトウェアプロジェクトにおいて開発者、QA、非技術的またはビジネス参加者間のコラボレーションを促進するアジャイルソフトウェア開発プロセスです。"
+    },
+    {
+        "word": "Continuous Integration",
+        "phonetic": "/kənˈtɪnjuəs ˌɪntɪˈɡreɪʃən/",
+        "meaning": "継続的インテグレーション (CI)",
+        "example": "Continuous Integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day.",
+        "example_ja": "継続的インテグレーション (CI) は、すべての開発者の作業コピーを1日に数回、共有メインラインにマージする手法です。"
+    },
+    {
+        "word": "Pair Programming",
+        "phonetic": "/pɛər ˈproʊɡræmɪŋ/",
+        "meaning": "ペアプログラミング",
+        "example": "Pair programming is an agile software development technique in which two programmers work together at one workstation.",
+        "example_ja": "ペアプログラミングは、2人のプログラマーが1つのワークステーションで一緒に作業するアジャイルソフトウェア開発手法です。"
+    },
+    {
+        "word": "Mob Programming",
+        "phonetic": "/mɒb ˈproʊɡræmɪŋ/",
+        "meaning": "モブプログラミング",
+        "example": "Mob programming is a software development approach where the whole team works on the same thing, at the same time, in the same space, and at the same computer.",
+        "example_ja": "モブプログラミングは、チーム全体が同じ場所、同じ時間に同じコンピュータで同じことに取り組むソフトウェア開発アプローチです。"
+    },
+    {
+        "word": "Clean Code",
+        "phonetic": "/kliːn koʊd/",
+        "meaning": "クリーンコード",
+        "example": "Clean code is code that is easy to read, understand and maintain.",
+        "example_ja": "クリーンコードは、読みやすく、理解しやすく、保守しやすいコードです。"
+    },
+    {
+        "word": "SOLID Principles",
+        "phonetic": "/ˈsɒlɪd ˈprɪnsəpəlz/",
+        "meaning": "SOLID原則",
+        "example": "The SOLID principles are a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable.",
+        "example_ja": "SOLID原則は、ソフトウェア設計をより理解しやすく、柔軟で、保守しやすくすることを目的とした5つの設計原則の頭字語です。"
+    },
+    {
+        "word": "Design Patterns",
+        "phonetic": "/dɪˈzaɪn ˈpætərnz/",
+        "meaning": "デザインパターン",
+        "example": "In software engineering, a software design pattern is a general, reusable solution to a commonly occurring problem within a given context in software design.",
+        "example_ja": "ソフトウェアエンジニアリングにおいて、デザインパターンは、ソフトウェア設計の特定のコンテキスト内で一般的に発生する問題に対する、一般的で再利用可能な解決策です。"
+    },
+    {
+        "word": "Singleton",
+        "phonetic": "/ˈsɪŋɡəltən/",
+        "meaning": "シングルトン",
+        "example": "The singleton pattern is a software design pattern that restricts the instantiation of a class to one 'single' instance.",
+        "example_ja": "シングルトンパターンは、クラスのインスタンス化を1つの「単一の」インスタンスに制限するデザインパターンです。"
+    },
+    {
+        "word": "Factory Pattern",
+        "phonetic": "/ˈfæktəri ˈpætərn/",
+        "meaning": "ファクトリパターン",
+        "example": "The factory method pattern is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created.",
+        "example_ja": "ファクトリメソッドパターンは、作成されるオブジェクトの正確なクラスを指定することなく、オブジェクト作成の問題に対処するためにファクトリメソッドを使用する生成パターンです。"
+    },
+    {
+        "word": "Observer Pattern",
+        "phonetic": "/əbˈzɜːrvər ˈpætərn/",
+        "meaning": "オブザーバーパターン",
+        "example": "The observer pattern is a software design pattern in which an object, named the subject, maintains a list of its dependents, called observers, and notifies them automatically of any state changes.",
+        "example_ja": "オブザーバーパターンは、サブジェクトと呼ばれるオブジェクトが、オブザーバーと呼ばれる依存者のリストを保持し、状態の変化を自動的に通知するデザインパターンです。"
+    },
+    {
+        "word": "MVC",
+        "phonetic": "/ˌɛm viː ˈsiː/",
+        "meaning": "Model-View-Controller (MVC)",
+        "example": "Model–view–controller (MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.",
+        "example_ja": "Model-View-Controller (MVC) は、関連するプログラムロジックを3つの相互接続された要素に分割する、ユーザーインターフェース開発に一般的に使用されるデザインパターンです。"
+    },
+    {
+        "word": "MVVM",
+        "phonetic": "/ˌɛm viː viː ˈɛm/",
+        "meaning": "Model-View-ViewModel (MVVM)",
+        "example": "Model–view–viewmodel (MVVM) is a software architectural pattern that facilitates the separation of the development of the graphical user interface.",
+        "example_ja": "Model-View-ViewModel (MVVM) は、グラフィカルユーザーインターフェースの開発の分離を容易にするソフトウェアアーキテクチャパターンです。"
+    },
+    {
+        "word": "Microkernel",
+        "phonetic": "/ˈmaɪkroʊˌkɜːrnəl/",
+        "meaning": "マイクロカーネル",
+        "example": "A microkernel is the near-minimum amount of software that can provide the mechanisms needed to implement an operating system.",
+        "example_ja": "マイクロカーネルは、オペレーティングシステムを実装するために必要なメカニズムを提供できる、最小限に近いソフトウェア量です。"
+    },
+    {
+        "word": "Middleware",
+        "phonetic": "/ˈmɪdəlwɛər/",
+        "meaning": "ミドルウェア",
+        "example": "Middleware is software that lies between an operating system and the applications running on it.",
+        "example_ja": "ミドルウェアは、オペレーティングシステムとその上で動作するアプリケーションの間に位置するソフトウェアです。"
+    },
+    {
+        "word": "API",
+        "phonetic": "/ˌeɪ piː ˈaɪ/",
+        "meaning": "アプリケーション・プログラミング・インターフェース (API)",
+        "example": "An application programming interface (API) is a way for two or more computer programs to communicate with each other.",
+        "example_ja": "アプリケーション・プログラミング・インターフェース (API) は、2つ以上のコンピュータプログラムが互いに通信するための方法です。"
+    },
+    {
+        "word": "Web Services",
+        "phonetic": "/wɛb ˈsɜːrvɪsɪz/",
+        "meaning": "ウェブサービス",
+        "example": "A web service is either a service offered by an electronic device to another electronic device, communicating with each other via the World Wide Web.",
+        "example_ja": "ウェブサービスは、World Wide Webを介して互いに通信する、ある電子デバイスから別の電子デバイスに提供されるサービスです。"
+    },
+    {
+        "word": "SDK",
+        "phonetic": "/ˌɛs diː ˈkeɪ/",
+        "meaning": "ソフトウェア開発キット (SDK)",
+        "example": "A software development kit (SDK) is a collection of software development tools in one installable package.",
+        "example_ja": "ソフトウェア開発キット (SDK) は、1つのインストール可能なパッケージにまとめられたソフトウェア開発ツールの集合です。"
+    },
+    {
+        "word": "Library",
+        "phonetic": "/ˈlaɪbrəri/",
+        "meaning": "ライブラリ",
+        "example": "In computer science, a library is a collection of non-volatile resources used by computer programs, often for software development.",
+        "example_ja": "コンピュータサイエンスにおいて、ライブラリは、しばしばソフトウェア開発のためにコンピュータプログラムによって使用される不揮発性リソースの集合です。"
+    },
+    {
+        "word": "Framework",
+        "phonetic": "/ˈfreɪmwɜːrk/",
+        "meaning": "フレームワーク",
+        "example": "In computer programming, a software framework is an abstraction in which software, providing generic functionality, can be selectively changed by additional user-written code.",
+        "example_ja": "コンピュータプログラミングにおいて、ソフトウェアフレームワークは、一般的な機能を提供するソフトウェアが、ユーザーが書いた追加のコードによって選択的に変更できる抽象化です。"
+    },
+    {
+        "word": "Compiler",
+        "phonetic": "/kəmˈpaɪlər/",
+        "meaning": "コンパイラ",
+        "example": "A compiler is a computer program that translates computer code written in one programming language into another language.",
+        "example_ja": "コンパイラは、あるプログラミング言語で書かれたコンピュータコードを別の言語に翻訳するコンピュータプログラムです。"
+    },
+    {
+        "word": "Interpreter",
+        "phonetic": "/ɪnˈtɜːrprɪtər/",
+        "meaning": "インタプリタ",
+        "example": "An interpreter is a computer program that directly executes instructions written in a programming or scripting language, without requiring them previously to have been compiled into a machine language program.",
+        "example_ja": "インタプリタは、プログラミング言語やスクリプト言語で書かれた命令を、あらかじめ機械語プログラムにコンパイルすることなく、直接実行するコンピュータプログラムです。"
+    }
 ]

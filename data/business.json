@@ -208,5 +208,1545 @@
     "meaning": "拡張性、スケーラビリティ",
     "example": "The software is designed for high scalability.",
     "example_ja": "そのソフトウェアは高い拡張性を備えるよう設計されています。"
+  },
+  {
+    "word": "Revenue",
+    "phonetic": "/ˈrevənjuː/",
+    "meaning": "収益、売上高",
+    "example": "The company reported a 20% increase in annual revenue.",
+    "example_ja": "会社は年次収益が20%増加したと報告しました。"
+  },
+  {
+    "word": "Asset",
+    "phonetic": "/ˈæset/",
+    "meaning": "資産",
+    "example": "The company's liquid assets include cash and short-term investments.",
+    "example_ja": "会社の流動資産には、現金や短期投資が含まれます。"
+  },
+  {
+    "word": "Liability",
+    "phonetic": "/ˌlaɪəˈbɪləti/",
+    "meaning": "負債、法的責任",
+    "example": "The firm needs to clear its long-term liabilities.",
+    "example_ja": "その企業は長期負債を解消する必要があります。"
+  },
+  {
+    "word": "Equity",
+    "phonetic": "/ˈekwəti/",
+    "meaning": "自己資本、株主資本",
+    "example": "He has built up considerable equity in his business.",
+    "example_ja": "彼は自身の事業でかなりの自己資本を築き上げました。"
+  },
+  {
+    "word": "Dividend",
+    "phonetic": "/ˈdɪvɪdend/",
+    "meaning": "配当金",
+    "example": "Shareholders will receive a dividend of 50 cents per share.",
+    "example_ja": "株主は1株につき50セントの配当金を受け取ります。"
+  },
+  {
+    "word": "Liquidity",
+    "phonetic": "/lɪˈkwɪdəti/",
+    "meaning": "流動性",
+    "example": "The company is facing a liquidity crisis.",
+    "example_ja": "会社は流動性危機に直面しています。"
+  },
+  {
+    "word": "Amortization",
+    "phonetic": "/əˌmɔːrtəˈzeɪʃn/",
+    "meaning": "（無形資産の）償却",
+    "example": "The amortization of patents is recorded as an expense.",
+    "example_ja": "特許権の償却は費用として記録されます。"
+  },
+  {
+    "word": "Depreciation",
+    "phonetic": "/dɪˌpriːʃiˈeɪʃn/",
+    "meaning": "減価償却",
+    "example": "Depreciation reduces the book value of machinery over time.",
+    "example_ja": "減価償却により、時間の経過とともに機械の帳簿価格が低下します。"
+  },
+  {
+    "word": "Audit",
+    "phonetic": "/ˈɔːdɪt/",
+    "meaning": "監査",
+    "example": "The annual audit ensures the accuracy of financial statements.",
+    "example_ja": "年次監査により、財務諸表の正確性が確保されます。"
+  },
+  {
+    "word": "Fiscal year",
+    "phonetic": "/ˈfɪskl jɪr/",
+    "meaning": "会計年度",
+    "example": "Our fiscal year ends on March 31st.",
+    "example_ja": "当社の会計年度は3月31日に終了します。"
+  },
+  {
+    "word": "Forecast",
+    "phonetic": "/ˈfɔːrkæst/",
+    "meaning": "予測、予報",
+    "example": "The sales forecast for the next quarter is optimistic.",
+    "example_ja": "次四半期の売上予測は楽観的です。"
+  },
+  {
+    "word": "Overhead",
+    "phonetic": "/ˈoʊvərhed/",
+    "meaning": "諸経費、オーバーヘッド",
+    "example": "Reducing overhead costs is essential for increasing net profit.",
+    "example_ja": "純利益を増やすためには、諸経費を削減することが不可欠です。"
+  },
+  {
+    "word": "Capital",
+    "phonetic": "/ˈkæpɪtl/",
+    "meaning": "資本、資金",
+    "example": "The startup is seeking venture capital for expansion.",
+    "example_ja": "そのスタートアップは拡大のためにベンチャーキャピタルを求めています。"
+  },
+  {
+    "word": "Investment",
+    "phonetic": "/ɪnˈvestmənt/",
+    "meaning": "投資",
+    "example": "The new equipment was a major investment for the factory.",
+    "example_ja": "新しい設備は工場にとって大きな投資でした。"
+  },
+  {
+    "word": "Portfolio",
+    "phonetic": "/pɔːrtˈfoʊlioʊ/",
+    "meaning": "ポートフォリオ、作品集",
+    "example": "Diversifying your investment portfolio can minimize risk.",
+    "example_ja": "投資ポートフォリオを分散させることで、リスクを最小限に抑えることができます。"
+  },
+  {
+    "word": "Bottom line",
+    "phonetic": "/ˌbɑːtəm ˈlaɪn/",
+    "meaning": "最終損益、結論",
+    "example": "How will this new project affect our bottom line?",
+    "example_ja": "この新しいプロジェクトは、私たちの最終損益にどのような影響を与えますか？"
+  },
+  {
+    "word": "Market share",
+    "phonetic": "/ˈmɑːrkɪt ʃer/",
+    "meaning": "市場占有率、シェア",
+    "example": "The company aims to increase its market share by 5% this year.",
+    "example_ja": "会社は今年、市場占有率を5%増やすことを目指しています。"
+  },
+  {
+    "word": "Brand awareness",
+    "phonetic": "/brænd əˈwernəs/",
+    "meaning": "ブランド認知度",
+    "example": "The advertising campaign significantly improved brand awareness.",
+    "example_ja": "広告キャンペーンにより、ブランド認知度が大幅に向上しました。"
+  },
+  {
+    "word": "Demographics",
+    "phonetic": "/ˌdeməˈɡræfɪks/",
+    "meaning": "人口統計学的特性",
+    "example": "Our target demographics are urban professionals aged 25 to 40.",
+    "example_ja": "当社のターゲット層は、25歳から40歳の都市部の専門職です。"
+  },
+  {
+    "word": "Campaign",
+    "phonetic": "/kæmˈpeɪn/",
+    "meaning": "キャンペーン、組織的活動",
+    "example": "The marketing campaign will launch across social media platforms.",
+    "example_ja": "マーケティングキャンペーンは、ソーシャルメディアプラットフォーム全体で開始されます。"
+  },
+  {
+    "word": "Conversion rate",
+    "phonetic": "/kənˈvɜːrʒn reɪt/",
+    "meaning": "成約率、コンバージョン率",
+    "example": "We need to optimize our website to improve the conversion rate.",
+    "example_ja": "成約率を向上させるために、ウェブサイトを最適化する必要があります。"
+  },
+  {
+    "word": "Engagement",
+    "phonetic": "/ɪnˈɡeɪdʒmənt/",
+    "meaning": "関与、エンゲージメント",
+    "example": "Customer engagement on our app has increased recently.",
+    "example_ja": "最近、当社のアプリでの顧客エンゲージメントが高まっています。"
+  },
+  {
+    "word": "Niche",
+    "phonetic": "/nɪtʃ/",
+    "meaning": "隙間市場、ニッチ",
+    "example": "They found a profitable niche in the organic pet food market.",
+    "example_ja": "彼らはオーガニックペットフード市場で収益性の高いニッチを見つけました。"
+  },
+  {
+    "word": "Value proposition",
+    "phonetic": "/ˈvæljuː ˌprɑːpəˈzɪʃn/",
+    "meaning": "価値提案",
+    "example": "What is the unique value proposition of your product?",
+    "example_ja": "あなたの製品の独自の価値提案は何ですか？"
+  },
+  {
+    "word": "Lead generation",
+    "phonetic": "/liːd ˌdʒenəˈreɪʃn/",
+    "meaning": "見込み客の獲得",
+    "example": "The webinar was very effective for lead generation.",
+    "example_ja": "ウェビナーは見込み客の獲得に非常に効果的でした。"
+  },
+  {
+    "word": "Upselling",
+    "phonetic": "/ˈʌpselɪŋ/",
+    "meaning": "アップセリング、より高い商品を売ること",
+    "example": "Sales staff are trained in upselling techniques.",
+    "example_ja": "販売スタッフはアップセリングの技術を訓練されています。"
+  },
+  {
+    "word": "B2B",
+    "phonetic": "/ˌbiː tuː ˈbiː/",
+    "meaning": "企業間取引",
+    "example": "The software is specifically designed for B2B transactions.",
+    "example_ja": "そのソフトウェアは特に企業間取引（B2B）向けに設計されています。"
+  },
+  {
+    "word": "B2C",
+    "phonetic": "/ˌbiː tuː ˈsiː/",
+    "meaning": "消費者向け取引",
+    "example": "Most retail businesses operate on a B2C model.",
+    "example_ja": "ほとんどの小売業は消費者向け取引（B2C）モデルで運営されています。"
+  },
+  {
+    "word": "Accountability",
+    "phonetic": "/əˌkaʊntəˈbɪləti/",
+    "meaning": "説明責任、責務",
+    "example": "Leadership requires a high level of accountability.",
+    "example_ja": "リーダーシップには高いレベルの説明責任が求められます。"
+  },
+  {
+    "word": "Delegation",
+    "phonetic": "/ˌdelɪˈɡeɪʃn/",
+    "meaning": "委譲、委任",
+    "example": "Effective delegation allows managers to focus on high-level strategy.",
+    "example_ja": "効果的な権限委譲により、マネージャーは高度な戦略に集中できます。"
+  },
+  {
+    "word": "Empowerment",
+    "phonetic": "/ɪmˈpaʊərmənt/",
+    "meaning": "権限付与、エンパワーメント",
+    "example": "Employee empowerment leads to increased job satisfaction.",
+    "example_ja": "従業員への権限付与は、仕事の満足度の向上につながります。"
+  },
+  {
+    "word": "Mentorship",
+    "phonetic": "/ˈmentɔːrʃɪp/",
+    "meaning": "メンター制度、指導",
+    "example": "The company established a mentorship program for new hires.",
+    "example_ja": "会社は新入社員向けにメンター制度を設立しました。"
+  },
+  {
+    "word": "Visionary",
+    "phonetic": "/ˈvɪʒəneri/",
+    "meaning": "先見の明がある、空想家",
+    "example": "He is a visionary leader who anticipates future trends.",
+    "example_ja": "彼は将来のトレンドを予測する先見の明があるリーダーです。"
+  },
+  {
+    "word": "Risk management",
+    "phonetic": "/rɪsk ˈmænɪdʒmənt/",
+    "meaning": "リスク管理",
+    "example": "The department is responsible for enterprise risk management.",
+    "example_ja": "その部署は企業のリスク管理を担当しています。"
+  },
+  {
+    "word": "Corporate culture",
+    "phonetic": "/ˈkɔːrpərət ˈkʌltʃər/",
+    "meaning": "企業文化、社風",
+    "example": "The company is known for its innovative corporate culture.",
+    "example_ja": "その会社は革新的な企業文化で知られています。"
+  },
+  {
+    "word": "Change management",
+    "phonetic": "/tʃeɪndʒ ˈmænɪdʒmənt/",
+    "meaning": "変更管理、チェンジマネジメント",
+    "example": "Change management is crucial during a corporate merger.",
+    "example_ja": "企業の合併において、変更管理は極めて重要です。"
+  },
+  {
+    "word": "Bureaucracy",
+    "phonetic": "/bjʊˈrɑːkrəsi/",
+    "meaning": "官僚主義、繁雑な手続き",
+    "example": "Too much bureaucracy can slow down decision-making.",
+    "example_ja": "過度な官僚主義は意思決定を遅らせる可能性があります。"
+  },
+  {
+    "word": "Entrepreneurship",
+    "phonetic": "/ˌɑːntrəprəˈnɜːrʃɪp/",
+    "meaning": "起業家精神",
+    "example": "Courses on entrepreneurship are very popular at business schools.",
+    "example_ja": "ビジネススクールでは起業家精神に関する講座が非常に人気です。"
+  },
+  {
+    "word": "Start-up",
+    "phonetic": "/ˈstɑːrt ʌp/",
+    "meaning": "新興企業、スタートアップ",
+    "example": "The tech start-up received its first round of funding.",
+    "example_ja": "そのテック系スタートアップは、第1ラウンドの資金調達を受けました。"
+  },
+  {
+    "word": "Recruitment",
+    "phonetic": "/rɪˈkruːtmənt/",
+    "meaning": "採用、募集",
+    "example": "The recruitment process includes multiple rounds of interviews.",
+    "example_ja": "採用プロセスには複数回の面接が含まれます。"
+  },
+  {
+    "word": "Onboarding",
+    "phonetic": "/ˈɑːnbɔːrdɪŋ/",
+    "meaning": "オンボーディング、新入社員研修",
+    "example": "Effective onboarding helps new employees integrate quickly.",
+    "example_ja": "効果的なオンボーディングは、新入社員がすぐに馴染むのを助けます。"
+  },
+  {
+    "word": "Talent acquisition",
+    "phonetic": "/ˈtælənt ˌækwɪˈzɪʃn/",
+    "meaning": "人材獲得",
+    "example": "She specializes in talent acquisition for the tech industry.",
+    "example_ja": "彼女はテック業界の人材獲得を専門としています。"
+  },
+  {
+    "word": "Performance appraisal",
+    "phonetic": "/pərˈfɔːrməns əˈpreɪzl/",
+    "meaning": "勤務評定、人事考課",
+    "example": "Annual performance appraisals are held every December.",
+    "example_ja": "毎月12月に年次の人事考課が行われます。"
+  },
+  {
+    "word": "Soft skills",
+    "phonetic": "/sɔːft skɪlz/",
+    "meaning": "ソフトスキル（対人能力など）",
+    "example": "Soft skills like communication and empathy are vital for leaders.",
+    "example_ja": "コミュニケーションや共感などのソフトスキルは、リーダーにとって不可欠です。"
+  },
+  {
+    "word": "Hard skills",
+    "phonetic": "/hɑːrd skɪlz/",
+    "meaning": "ハードスキル（専門的技術・知識）",
+    "example": "Programming and data analysis are considered hard skills.",
+    "example_ja": "プログラミングやデータ分析は、ハードスキルと見なされます。"
+  },
+  {
+    "word": "Compensation",
+    "phonetic": "/ˌkɑːmpenˈseɪʃn/",
+    "meaning": "報酬、給与",
+    "example": "The compensation package includes a salary and bonuses.",
+    "example_ja": "報酬パッケージには給与とボーナスが含まれています。"
+  },
+  {
+    "word": "Benefits",
+    "phonetic": "/ˈbenɪfɪts/",
+    "meaning": "福利厚生",
+    "example": "Our company offers excellent health and dental benefits.",
+    "example_ja": "当社は優れた健康・歯科福利厚生を提供しています。"
+  },
+  {
+    "word": "Payroll",
+    "phonetic": "/ˈpeɪroʊl/",
+    "meaning": "給与、従業員名簿",
+    "example": "The HR department handles the monthly payroll.",
+    "example_ja": "人事部が毎月の給与支払いを担当しています。"
+  },
+  {
+    "word": "Headhunter",
+    "phonetic": "/ˈhedhʌntər/",
+    "meaning": "ヘッドハンター、人材スカウト",
+    "example": "A headhunter contacted him for an executive position.",
+    "example_ja": "ヘッドハンターが役員職について彼に連絡してきました。"
+  },
+  {
+    "word": "Work-life balance",
+    "phonetic": "/wɜːrk laɪf ˈbæləns/",
+    "meaning": "ワークライフバランス",
+    "example": "Maintaining a healthy work-life balance is important for mental health.",
+    "example_ja": "健全なワークライフバランスを維持することは、メンタルヘルスにとって重要です。"
+  },
+  {
+    "word": "Remote work",
+    "phonetic": "/rɪˈmoʊt wɜːrk/",
+    "meaning": "リモートワーク、在宅勤務",
+    "example": "Many companies have adopted remote work policies permanently.",
+    "example_ja": "多くの企業がリモートワーク方針を恒久的に採用しています。"
+  },
+  {
+    "word": "Diversity and Inclusion",
+    "phonetic": "/daɪˈvɜːrsəti ænd ɪnˈkluːʒn/",
+    "meaning": "多様性と受容（D&I）",
+    "example": "Our office values diversity and inclusion in the workplace.",
+    "example_ja": "私たちのオフィスは職場での多様性と受容を重視しています。"
+  },
+  {
+    "word": "Proposal",
+    "phonetic": "/prəˈpoʊzl/",
+    "meaning": "提案、企画書",
+    "example": "Please submit your project proposal by Friday.",
+    "example_ja": "金曜日までにプロジェクト提案書を提出してください。"
+  },
+  {
+    "word": "Counteroffer",
+    "phonetic": "/ˈkaʊntərɔːfər/",
+    "meaning": "逆提案、カウンターオファー",
+    "example": "The seller rejected our offer and made a counteroffer.",
+    "example_ja": "売り手は私たちのオファーを拒否し、逆提案をしてきました。"
+  },
+  {
+    "word": "Win-win",
+    "phonetic": "/ˌwɪn ˈwɪn/",
+    "meaning": "双方に有利な、ウィンウィン",
+    "example": "We are looking for a win-win solution for both parties.",
+    "example_ja": "私たちは双方にとってウィンウィンな解決策を探しています。"
+  },
+  {
+    "word": "Leverage",
+    "phonetic": "/ˈlevərɪdʒ/",
+    "meaning": "影響力、レバレッジ（活用する）",
+    "example": "We can leverage our strong brand to enter new markets.",
+    "example_ja": "強力なブランドを活用して、新しい市場に参入できます。"
+  },
+  {
+    "word": "Rapport",
+    "phonetic": "/ræˈpɔːr/",
+    "meaning": "信頼関係、ラポール",
+    "example": "It's important to build a good rapport with your clients.",
+    "example_ja": "クライアントと良好な信頼関係を築くことが重要です。"
+  },
+  {
+    "word": "Minutes",
+    "phonetic": "/ˈmɪnɪts/",
+    "meaning": "議事録",
+    "example": "The secretary will take the minutes of the meeting.",
+    "example_ja": "秘書が会議の議事録を取ります。"
+  },
+  {
+    "word": "Action items",
+    "phonetic": "/ˈækʃn ˈaɪtəmz/",
+    "meaning": "実施事項、アクションアイテム",
+    "example": "Let's summarize the action items before we finish.",
+    "example_ja": "終わる前に、実施事項をまとめましょう。"
+  },
+  {
+    "word": "Presentation",
+    "phonetic": "/ˌpriːzenˈteɪʃn/",
+    "meaning": "プレゼンテーション、発表",
+    "example": "His presentation on market trends was very insightful.",
+    "example_ja": "市場トレンドに関する彼のプレゼンテーションは、非常に洞察に満ちていました。"
+  },
+  {
+    "word": "Feedback",
+    "phonetic": "/ˈfiːdbæk/",
+    "meaning": "フィードバック、意見",
+    "example": "Constructive feedback helps employees grow.",
+    "example_ja": "建設的なフィードバックは、従業員の成長を助けます。"
+  },
+  {
+    "word": "Brainstorming",
+    "phonetic": "/ˈbreɪnstɔːrmɪŋ/",
+    "meaning": "ブレインストーミング",
+    "example": "We held a brainstorming session to generate new ideas.",
+    "example_ja": "新しいアイデアを出すために、ブレインストーミングを行いました。"
+  },
+  {
+    "word": "Follow-up",
+    "phonetic": "/ˈfɑːloʊ ʌp/",
+    "meaning": "フォローアップ、追跡調査",
+    "example": "I'll send a follow-up email after the meeting.",
+    "example_ja": "会議の後にフォローアップのメールを送ります。"
+  },
+  {
+    "word": "Best practice",
+    "phonetic": "/best ˈpræktɪs/",
+    "meaning": "成功事例、ベストプラクティス",
+    "example": "Following industry best practices ensures high quality.",
+    "example_ja": "業界のベストプラクティスに従うことで、高い品質が保証されます。"
+  },
+  {
+    "word": "Core competency",
+    "phonetic": "/kɔːr ˈkɑːmpətənsi/",
+    "meaning": "核となる能力、コアコンピタンス",
+    "example": "Technological innovation is our company's core competency.",
+    "example_ja": "技術革新は、当社の核となる能力です。"
+  },
+  {
+    "word": "Deliverable",
+    "phonetic": "/dɪˈlɪvərəbl/",
+    "meaning": "成果物",
+    "example": "The final report is the main deliverable of this project.",
+    "example_ja": "最終報告書が、このプロジェクトの主な成果物です。"
+  },
+  {
+    "word": "Due diligence",
+    "phonetic": "/ˌduː ˈdɪlɪdʒəns/",
+    "meaning": "適正評価（デューデリジェンス）",
+    "example": "We must perform due diligence before acquiring the company.",
+    "example_ja": "会社を買収する前に、適正評価を行わなければなりません。"
+  },
+  {
+    "word": "Low-hanging fruit",
+    "phonetic": "/loʊ ˈhæŋɪŋ fruːt/",
+    "meaning": "達成しやすい目標",
+    "example": "Focus on the low-hanging fruit first to get some quick wins.",
+    "example_ja": "すぐに成果を出すために、まずは達成しやすい目標に集中してください。"
+  },
+  {
+    "word": "Think outside the box",
+    "phonetic": "/θɪŋk aʊtˈsaɪd ðə bɑːks/",
+    "meaning": "既成概念にとらわれずに考える",
+    "example": "We need to think outside the box to solve this unique problem.",
+    "example_ja": "このユニークな問題を解決するために、既成概念にとらわれずに考える必要があります。"
+  },
+  {
+    "word": "Bandwidth",
+    "phonetic": "/ˈbændwɪtθ/",
+    "meaning": "帯域幅、（仕事などの）こなせる能力",
+    "example": "I don't have the bandwidth to take on another project right now.",
+    "example_ja": "今は別のプロジェクトを引き受ける余裕（能力）がありません。"
+  },
+  {
+    "word": "Alignment",
+    "phonetic": "/əˈlaɪnmənt/",
+    "meaning": "提携、整列、足並みをそろえること",
+    "example": "There is a lack of alignment between the sales and marketing teams.",
+    "example_ja": "営業チームとマーケティングチームの間に足並みの乱れがあります。"
+  },
+  {
+    "word": "Touch base",
+    "phonetic": "/tʌtʃ beɪs/",
+    "meaning": "連絡を取り合う",
+    "example": "Let's touch base next week to discuss the progress.",
+    "example_ja": "来週連絡を取り合って、進捗について話し合いましょう。"
+  },
+  {
+    "word": "Circle back",
+    "phonetic": "/ˈsɜːrkl bæk/",
+    "meaning": "後で戻ってくる、再検討する",
+    "example": "I'll circle back to that point later in the presentation.",
+    "example_ja": "プレゼンテーションの後半でその点にまた戻ります。"
+  },
+  {
+    "word": "Game changer",
+    "phonetic": "/ˈɡeɪm ˌtʃeɪndʒər/",
+    "meaning": "状況を一変させるもの",
+    "example": "This new technology could be a real game changer for us.",
+    "example_ja": "この新技術は、私たちにとって本当に状況を一変させるものになるかもしれません。"
+  },
+  {
+    "word": "Buy-in",
+    "phonetic": "/ˈbaɪ ɪn/",
+    "meaning": "同意、賛同",
+    "example": "We need to get executive buy-in before we proceed.",
+    "example_ja": "進める前に、経営陣の賛同を得る必要があります。"
+  },
+  {
+    "word": "Disruptive",
+    "phonetic": "/dɪsˈrʌptɪv/",
+    "meaning": "破壊的な（革新的な）",
+    "example": "Disruptive innovation can change entire industries.",
+    "example_ja": "破壊的イノベーションは、産業全体を変える可能性があります。"
+  },
+  {
+    "word": "Digital transformation",
+    "phonetic": "/ˈdɪdʒɪtl ˌtrænsfərˈmeɪʃn/",
+    "meaning": "デジタルトランスフォーメーション（DX）",
+    "example": "The company is undergoing a major digital transformation.",
+    "example_ja": "その会社は大規模なデジタルトランスフォーメーションを進めています。"
+  },
+  {
+    "word": "Cloud computing",
+    "phonetic": "/klaʊd kəmˈpjuːtɪŋ/",
+    "meaning": "クラウドコンピューティング",
+    "example": "Cloud computing allows employees to access data from anywhere.",
+    "example_ja": "クラウドコンピューティングにより、従業員はどこからでもデータにアクセスできます。"
+  },
+  {
+    "word": "Cybersecurity",
+    "phonetic": "/ˌsaɪbər sɪˈkjʊrəti/",
+    "meaning": "サイバーセキュリティ",
+    "example": "Cybersecurity is a top priority for our IT department.",
+    "example_ja": "サイバーセキュリティは、当社のIT部門にとって最優先事項です。"
+  },
+  {
+    "word": "Automation",
+    "phonetic": "/ˌɔːtəˈmeɪʃn/",
+    "meaning": "自動化",
+    "example": "The automation of routine tasks saves a lot of time.",
+    "example_ja": "定型業務の自動化により、多くの時間が節約されます。"
+  },
+  {
+    "word": "User experience",
+    "phonetic": "/ˈjuːzər ɪkˈspɪriəns/",
+    "meaning": "ユーザーエクスペリエンス（UX）",
+    "example": "We are redesigning the app to improve the user experience.",
+    "example_ja": "ユーザーエクスペリエンスを向上させるために、アプリを再設計しています。"
+  },
+  {
+    "word": "SaaS",
+    "phonetic": "/sæs/",
+    "meaning": "サービスとしてのソフトウェア（SaaS）",
+    "example": "Our CRM is a SaaS solution provided by a third party.",
+    "example_ja": "当社のCRMは、サードパーティが提供するSaaSソリューションです。"
+  },
+  {
+    "word": "Big data",
+    "phonetic": "/bɪɡ ˈdeɪtə/",
+    "meaning": "ビッグデータ",
+    "example": "Big data analysis can reveal customer purchasing patterns.",
+    "example_ja": "ビッグデータ分析により、顧客の購買パターンを明らかにできます。"
+  },
+  {
+    "word": "Machine learning",
+    "phonetic": "/məˈʃiːn ˈlɜːrnɪŋ/",
+    "meaning": "機械学習",
+    "example": "The system uses machine learning to improve its recommendations.",
+    "example_ja": "システムは機械学習を使用して推奨機能を向上させています。"
+  },
+  {
+    "word": "Fintech",
+    "phonetic": "/ˈfɪntek/",
+    "meaning": "フィンテック（金融技術）",
+    "example": "The rise of fintech is challenging traditional banks.",
+    "example_ja": "フィンテックの台頭は、伝統的な銀行にとって脅威となっています。"
+  },
+  {
+    "word": "API",
+    "phonetic": "/ˌeɪ piː ˈaɪ/",
+    "meaning": "アプリケーション・プログラミング・インターフェース",
+    "example": "The developer is working on the API integration.",
+    "example_ja": "開発者はAPI連携に取り組んでいます。"
+  },
+  {
+    "word": "Commission",
+    "phonetic": "/kəˈmɪʃn/",
+    "meaning": "手数料、歩合",
+    "example": "Sales agents earn a 10% commission on each sale.",
+    "example_ja": "販売代理店は、売上ごとに10%の手数料を得ます。"
+  },
+  {
+    "word": "Quote",
+    "phonetic": "/kwoʊt/",
+    "meaning": "見積もり、引用",
+    "example": "Could you provide a quote for the office renovation?",
+    "example_ja": "オフィスの改装の見積もりを出していただけますか？"
+  },
+  {
+    "word": "Invoice",
+    "phonetic": "/ˈɪnvɔɪs/",
+    "meaning": "送り状、請求書",
+    "example": "Please pay the invoice within 30 days of receipt.",
+    "example_ja": "受領後30日以内に請求書を支払ってください。"
+  },
+  {
+    "word": "Rebate",
+    "phonetic": "/ˈriːbeɪt/",
+    "meaning": "払い戻し、リベート",
+    "example": "Customers are entitled to a tax rebate.",
+    "example_ja": "顧客には税金の払い戻しを受ける権利があります。"
+  },
+  {
+    "word": "Supply chain",
+    "phonetic": "/səˈplaɪ tʃeɪn/",
+    "meaning": "サプライチェーン、供給網",
+    "example": "Global supply chain issues have delayed our shipments.",
+    "example_ja": "世界的なサプライチェーンの問題により、出荷が遅れています。"
+  },
+  {
+    "word": "Procurement",
+    "phonetic": "/prəˈkjʊrmənt/",
+    "meaning": "調達、入手",
+    "example": "The procurement department is negotiating with new suppliers.",
+    "example_ja": "調達部門は新しいサプライヤーと交渉しています。"
+  },
+  {
+    "word": "Vendor",
+    "phonetic": "/ˈvendər/",
+    "meaning": "業者、売り主",
+    "example": "We are looking for a reliable software vendor.",
+    "example_ja": "信頼できるソフトウェア業者を探しています。"
+  },
+  {
+    "word": "Contract",
+    "phonetic": "/ˈkɑːntrækt/",
+    "meaning": "契約、契約書",
+    "example": "Make sure to read the contract carefully before signing.",
+    "example_ja": "署名する前に契約書をよく読んでください。"
+  },
+  {
+    "word": "Intellectual property",
+    "phonetic": "/ˌɪntəˈlektʃuəl ˈprɑːpərti/",
+    "meaning": "知的財産",
+    "example": "The company takes intellectual property theft very seriously.",
+    "example_ja": "その会社は知的財産の盗用を非常に深刻に受け止めています。"
+  },
+  {
+    "word": "Trademark",
+    "phonetic": "/ˈtreɪdmɑːrk/",
+    "meaning": "商標",
+    "example": "The logo is a registered trademark of our company.",
+    "example_ja": "そのロゴは当社の登録商標です。"
+  },
+  {
+    "word": "Redundancy",
+    "phonetic": "/rɪˈdʌndənsi/",
+    "meaning": "余剰、人員削減",
+    "example": "Many employees were offered redundancy packages.",
+    "example_ja": "多くの従業員に人員削減に伴う特別手当（パッケージ）が提示されました。"
+  },
+  {
+    "word": "Promotion",
+    "phonetic": "/prəˈmoʊʃn/",
+    "meaning": "昇進、促進",
+    "example": "She received a promotion to Senior Manager.",
+    "example_ja": "彼女はシニアマネージャーに昇進しました。"
+  },
+  {
+    "word": "Overtime",
+    "phonetic": "/ˈoʊvərtaɪm/",
+    "meaning": "超過勤務、残業",
+    "example": "He worked 20 hours of overtime last month.",
+    "example_ja": "彼は先月、20時間の残業をしました。"
+  },
+  {
+    "word": "Networking",
+    "phonetic": "/ˈnetwɜːrkɪŋ/",
+    "meaning": "ネットワーキング、人脈作り",
+    "example": "Business networking is key to finding new opportunities.",
+    "example_ja": "ビジネスのネットワーキングは、新しい機会を見つけるための鍵です。"
+  },
+  {
+    "word": "Seminar",
+    "phonetic": "/ˈsemɪnɑːr/",
+    "meaning": "セミナー、講習会",
+    "example": "I attended a seminar on digital marketing yesterday.",
+    "example_ja": "昨日、デジタルマーケティングに関するセミナーに参加しました。"
+  },
+  {
+    "word": "Webinar",
+    "phonetic": "/ˈwebɪnɑːr/",
+    "meaning": "ウェビナー、オンラインセミナー",
+    "example": "The company hosted a webinar for its clients.",
+    "example_ja": "会社はクライアント向けにウェビナーを開催しました。"
+  },
+  {
+    "word": "Merger",
+    "phonetic": "/ˈmɜːrdʒər/",
+    "meaning": "合併",
+    "example": "The merger between the two companies was finalized today.",
+    "example_ja": "2社の合併は今日、完了しました。"
+  },
+  {
+    "word": "Joint venture",
+    "phonetic": "/ˌdʒɔɪnt ˈventʃər/",
+    "meaning": "合弁事業",
+    "example": "The two firms formed a joint venture to develop a new car.",
+    "example_ja": "その2社は、新しい車を開発するために合弁事業を立ち上げました。"
+  },
+  {
+    "word": "Subsidiary",
+    "phonetic": "/səbˈsɪdieri/",
+    "meaning": "子会社",
+    "example": "The company has subsidiaries in Europe and Asia.",
+    "example_ja": "その会社はヨーロッパとアジアに子会社を持っています。"
+  },
+  {
+    "word": "Franchise",
+    "phonetic": "/ˈfræntʃaɪz/",
+    "meaning": "フランチャイズ、独占販売権",
+    "example": "He decided to open a fast-food franchise.",
+    "example_ja": "彼はファストフードのフランチャイズ店を開くことに決めました。"
+  },
+  {
+    "word": "Consultant",
+    "phonetic": "/kənˈsʌltənt/",
+    "meaning": "コンサルタント、顧問",
+    "example": "We hired a consultant to improve our operations.",
+    "example_ja": "業務を改善するために、コンサルタントを雇いました。"
+  },
+  {
+    "word": "Freelancer",
+    "phonetic": "/ˈfriːlænsər/",
+    "meaning": "フリーランサー、自由契約者",
+    "example": "As a freelancer, she works for several different clients.",
+    "example_ja": "フリーランサーとして、彼女はいくつかの異なるクライアントのために働いています。"
+  },
+  {
+    "word": "Intern",
+    "phonetic": "/ˈɪntɜːrn/",
+    "meaning": "インターン、実習生",
+    "example": "The summer intern helped with data entry.",
+    "example_ja": "夏季インターンがデータ入力を手伝いました。"
+  },
+  {
+    "word": "Executive",
+    "phonetic": "/ɪɡˈzekjətɪv/",
+    "meaning": "役員、経営幹部",
+    "example": "The executive board met to discuss the annual budget.",
+    "example_ja": "役員会は年次予算について話し合うために集まりました。"
+  },
+  {
+    "word": "Hedge fund",
+    "phonetic": "/ˈhedʒ fʌnd/",
+    "meaning": "ヘッジファンド",
+    "example": "He works as an analyst for a major hedge fund.",
+    "example_ja": "彼は大手ヘッジファンドのアナリストとして働いています。"
+  },
+  {
+    "word": "Bull market",
+    "phonetic": "/ˈbʊl ˈmɑːrkɪt/",
+    "meaning": "強気相場（上昇相場）",
+    "example": "Investors are enjoying the current bull market.",
+    "example_ja": "投資家は現在の強気相場を享受しています。"
+  },
+  {
+    "word": "Bear market",
+    "phonetic": "/ˈber ˈmɑːrkɪt/",
+    "meaning": "弱気相場（下落相場）",
+    "example": "A bear market can be a good time to buy stocks at a low price.",
+    "example_ja": "弱気相場は、株を安値で買う良い機会になることがあります。"
+  },
+  {
+    "word": "Inflation",
+    "phonetic": "/ɪnˈfleɪʃn/",
+    "meaning": "インフレーション",
+    "example": "The central bank is trying to control inflation.",
+    "example_ja": "中央銀行はインフレを抑制しようとしています。"
+  },
+  {
+    "word": "Recession",
+    "phonetic": "/rɪˈseʃn/",
+    "meaning": "景気後退、リセッション",
+    "example": "Economists are worried that the country is entering a recession.",
+    "example_ja": "エコノミストは、国が景気後退に入っていることを懸念しています。"
+  },
+  {
+    "word": "GDP",
+    "phonetic": "/ˌdʒiː diː ˈpiː/",
+    "meaning": "国内総生産",
+    "example": "The country's GDP grew by 2% last year.",
+    "example_ja": "その国のGDPは昨年2%成長しました。"
+  },
+  {
+    "word": "Bankruptcy",
+    "phonetic": "/ˈbæŋkrʌptsi/",
+    "meaning": "破産",
+    "example": "The company filed for bankruptcy after years of losses.",
+    "example_ja": "数年の損失の後、その会社は破産を申請しました。"
+  },
+  {
+    "word": "Market research",
+    "phonetic": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+    "meaning": "市場調査",
+    "example": "We need to conduct market research before launching the new product.",
+    "example_ja": "新製品を発売する前に、市場調査を行う必要があります。"
+  },
+  {
+    "word": "Focus group",
+    "phonetic": "/ˈfoʊkəs ɡruːp/",
+    "meaning": "フォーカスグループ（座談会形式の調査）",
+    "example": "The focus group gave us valuable insights into consumer preferences.",
+    "example_ja": "フォーカスグループは、消費者の嗜好に関する貴重な洞察を私たちに与えてくれました。"
+  },
+  {
+    "word": "Predictive analytics",
+    "phonetic": "/prɪˈdɪktɪv ˌænəˈlɪtɪks/",
+    "meaning": "予測分析",
+    "example": "Predictive analytics can help forecast future sales.",
+    "example_ja": "予測分析は、将来の売上を予測するのに役立ちます。"
+  },
+  {
+    "word": "Churn rate",
+    "phonetic": "/tʃɜːrn reɪt/",
+    "meaning": "解約率、離職率",
+    "example": "Reducing the customer churn rate is a top priority.",
+    "example_ja": "顧客の解約率を下げることが最優先事項です。"
+  },
+  {
+    "word": "Social media marketing",
+    "phonetic": "/ˈsoʊʃl ˈmiːdiə ˈmɑːrkɪtɪŋ/",
+    "meaning": "ソーシャルメディアマーケティング",
+    "example": "Our social media marketing strategy is targeting younger audiences.",
+    "example_ja": "当社のソーシャルメディアマーケティング戦略は、若年層をターゲットにしています。"
+  },
+  {
+    "word": "Influencer marketing",
+    "phonetic": "/ˈɪnfluənsər ˈmɑːrkɪtɪŋ/",
+    "meaning": "インフルエンサーマーケティング",
+    "example": "Influencer marketing has become a very effective tool.",
+    "example_ja": "インフルエンサーマーケティングは、非常に効果的なツールになっています。"
+  },
+  {
+    "word": "Affiliate marketing",
+    "phonetic": "/əˈfɪlieɪt ˈmɑːrkɪtɪŋ/",
+    "meaning": "アフィリエイトマーケティング",
+    "example": "We generate a lot of traffic through affiliate marketing.",
+    "example_ja": "私たちはアフィリエイトマーケティングを通じて多くのトラフィックを生み出しています。"
+  },
+  {
+    "word": "Telemarketing",
+    "phonetic": "/ˈtelimɑːrkɪtɪŋ/",
+    "meaning": "テレマーケティング、電話勧誘販売",
+    "example": "Telemarketing can still be effective if done correctly.",
+    "example_ja": "正しく行われれば、テレマーケティングは依然として効果的です。"
+  },
+  {
+    "word": "Gross margin",
+    "phonetic": "/ɡroʊs ˈmɑːrdʒən/",
+    "meaning": "売上総利益（荒利）",
+    "example": "We need to improve our gross margin to be more competitive.",
+    "example_ja": "より競争力を高めるために、売上総利益を改善する必要があります。"
+  },
+  {
+    "word": "Solvency",
+    "phonetic": "/ˈsɑːlvənsi/",
+    "meaning": "支払能力",
+    "example": "The company's solvency is being questioned by investors.",
+    "example_ja": "会社の支払能力が投資家から疑問視されています。"
+  },
+  {
+    "word": "Fiscal policy",
+    "phonetic": "/ˈfɪskl ˈpɑːləsi/",
+    "meaning": "財政政策",
+    "example": "The government is adjusting its fiscal policy to stimulate growth.",
+    "example_ja": "政府は成長を刺激するために財政政策を調整しています。"
+  },
+  {
+    "word": "Return on investment",
+    "phonetic": "/rɪˈtɜːrn ɑːn ɪnˈvestmənt/",
+    "meaning": "投資利益率（ROI）",
+    "example": "The ROI for our latest project was much higher than expected.",
+    "example_ja": "最新のプロジェクトのROIは、予想をはるかに上回りました。"
+  },
+  {
+    "word": "Customer journey",
+    "phonetic": "/ˈkʌstəmər ˈdʒɜːrni/",
+    "meaning": "カスタマージャーニー（顧客の購入プロセス）",
+    "example": "Mapping the customer journey helps identify pain points.",
+    "example_ja": "カスタマージャーニーをマッピングすることで、不満点（ペインポイント）を特定できます。"
+  },
+  {
+    "word": "SEO",
+    "phonetic": "/ˌes iː ˈoʊ/",
+    "meaning": "検索エンジン最適化",
+    "example": "SEO is essential for increasing organic search traffic.",
+    "example_ja": "オーガニック検索トラフィックを増やすためには、SEOが不可欠です。"
+  },
+  {
+    "word": "CRM",
+    "phonetic": "/ˌsiː ɑːr ˈem/",
+    "meaning": "顧客関係管理",
+    "example": "Our CRM system stores all client communication history.",
+    "example_ja": "当社のCRMシステムには、すべての顧客との通信履歴が保存されています。"
+  },
+  {
+    "word": "Viral",
+    "phonetic": "/ˈvaɪrəl/",
+    "meaning": "バイラル、爆発的に広まること",
+    "example": "Our new video advertisement went viral on TikTok.",
+    "example_ja": "私たちの新しい動画広告は、TikTokで爆発的に広まりました。"
+  },
+  {
+    "word": "Cold calling",
+    "phonetic": "/koʊld ˈkɔːlɪŋ/",
+    "meaning": "コールドコール、飛び込み電話",
+    "example": "Many salespeople dislike cold calling potential clients.",
+    "example_ja": "多くの営業担当者は、見込み客への飛び込み電話を嫌います。"
+  },
+  {
+    "word": "E-commerce",
+    "phonetic": "/ˈiː kɑːmɜːrs/",
+    "meaning": "電子商取引",
+    "example": "The shift to e-commerce has accelerated over the last few years.",
+    "example_ja": "電子商取引への移行は、ここ数年で加速しました。"
+  },
+  {
+    "word": "Strategic planning",
+    "phonetic": "/strəˈtiːdʒɪk ˈplænɪŋ/",
+    "meaning": "戦略的計画",
+    "example": "Strategic planning is a key function of senior management.",
+    "example_ja": "戦略的計画は、経営陣の主要な機能です。"
+  },
+  {
+    "word": "Crisis management",
+    "phonetic": "/ˈkraɪsɪs ˈmænɪdʒmənt/",
+    "meaning": "危機管理",
+    "example": "The PR team is handling the crisis management.",
+    "example_ja": "広報チームが危機管理を担当しています。"
+  },
+  {
+    "word": "Succession planning",
+    "phonetic": "/səkˈseʃn ˈplænɪŋ/",
+    "meaning": "後継者育成計画",
+    "example": "Succession planning ensures a smooth leadership transition.",
+    "example_ja": "後継者育成計画により、スムーズなリーダーシップの交代が保証されます。"
+  },
+  {
+    "word": "Venture capital",
+    "phonetic": "/ˈventʃər ˈkæpɪtl/",
+    "meaning": "ベンチャーキャピタル",
+    "example": "The firm raised $10 million in venture capital.",
+    "example_ja": "その企業は、ベンチャーキャピタルから1,000万ドルを調達しました。"
+  },
+  {
+    "word": "Job description",
+    "phonetic": "/dʒɑːb dɪˈskrɪpʃn/",
+    "meaning": "職務記述書",
+    "example": "The job description outlines the key responsibilities of the role.",
+    "example_ja": "職務記述書には、その職務の主要な責任が概説されています。"
+  },
+  {
+    "word": "Severance pay",
+    "phonetic": "/ˈsevərəns peɪ/",
+    "meaning": "解雇手当",
+    "example": "Laid-off workers received three months of severance pay.",
+    "example_ja": "一時解雇された労働者は、3ヶ月分の解雇手当を受け取りました。"
+  },
+  {
+    "word": "Flexible hours",
+    "phonetic": "/ˈfleksəbl ˈaʊərz/",
+    "meaning": "フレックスタイム制、自由勤務時間",
+    "example": "Flexible hours allow employees to manage their own schedules.",
+    "example_ja": "フレックスタイム制により、従業員は自分のスケジュールを管理できます。"
+  },
+  {
+    "word": "Deadlock",
+    "phonetic": "/ˈdedlɑːk/",
+    "meaning": "行き詰まり、デッドロック",
+    "example": "The negotiations reached a deadlock over salary increases.",
+    "example_ja": "交渉は給与の引き上げをめぐって行き詰まりに達しました。"
+  },
+  {
+    "word": "Concession",
+    "phonetic": "/kənˈseʃn/",
+    "meaning": "譲歩",
+    "example": "Both sides had to make concessions to reach an agreement.",
+    "example_ja": "合意に達するために、双方が譲歩しなければなりませんでした。"
+  },
+  {
+    "word": "Facilitator",
+    "phonetic": "/fəˈsɪlɪteɪtər/",
+    "meaning": "進行役、ファシリテーター",
+    "example": "A facilitator was hired to lead the workshop.",
+    "example_ja": "ワークショップを主導するために、ファシリテーターが雇われました。"
+  },
+  {
+    "word": "Briefing",
+    "phonetic": "/ˈbriːfɪŋ/",
+    "meaning": "状況説明、ブリーフィング",
+    "example": "The team had a short briefing before the client arrived.",
+    "example_ja": "チームはクライアントが到着する前に短いブリーフィングを行いました。"
+  },
+  {
+    "word": "Constructive criticism",
+    "phonetic": "/kənˈstrʌktɪv ˈkrɪtɪsɪzəm/",
+    "meaning": "建設的な批判",
+    "example": "He provided constructive criticism to help me improve my report.",
+    "example_ja": "彼は私の報告書を改善するのを助けるために、建設的な批判をしてくれました。"
+  },
+  {
+    "word": "Kick-off meeting",
+    "phonetic": "/ˈkɪk ɔːf ˈmiːtɪŋ/",
+    "meaning": "キックオフ会議（最初の会合）",
+    "example": "The project kick-off meeting is scheduled for Monday morning.",
+    "example_ja": "プロジェクトのキックオフ会議は、月曜日の朝に予定されています。"
+  },
+  {
+    "word": "Icebreaker",
+    "phonetic": "/ˈaɪsbreɪkər/",
+    "meaning": "アイスブレイク（緊張を解くためのもの）",
+    "example": "We started the meeting with a fun icebreaker activity.",
+    "example_ja": "楽しいアイスブレイクの活動で会議を始めました。"
+  },
+  {
+    "word": "Adjourn",
+    "phonetic": "/əˈdʒɜːrn/",
+    "meaning": "中断する、休会する",
+    "example": "The meeting was adjourned until tomorrow afternoon.",
+    "example_ja": "会議は明日の午後まで中断されました。"
+  },
+  {
+    "word": "Paradigm shift",
+    "phonetic": "/ˈpærədaɪm ʃɪft/",
+    "meaning": "パラダイムシフト（考え方の劇的な変化）",
+    "example": "The invention of the smartphone caused a paradigm shift in communication.",
+    "example_ja": "スマートフォンの発明は、コミュニケーションにおけるパラダイムシフトを引き起こしました。"
+  },
+  {
+    "word": "Take it offline",
+    "phonetic": "/teɪk ɪt ˌɔːfˈlaɪn/",
+    "meaning": "（会議中などで）後で個別に話し合う",
+    "example": "This is a detailed issue, let's take it offline.",
+    "example_ja": "これは詳細な問題ですので、後で個別に話し合いましょう。"
+  },
+  {
+    "word": "Drill down",
+    "phonetic": "/drɪl daʊn/",
+    "meaning": "（データを）掘り下げる、詳細に分析する",
+    "example": "We need to drill down into the sales data to find the cause of the decline.",
+    "example_ja": "下落の原因を見つけるために、売上データを掘り下げる必要があります。"
+  },
+  {
+    "word": "Moving the needle",
+    "phonetic": "/ˈmuːvɪŋ ðə ˈniːdl/",
+    "meaning": "状況を大きく変える、成果を出す",
+    "example": "This new marketing strategy is finally moving the needle on sales.",
+    "example_ja": "この新しいマーケティング戦略により、ついに売上の成果が出始めています。"
+  },
+  {
+    "word": "Value-add",
+    "phonetic": "/ˈvæljuː æd/",
+    "meaning": "付加価値、価値を高めるもの",
+    "example": "What is the value-add of choosing our company over a competitor?",
+    "example_ja": "競合他社ではなく当社を選ぶ付加価値は何ですか？"
+  },
+  {
+    "word": "Data-driven",
+    "phonetic": "/ˈdeɪtə ˈdrɪvn/",
+    "meaning": "データ主導の、データに基づいた",
+    "example": "We use a data-driven approach to make business decisions.",
+    "example_ja": "私たちはデータに基づいたアプローチでビジネスの意思決定を行います。"
+  },
+  {
+    "word": "AI integration",
+    "phonetic": "/ˌeɪ ˈaɪ ˌɪntɪˈɡreɪʃn/",
+    "meaning": "AI統合、AI導入",
+    "example": "AI integration is helping us automate customer support.",
+    "example_ja": "AIの導入により、カスタマーサポートの自動化が進んでいます。"
+  },
+  {
+    "word": "User interface",
+    "phonetic": "/ˈjuːzər ˈɪntərfeɪs/",
+    "meaning": "ユーザーインターフェース（UI）",
+    "example": "The software has a very clean and intuitive user interface.",
+    "example_ja": "そのソフトウェアは、非常にクリーンで直感的なユーザーインターフェースを備えています。"
+  },
+  {
+    "word": "Blockchain",
+    "phonetic": "/ˈblɑːktʃeɪn/",
+    "meaning": "ブロックチェーン",
+    "example": "Blockchain technology is used in many financial applications.",
+    "example_ja": "ブロックチェーン技術は、多くの金融アプリケーションで使用されています。"
+  },
+  {
+    "word": "Rebate",
+    "phonetic": "/ˈriːbeɪt/",
+    "meaning": "リベート、返金",
+    "example": "We offer a mail-in rebate for this laptop.",
+    "example_ja": "このノートパソコンには郵送によるリベート（返金）を提供しています。"
+  },
+  {
+    "word": "Wholesale",
+    "phonetic": "/ˈhoʊlseɪl/",
+    "meaning": "卸売り",
+    "example": "We buy our products wholesale and sell them at retail prices.",
+    "example_ja": "当社は製品を卸売りで買い、小売価格で販売しています。"
+  },
+  {
+    "word": "Retail",
+    "phonetic": "/ˈriːteɪl/",
+    "meaning": "小売り",
+    "example": "Retail sales have increased due to the holiday season.",
+    "example_ja": "ホリデーシーズンの影響で、小売売上高が増加しました。"
+  },
+  {
+    "word": "Indemnity",
+    "phonetic": "/ɪnˈdemnəti/",
+    "meaning": "補償、免責",
+    "example": "The contract includes an indemnity clause.",
+    "example_ja": "契約には補償条項が含まれています。"
+  },
+  {
+    "word": "Patent",
+    "phonetic": "/ˈpætnt/",
+    "meaning": "特許、特許権",
+    "example": "The company holds several patents for its new technology.",
+    "example_ja": "その会社は、自社の新技術について複数の特許を保有しています。"
+  },
+  {
+    "word": "Layoff",
+    "phonetic": "/ˈleɪɔːf/",
+    "meaning": "一時解雇、レイオフ",
+    "example": "The company announced a large layoff due to the economic downturn.",
+    "example_ja": "景気後退のため、その会社は大規模なレイオフを発表しました。"
+  },
+  {
+    "word": "Appraisal",
+    "phonetic": "/əˈpreɪzl/",
+    "meaning": "評価、鑑定",
+    "example": "He had his annual performance appraisal this morning.",
+    "example_ja": "彼は今朝、年次の人事考課（評価）を受けました。"
+  },
+  {
+    "word": "Commute",
+    "phonetic": "/kəˈmjuːt/",
+    "meaning": "通勤する",
+    "example": "My daily commute takes about 45 minutes by train.",
+    "example_ja": "私の毎日の通勤は電車で約45分かかります。"
+  },
+  {
+    "word": "Co-working space",
+    "phonetic": "/ˌkoʊ ˈwɜːrkɪŋ speɪs/",
+    "meaning": "コワーキングスペース",
+    "example": "Many freelancers prefer working in a co-working space.",
+    "example_ja": "多くのフリーランサーが、コワーキングスペースで働くことを好みます。"
+  },
+  {
+    "word": "Elevator pitch",
+    "phonetic": "/ˈelɪveɪtər pɪtʃ/",
+    "meaning": "エレベーターピッチ（短時間の自己紹介・提案）",
+    "example": "Prepare an elevator pitch in case you meet the CEO.",
+    "example_ja": "CEOに会った場合に備えて、エレベーターピッチを準備しておきなさい。"
+  },
+  {
+    "word": "Trade show",
+    "phonetic": "/ˈtreɪd ʃoʊ/",
+    "meaning": "見本市、展示会",
+    "example": "We are exhibiting our new products at the tech trade show.",
+    "example_ja": "テック見本市で当社の新製品を展示しています。"
+  },
+  {
+    "word": "Parent company",
+    "phonetic": "/ˈperənt ˈkʌmpəni/",
+    "meaning": "親会社",
+    "example": "The parent company is based in New York.",
+    "example_ja": "親会社はニューヨークに拠点を置いています。"
+  },
+  {
+    "word": "Contractor",
+    "phonetic": "/ˈkɑːntræktər/",
+    "meaning": "請負業者、契約社員",
+    "example": "The building was renovated by an independent contractor.",
+    "example_ja": "その建物は、独立した請負業者によって改装されました。"
+  },
+  {
+    "word": "Vice President",
+    "phonetic": "/ˌvaɪs ˈprezɪdənt/",
+    "meaning": "副社長、副総裁",
+    "example": "She was recently promoted to Vice President of Sales.",
+    "example_ja": "彼女は最近、営業部門の副社長に昇進しました。"
+  },
+  {
+    "word": "CFO",
+    "phonetic": "/ˌsiː ef ˈoʊ/",
+    "meaning": "最高財務責任者",
+    "example": "The CFO presented the financial results to the board.",
+    "example_ja": "CFOが取締役会に対して財務結果を発表しました。"
+  },
+  {
+    "word": "Exchange rate",
+    "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+    "meaning": "為替レート",
+    "example": "The fluctuating exchange rate is affecting our international profits.",
+    "example_ja": "変動する為替レートが、私たちの国際的な利益に影響を与えています。"
+  },
+  {
+    "word": "Credit rating",
+    "phonetic": "/ˈkredɪt ˈreɪtɪŋ/",
+    "meaning": "信用格付け",
+    "example": "The company's credit rating was upgraded last week.",
+    "example_ja": "先週、その会社の信用格付けが引き上げられました。"
+  },
+  {
+    "word": "Debt",
+    "phonetic": "/det/",
+    "meaning": "借金、負債",
+    "example": "The firm is struggling to pay off its massive debt.",
+    "example_ja": "その企業は、巨額の負債を完済するのに苦労しています。"
+  },
+  {
+    "word": "Loan",
+    "phonetic": "/loʊn/",
+    "meaning": "ローン、貸付金",
+    "example": "The bank approved our application for a business loan.",
+    "example_ja": "銀行は当社のビジネスローンの申請を承認しました。"
+  },
+  {
+    "word": "Customer satisfaction",
+    "phonetic": "/ˈkʌstəmər ˌsætɪsˈfækʃn/",
+    "meaning": "顧客満足度",
+    "example": "Our goal is to achieve 100% customer satisfaction.",
+    "example_ja": "私たちの目標は、顧客満足度100%を達成することです。"
+  },
+  {
+    "word": "Brand loyalty",
+    "phonetic": "/brænd ˈlɔɪəlti/",
+    "meaning": "ブランドロイヤリティ、ブランドへの忠誠心",
+    "example": "Good customer service helps build brand loyalty.",
+    "example_ja": "優れた顧客サービスは、ブランドロイヤリティを築くのに役立ちます。"
+  },
+  {
+    "word": "Survey",
+    "phonetic": "/ˈsɜːrveɪ/",
+    "meaning": "調査、アンケート",
+    "example": "The online survey gathered feedback from over 1,000 customers.",
+    "example_ja": "オンラインアンケートにより、1,000人以上の顧客からフィードバックが集まりました。"
+  },
+  {
+    "word": "Customer lifetime value",
+    "phonetic": "/ˈkʌstəmər ˈlaɪftaɪm ˈvæljuː/",
+    "meaning": "顧客生涯価値（CLV）",
+    "example": "We are focusing on high-value segments to increase CLV.",
+    "example_ja": "CLVを高めるために、高価値なセグメントに注力しています。"
+  },
+  {
+    "word": "Bounce rate",
+    "phonetic": "/baʊns reɪt/",
+    "meaning": "直帰率",
+    "example": "A high bounce rate indicates that visitors are not finding what they need.",
+    "example_ja": "直帰率が高いということは、訪問者が必要なものを見つけられていないことを示しています。"
+  },
+  {
+    "word": "Click-through rate",
+    "phonetic": "/ˈklɪk θruː reɪt/",
+    "meaning": "クリック率（CTR）",
+    "example": "Our latest ad campaign had a very high click-through rate.",
+    "example_ja": "最新の広告キャンペーンは、非常に高いクリック率を記録しました。"
+  },
+  {
+    "word": "Content marketing",
+    "phonetic": "/ˈkɑːntent ˈmɑːrkɪtɪŋ/",
+    "meaning": "コンテンツマーケティング",
+    "example": "Content marketing involves creating valuable articles to attract customers.",
+    "example_ja": "コンテンツマーケティングには、顧客を惹きつけるために価値のある記事を作成することが含まれます。"
+  },
+  {
+    "word": "Guerrilla marketing",
+    "phonetic": "/ɡəˈrɪlə ˈmɑːrkɪtɪŋ/",
+    "meaning": "ゲリラマーケティング",
+    "example": "The brand used guerrilla marketing to create a buzz in the city.",
+    "example_ja": "そのブランドは、街で話題を作るためにゲリラマーケティングを使用しました。"
+  },
+  {
+    "word": "Equity",
+    "phonetic": "/ˈekwəti/",
+    "meaning": "株式、持分",
+    "example": "Employees were offered equity in the company as part of their package.",
+    "example_ja": "従業員にはパッケージの一部として会社の株式が提供されました。"
+  },
+  {
+    "word": "Liquidation",
+    "phonetic": "/ˌlɪkwɪˈdeɪʃn/",
+    "meaning": "清算、換金",
+    "example": "The company went into liquidation after failing to find a buyer.",
+    "example_ja": "買い手が見つからなかったため、その会社は清算に入りました。"
+  },
+  {
+    "word": "Appreciation",
+    "phonetic": "/əˌpriːʃiˈeɪʃn/",
+    "meaning": "価値の上昇、感謝",
+    "example": "Property values in the area have seen significant appreciation.",
+    "example_ja": "その地域の不動産価値は大幅に上昇しました。"
+  },
+  {
+    "word": "Bearish",
+    "phonetic": "/ˈberɪʃ/",
+    "meaning": "弱気の（相場が下がると予想する）",
+    "example": "Analysts are bearish about the stock's performance this year.",
+    "example_ja": "アナリストは、今年の株価のパフォーマンスについて弱気です。"
+  },
+  {
+    "word": "Bullish",
+    "phonetic": "/ˈbʊlɪʃ/",
+    "meaning": "強気の（相場が上がると予想する）",
+    "example": "She is bullish on the prospects of the tech sector.",
+    "example_ja": "彼女はテックセクターの見通しについて強気です。"
+  },
+  {
+    "word": "Blue-chip company",
+    "phonetic": "/ˌbluː ˈtʃɪp ˈkʌmpəni/",
+    "meaning": "優良企業、ブルーチップ企業",
+    "example": "Investing in blue-chip companies is generally considered safer.",
+    "example_ja": "優良企業への投資は、一般的に安全であると考えられています。"
+  },
+  {
+    "word": "Benchmark",
+    "phonetic": "/ˈbentʃmɑːrk/",
+    "meaning": "指標、基準",
+    "example": "The S&P 500 is often used as a benchmark for the stock market.",
+    "example_ja": "S&P 500は、株式市場の指標としてよく使われます。"
+  },
+  {
+    "word": "Capital gains",
+    "phonetic": "/ˈkæpɪtl ɡeɪnz/",
+    "meaning": "譲渡益、キャピタルゲイン",
+    "example": "Investors have to pay taxes on their capital gains.",
+    "example_ja": "投資家は譲渡益に対して税金を支払わなければなりません。"
+  },
+  {
+    "word": "Commodity",
+    "phonetic": "/kəˈmɑːdəti/",
+    "meaning": "商品、日用品（原油・金など）",
+    "example": "Gold is a popular commodity for investors during uncertain times.",
+    "example_ja": "金は、不安定な時期に投資家に人気のある商品です。"
+  },
+  {
+    "word": "Default",
+    "phonetic": "/dɪˈfɔːlt/",
+    "meaning": "債務不履行、デフォルト",
+    "example": "The country defaulted on its international debt.",
+    "example_ja": "その国は国際債務の不履行（デフォルト）に陥りました。"
+  },
+  {
+    "word": "Derivatives",
+    "phonetic": "/dɪˈrɪvətɪvz/",
+    "meaning": "金融派生商品、デリバティブ",
+    "example": "Trading in derivatives can involve a high level of risk.",
+    "example_ja": "デリバティブ取引には、高いレベルのリスクが伴う可能性があります。"
+  },
+  {
+    "word": "Diversified",
+    "phonetic": "/daɪˈvɜːrsɪfaɪd/",
+    "meaning": "多様な、多角化した",
+    "example": "A diversified portfolio helps protect against market volatility.",
+    "example_ja": "多様なポートフォリオは、市場の変動から身を守るのに役立ちます。"
+  },
+  {
+    "word": "Insolvency",
+    "phonetic": "/ɪnˈsɑːlvənsi/",
+    "meaning": "支払不能",
+    "example": "The business was forced to close due to insolvency.",
+    "example_ja": "その事業は、支払不能のために閉鎖を余儀なくされました。"
+  },
+  {
+    "word": "Interest rate",
+    "phonetic": "/ˈɪntrəst reɪt/",
+    "meaning": "金利、利息",
+    "example": "Low interest rates make it cheaper to borrow money.",
+    "example_ja": "低金利により、お金を借りるコストが安くなります。"
+  },
+  {
+    "word": "Leveraged buyout",
+    "phonetic": "/ˈlevərɪdʒd ˈbaɪaʊt/",
+    "meaning": "LBO、借入金による企業買収",
+    "example": "The company was acquired in a leveraged buyout.",
+    "example_ja": "その会社は、LBO（レバレッジド・バイアウト）によって買収されました。"
+  },
+  {
+    "word": "Market capitalization",
+    "phonetic": "/ˈmɑːrkɪt ˌkæpɪtələˈzeɪʃn/",
+    "meaning": "時価総額",
+    "example": "Apple has one of the largest market capitalizations in the world.",
+    "example_ja": "アップルは世界最大級の時価総額を持っています。"
+  },
+  {
+    "word": "Mutual fund",
+    "phonetic": "/ˈmjuːtʃuəl fʌnd/",
+    "meaning": "投資信託",
+    "example": "Many people invest in mutual funds for their retirement.",
+    "example_ja": "多くの人が退職後のために投資信託に投資しています。"
+  },
+  {
+    "word": "Net worth",
+    "phonetic": "/net wɜːrθ/",
+    "meaning": "純資産",
+    "example": "The billionaire's net worth is estimated at $50 billion.",
+    "example_ja": "その億万長者の純資産は500億ドルと推定されています。"
+  },
+  {
+    "word": "Price-earnings ratio",
+    "phonetic": "/praɪs ˈɜːrnɪŋz ˈreɪʃioʊ/",
+    "meaning": "株価収益率（PER）",
+    "example": "The P/E ratio is a key metric for evaluating a company's stock.",
+    "example_ja": "PERは、企業の株価を評価するための主要な指標です。"
+  },
+  {
+    "word": "Securities",
+    "phonetic": "/səˈkjʊrətiz/",
+    "meaning": "証券",
+    "example": "The firm deals in government and corporate securities.",
+    "example_ja": "その企業は、政府および企業の証券を扱っています。"
+  },
+  {
+    "word": "Speculation",
+    "phonetic": "/ˌspekjuˈleɪʃn/",
+    "meaning": "投機、推測",
+    "example": "Real estate speculation led to a housing bubble.",
+    "example_ja": "不動産投機が住宅バブルを引き起こしました。"
+  },
+  {
+    "word": "Working capital",
+    "phonetic": "/ˈwɜːrkɪŋ ˈkæpɪtl/",
+    "meaning": "運転資本",
+    "example": "The company needs more working capital to run its daily operations.",
+    "example_ja": "会社は日々の業務を運営するために、より多くの運転資本を必要としています。"
+  },
+  {
+    "word": "Yield",
+    "phonetic": "/jiːld/",
+    "meaning": "利回り、収穫量",
+    "example": "High-yield bonds offer better returns but carry more risk.",
+    "example_ja": "高利回り債はより良いリターンを提供しますが、リスクも高くなります。"
+  },
+  {
+    "word": "Acknowledge",
+    "phonetic": "/əkˈnɑːlɪdʒ/",
+    "meaning": "認める、受領を知らせる",
+    "example": "Please acknowledge receipt of this email.",
+    "example_ja": "このメールの受領を知らせてください。"
+  },
+  {
+    "word": "Affiliate",
+    "phonetic": "/əˈfɪlieɪt/",
+    "meaning": "提携する、関係会社",
+    "example": "The store is an affiliate of a larger retail chain.",
+    "example_ja": "その店は、大手小売チェーンの関係会社です。"
+  },
+  {
+    "word": "Amalgamation",
+    "phonetic": "/əˌmælɡəˈmeɪʃn/",
+    "meaning": "合併、統合",
+    "example": "The amalgamation of the two departments saved costs.",
+    "example_ja": "2つの部署の統合によりコストが削減されました。"
+  },
+  {
+    "word": "Annuity",
+    "phonetic": "/əˈnuːəti/",
+    "meaning": "年金",
+    "example": "He invested his savings in a fixed annuity.",
+    "example_ja": "彼は貯金を固定年金に投資しました。"
+  },
+  {
+    "word": "Arbitration",
+    "phonetic": "/ˌɑːrbɪˈtreɪʃn/",
+    "meaning": "仲裁",
+    "example": "The dispute was settled through arbitration.",
+    "example_ja": "紛争は仲裁を通じて解決されました。"
+  },
+  {
+    "word": "Articles of association",
+    "phonetic": "/ˈɑːrtɪklz əv əˌsoʊsiˈeɪʃn/",
+    "meaning": "定款",
+    "example": "The articles of association define the company's internal rules.",
+    "example_ja": "定款は会社の内部規則を定義しています。"
+  },
+  {
+    "word": "Bailout",
+    "phonetic": "/ˈbeɪlaʊt/",
+    "meaning": "救済措置、公的資金注入",
+    "example": "The bank received a government bailout during the financial crisis.",
+    "example_ja": "その銀行は金融危機の際に政府の救済措置を受けました。"
+  },
+  {
+    "word": "Balance sheet",
+    "phonetic": "/ˈbæləns ʃiːt/",
+    "meaning": "貸借対照表（バランスシート）",
+    "example": "The balance sheet shows the company's assets and liabilities.",
+    "example_ja": "貸借対照表は会社の資産と負債を示しています。"
+  },
+  {
+    "word": "Board of directors",
+    "phonetic": "/bɔːrd əv dəˈrektərz/",
+    "meaning": "取締役会",
+    "example": "The board of directors approved the new CEO.",
+    "example_ja": "取締役会は新しいCEOを承認しました。"
+  },
+  {
+    "word": "Breakeven point",
+    "phonetic": "/ˈbreɪkˌiːvən pɔɪnt/",
+    "meaning": "損益分岐点",
+    "example": "We expect to reach the breakeven point by next year.",
+    "example_ja": "来年までに損益分岐点に達すると予想しています。"
+  },
+  {
+    "word": "Brokerage",
+    "phonetic": "/ˈbroʊkərɪdʒ/",
+    "meaning": "仲介、仲介手数料",
+    "example": "The brokerage firm charges a commission on each trade.",
+    "example_ja": "その仲介業者は各取引に手数料を課します。"
   }
 ]

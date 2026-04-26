@@ -14,6 +14,13 @@
     "example_ja": "動きを止めるには、速いシャッタースピードを使用してください。"
   },
   {
+    "word": "ISO",
+    "phonetic": "/ˌaɪ es ˈoʊ/",
+    "meaning": "ISO感度",
+    "example": "Increasing the ISO allows you to shoot in low light.",
+    "example_ja": "ISO感度を上げると、暗い場所でも撮影できるようになります。"
+  },
+  {
     "word": "Exposure",
     "phonetic": "/ɪkˈspoʊʒər/",
     "meaning": "露出",
@@ -35,6 +42,34 @@
     "example_ja": "長い焦点距離はポートレート撮影に適しています。"
   },
   {
+    "word": "Depth of field",
+    "phonetic": "/depθ əv fiːld/",
+    "meaning": "被写界深度",
+    "example": "You can control the depth of field by changing the aperture.",
+    "example_ja": "絞りを変えることで被写界深度をコントロールできます。"
+  },
+  {
+    "word": "Bokeh",
+    "phonetic": "/ˈboʊkə/",
+    "meaning": "ボケ",
+    "example": "The lens produces a beautiful, creamy bokeh.",
+    "example_ja": "そのレンズは美しく、クリーミーなボケ味を出します。"
+  },
+  {
+    "word": "White balance",
+    "phonetic": "/waɪt ˈbæləns/",
+    "meaning": "ホワイトバランス",
+    "example": "Adjust the white balance to correct the color cast.",
+    "example_ja": "色かぶりを補正するためにホワイトバランスを調整してください。"
+  },
+  {
+    "word": "RAW",
+    "phonetic": "/rɔː/",
+    "meaning": "RAW（生のデータ形式）",
+    "example": "Shooting in RAW gives you more flexibility in post-processing.",
+    "example_ja": "RAWで撮影すると、後処理での柔軟性が高まります。"
+  },
+  {
     "word": "Viewfinder",
     "phonetic": "/ˈvjuːfaɪndər/",
     "meaning": "ファインダー",
@@ -54,20 +89,6 @@
     "meaning": "フラッシュ、閃光",
     "example": "The flash was too bright and washed out the colors.",
     "example_ja": "フラッシュが明るすぎて色が白っぽくなってしまいました。"
-  },
-  {
-    "word": "Depth of field",
-    "phonetic": "/depθ əv fiːld/",
-    "meaning": "被写界深度",
-    "example": "You can control the depth of field by changing the aperture.",
-    "example_ja": "絞りを変えることで被写界深度をコントロールできます。"
-  },
-  {
-    "word": "ISO",
-    "phonetic": "/ˌaɪ es ˈoʊ/",
-    "meaning": "ISO感度",
-    "example": "Increasing the ISO allows you to shoot in low light.",
-    "example_ja": "ISO感度を上げると、暗い場所でも撮影できるようになります。"
   },
   {
     "word": "Saturation",
@@ -133,13 +154,6 @@
     "example_ja": "ゴールデンアワーの光は柔らかく、温かみがあります。"
   },
   {
-    "word": "Bokeh",
-    "phonetic": "/ˈboʊkə/",
-    "meaning": "ボケ",
-    "example": "The lens produces a beautiful, creamy bokeh.",
-    "example_ja": "そのレンズは美しく、クリーミーなボケ味を出します。"
-  },
-  {
     "word": "Underexposed",
     "phonetic": "/ˌʌndərɪkˈspoʊzd/",
     "meaning": "露出不足の",
@@ -152,13 +166,6 @@
     "meaning": "露出過度の",
     "example": "The sky is overexposed and has no detail.",
     "example_ja": "空が露出過度で、ディテールがありません。"
-  },
-  {
-    "word": "White balance",
-    "phonetic": "/waɪt ˈbæləns/",
-    "meaning": "ホワイトバランス",
-    "example": "Adjust the white balance to correct the color cast.",
-    "example_ja": "色かぶりを補正するためにホワイトバランスを調整してください。"
   },
   {
     "word": "Resolution",
@@ -190,7 +197,7 @@
   },
   {
     "word": "Shutter release",
-    "phonetic": "/ˈʌtər rɪˈliːs/",
+    "phonetic": "/ˈʃʌtər rɪˈliːs/",
     "meaning": "シャッターボタン",
     "example": "Gently press the shutter release to take the picture.",
     "example_ja": "写真を撮るには、シャッターボタンを軽く押してください。"
@@ -208,5 +215,1538 @@
     "meaning": "ありのままの、スナップ写真",
     "example": "She loves taking candid photos of people in the street.",
     "example_ja": "彼女は街の人々のありのままの姿（キャンディッドフォト）を撮るのが大好きです。"
+  },
+  {
+    "word": "Auto-focus",
+    "phonetic": "/ˈɔːtoʊ ˈfoʊkəs/",
+    "meaning": "オートフォーカス",
+    "example": "The camera's auto-focus is fast and accurate.",
+    "example_ja": "そのカメラのオートフォーカスは速くて正確です。"
+  },
+  {
+    "word": "Manual focus",
+    "phonetic": "/ˈmænjuəl ˈfoʊkəs/",
+    "meaning": "マニュアルフォーカス",
+    "example": "Manual focus is often preferred for macro photography.",
+    "example_ja": "マクロ撮影では、マニュアルフォーカスが好まれることが多いです。"
+  },
+  {
+    "word": "Mirrorless",
+    "phonetic": "/ˈmɪrərləs/",
+    "meaning": "ミラーレス",
+    "example": "Mirrorless cameras are generally more compact than DSLRs.",
+    "example_ja": "ミラーレスカメラは一般的にデジタル一眼レフよりもコンパクトです。"
+  },
+  {
+    "word": "DSLR",
+    "phonetic": "/ˌdiː es el ˈɑːr/",
+    "meaning": "デジタル一眼レフ",
+    "example": "He still prefers the optical viewfinder of a DSLR.",
+    "example_ja": "彼は今でもデジタル一眼レフの光学ファインダーを好みます。"
+  },
+  {
+    "word": "Prime lens",
+    "phonetic": "/praɪm lenz/",
+    "meaning": "単焦点レンズ",
+    "example": "A prime lens has a fixed focal length.",
+    "example_ja": "単焦点レンズは焦点距離が固定されています。"
+  },
+  {
+    "word": "Zoom lens",
+    "phonetic": "/zuːm lenz/",
+    "meaning": "ズームレンズ",
+    "example": "A zoom lens is versatile for different types of photography.",
+    "example_ja": "ズームレンズは、さまざまな種類の撮影に汎用性があります。"
+  },
+  {
+    "word": "F-stop",
+    "phonetic": "/ˈef stɑːp/",
+    "meaning": "F値、絞り値",
+    "example": "The lens has a maximum aperture of f/2.8.",
+    "example_ja": "そのレンズの最大絞り値はf/2.8です。"
+  },
+  {
+    "word": "Metering",
+    "phonetic": "/ˈmiːtərɪŋ/",
+    "meaning": "測光",
+    "example": "Spot metering is useful for subjects with backlighting.",
+    "example_ja": "スポット測光は、逆光のある被写体に便利です。"
+  },
+  {
+    "word": "Burst mode",
+    "phonetic": "/bɜːrst moʊd/",
+    "meaning": "連写モード",
+    "example": "Use burst mode to capture fast-moving action.",
+    "example_ja": "素早く動くアクションを捉えるには、連写モードを使用してください。"
+  },
+  {
+    "word": "Continuous AF",
+    "phonetic": "/kənˈtɪnjuəs eɪ ef/",
+    "meaning": "コンティニュアスAF、追従オートフォーカス",
+    "example": "Continuous AF keeps the subject in focus while it moves.",
+    "example_ja": "コンティニュアスAFは、被写体が動いている間もピントを合わせ続けます。"
+  },
+  {
+    "word": "Aspect ratio",
+    "phonetic": "/ˈæspekt ˈreɪʃioʊ/",
+    "meaning": "アスペクト比、縦横比",
+    "example": "The standard aspect ratio for most DSLRs is 3:2.",
+    "example_ja": "ほとんどのデジタル一眼レフの標準的なアスペクト比は3:2です。"
+  },
+  {
+    "word": "Rule of thirds",
+    "phonetic": "/ruːl əv θɜːrdz/",
+    "meaning": "三分割法",
+    "example": "The rule of thirds helps create a more balanced composition.",
+    "example_ja": "三分割法は、よりバランスの取れた構図を作るのに役立ちます。"
+  },
+  {
+    "word": "Leading lines",
+    "phonetic": "/ˈliːdɪŋ laɪnz/",
+    "meaning": "リーディングライン、視線誘導の線",
+    "example": "Leading lines guide the viewer's eye into the frame.",
+    "example_ja": "リーディングラインは、見る人の視線をフレーム内へと誘導します。"
+  },
+  {
+    "word": "Backlighting",
+    "phonetic": "/ˈbæklaɪtɪŋ/",
+    "meaning": "逆光",
+    "example": "Backlighting can create a beautiful halo effect around the subject.",
+    "example_ja": "逆光は、被写体の周りに美しいハロー（光輪）効果を作り出すことができます。"
+  },
+  {
+    "word": "Lens flare",
+    "phonetic": "/lenz fler/",
+    "meaning": "レンズフレア",
+    "example": "Lens flare occurs when light reflects inside the lens.",
+    "example_ja": "レンズフレアは、光がレンズ内部で反射したときに起こります。"
+  },
+  {
+    "word": "Color temperature",
+    "phonetic": "/ˈkʌlər ˈtemprətʃər/",
+    "meaning": "色温度",
+    "example": "The color temperature of daylight is around 5600K.",
+    "example_ja": "日光の色温度は約5600Kです。"
+  },
+  {
+    "word": "Noise reduction",
+    "phonetic": "/nɔɪz rɪˈdʌkʃn/",
+    "meaning": "ノイズリダクション",
+    "example": "Modern software is very effective at noise reduction.",
+    "example_ja": "現代のソフトウェアはノイズリダクションに非常に効果的です。"
+  },
+  {
+    "word": "Dynamic range",
+    "phonetic": "/daɪˈnæmɪk reɪndʒ/",
+    "meaning": "ダイナミックレンジ",
+    "example": "The camera's sensor has an impressive dynamic range.",
+    "example_ja": "そのカメラのセンサーは、素晴らしいダイナミックレンジを持っています。"
+  },
+  {
+    "word": "Long exposure",
+    "phonetic": "/lɔːŋ ɪkˈspoʊʒər/",
+    "meaning": "長時間露光",
+    "example": "Long exposure makes moving water look silky smooth.",
+    "example_ja": "長時間露光は、流れる水を絹のように滑らかに見せます。"
+  },
+  {
+    "word": "Memory card",
+    "phonetic": "/ˈmeməri kɑːrd/",
+    "meaning": "メモリーカード",
+    "example": "Always use a fast memory card for 4K video recording.",
+    "example_ja": "4K動画の録画には、常に高速なメモリーカードを使用してください。"
+  },
+  {
+    "word": "Polarizing filter",
+    "phonetic": "/ˈpoʊləraɪzɪŋ ˈfɪltər/",
+    "meaning": "偏光フィルター",
+    "example": "A polarizing filter makes the blue sky look deeper.",
+    "example_ja": "偏光フィルターは青空をより深く見せます。"
+  },
+  {
+    "word": "Neutral density filter",
+    "phonetic": "/ˈnuːtrəl ˈdensəti ˈfɪltər/",
+    "meaning": "NDフィルター、減光フィルター",
+    "example": "Use a neutral density filter to shoot with a wide aperture in bright light.",
+    "example_ja": "明るい光の中で大きな絞りで撮影するには、NDフィルターを使用してください。"
+  },
+  {
+    "word": "Hot shoe",
+    "phonetic": "/hɑːt ʃuː/",
+    "meaning": "ホットシュー",
+    "example": "Attach the external flash to the camera's hot shoe.",
+    "example_ja": "外部フラッシュをカメラのホットシューに取り付けてください。"
+  },
+  {
+    "word": "Sync speed",
+    "phonetic": "/sɪŋk spiːd/",
+    "meaning": "同調速度、シンクロスピード",
+    "example": "The maximum flash sync speed is 1/250th of a second.",
+    "example_ja": "最大フラッシュ同調速度は1/250秒です。"
+  },
+  {
+    "word": "Softbox",
+    "phonetic": "/ˈsɔːftbɑːks/",
+    "meaning": "ソフトボックス",
+    "example": "A softbox creates soft, diffused lighting for portraits.",
+    "example_ja": "ソフトボックスは、ポートレート用に柔らかく拡散された光を作り出します。"
+  },
+  {
+    "word": "Reflector",
+    "phonetic": "/rɪˈflektər/",
+    "meaning": "レフ板、反射板",
+    "example": "The reflector was used to bounce light back onto the subject's face.",
+    "example_ja": "レフ板は、被写体の顔に光を反射させるために使われました。"
+  },
+  {
+    "word": "Light meter",
+    "phonetic": "/laɪt ˈmiːtər/",
+    "meaning": "露出計",
+    "example": "A handheld light meter is more accurate than the built-in one.",
+    "example_ja": "手持ちの露出計は、内蔵のものよりも正確です。"
+  },
+  {
+    "word": "Fast lens",
+    "phonetic": "/fæst lenz/",
+    "meaning": "明るいレンズ、開放F値の小さいレンズ",
+    "example": "A fast lens is great for shooting in low light conditions.",
+    "example_ja": "明るいレンズは、低照度下での撮影に最適です。"
+  },
+  {
+    "word": "Slow lens",
+    "phonetic": "/sloʊ lenz/",
+    "meaning": "暗いレンズ、開放F値の大きいレンズ",
+    "example": "Budget zoom lenses are often relatively slow lenses.",
+    "example_ja": "低価格のズームレンズは、比較的暗いレンズであることが多いです。"
+  },
+  {
+    "word": "Image stabilization",
+    "phonetic": "/ˈɪmɪdʒ ˌsteɪbələˈzeɪʃn/",
+    "meaning": "手ブレ補正",
+    "example": "Image stabilization helps prevent blurry photos at slow shutter speeds.",
+    "example_ja": "手ブレ補正は、遅いシャッタースピードでの写真のボケを防ぐのに役立ちます。"
+  },
+  {
+    "word": "Optical zoom",
+    "phonetic": "/ˈɑːptɪkl zuːm/",
+    "meaning": "光学ズーム",
+    "example": "Optical zoom provides better quality than digital zoom.",
+    "example_ja": "光学ズームはデジタルズームよりも画質が良いです。"
+  },
+  {
+    "word": "Digital zoom",
+    "phonetic": "/ˈdɪdʒɪtl zuːm/",
+    "meaning": "デジタルズーム",
+    "example": "Digital zoom often results in a loss of image quality.",
+    "example_ja": "デジタルズームはしばしば画質の低下を招きます。"
+  },
+  {
+    "word": "Megapixel",
+    "phonetic": "/ˈmeɡəpɪksl/",
+    "meaning": "メガピクセル、百万画素",
+    "example": "A higher megapixel count allows for larger prints.",
+    "example_ja": "画素数が多いほど、より大きなプリントが可能になります。"
+  },
+  {
+    "word": "Sensor size",
+    "phonetic": "/ˈsensər saɪz/",
+    "meaning": "センサーサイズ",
+    "example": "Full-frame sensors are larger than APS-C sensors.",
+    "example_ja": "フルサイズセンサーはAPS-Cセンサーよりも大きいです。"
+  },
+  {
+    "word": "Full-frame",
+    "phonetic": "/ˌfʊl ˈfreɪm/",
+    "meaning": "フルサイズ",
+    "example": "Professional photographers often prefer full-frame cameras.",
+    "example_ja": "プロのカメラマンはフルサイズカメラを好むことが多いです。"
+  },
+  {
+    "word": "Crop factor",
+    "phonetic": "/krɑːp ˈfæktər/",
+    "meaning": "クロップ係数",
+    "example": "The crop factor of this camera is 1.5x.",
+    "example_ja": "このカメラのクロップ係数は1.5倍です。"
+  },
+  {
+    "word": "Shutter lag",
+    "phonetic": "/ˈʃʌtər læɡ/",
+    "meaning": "シャッターラグ",
+    "example": "Zero shutter lag is important for capturing the right moment.",
+    "example_ja": "決定的な瞬間を捉えるには、シャッターラグがゼロであることが重要です。"
+  },
+  {
+    "word": "Shutter count",
+    "phonetic": "/ˈʃʌtər kaʊnt/",
+    "meaning": "シャッター回数",
+    "example": "The shutter count indicates how much the camera has been used.",
+    "example_ja": "シャッター回数は、カメラがどれだけ使用されたかを示します。"
+  },
+  {
+    "word": "Electronic shutter",
+    "phonetic": "/ɪˌlekˈtrɑːnɪk ˈʃʌtər/",
+    "meaning": "電子シャッター",
+    "example": "An electronic shutter allows for completely silent shooting.",
+    "example_ja": "電子シャッターを使用すると、完全に無音での撮影が可能です。"
+  },
+  {
+    "word": "Mechanical shutter",
+    "phonetic": "/məˈkænɪkl ˈʃʌtər/",
+    "meaning": "メカニカルシャッター",
+    "example": "Mechanical shutters are more effective at preventing rolling shutter distortion.",
+    "example_ja": "メカニカルシャッターは、ローリングシャッター現象による歪みを防ぐのに効果的です。"
+  },
+  {
+    "word": "Street photography",
+    "phonetic": "/striːt fəˈtɑːɡrəfi/",
+    "meaning": "ストリートフォト、路上写真",
+    "example": "Street photography captures everyday life in public spaces.",
+    "example_ja": "ストリートフォトは、公共の場での日常を捉えます。"
+  },
+  {
+    "word": "Wildlife photography",
+    "phonetic": "/ˈwaɪldlaɪf fəˈtɑːɡrəfi/",
+    "meaning": "野生動物写真",
+    "example": "Wildlife photography requires a lot of patience.",
+    "example_ja": "野生動物の撮影には多大な忍耐が必要です。"
+  },
+  {
+    "word": "Astro-photography",
+    "phonetic": "/ˈæstroʊ fəˈtɑːɡrəfi/",
+    "meaning": "天体写真",
+    "example": "Astro-photography requires long exposures and a dark sky.",
+    "example_ja": "天体写真には長時間露光と暗い空が必要です。"
+  },
+  {
+    "word": "Sports photography",
+    "phonetic": "/spɔːrts fəˈtɑːɡrəfi/",
+    "meaning": "スポーツ写真",
+    "example": "Sports photography requires fast lenses and quick reflexes.",
+    "example_ja": "スポーツ写真には、明るいレンズと素早い反射神経が必要です。"
+  },
+  {
+    "word": "Fashion photography",
+    "phonetic": "/ˈfæʃn fəˈtɑːɡrəfi/",
+    "meaning": "ファッション写真",
+    "example": "Fashion photography focuses on clothing and style.",
+    "example_ja": "ファッション写真は、衣服やスタイルに焦点を当てます。"
+  },
+  {
+    "word": "Event photography",
+    "phonetic": "/ɪˈvent fəˈtɑːɡrəfi/",
+    "meaning": "イベント写真",
+    "example": "Wedding photography is a popular type of event photography.",
+    "example_ja": "結婚式写真は、人気のあるイベント写真の一種です。"
+  },
+  {
+    "word": "Architecture photography",
+    "phonetic": "/ˈɑːrkɪtektʃər fəˈtɑːɡrəfi/",
+    "meaning": "建築写真",
+    "example": "Architecture photography often uses tilt-shift lenses.",
+    "example_ja": "建築写真では、チルトシフトレンズがよく使われます。"
+  },
+  {
+    "word": "Food photography",
+    "phonetic": "/fuːd fəˈtɑːɡrəfi/",
+    "meaning": "料理写真",
+    "example": "Natural light is often the best choice for food photography.",
+    "example_ja": "料理写真には、自然光が最適な選択であることが多いです。"
+  },
+  {
+    "word": "Fine art photography",
+    "phonetic": "/faɪn ɑːrt fəˈtɑːɡrəfi/",
+    "meaning": "ファインアート写真、芸術写真",
+    "example": "Fine art photography is created according to the artist's vision.",
+    "example_ja": "ファインアート写真は、アーティストのビジョンに基づいて作成されます。"
+  },
+  {
+    "word": "Photojournalism",
+    "phonetic": "/ˌfoʊtoʊˈdʒɜːrnəlɪzəm/",
+    "meaning": "フォトジャーナリズム、報道写真",
+    "example": "Photojournalism aims to tell a news story through images.",
+    "example_ja": "フォトジャーナリズムは、画像を通じてニュースストーリーを伝えることを目的としています。"
+  },
+  {
+    "word": "Bracketing",
+    "phonetic": "/ˈbrækɪtɪŋ/",
+    "meaning": "ブラケティング",
+    "example": "Exposure bracketing helps ensure you get a perfectly exposed shot.",
+    "example_ja": "露出ブラケティングは、完璧な露出のショットを確実に撮るのに役立ちます。"
+  },
+  {
+    "word": "HDR",
+    "phonetic": "/ˌeɪtʃ diː ˈɑːr/",
+    "meaning": "HDR（ハイダイナミックレンジ）",
+    "example": "HDR photography combines multiple exposures into one image.",
+    "example_ja": "HDR写真は、複数の露出を1つの画像に合成します。"
+  },
+  {
+    "word": "Panorama",
+    "phonetic": "/ˌpænəˈræmə/",
+    "meaning": "パノラマ",
+    "example": "She stitched together several shots to create a wide panorama.",
+    "example_ja": "彼女は数枚のショットを繋ぎ合わせて、広いパノラマ写真を作りました。"
+  },
+  {
+    "word": "Time-lapse",
+    "phonetic": "/ˈtaɪm læps/",
+    "meaning": "タイムラプス、微速度撮影",
+    "example": "The time-lapse video showed the flowers blooming over several hours.",
+    "example_ja": "タイムラプスビデオは、数時間かけて花が咲く様子を示していました。"
+  },
+  {
+    "word": "Long-exposure noise reduction",
+    "phonetic": "/lɔːŋ ɪkˈspoʊʒər nɔɪz rɪˈdʌkʃn/",
+    "meaning": "長秒時ノイズ低減",
+    "example": "Long-exposure noise reduction takes a second dark frame to remove hot pixels.",
+    "example_ja": "長秒時ノイズ低減は、ホットピクセルを除去するために2枚目のダークフレームを撮影します。"
+  },
+  {
+    "word": "Back-button focus",
+    "phonetic": "/bæk ˈbʌtn ˈfoʊkəs/",
+    "meaning": "親指AF、バックボタンフォーカス",
+    "example": "Back-button focus separates focus from the shutter button.",
+    "example_ja": "親指AFは、フォーカス機能をシャッターボタンから分離します。"
+  },
+  {
+    "word": "Focus stacking",
+    "phonetic": "/ˈfoʊkəs ˈstækɪŋ/",
+    "meaning": "フォーカスピーキング、焦点合成",
+    "example": "Focus stacking is used in macro photography to increase depth of field.",
+    "example_ja": "焦点合成（フォーカススタッキング）は、被写界深度を深くするためにマクロ撮影で使用されます。"
+  },
+  {
+    "word": "Focus peaking",
+    "phonetic": "/ˈfoʊkəs ˈpiːkɪŋ/",
+    "meaning": "フォーカスピーキング",
+    "example": "Focus peaking highlights the areas of sharpest focus in the viewfinder.",
+    "example_ja": "フォーカスピーキングは、ファインダー内の最もピントが合っている部分を強調表示します。"
+  },
+  {
+    "word": "Zebra patterns",
+    "phonetic": "/ˈzeɪbrə ˈpætərnz/",
+    "meaning": "ゼブラパターン",
+    "example": "Zebra patterns indicate overexposed areas in your video or photo.",
+    "example_ja": "ゼブラパターンは、動画や写真の露出過度な部分を示します。"
+  },
+  {
+    "word": "Eye AF",
+    "phonetic": "/aɪ eɪ ef/",
+    "meaning": "瞳AF",
+    "example": "Eye AF makes it much easier to get sharp portraits.",
+    "example_ja": "瞳AFを使えば、ピントの合ったポートレートを撮るのがずっと簡単になります。"
+  },
+  {
+    "word": "Face detection",
+    "phonetic": "/feɪs dɪˈtekʃn/",
+    "meaning": "顔認識",
+    "example": "Face detection automatically identifies and focuses on people's faces.",
+    "example_ja": "顔認識は、自動的に人の顔を特定してピントを合わせます。"
+  },
+  {
+    "word": "Subject tracking",
+    "phonetic": "/ˈsʌbdʒɪkt ˈtrækɪŋ/",
+    "meaning": "被写体追従、トラッキング",
+    "example": "The camera's subject tracking is excellent for bird photography.",
+    "example_ja": "そのカメラの被写体追従機能は、野鳥の撮影に優れています。"
+  },
+  {
+    "word": "Firmware update",
+    "phonetic": "/ˈfɜːrmwer ˌʌpˈdeɪt/",
+    "meaning": "ファームウェアアップデート",
+    "example": "Always check for the latest firmware update for your camera.",
+    "example_ja": "お使いのカメラの最新のファームウェアアップデートを常に確認してください。"
+  },
+  {
+    "word": "Battery life",
+    "phonetic": "/ˈbætəri laɪf/",
+    "meaning": "バッテリー寿命",
+    "example": "Mirrorless cameras often have shorter battery life than DSLRs.",
+    "example_ja": "ミラーレスカメラは、多くの場合デジタル一眼レフよりもバッテリー寿命が短いです。"
+  },
+  {
+    "word": "Lens mount",
+    "phonetic": "/lenz maʊnt/",
+    "meaning": "レンズマウント",
+    "example": "Different camera brands use different lens mounts.",
+    "example_ja": "カメラブランドによって、使用するレンズマウントが異なります。"
+  },
+  {
+    "word": "Adapter",
+    "phonetic": "/əˈdæptər/",
+    "meaning": "アダプター、マウントアダプター",
+    "example": "You can use an adapter to mount vintage lenses on your modern camera.",
+    "example_ja": "アダプターを使用すれば、最新のカメラにヴィンテージレンズを装着できます。"
+  },
+  {
+    "word": "Lens hood",
+    "phonetic": "/lenz hʊd/",
+    "meaning": "レンズフード",
+    "example": "A lens hood protects the front element and reduces flare.",
+    "example_ja": "レンズフードは前玉を保護し、フレアを軽減します。"
+  },
+  {
+    "word": "Lens cap",
+    "phonetic": "/lenz kæp/",
+    "meaning": "レンズキャップ",
+    "example": "Don't forget to remove the lens cap before shooting.",
+    "example_ja": "撮影前にレンズキャップを外すのを忘れないでください。"
+  },
+  {
+    "word": "Front element",
+    "phonetic": "/frʌnt ˈelɪmənt/",
+    "meaning": "前玉",
+    "example": "Be careful not to scratch the front element of your lens.",
+    "example_ja": "レンズの前玉を傷つけないように注意してください。"
+  },
+  {
+    "word": "Rear element",
+    "phonetic": "/rɪr ˈelɪmənt/",
+    "meaning": "後玉",
+    "example": "Keep the rear element clean to maintain image quality.",
+    "example_ja": "画質を維持するために、後玉を清潔に保ってください。"
+  },
+  {
+    "word": "Filter thread",
+    "phonetic": "/ˈfɪltər θred/",
+    "meaning": "フィルター径、フィルターネジ",
+    "example": "Check the filter thread size before buying a new filter.",
+    "example_ja": "新しいフィルターを購入する前に、フィルター径を確認してください。"
+  },
+  {
+    "word": "Teleconverter",
+    "phonetic": "/ˌtelikənˈvɜːrtər/",
+    "meaning": "テレコンバーター",
+    "example": "A teleconverter increases the focal length but reduces the maximum aperture.",
+    "example_ja": "テレコンバーターは焦点距離を伸ばしますが、開放F値を大きく（暗く）してしまいます。"
+  },
+  {
+    "word": "Extension tube",
+    "phonetic": "/ɪkˈstenʃn tuːb/",
+    "meaning": "接写リング、エクステンションチューブ",
+    "example": "Extension tubes are a cost-effective way to try macro photography.",
+    "example_ja": "接写リングは、マクロ撮影を試すための費用対効果の高い方法です。"
+  },
+  {
+    "word": "Fisheye lens",
+    "phonetic": "/ˈfɪʃaɪ lenz/",
+    "meaning": "魚眼レンズ",
+    "example": "A fisheye lens provides an extremely wide, distorted view.",
+    "example_ja": "魚眼レンズは、非常に広く、歪んだ視界を提供します。"
+  },
+  {
+    "word": "Wide-angle lens",
+    "phonetic": "/ˌwaɪd ˈæŋɡl lenz/",
+    "meaning": "広角レンズ",
+    "example": "Wide-angle lenses are perfect for landscape photography.",
+    "example_ja": "広角レンズは風景撮影に最適です。"
+  },
+  {
+    "word": "Ultra-wide lens",
+    "phonetic": "/ˌʌltrə ˈwaɪd lenz/",
+    "meaning": "超広角レンズ",
+    "example": "Ultra-wide lenses can capture vast scenes in a single frame.",
+    "example_ja": "超広角レンズは、広大な景色を1枚のフレームに収めることができます。"
+  },
+  {
+    "word": "Pancake lens",
+    "phonetic": "/ˈpænkeɪk lenz/",
+    "meaning": "パンケーキレンズ",
+    "example": "A pancake lens is very thin and lightweight.",
+    "example_ja": "パンケーキレンズは非常に薄くて軽量です。"
+  },
+  {
+    "word": "Kit lens",
+    "phonetic": "/kɪt lenz/",
+    "meaning": "キットレンズ、セットレンズ",
+    "example": "The kit lens is a good starting point for beginners.",
+    "example_ja": "キットレンズは初心者にとって良い出発点になります。"
+  },
+  {
+    "word": "Weather sealing",
+    "phonetic": "/ˈweðər ˈsiːlɪŋ/",
+    "meaning": "防塵防滴、ウェザーシーリング",
+    "example": "Weather sealing allows you to shoot in rain or dust.",
+    "example_ja": "防塵防滴（ウェザーシーリング）機能により、雨や埃の中でも撮影が可能です。"
+  },
+  {
+    "word": "Image sensor",
+    "phonetic": "/ˈɪmɪdʒ ˈsensər/",
+    "meaning": "イメージセンサー",
+    "example": "The image sensor converts light into digital signals.",
+    "example_ja": "イメージセンサーは光をデジタル信号に変換します。"
+  },
+  {
+    "word": "Back-illuminated sensor",
+    "phonetic": "/bæk ɪˈluːmɪneɪtɪd ˈsensər/",
+    "meaning": "裏面照射型センサー",
+    "example": "Back-illuminated sensors offer better performance in low light.",
+    "example_ja": "裏面照射型センサーは、低照度下でより優れた性能を発揮します。"
+  },
+  {
+    "word": "Stacked sensor",
+    "phonetic": "/stækt ˈsensər/",
+    "meaning": "積層型センサー",
+    "example": "Stacked sensors enable extremely high readout speeds.",
+    "example_ja": "積層型センサーは、非常に高速な読み出し速度を可能にします。"
+  },
+  {
+    "word": "Global shutter",
+    "phonetic": "/ˈɡloʊbl ˈʃʌtər/",
+    "meaning": "グローバルシャッター",
+    "example": "A global shutter captures the entire frame at once, eliminating distortion.",
+    "example_ja": "グローバルシャッターはフレーム全体を一度にキャプチャし、歪みを排除します。"
+  },
+  {
+    "word": "Rolling shutter",
+    "phonetic": "/ˈroʊlɪŋ ˈʃʌtər/",
+    "meaning": "ローリングシャッター",
+    "example": "Rolling shutter can cause distortion when filming fast-moving objects.",
+    "example_ja": "ローリングシャッター（現象）は、速く動く物体を撮影する際に歪みを引き起こすことがあります。"
+  },
+  {
+    "word": "Chromatic aberration",
+    "phonetic": "/kroʊˈmætɪk ˌæbəˈreɪʃn/",
+    "meaning": "色収差",
+    "example": "Cheap lenses often suffer from noticeable chromatic aberration.",
+    "example_ja": "安価なレンズは、しばしば目立つ色収差に悩まされます。"
+  },
+  {
+    "word": "Purple fringing",
+    "phonetic": "/ˈpɜːrpl ˈfrɪndʒɪŋ/",
+    "meaning": "パープルフリンジ",
+    "example": "Purple fringing often appears in high-contrast edges.",
+    "example_ja": "パープルフリンジは、コントラストの高いエッジによく現れます。"
+  },
+  {
+    "word": "Diffraction",
+    "phonetic": "/dɪˈfrækʃn/",
+    "meaning": "回折",
+    "example": "Diffraction can reduce sharpness when using very small apertures.",
+    "example_ja": "非常に小さな絞りを使用すると、回折によってシャープさが低下することがあります。"
+  },
+  {
+    "word": "Sweet spot",
+    "phonetic": "/swiːt spɑːt/",
+    "meaning": "スイートスポット（最も画質が良い設定）",
+    "example": "The sweet spot of this lens is around f/8.",
+    "example_ja": "このレンズのスイートスポット（最も画質が良い絞り値）はf/8付近です。"
+  },
+  {
+    "word": "Corner sharpness",
+    "phonetic": "/ˈkɔːrnər ˈʃɑːrpnəs/",
+    "meaning": "周辺解像度、四隅のシャープさ",
+    "example": "Landscape photographers value lenses with excellent corner sharpness.",
+    "example_ja": "風景写真家は、四隅のシャープさが優れたレンズを重視します。"
+  },
+  {
+    "word": "Vignette",
+    "phonetic": "/vɪˈnjet/",
+    "meaning": "周辺減光、ビネット",
+    "example": "A subtle vignette can help focus attention on the subject.",
+    "example_ja": "かすかな周辺減光は、被写体に注意を向けるのに役立ちます。"
+  },
+  {
+    "word": "Barrel distortion",
+    "phonetic": "/ˈbærəl dɪˈstɔːrʃn/",
+    "meaning": "樽型歪曲",
+    "example": "Wide-angle lenses are prone to barrel distortion.",
+    "example_ja": "広角レンズは樽型歪曲を起こしやすいです。"
+  },
+  {
+    "word": "Pincushion distortion",
+    "phonetic": "/ˈpɪnkʊʃn dɪˈstɔːrʃn/",
+    "meaning": "糸巻き型歪曲",
+    "example": "Telephoto lenses may exhibit pincushion distortion.",
+    "example_ja": "望遠レンズは糸巻き型歪曲を示すことがあります。"
+  },
+  {
+    "word": "Mustache distortion",
+    "phonetic": "/ˈmʌstæʃ dɪˈstɔːrʃn/",
+    "meaning": "陣笠型歪曲、マスタッシュ歪曲",
+    "example": "Some complex lens designs suffer from mustache distortion.",
+    "example_ja": "いくつかの複雑なレンズ設計は、陣笠型歪曲（マスタッシュ歪曲）に悩まされます。"
+  },
+  {
+    "word": "Color cast",
+    "phonetic": "/ˈkʌlər kæst/",
+    "meaning": "色かぶり",
+    "example": "Fluorescent lighting often creates a green color cast.",
+    "example_ja": "蛍光灯の照明はしばしば緑色の色かぶりを作り出します。"
+  },
+  {
+    "word": "Shadow detail",
+    "phonetic": "/ˈʃædoʊ ˈdiːteɪl/",
+    "meaning": "暗部階調、シャドウのディテール",
+    "example": "Modern sensors are great at preserving shadow detail.",
+    "example_ja": "現代のセンサーは、暗部階調（シャドウのディテール）を維持することに優れています。"
+  },
+  {
+    "word": "Highlight clipping",
+    "phonetic": "/ˈhaɪlaɪt ˈklɪpɪŋ/",
+    "meaning": "白飛び、ハイライトクリッピング",
+    "example": "Avoid highlight clipping to keep detail in the brightest parts of the image.",
+    "example_ja": "画像の最も明るい部分のディテールを保つために、白飛び（ハイライトクリッピング）を避けてください。"
+  },
+  {
+    "word": "Clipping",
+    "phonetic": "/ˈklɪpɪŋ/",
+    "meaning": "クリッピング、階調飛び",
+    "example": "Check your histogram to see if any clipping is occurring.",
+    "example_ja": "階調飛び（クリッピング）が起こっていないか、ヒストグラムを確認してください。"
+  },
+  {
+    "word": "Banding",
+    "phonetic": "/ˈbændɪŋ/",
+    "meaning": "バンディング、縞模様",
+    "example": "Banding can occur in smooth gradients if the bit depth is too low.",
+    "example_ja": "ビット深度が低すぎると、滑らかなグラデーションにバンディング（縞模様）が発生することがあります。"
+  },
+  {
+    "word": "Artifacts",
+    "phonetic": "/ˈɑːrtɪfækts/",
+    "meaning": "アーティファクト、画像ノイズ",
+    "example": "Compression artifacts are visible in highly compressed JPEG files.",
+    "example_ja": "高度に圧縮されたJPEGファイルでは、圧縮アーティファクトが目立ちます。"
+  },
+  {
+    "word": "Workflow",
+    "phonetic": "/ˈwɜːrkfloʊ/",
+    "meaning": "ワークフロー、作業手順",
+    "example": "An efficient workflow is key for professional photographers.",
+    "example_ja": "効率的なワークフローは、プロのカメラマンにとって鍵となります。"
+  },
+  {
+    "word": "Culling",
+    "phonetic": "/ˈkʌlɪŋ/",
+    "meaning": "セレクト、選別",
+    "example": "Culling involves selecting the best photos from a large shoot.",
+    "example_ja": "セレクト（カリング）とは、大量の撮影写真から最高の写真を選ぶ作業です。"
+  },
+  {
+    "word": "Editing",
+    "phonetic": "/ˈedɪtɪŋ/",
+    "meaning": "編集",
+    "example": "Editing is the process of enhancing the final image.",
+    "example_ja": "編集は、最終的な画像を向上させるプロセスです。"
+  },
+  {
+    "word": "Retouching",
+    "phonetic": "/ˌriːˈtʌtʃɪŋ/",
+    "meaning": "レタッチ、修正",
+    "example": "Skin retouching is a common practice in fashion photography.",
+    "example_ja": "肌のレタッチは、ファッション写真で一般的な作業です。"
+  },
+  {
+    "word": "Color grading",
+    "phonetic": "/ˈkʌlər ˈɡreɪdɪŋ/",
+    "meaning": "カラーグレーディング",
+    "example": "Color grading can give your photos a unique cinematic look.",
+    "example_ja": "カラーグレーディングは、写真に独特の映画のような外観を与えることができます。"
+  },
+  {
+    "word": "Presets",
+    "phonetic": "/ˈpriːsets/",
+    "meaning": "プリセット",
+    "example": "I use Lightroom presets to speed up my editing process.",
+    "example_ja": "編集作業をスピードアップするために、Lightroomのプリセットを使用しています。"
+  },
+  {
+    "word": "Layers",
+    "phonetic": "/ˈleɪərz/",
+    "meaning": "レイヤー",
+    "example": "Photoshop layers allow for non-destructive editing.",
+    "example_ja": "Photoshopのレイヤーを使用すると、非破壊的な編集が可能になります。"
+  },
+  {
+    "word": "Masking",
+    "phonetic": "/ˈmæskɪŋ/",
+    "meaning": "マスキング",
+    "example": "Masking lets you apply adjustments to specific parts of an image.",
+    "example_ja": "マスキングを使用すると、画像内の特定の部分に調整を適用できます。"
+  },
+  {
+    "word": "Opacity",
+    "phonetic": "/oʊˈpæsəti/",
+    "meaning": "不透明度",
+    "example": "Lower the opacity of the layer to blend it with the background.",
+    "example_ja": "レイヤーの不透明度を下げて、背景となじませてください。"
+  },
+  {
+    "word": "Brushes",
+    "phonetic": "/ˈbrʌʃɪz/",
+    "meaning": "ブラシ",
+    "example": "The adjustment brush is a powerful tool for localized editing.",
+    "example_ja": "調整ブラシは、部分的な編集に強力なツールです。"
+  },
+  {
+    "word": "Cloning",
+    "phonetic": "/ˈkloʊnɪŋ/",
+    "meaning": "クローン、複製",
+    "example": "The clone stamp tool is used to remove unwanted objects.",
+    "example_ja": "コピースタンプツール（クローンスタンプ）は、不要な物体を取り除くために使用されます。"
+  },
+  {
+    "word": "Healing brush",
+    "phonetic": "/ˈhiːlɪŋ brʌʃ/",
+    "meaning": "修復ブラシ",
+    "example": "The healing brush blends the sampled pixels with the surrounding area.",
+    "example_ja": "修復ブラシは、サンプリングされた画素を周囲の領域となじませます。"
+  },
+  {
+    "word": "Content-aware fill",
+    "phonetic": "/kənˈtent əˈwer fɪl/",
+    "meaning": "コンテンツに応じた塗りつぶし",
+    "example": "Content-aware fill is a magic-like feature in Photoshop.",
+    "example_ja": "コンテンツに応じた塗りつぶしは、Photoshopの魔法のような機能です。"
+  },
+  {
+    "word": "Curves",
+    "phonetic": "/kɜːrvz/",
+    "meaning": "トーンカーブ",
+    "example": "Curves allow for precise control over contrast and brightness.",
+    "example_ja": "トーンカーブを使うと、コントラストと明るさを精密にコントロールできます。"
+  },
+  {
+    "word": "Levels",
+    "phonetic": "/ˈlevlz/",
+    "meaning": "レベル補正",
+    "example": "Use levels to adjust the black and white points of your image.",
+    "example_ja": "レベル補正を使用して、画像の黒レベルと白レベルを調整します。"
+  },
+  {
+    "word": "Vibrance",
+    "phonetic": "/ˈvaɪbrəns/",
+    "meaning": "自然な彩度",
+    "example": "Vibrance increases the saturation of less-saturated colors.",
+    "example_ja": "「自然な彩度（Vibrance）」は、彩度の低い色の彩度を高めます。"
+  },
+  {
+    "word": "Clarity",
+    "phonetic": "/ˈklærəti/",
+    "meaning": "明瞭度",
+    "example": "Clarity increases mid-tone contrast to bring out texture.",
+    "example_ja": "「明瞭度（Clarity）」は中間調のコントラストを強め、質感を際立たせます。"
+  },
+  {
+    "word": "Dehaze",
+    "phonetic": "/diːˈheɪz/",
+    "meaning": "かすみの除去",
+    "example": "The dehaze tool is great for improving flat, foggy landscapes.",
+    "example_ja": "かすみの除去ツールは、平坦で霧がかった風景を改善するのに最適です。"
+  },
+  {
+    "word": "Sharpening",
+    "phonetic": "/ˈʃɑːrpnɪŋ/",
+    "meaning": "シャープネス、鋭鋭化",
+    "example": "Output sharpening should be the last step in your workflow.",
+    "example_ja": "出力用のシャープネス設定は、ワークフローの最後のステップにするべきです。"
+  },
+  {
+    "word": "Metadata",
+    "phonetic": "/ˈmetədeɪtə/",
+    "meaning": "メタデータ",
+    "example": "Metadata includes information like the date, time, and camera settings.",
+    "example_ja": "メタデータには、日付、時刻、カメラ設定などの情報が含まれます。"
+  },
+  {
+    "word": "EXIF data",
+    "phonetic": "/ˈeksɪf ˈdeɪtə/",
+    "meaning": "EXIF情報",
+    "example": "You can check the lens used in the EXIF data.",
+    "example_ja": "EXIF情報で、使用されたレンズを確認できます。"
+  },
+  {
+    "word": "Copyright",
+    "phonetic": "/ˈkɑːpiraɪt/",
+    "meaning": "著作権",
+    "example": "Add your copyright information to the metadata of your images.",
+    "example_ja": "画像のメタデータに著作権情報を追加してください。"
+  },
+  {
+    "word": "Watermark",
+    "phonetic": "/ˈwɔːtərmɑːrk/",
+    "meaning": "ウォーターマーク、透かし",
+    "example": "Some photographers use a watermark to prevent unauthorized use.",
+    "example_ja": "無断使用を防ぐためにウォーターマーク（透かし）を入れる写真家もいます。"
+  },
+  {
+    "word": "DPI",
+    "phonetic": "/ˌdiː piː ˈaɪ/",
+    "meaning": "DPI（ドット・パー・インチ）",
+    "example": "For high-quality prints, 300 DPI is usually recommended.",
+    "example_ja": "高品質なプリントには、通常300 DPIが推奨されます。"
+  },
+  {
+    "word": "PPI",
+    "phonetic": "/ˌpiː piː ˈaɪ/",
+    "meaning": "PPI（ピクセル・パー・インチ）",
+    "example": "PPI determines the pixel density of a digital display.",
+    "example_ja": "PPIは、デジタルディスプレイの画素密度を決定します。"
+  },
+  {
+    "word": "Color space",
+    "phonetic": "/ˈkʌlər speɪs/",
+    "meaning": "色空間",
+    "example": "Adobe RGB has a wider color gamut than sRGB.",
+    "example_ja": "Adobe RGBはsRGBよりも広い色域（カラーガマット）を持っています。"
+  },
+  {
+    "word": "sRGB",
+    "phonetic": "/ˌes ɑːr dʒiː ˈbiː/",
+    "meaning": "sRGB",
+    "example": "sRGB is the standard color space for the web.",
+    "example_ja": "sRGBはウェブの標準的な色空間です。"
+  },
+  {
+    "word": "Adobe RGB",
+    "phonetic": "/əˈdoʊbi ɑːr dʒiː ˈbiː/",
+    "meaning": "Adobe RGB",
+    "example": "Adobe RGB is preferred for high-end printing.",
+    "example_ja": "Adobe RGBは、ハイエンドな印刷に適しています。"
+  },
+  {
+    "word": "Gamut",
+    "phonetic": "/ˈɡæmət/",
+    "meaning": "ガマット、色域",
+    "example": "The monitor can cover 100% of the sRGB gamut.",
+    "example_ja": "そのモニターはsRGBの色域を100%カバーできます。"
+  },
+  {
+    "word": "Calibration",
+    "phonetic": "/ˌkælɪˈbreɪʃn/",
+    "meaning": "キャリブレーション、較正",
+    "example": "Monitor calibration is essential for accurate color editing.",
+    "example_ja": "正確な色編集には、モニターのキャリブレーションが不可欠です。"
+  },
+  {
+    "word": "Hard proofing",
+    "phonetic": "/hɑːrd ˈpruːfɪŋ/",
+    "meaning": "ハードプルーフ（試し刷り）",
+    "example": "Hard proofing involves printing a test copy of your image.",
+    "example_ja": "ハードプルーフとは、画像のテストコピーを印刷することです。"
+  },
+  {
+    "word": "Soft proofing",
+    "phonetic": "/sɔːft ˈpruːfɪŋ/",
+    "meaning": "ソフトプルーフ",
+    "example": "Soft proofing allows you to preview how a print will look on screen.",
+    "example_ja": "ソフトプルーフを使用すると、プリントがどのように見えるかを画面上でプレビューできます。"
+  },
+  {
+    "word": "Matte finish",
+    "phonetic": "/mæt ˈfɪnɪʃ/",
+    "meaning": "マット仕上げ、つや消し",
+    "example": "I prefer a matte finish for black and white prints.",
+    "example_ja": "白黒プリントにはマット仕上げが好みです。"
+  },
+  {
+    "word": "Glossy finish",
+    "phonetic": "/ˈɡlɔːsi ˈfɪnɪʃ/",
+    "meaning": "光沢仕上げ",
+    "example": "Glossy finish makes colors look more vibrant and contrasty.",
+    "example_ja": "光沢仕上げは、色をより鮮やかに、コントラストを強く見せます。"
+  },
+  {
+    "word": "Lustre finish",
+    "phonetic": "/ˈlʌstər ˈfɪnɪʃ/",
+    "meaning": "ラスター仕上げ、半光沢",
+    "example": "Lustre finish is a popular compromise between matte and glossy.",
+    "example_ja": "ラスター仕上げ（半光沢）は、マットと光沢の間の人気のある妥協点です。"
+  },
+  {
+    "word": "Canvas print",
+    "phonetic": "/ˈkænvəs prɪnt/",
+    "meaning": "キャンバスプリント",
+    "example": "Canvas prints are a great way to display your work as art.",
+    "example_ja": "キャンバスプリントは、作品をアートとして飾るのに最適な方法です。"
+  },
+  {
+    "word": "Frame",
+    "phonetic": "/freɪm/",
+    "meaning": "額縁、フレーム",
+    "example": "A simple black frame complements most photographs.",
+    "example_ja": "シンプルな黒いフレームは、ほとんどの写真を引き立てます。"
+  },
+  {
+    "word": "Mat board",
+    "phonetic": "/mæt bɔːrd/",
+    "meaning": "マットボード、台紙",
+    "example": "The mat board creates a border between the photo and the frame.",
+    "example_ja": "マットボードは、写真とフレームの間に境界線を作ります。"
+  },
+  {
+    "word": "Portfolio",
+    "phonetic": "/pɔːrtˈfoʊlioʊ/",
+    "meaning": "ポートフォリオ、作品集",
+    "example": "A professional portfolio should only contain your very best work.",
+    "example_ja": "プロのポートフォリオには、自身の最高の作品だけを入れるべきです。"
+  },
+  {
+    "word": "Curating",
+    "phonetic": "/ˈkjʊreɪtɪŋ/",
+    "meaning": "キュレーション、厳選",
+    "example": "Curating your work is as important as taking the photos.",
+    "example_ja": "作品を厳選（キュレーション）することは、写真を撮ることと同じくらい重要です。"
+  },
+  {
+    "word": "Client",
+    "phonetic": "/ˈklaɪənt/",
+    "meaning": "クライアント、顧客",
+    "example": "Communication with the client is vital for a successful shoot.",
+    "example_ja": "撮影を成功させるには、クライアントとのコミュニケーションが不可欠です。"
+  },
+  {
+    "word": "Contract",
+    "phonetic": "/ˈkɑːntrækt/",
+    "meaning": "契約書",
+    "example": "Always have a signed contract before starting a commercial shoot.",
+    "example_ja": "商業撮影を始める前には、必ず署名済みの契約書を用意してください。"
+  },
+  {
+    "word": "Model release",
+    "phonetic": "/ˈmɑːdl rɪˈliːs/",
+    "meaning": "モデルリリース、肖像権使用同意書",
+    "example": "A model release is necessary if you plan to sell the photos.",
+    "example_ja": "写真を販売する予定がある場合は、モデルリリースが必要です。"
+  },
+  {
+    "word": "Property release",
+    "phonetic": "/ˈprɑːpərti rɪˈliːs/",
+    "meaning": "プロパティリリース、物権使用同意書",
+    "example": "You might need a property release to photograph certain private buildings.",
+    "example_ja": "特定の私有建造物を撮影するには、プロパティリリースが必要になる場合があります。"
+  },
+  {
+    "word": "Royalty-free",
+    "phonetic": "/ˌrɔɪəlti ˈfriː/",
+    "meaning": "ロイヤリティフリー",
+    "example": "Royalty-free images can be used multiple times after a one-time payment.",
+    "example_ja": "ロイヤリティフリーの画像は、一度の支払いで何度でも使用できます。"
+  },
+  {
+    "word": "Rights-managed",
+    "phonetic": "/raɪts ˈmænɪdʒd/",
+    "meaning": "ライツマネージド",
+    "example": "Rights-managed images have specific restrictions on their use.",
+    "example_ja": "ライツマネージドの画像には、その使用に関する特定の制限があります。"
+  },
+  {
+    "word": "Stock photography",
+    "phonetic": "/stɑːk fəˈtɑːɡrəfi/",
+    "meaning": "ストックフォト",
+    "example": "Many photographers earn passive income through stock photography.",
+    "example_ja": "多くの写真家が、ストックフォトを通じて不労所得を得ています。"
+  },
+  {
+    "word": "Commercial photography",
+    "phonetic": "/kəˈmɜːrʃl fəˈtɑːɡrəfi/",
+    "meaning": "商業写真",
+    "example": "Commercial photography is used to promote products or services.",
+    "example_ja": "商業写真は、製品やサービスの宣伝に使用されます。"
+  },
+  {
+    "word": "Editorial photography",
+    "phonetic": "/ˌedɪˈtɔːriəl fəˈtɑːɡrəfi/",
+    "meaning": "エディトリアル写真、出版用写真",
+    "example": "Editorial photography is used to illustrate articles in magazines.",
+    "example_ja": "エディトリアル写真は、雑誌の記事を説明するために使用されます。"
+  },
+  {
+    "word": "Ambient light",
+    "phonetic": "/ˈæmbiənt laɪt/",
+    "meaning": "環境光、地明かり",
+    "example": "The photographer used a combination of flash and ambient light.",
+    "example_ja": "写真家は、フラッシュと環境光を組み合わせて使用しました。"
+  },
+  {
+    "word": "Available light",
+    "phonetic": "/əˈveɪləbl laɪt/",
+    "meaning": "利用可能な光、既存光",
+    "example": "Available light photography relies on whatever light is already present.",
+    "example_ja": "既存光（アベイラブルライト）撮影は、その場にある光に頼ります。"
+  },
+  {
+    "word": "Natural light",
+    "phonetic": "/ˈnætʃrəl laɪt/",
+    "meaning": "自然光",
+    "example": "Window light is a beautiful source of natural light for portraits.",
+    "example_ja": "窓からの光は、ポートレート用の美しい自然光の光源です。"
+  },
+  {
+    "word": "Artificial light",
+    "phonetic": "/ˌɑːrtɪˈfɪʃl laɪt/",
+    "meaning": "人工光",
+    "example": "Studios use artificial light to have complete control over the scene.",
+    "example_ja": "スタジオでは、シーンを完全にコントロールするために人工光を使用します。"
+  },
+  {
+    "word": "Continuous lighting",
+    "phonetic": "/kənˈtɪnjuəs ˈlaɪtɪŋ/",
+    "meaning": "定常光ライティング",
+    "example": "Continuous lighting is often preferred by videographers.",
+    "example_ja": "定常光ライティングは、ビデオグラファーに好まれることが多いです。"
+  },
+  {
+    "word": "Strobe light",
+    "phonetic": "/stroʊb laɪt/",
+    "meaning": "ストロボ、瞬間光",
+    "example": "Strobe lights are much more powerful than continuous lights.",
+    "example_ja": "ストロボは、定常光よりもずっと強力です。"
+  },
+  {
+    "word": "Key light",
+    "phonetic": "/kiː laɪt/",
+    "meaning": "メインライト、キーライト",
+    "example": "The key light is the primary source of illumination on the subject.",
+    "example_ja": "キーライトは、被写体を照らす主要な光源です。"
+  },
+  {
+    "word": "Fill light",
+    "phonetic": "/fɪl laɪt/",
+    "meaning": "フィルライト、補助光",
+    "example": "The fill light is used to reduce shadows created by the key light.",
+    "example_ja": "フィルライトは、キーライトによって作られた影を軽減するために使用されます。"
+  },
+  {
+    "word": "Rim light",
+    "phonetic": "/rɪm laɪt/",
+    "meaning": "リムライト、輪郭光",
+    "example": "A rim light creates a thin line of light around the subject's edge.",
+    "example_ja": "リムライトは、被写体の縁に細い光のラインを作り出します。"
+  },
+  {
+    "word": "Hair light",
+    "phonetic": "/her laɪt/",
+    "meaning": "ヘアライト",
+    "example": "A hair light helps separate the subject from a dark background.",
+    "example_ja": "ヘアライトは、被写体を暗い背景から引き立たせるのに役立ちます。"
+  },
+  {
+    "word": "Catchlight",
+    "phonetic": "/ˈkætʃlaɪt/",
+    "meaning": "キャッチライト、アイキャッチ",
+    "example": "A catchlight adds life and spark to the subject's eyes.",
+    "example_ja": "キャッチライトは、被写体の瞳に生命感と輝きを与えます。"
+  },
+  {
+    "word": "Butterfly lighting",
+    "phonetic": "/ˈbʌtərflaɪ ˈlaɪtɪŋ/",
+    "meaning": "バタフライライティング",
+    "example": "Butterfly lighting creates a small shadow under the nose.",
+    "example_ja": "バタフライライティングは、鼻の下に小さな影を作ります。"
+  },
+  {
+    "word": "Rembrandt lighting",
+    "phonetic": "/ˈrembrænt ˈlaɪtɪŋ/",
+    "meaning": "レンブラントライティング",
+    "example": "Rembrandt lighting is characterized by a small triangle of light on the cheek.",
+    "example_ja": "レンブラントライティングは、頬にできる小さな光の三角形が特徴です。"
+  },
+  {
+    "word": "Split lighting",
+    "phonetic": "/splɪt ˈlaɪtɪŋ/",
+    "meaning": "スプリットライティング",
+    "example": "Split lighting illuminates only one half of the face.",
+    "example_ja": "スプリットライティングは、顔の半分だけを照らします。"
+  },
+  {
+    "word": "Broad lighting",
+    "phonetic": "/brɔːd ˈlaɪtɪŋ/",
+    "meaning": "ブロードライティング",
+    "example": "Broad lighting illuminates the side of the face turned toward the camera.",
+    "example_ja": "ブロードライティングは、カメラの方を向いている側の顔を照らします。"
+  },
+  {
+    "word": "Short lighting",
+    "phonetic": "/ʃɔːrt ˈlaɪtɪŋ/",
+    "meaning": "ショートライティング",
+    "example": "Short lighting illuminates the side of the face turned away from the camera.",
+    "example_ja": "ショートライティングは、カメラから遠い方の顔の側面を照らします。"
+  },
+  {
+    "word": "Hard light",
+    "phonetic": "/hɑːrd laɪt/",
+    "meaning": "硬い光",
+    "example": "Hard light creates sharp, well-defined shadows.",
+    "example_ja": "硬い光は、鋭くはっきりとした影を作ります。"
+  },
+  {
+    "word": "Soft light",
+    "phonetic": "/sɔːft laɪt/",
+    "meaning": "柔らかい光",
+    "example": "Soft light creates gentle, gradual transitions between light and shadow.",
+    "example_ja": "柔らかい光は、光と影の間に穏やかで緩やかな階調を作ります。"
+  },
+  {
+    "word": "Diffuser",
+    "phonetic": "/dɪˈfjuːzər/",
+    "meaning": "ディフューザー、拡散器",
+    "example": "A diffuser is used to soften a harsh light source.",
+    "example_ja": "ディフューザーは、強い光源を柔らかくするために使用されます。"
+  },
+  {
+    "word": "Scrim",
+    "phonetic": "/skrɪm/",
+    "meaning": "スクリム、遮光幕",
+    "example": "A large scrim can be used to shade subjects in bright sunlight.",
+    "example_ja": "大きなスクリムは、明るい日光の下で被写体を遮光するために使用できます。"
+  },
+  {
+    "word": "Umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "meaning": "アンブレラ、撮影用傘",
+    "example": "A shoot-through umbrella provides soft, broad lighting.",
+    "example_ja": "透過型アンブレラは、柔らかく広い範囲の光を提供します。"
+  },
+  {
+    "word": "Snoot",
+    "phonetic": "/snuːt/",
+    "meaning": "スヌート",
+    "example": "A snoot is used to create a narrow beam of light.",
+    "example_ja": "スヌートは、狭い光のビームを作るために使用されます。"
+  },
+  {
+    "word": "Barn doors",
+    "phonetic": "/bɑːrn dɔːrz/",
+    "meaning": "バーンドア",
+    "example": "Barn doors allow you to control the spill of light from a strobe.",
+    "example_ja": "バーンドアを使うと、ストロボからの光の漏れをコントロールできます。"
+  },
+  {
+    "word": "Honeycomb grid",
+    "phonetic": "/ˈhʌnikoʊm ɡrɪd/",
+    "meaning": "ハニカムグリッド",
+    "example": "A honeycomb grid narrows the light beam and adds contrast.",
+    "example_ja": "ハニカムグリッドは光のビームを狭め、コントラストを加えます。"
+  },
+  {
+    "word": "Gobo",
+    "phonetic": "/ˈɡoʊboʊ/",
+    "meaning": "ゴボ（遮光板、型板）",
+    "example": "A gobo can be used to project patterns onto the background.",
+    "example_ja": "ゴボを使用して、背景にパターンを投影することができます。"
+  },
+  {
+    "word": "Flag",
+    "phonetic": "/flæɡ/",
+    "meaning": "フラッグ、黒フラ",
+    "example": "A flag is used to block light from hitting certain areas.",
+    "example_ja": "フラッグは、特定の場所に光が当たるのを遮るために使用されます。"
+  },
+  {
+    "word": "Gel",
+    "phonetic": "/dʒel/",
+    "meaning": "ジェル、カラーフィルター",
+    "example": "Color gels are used to change the color of the flash.",
+    "example_ja": "カラージェルは、フラッシュの色を変えるために使用されます。"
+  },
+  {
+    "word": "CTO gel",
+    "phonetic": "/ˌsiː tiː ˈoʊ dʒel/",
+    "meaning": "CTOジェル（色温度変換：オレンジ）",
+    "example": "A CTO gel balances flash with tungsten lighting.",
+    "example_ja": "CTOジェルは、フラッシュをタングステン光（電球色）に合わせます。"
+  },
+  {
+    "word": "CTB gel",
+    "phonetic": "/ˌsiː tiː ˈbiː dʒel/",
+    "meaning": "CTBジェル（色温度変換：ブルー）",
+    "example": "A CTB gel turns warm tungsten light into daylight-balanced light.",
+    "example_ja": "CTBジェルは、温かみのあるタングステン光をデイライト（昼光）バランスの光に変えます。"
+  },
+  {
+    "word": "Sync cord",
+    "phonetic": "/sɪŋk kɔːrd/",
+    "meaning": "シンクロコード",
+    "example": "A sync cord connects the camera to an external flash unit.",
+    "example_ja": "シンクロコードはカメラを外部フラッシュユニットに接続します。"
+  },
+  {
+    "word": "Radio trigger",
+    "phonetic": "/ˈreɪdioʊ ˈtrɪɡər/",
+    "meaning": "ラジオスレーブ、無線トリガー",
+    "example": "Radio triggers allow you to fire flashes wirelessly from a distance.",
+    "example_ja": "無線トリガー（ラジオスレーブ）を使用すると、離れた場所からワイヤレスでフラッシュを発光させることができます。"
+  },
+  {
+    "word": "Master flash",
+    "phonetic": "/ˈmæstər flæʃ/",
+    "meaning": "マスターフラッシュ",
+    "example": "The master flash can trigger other off-camera flashes.",
+    "example_ja": "マスターフラッシュは、他のオフカメラフラッシュを発光させることができます。"
+  },
+  {
+    "word": "Slave flash",
+    "phonetic": "/sleɪv flæʃ/",
+    "meaning": "スレーブフラッシュ",
+    "example": "A slave flash fires when it detects light from another flash.",
+    "example_ja": "スレーブフラッシュは、別のフラッシュからの光を検知したときに発光します。"
+  },
+  {
+    "word": "Optical slave",
+    "phonetic": "/ˈɑːptɪkl sleɪv/",
+    "meaning": "光学スレーブ",
+    "example": "Many strobes have a built-in optical slave sensor.",
+    "example_ja": "多くのストロボには、光学スレーブセンサーが内蔵されています。"
+  },
+  {
+    "word": "High-speed sync",
+    "phonetic": "/haɪ spiːd sɪŋk/",
+    "meaning": "ハイスピードシンクロ",
+    "example": "High-speed sync allows you to use flash at very fast shutter speeds.",
+    "example_ja": "ハイスピードシンクロを使用すると、非常に速いシャッタースピードでフラッシュを使用できます。"
+  },
+  {
+    "word": "Front curtain sync",
+    "phonetic": "/frʌnt ˈkɜːrtn sɪŋk/",
+    "meaning": "先幕シンクロ",
+    "example": "Front curtain sync is the default flash mode for most cameras.",
+    "example_ja": "先幕シンクロは、ほとんどのカメラのデフォルトのフラッシュモードです。"
+  },
+  {
+    "word": "Rear curtain sync",
+    "phonetic": "/rɪr ˈkɜːrtn sɪŋk/",
+    "meaning": "後幕シンクロ",
+    "example": "Rear curtain sync creates light trails behind a moving subject.",
+    "example_ja": "後幕シンクロは、動く被写体の後ろに光跡を作ります。"
+  },
+  {
+    "word": "TTL",
+    "phonetic": "/ˌtiː tiː ˈel/",
+    "meaning": "TTL（スルー・ザ・レンズ）調光",
+    "example": "TTL flash automatically calculates the required power for the shot.",
+    "example_ja": "TTLフラッシュは、ショットに必要な光量を自動的に計算します。"
+  },
+  {
+    "word": "Flash exposure compensation",
+    "phonetic": "/flæʃ ɪkˈspoʊʒər ˌkɑːmpənˈseɪʃn/",
+    "meaning": "調光補正",
+    "example": "Use flash exposure compensation to fine-tune the flash output.",
+    "example_ja": "フラッシュの出力を微調整するには、調光補正を使用してください。"
+  },
+  {
+    "word": "Guide number",
+    "phonetic": "/ɡaɪd ˈnʌmbər/",
+    "meaning": "ガイドナンバー",
+    "example": "A higher guide number indicates a more powerful flash.",
+    "example_ja": "ガイドナンバーが大きいほど、より強力なフラッシュであることを示します。"
+  },
+  {
+    "word": "Recycle time",
+    "phonetic": "/ˌriːˈsaɪkl taɪm/",
+    "meaning": "リサイクルタイム、チャージ時間",
+    "example": "Fast recycle time is crucial for capturing consecutive action shots.",
+    "example_ja": "連続したアクションショットを撮るには、速いリサイクルタイム（チャージ時間）が重要です。"
+  },
+  {
+    "word": "Modelling light",
+    "phonetic": "/ˈmɑːdlɪŋ laɪt/",
+    "meaning": "モデリングランプ",
+    "example": "The modelling light allows you to see the lighting pattern before firing the flash.",
+    "example_ja": "モデリングランプを使用すると、フラッシュを発光させる前に照明のパターンを確認できます。"
+  },
+  {
+    "word": "Light stand",
+    "phonetic": "/laɪt stænd/",
+    "meaning": "ライトスタンド",
+    "example": "Secure your flash on a sturdy light stand.",
+    "example_ja": "フラッシュを頑丈なライトスタンドに固定してください。"
+  },
+  {
+    "word": "Boom arm",
+    "phonetic": "/buːm ɑːrm/",
+    "meaning": "ブームアーム",
+    "example": "A boom arm allows you to position light directly over the subject.",
+    "example_ja": "ブームアームを使用すると、被写体の真上にライトを配置できます。"
+  },
+  {
+    "word": "Sandbag",
+    "phonetic": "/ˈsændbæɡ/",
+    "meaning": "サンドバッグ、重り",
+    "example": "Use sandbags to prevent light stands from tipping over.",
+    "example_ja": "ライトスタンドが倒れないように、サンドバッグ（重り）を使用してください。"
+  },
+  {
+    "word": "Backdrop",
+    "phonetic": "/ˈbækdrɑːp/",
+    "meaning": "背景布、バックドロップ",
+    "example": "A seamless paper backdrop is a staple in many studios.",
+    "example_ja": "継ぎ目のないペーパーバック（背景紙）は、多くのスタジオで定番です。"
+  },
+  {
+    "word": "Seamless paper",
+    "phonetic": "/ˈsiːmləs ˈpeɪpər/",
+    "meaning": "シームレスペーパー、背景紙",
+    "example": "Seamless paper provides a clean, distraction-free background.",
+    "example_ja": "背景紙（シームレスペーパー）は、清潔で邪魔なもののない背景を提供します。"
+  },
+  {
+    "word": "Muslin",
+    "phonetic": "/ˈmʌzlɪn/",
+    "meaning": "モスリン、背景布",
+    "example": "Muslin backdrops are durable and easy to transport.",
+    "example_ja": "モスリンの背景布は耐久性があり、持ち運びが簡単です。"
+  },
+  {
+    "word": "Keying",
+    "phonetic": "/ˈkiːɪŋ/",
+    "meaning": "キーイング、クロマキー",
+    "example": "Keying involves removing a specific color from the background.",
+    "example_ja": "キーイング（クロマキー）とは、背景から特定の数字を取り除く作業のことです。"
+  },
+  {
+    "word": "Green screen",
+    "phonetic": "/ɡriːn skriːn/",
+    "meaning": "グリーンバック、グリーンスクリーン",
+    "example": "A green screen allows you to replace the background in post-production.",
+    "example_ja": "グリーンスクリーン（グリーンバック）を使用すると、後処理で背景を置き換えることができます。"
+  },
+  {
+    "word": "Tripod head",
+    "phonetic": "/ˈtraɪpɑːd hed/",
+    "meaning": "三脚雲台",
+    "example": "A ball head allows for quick and easy adjustments.",
+    "example_ja": "自由雲台（ボールヘッド）を使用すると、素早く簡単に調整ができます。"
+  },
+  {
+    "word": "Ball head",
+    "phonetic": "/bɔːl hed/",
+    "meaning": "自由雲台、ボールヘッド",
+    "example": "Ball heads are versatile and popular for general photography.",
+    "example_ja": "自由雲台は汎用性が高く、一般的な撮影に人気があります。"
+  },
+  {
+    "word": "Pan-tilt head",
+    "phonetic": "/pæn tɪlt hed/",
+    "meaning": "3ウェイ雲台、パン・チルトヘッド",
+    "example": "A pan-tilt head offers precise control over each axis.",
+    "example_ja": "3ウェイ雲台（パン・チルトヘッド）は、各軸に対して精密なコントロールが可能です。"
+  },
+  {
+    "word": "Gimbal head",
+    "phonetic": "/ˈɡɪmbl hed/",
+    "meaning": "ジンバル雲台",
+    "example": "A gimbal head is essential for balancing heavy telephoto lenses.",
+    "example_ja": "ジンバル雲台は、重い望遠レンズのバランスを取るために不可欠です。"
+  },
+  {
+    "word": "Quick release plate",
+    "phonetic": "/kwɪk rɪˈliːs pleɪt/",
+    "meaning": "クイックシュー、クイックリリースペート",
+    "example": "The quick release plate lets you attach the camera to the tripod instantly.",
+    "example_ja": "クイックリリースペート（クイックシュー）を使用すると、カメラを三脚に瞬時に取り付けることができます。"
+  },
+  {
+    "word": "L-bracket",
+    "phonetic": "/el ˈbrækɪt/",
+    "meaning": "L型ブラケット",
+    "example": "An L-bracket allows you to switch between landscape and portrait orientation easily.",
+    "example_ja": "L型ブラケットを使用すると、横位置と縦位置の切り替えが簡単にできます。"
+  },
+  {
+    "word": "Monopod",
+    "phonetic": "/ˈmɑːnəpɑːd/",
+    "meaning": "一脚",
+    "example": "A monopod provides extra stability while remaining highly portable.",
+    "example_ja": "一脚は高い携帯性を維持しつつ、さらなる安定性を提供します。"
+  },
+  {
+    "word": "Self-timer",
+    "phonetic": "/self ˈtaɪmər/",
+    "meaning": "セルフタイマー",
+    "example": "Use the self-timer to avoid camera shake during a long exposure.",
+    "example_ja": "長時間露光中のカメラブレを防ぐために、セルフタイマーを使用してください。"
+  },
+  {
+    "word": "Remote shutter release",
+    "phonetic": "/rɪˈmoʊt ˈʃʌtər rɪˈliːs/",
+    "meaning": "リモートシャッター、レリーズ",
+    "example": "A remote shutter release is useful for night photography.",
+    "example_ja": "リモートシャッター（レリーズ）は夜景撮影に便利です。"
+  },
+  {
+    "word": "Intervalometer",
+    "phonetic": "/ˌɪntərvəˈlɑːmɪtər/",
+    "meaning": "インターバロメーター、タイマーリモートコントローラー",
+    "example": "An intervalometer is necessary for shooting time-lapse sequences.",
+    "example_ja": "インターバロメーターは、タイムラプス動画の撮影に必要です。"
+  },
+  {
+    "word": "Light painting",
+    "phonetic": "/laɪt ˈpeɪntɪŋ/",
+    "meaning": "ライトペインティング",
+    "example": "Light painting involves moving a light source during a long exposure.",
+    "example_ja": "ライトペインティングとは、長時間露光中に光源を動かす手法です。"
+  },
+  {
+    "word": "Multiple exposure",
+    "phonetic": "/ˈmʌltɪpl ɪkˈspoʊʒər/",
+    "meaning": "多重露光",
+    "example": "Multiple exposure combines two or more shots into a single frame.",
+    "example_ja": "多重露光は、2つ以上のショットを1つのフレームに合成します。"
+  },
+  {
+    "word": "Double exposure",
+    "phonetic": "/ˈdʌbl ɪkˈspoʊʒər/",
+    "meaning": "二重露光",
+    "example": "Double exposure is a classic creative technique in film photography.",
+    "example_ja": "二重露光は、フィルム写真における古典的でクリエイティブな手法です。"
+  },
+  {
+    "word": "Film grain",
+    "phonetic": "/fɪlm ɡreɪn/",
+    "meaning": "フィルム粒子",
+    "example": "Many digital photographers add film grain in post-processing for a vintage look.",
+    "example_ja": "多くのデジタル写真家は、ヴィンテージ風にするために後処理でフィルム粒子を加えます。"
+  },
+  {
+    "word": "Darkroom",
+    "phonetic": "/ˈdɑːrkruːm/",
+    "meaning": "暗室",
+    "example": "Traditional film development takes place in a darkroom.",
+    "example_ja": "伝統的なフィルム現像は暗室で行われます。"
+  },
+  {
+    "word": "Enlarger",
+    "phonetic": "/ɪnˈlɑːrdʒər/",
+    "meaning": "引き伸ばし機",
+    "example": "An enlarger is used to project film negatives onto photographic paper.",
+    "example_ja": "引き伸ばし機は、フィルムのネガを印画紙に投影するために使用されます。"
+  },
+  {
+    "word": "Negative",
+    "phonetic": "/ˈneɡətɪv/",
+    "meaning": "ネガ、陰画",
+    "example": "The colors are reversed on a film negative.",
+    "example_ja": "フィルムのネガでは、色が反転しています。"
+  },
+  {
+    "word": "Slide film",
+    "phonetic": "/slaɪd fɪlm/",
+    "meaning": "スライドフィルム、ポジフィルム",
+    "example": "Slide film produces positive images that can be projected.",
+    "example_ja": "スライドフィルム（ポジフィルム）は、投影可能な正像を作り出します。"
+  },
+  {
+    "word": "Contact sheet",
+    "phonetic": "/ˈkɑːntækt ʃiːt/",
+    "meaning": "コンタクトプリント、ベタ焼き",
+    "example": "A contact sheet allows you to see all the frames from a roll of film at once.",
+    "example_ja": "コンタクトシート（ベタ焼き）を使用すると、フィルム1本の全フレームを一度に確認できます。"
+  },
+  {
+    "word": "Street cred",
+    "phonetic": "/striːt kred/",
+    "meaning": "ストリートでの信頼性、評判",
+    "example": "Carrying a Leica can give you some street cred among photographers.",
+    "example_ja": "ライカを持ち歩くことは、写真家の間で一種のステータス（ストリートでの信頼性）になることがあります。"
+  },
+  {
+    "word": "Gear Acquisition Syndrome (GAS)",
+    "phonetic": "/ɡɪr ˌækwɪˈzɪʃn ˈsɪndroʊm/",
+    "meaning": "機材欲、GAS",
+    "example": "Many photographers suffer from Gear Acquisition Syndrome, constantly wanting new equipment.",
+    "example_ja": "多くの写真家が、常に新しい機材を欲しがる「GAS（機材欲）」に悩まされています。"
   }
 ]
