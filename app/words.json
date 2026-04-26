@@ -1,0 +1,4797 @@
+[
+  {
+    "word": "apple",
+    "phonetic": "ˈæp.əl",
+    "meaning": "リンゴ",
+    "example": "I eat an apple every morning.",
+    "example_ja": "私は毎朝リンゴを食べる。"
+  },
+  {
+    "word": "bread",
+    "phonetic": "bred",
+    "meaning": "パン",
+    "example": "She baked fresh bread for breakfast.",
+    "example_ja": "彼女は朝食に焼きたてのパンを作った。"
+  },
+  {
+    "word": "butter",
+    "phonetic": "ˈbʌt.ər",
+    "meaning": "バター",
+    "example": "He spread butter on his toast.",
+    "example_ja": "彼はトーストにバターを塗った。"
+  },
+  {
+    "word": "milk",
+    "phonetic": "mɪlk",
+    "meaning": "牛乳",
+    "example": "Children need milk to grow strong.",
+    "example_ja": "子供たちは強く育つために牛乳が必要だ。"
+  },
+  {
+    "word": "egg",
+    "phonetic": "eɡ",
+    "meaning": "卵",
+    "example": "I scrambled two eggs for lunch.",
+    "example_ja": "昼食に卵を2つ炒り卵にした。"
+  },
+  {
+    "word": "rice",
+    "phonetic": "raɪs",
+    "meaning": "米・ご飯",
+    "example": "Rice is a staple food in Japan.",
+    "example_ja": "米は日本の主食だ。"
+  },
+  {
+    "word": "water",
+    "phonetic": "ˈwɔː.tər",
+    "meaning": "水",
+    "example": "Please drink enough water every day.",
+    "example_ja": "毎日十分な水を飲んでください。"
+  },
+  {
+    "word": "coffee",
+    "phonetic": "ˈkɒf.i",
+    "meaning": "コーヒー",
+    "example": "I need a cup of coffee to wake up.",
+    "example_ja": "目を覚ますためにコーヒーが一杯必要だ。"
+  },
+  {
+    "word": "tea",
+    "phonetic": "tiː",
+    "meaning": "お茶",
+    "example": "She enjoys green tea after dinner.",
+    "example_ja": "彼女は夕食後に緑茶を楽しむ。"
+  },
+  {
+    "word": "juice",
+    "phonetic": "dʒuːs",
+    "meaning": "ジュース",
+    "example": "He drank orange juice this morning.",
+    "example_ja": "彼は今朝オレンジジュースを飲んだ。"
+  },
+  {
+    "word": "soup",
+    "phonetic": "suːp",
+    "meaning": "スープ",
+    "example": "This tomato soup is very warm and delicious.",
+    "example_ja": "このトマトスープはとても温かくておいしい。"
+  },
+  {
+    "word": "salad",
+    "phonetic": "ˈsæl.əd",
+    "meaning": "サラダ",
+    "example": "She made a fresh vegetable salad.",
+    "example_ja": "彼女は新鮮な野菜サラダを作った。"
+  },
+  {
+    "word": "meat",
+    "phonetic": "miːt",
+    "meaning": "肉",
+    "example": "We grilled meat at the barbecue party.",
+    "example_ja": "バーベキューパーティーで肉を焼いた。"
+  },
+  {
+    "word": "fish",
+    "phonetic": "fɪʃ",
+    "meaning": "魚",
+    "example": "They caught fresh fish at the lake.",
+    "example_ja": "彼らは湖で新鮮な魚を釣った。"
+  },
+  {
+    "word": "chicken",
+    "phonetic": "ˈtʃɪk.ɪn",
+    "meaning": "鶏肉・鶏",
+    "example": "I had grilled chicken for dinner.",
+    "example_ja": "夕食に鶏の塩焼きを食べた。"
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "ˈvedʒ.tə.bəl",
+    "meaning": "野菜",
+    "example": "Eating vegetables is good for your health.",
+    "example_ja": "野菜を食べることは健康に良い。"
+  },
+  {
+    "word": "fruit",
+    "phonetic": "fruːt",
+    "meaning": "果物",
+    "example": "Fresh fruit is sold at the market.",
+    "example_ja": "新鮮な果物が市場で売られている。"
+  },
+  {
+    "word": "sugar",
+    "phonetic": "ˈʃʊɡ.ər",
+    "meaning": "砂糖",
+    "example": "She added sugar to her coffee.",
+    "example_ja": "彼女はコーヒーに砂糖を加えた。"
+  },
+  {
+    "word": "salt",
+    "phonetic": "sɒlt",
+    "meaning": "塩",
+    "example": "Don't add too much salt to your food.",
+    "example_ja": "食べ物に塩を入れすぎないように。"
+  },
+  {
+    "word": "oil",
+    "phonetic": "ɔɪl",
+    "meaning": "油",
+    "example": "Heat the oil in the frying pan.",
+    "example_ja": "フライパンで油を熱する。"
+  },
+  {
+    "word": "house",
+    "phonetic": "haʊs",
+    "meaning": "家",
+    "example": "They built a new house last year.",
+    "example_ja": "彼らは昨年新しい家を建てた。"
+  },
+  {
+    "word": "room",
+    "phonetic": "ruːm",
+    "meaning": "部屋",
+    "example": "Her room is tidy and well-organized.",
+    "example_ja": "彼女の部屋は整頓されていてきれいだ。"
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "ˈkɪtʃ.ɪn",
+    "meaning": "キッチン・台所",
+    "example": "The kitchen smells wonderful when she cooks.",
+    "example_ja": "彼女が料理するとキッチンが素晴らしい香りになる。"
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "ˈbed.ruːm",
+    "meaning": "寝室",
+    "example": "The bedroom has a large window.",
+    "example_ja": "寝室には大きな窓がある。"
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "ˈbɑːθ.ruːm",
+    "meaning": "浴室・トイレ",
+    "example": "Please clean the bathroom today.",
+    "example_ja": "今日は浴室を掃除してください。"
+  },
+  {
+    "word": "door",
+    "phonetic": "dɔːr",
+    "meaning": "ドア",
+    "example": "Please close the door quietly.",
+    "example_ja": "ドアを静かに閉めてください。"
+  },
+  {
+    "word": "window",
+    "phonetic": "ˈwɪn.dəʊ",
+    "meaning": "窓",
+    "example": "Open the window to let in fresh air.",
+    "example_ja": "新鮮な空気を入れるために窓を開けて。"
+  },
+  {
+    "word": "floor",
+    "phonetic": "flɔːr",
+    "meaning": "床・階",
+    "example": "The floor is slippery after cleaning.",
+    "example_ja": "掃除した後、床が滑りやすい。"
+  },
+  {
+    "word": "wall",
+    "phonetic": "wɔːl",
+    "meaning": "壁",
+    "example": "They painted the wall white.",
+    "example_ja": "彼らは壁を白く塗った。"
+  },
+  {
+    "word": "chair",
+    "phonetic": "tʃeər",
+    "meaning": "椅子",
+    "example": "Please take a seat on the chair.",
+    "example_ja": "椅子に座ってください。"
+  },
+  {
+    "word": "table",
+    "phonetic": "ˈteɪ.bəl",
+    "meaning": "テーブル",
+    "example": "We eat dinner at the dining table.",
+    "example_ja": "私たちはダイニングテーブルで夕食を食べる。"
+  },
+  {
+    "word": "bed",
+    "phonetic": "bed",
+    "meaning": "ベッド",
+    "example": "She made her bed every morning.",
+    "example_ja": "彼女は毎朝ベッドを整えた。"
+  },
+  {
+    "word": "sofa",
+    "phonetic": "ˈsəʊ.fə",
+    "meaning": "ソファ",
+    "example": "He relaxed on the sofa after work.",
+    "example_ja": "彼は仕事の後ソファでくつろいだ。"
+  },
+  {
+    "word": "lamp",
+    "phonetic": "læmp",
+    "meaning": "ランプ・照明",
+    "example": "Turn on the lamp, it's getting dark.",
+    "example_ja": "暗くなってきたのでランプをつけて。"
+  },
+  {
+    "word": "mirror",
+    "phonetic": "ˈmɪr.ər",
+    "meaning": "鏡",
+    "example": "She checked her hair in the mirror.",
+    "example_ja": "彼女は鏡で髪を確認した。"
+  },
+  {
+    "word": "clock",
+    "phonetic": "klɒk",
+    "meaning": "時計",
+    "example": "The clock on the wall shows 3 o'clock.",
+    "example_ja": "壁の時計が3時を示している。"
+  },
+  {
+    "word": "bag",
+    "phonetic": "bæɡ",
+    "meaning": "バッグ・鞄",
+    "example": "She packed her bag for the trip.",
+    "example_ja": "彼女は旅行のためにバッグに荷物を詰めた。"
+  },
+  {
+    "word": "key",
+    "phonetic": "kiː",
+    "meaning": "鍵",
+    "example": "Don't forget your house key.",
+    "example_ja": "家の鍵を忘れないで。"
+  },
+  {
+    "word": "wallet",
+    "phonetic": "ˈwɒl.ɪt",
+    "meaning": "財布",
+    "example": "He left his wallet on the desk.",
+    "example_ja": "彼は財布を机の上に忘れた。"
+  },
+  {
+    "word": "phone",
+    "phonetic": "fəʊn",
+    "meaning": "電話・スマートフォン",
+    "example": "She checked her phone for messages.",
+    "example_ja": "彼女はメッセージを確認するためにスマホを見た。"
+  },
+  {
+    "word": "book",
+    "phonetic": "bʊk",
+    "meaning": "本",
+    "example": "I read a book before going to sleep.",
+    "example_ja": "私は寝る前に本を読む。"
+  },
+  {
+    "word": "pen",
+    "phonetic": "pen",
+    "meaning": "ペン",
+    "example": "Can I borrow your pen for a moment?",
+    "example_ja": "少しペンを貸してもらえますか？"
+  },
+  {
+    "word": "paper",
+    "phonetic": "ˈpeɪ.pər",
+    "meaning": "紙",
+    "example": "She wrote her notes on paper.",
+    "example_ja": "彼女は紙にメモを書いた。"
+  },
+  {
+    "word": "computer",
+    "phonetic": "kəmˈpjuː.tər",
+    "meaning": "コンピュータ",
+    "example": "He works on his computer all day.",
+    "example_ja": "彼は一日中コンピュータで作業する。"
+  },
+  {
+    "word": "car",
+    "phonetic": "kɑːr",
+    "meaning": "車",
+    "example": "She drove her car to the office.",
+    "example_ja": "彼女は車でオフィスに行った。"
+  },
+  {
+    "word": "bus",
+    "phonetic": "bʌs",
+    "meaning": "バス",
+    "example": "I take the bus to school every day.",
+    "example_ja": "私は毎日バスで学校に行く。"
+  },
+  {
+    "word": "train",
+    "phonetic": "treɪn",
+    "meaning": "電車・列車",
+    "example": "The train arrives at 8 in the morning.",
+    "example_ja": "電車は朝8時に到着する。"
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "ˈbaɪ.sɪ.kəl",
+    "meaning": "自転車",
+    "example": "He rides his bicycle to the park.",
+    "example_ja": "彼は自転車で公園に行く。"
+  },
+  {
+    "word": "road",
+    "phonetic": "rəʊd",
+    "meaning": "道路",
+    "example": "Be careful when crossing the road.",
+    "example_ja": "道路を渡るときは気をつけて。"
+  },
+  {
+    "word": "street",
+    "phonetic": "striːt",
+    "meaning": "通り・街路",
+    "example": "The street is busy on weekends.",
+    "example_ja": "週末はその通りが混んでいる。"
+  },
+  {
+    "word": "school",
+    "phonetic": "skuːl",
+    "meaning": "学校",
+    "example": "The children go to school by bus.",
+    "example_ja": "子供たちはバスで学校に行く。"
+  },
+  {
+    "word": "hospital",
+    "phonetic": "ˈhɒs.pɪ.təl",
+    "meaning": "病院",
+    "example": "She works as a nurse at the hospital.",
+    "example_ja": "彼女は病院で看護師として働いている。"
+  },
+  {
+    "word": "bank",
+    "phonetic": "bæŋk",
+    "meaning": "銀行",
+    "example": "I need to go to the bank today.",
+    "example_ja": "今日銀行に行く必要がある。"
+  },
+  {
+    "word": "store",
+    "phonetic": "stɔːr",
+    "meaning": "店・お店",
+    "example": "The grocery store opens at 8 am.",
+    "example_ja": "食料品店は午前8時に開く。"
+  },
+  {
+    "word": "market",
+    "phonetic": "ˈmɑː.kɪt",
+    "meaning": "市場・スーパー",
+    "example": "We buy vegetables at the local market.",
+    "example_ja": "地元の市場で野菜を買う。"
+  },
+  {
+    "word": "park",
+    "phonetic": "pɑːk",
+    "meaning": "公園",
+    "example": "The kids play in the park after school.",
+    "example_ja": "子供たちは放課後に公園で遊ぶ。"
+  },
+  {
+    "word": "garden",
+    "phonetic": "ˈɡɑː.dən",
+    "meaning": "庭・庭園",
+    "example": "She grows roses in her garden.",
+    "example_ja": "彼女は庭でバラを育てている。"
+  },
+  {
+    "word": "library",
+    "phonetic": "ˈlaɪ.brər.i",
+    "meaning": "図書館",
+    "example": "I study at the library every evening.",
+    "example_ja": "私は毎晩図書館で勉強する。"
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "ˈres.tər.ɒnt",
+    "meaning": "レストラン",
+    "example": "We had dinner at an Italian restaurant.",
+    "example_ja": "私たちはイタリアンレストランで夕食を食べた。"
+  },
+  {
+    "word": "hotel",
+    "phonetic": "həʊˈtel",
+    "meaning": "ホテル",
+    "example": "They stayed at a nice hotel by the sea.",
+    "example_ja": "彼らは海辺の素敵なホテルに泊まった。"
+  },
+  {
+    "word": "airport",
+    "phonetic": "ˈeər.pɔːt",
+    "meaning": "空港",
+    "example": "We arrived at the airport two hours early.",
+    "example_ja": "私たちは2時間早く空港に着いた。"
+  },
+  {
+    "word": "morning",
+    "phonetic": "ˈmɔː.nɪŋ",
+    "meaning": "朝・午前",
+    "example": "She jogs every morning before work.",
+    "example_ja": "彼女は仕事前に毎朝ジョギングする。"
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "ˌɑːf.təˈnuːn",
+    "meaning": "午後",
+    "example": "We usually have tea in the afternoon.",
+    "example_ja": "私たちは普通午後にお茶を飲む。"
+  },
+  {
+    "word": "evening",
+    "phonetic": "ˈiːv.nɪŋ",
+    "meaning": "夕方・夜",
+    "example": "He reads a book every evening.",
+    "example_ja": "彼は毎晩本を読む。"
+  },
+  {
+    "word": "night",
+    "phonetic": "naɪt",
+    "meaning": "夜",
+    "example": "The city looks beautiful at night.",
+    "example_ja": "夜の街は美しく見える。"
+  },
+  {
+    "word": "today",
+    "phonetic": "təˈdeɪ",
+    "meaning": "今日",
+    "example": "What are you doing today?",
+    "example_ja": "今日は何をしていますか？"
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "təˈmɒr.əʊ",
+    "meaning": "明日",
+    "example": "Let's meet for coffee tomorrow.",
+    "example_ja": "明日コーヒーを飲みに会いましょう。"
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "ˈjes.tə.deɪ",
+    "meaning": "昨日",
+    "example": "I met my friend yesterday.",
+    "example_ja": "昨日友達に会った。"
+  },
+  {
+    "word": "week",
+    "phonetic": "wiːk",
+    "meaning": "週",
+    "example": "We have a meeting once a week.",
+    "example_ja": "私たちは週に一度会議がある。"
+  },
+  {
+    "word": "month",
+    "phonetic": "mʌnθ",
+    "meaning": "月",
+    "example": "She visits her parents once a month.",
+    "example_ja": "彼女は月に一度両親を訪ねる。"
+  },
+  {
+    "word": "year",
+    "phonetic": "jɪər",
+    "meaning": "年",
+    "example": "We traveled abroad last year.",
+    "example_ja": "昨年海外旅行をした。"
+  },
+  {
+    "word": "family",
+    "phonetic": "ˈfæm.ɪ.li",
+    "meaning": "家族",
+    "example": "My family has dinner together every evening.",
+    "example_ja": "私の家族は毎晩一緒に夕食を食べる。"
+  },
+  {
+    "word": "friend",
+    "phonetic": "frend",
+    "meaning": "友達",
+    "example": "She is my best friend since childhood.",
+    "example_ja": "彼女は幼い頃からの親友だ。"
+  },
+  {
+    "word": "mother",
+    "phonetic": "ˈmʌð.ər",
+    "meaning": "母",
+    "example": "My mother makes the best soup.",
+    "example_ja": "私の母は最高のスープを作る。"
+  },
+  {
+    "word": "father",
+    "phonetic": "ˈfɑː.ðər",
+    "meaning": "父",
+    "example": "My father taught me how to ride a bike.",
+    "example_ja": "父が自転車の乗り方を教えてくれた。"
+  },
+  {
+    "word": "brother",
+    "phonetic": "ˈbrʌð.ər",
+    "meaning": "兄・弟",
+    "example": "My brother is two years older than me.",
+    "example_ja": "兄は私より2歳年上だ。"
+  },
+  {
+    "word": "sister",
+    "phonetic": "ˈsɪs.tər",
+    "meaning": "姉・妹",
+    "example": "My sister loves painting.",
+    "example_ja": "姉は絵を描くのが大好きだ。"
+  },
+  {
+    "word": "child",
+    "phonetic": "tʃaɪld",
+    "meaning": "子供",
+    "example": "Every child deserves a good education.",
+    "example_ja": "すべての子供は良い教育を受ける権利がある。"
+  },
+  {
+    "word": "baby",
+    "phonetic": "ˈbeɪ.bi",
+    "meaning": "赤ちゃん",
+    "example": "The baby smiled at her mother.",
+    "example_ja": "赤ちゃんは母親に微笑んだ。"
+  },
+  {
+    "word": "doctor",
+    "phonetic": "ˈdɒk.tər",
+    "meaning": "医者",
+    "example": "The doctor advised her to rest.",
+    "example_ja": "医者は彼女に休むよう勧めた。"
+  },
+  {
+    "word": "teacher",
+    "phonetic": "ˈtiː.tʃər",
+    "meaning": "教師",
+    "example": "Our teacher explains things very clearly.",
+    "example_ja": "私たちの先生はとてもわかりやすく説明する。"
+  },
+  {
+    "word": "student",
+    "phonetic": "ˈstjuː.dənt",
+    "meaning": "生徒・学生",
+    "example": "The student studied hard for the exam.",
+    "example_ja": "その生徒は試験のために一生懸命勉強した。"
+  },
+  {
+    "word": "job",
+    "phonetic": "dʒɒb",
+    "meaning": "仕事",
+    "example": "She got a new job at a tech company.",
+    "example_ja": "彼女はテック企業で新しい仕事を得た。"
+  },
+  {
+    "word": "work",
+    "phonetic": "wɜːk",
+    "meaning": "働く・仕事",
+    "example": "He works from home on Fridays.",
+    "example_ja": "彼は金曜日に自宅で仕事をする。"
+  },
+  {
+    "word": "money",
+    "phonetic": "ˈmʌn.i",
+    "meaning": "お金",
+    "example": "She saved money for her vacation.",
+    "example_ja": "彼女は休暇のためにお金を貯めた。"
+  },
+  {
+    "word": "price",
+    "phonetic": "praɪs",
+    "meaning": "値段・価格",
+    "example": "The price of this jacket is too high.",
+    "example_ja": "このジャケットの値段は高すぎる。"
+  },
+  {
+    "word": "shop",
+    "phonetic": "ʃɒp",
+    "meaning": "買い物する・店",
+    "example": "She went shopping on Saturday.",
+    "example_ja": "彼女は土曜日に買い物に行った。"
+  },
+  {
+    "word": "buy",
+    "phonetic": "baɪ",
+    "meaning": "買う",
+    "example": "I need to buy some groceries.",
+    "example_ja": "食料品を買う必要がある。"
+  },
+  {
+    "word": "sell",
+    "phonetic": "sel",
+    "meaning": "売る",
+    "example": "He sells handmade crafts online.",
+    "example_ja": "彼はオンラインで手作り工芸品を売っている。"
+  },
+  {
+    "word": "pay",
+    "phonetic": "peɪ",
+    "meaning": "支払う",
+    "example": "Can I pay by credit card?",
+    "example_ja": "クレジットカードで支払えますか？"
+  },
+  {
+    "word": "eat",
+    "phonetic": "iːt",
+    "meaning": "食べる",
+    "example": "Let's eat lunch together.",
+    "example_ja": "一緒に昼食を食べよう。"
+  },
+  {
+    "word": "drink",
+    "phonetic": "drɪŋk",
+    "meaning": "飲む",
+    "example": "Remember to drink plenty of water.",
+    "example_ja": "たくさん水を飲むことを忘れずに。"
+  },
+  {
+    "word": "cook",
+    "phonetic": "kʊk",
+    "meaning": "料理する",
+    "example": "He cooks dinner for the whole family.",
+    "example_ja": "彼は家族全員のために夕食を作る。"
+  },
+  {
+    "word": "sleep",
+    "phonetic": "sliːp",
+    "meaning": "眠る",
+    "example": "She sleeps eight hours every night.",
+    "example_ja": "彼女は毎晩8時間眠る。"
+  },
+  {
+    "word": "wake",
+    "phonetic": "weɪk",
+    "meaning": "目覚める",
+    "example": "I wake up at 6 every morning.",
+    "example_ja": "私は毎朝6時に目覚める。"
+  },
+  {
+    "word": "walk",
+    "phonetic": "wɔːk",
+    "meaning": "歩く",
+    "example": "They walk to the station together.",
+    "example_ja": "彼らは一緒に駅まで歩く。"
+  },
+  {
+    "word": "run",
+    "phonetic": "rʌn",
+    "meaning": "走る",
+    "example": "She runs five kilometers every day.",
+    "example_ja": "彼女は毎日5キロ走る。"
+  },
+  {
+    "word": "sit",
+    "phonetic": "sɪt",
+    "meaning": "座る",
+    "example": "Please sit down and relax.",
+    "example_ja": "座ってくつろいでください。"
+  },
+  {
+    "word": "stand",
+    "phonetic": "stænd",
+    "meaning": "立つ",
+    "example": "He stood by the window and waited.",
+    "example_ja": "彼は窓の傍に立って待った。"
+  },
+  {
+    "word": "read",
+    "phonetic": "riːd",
+    "meaning": "読む",
+    "example": "She reads the news every morning.",
+    "example_ja": "彼女は毎朝ニュースを読む。"
+  },
+  {
+    "word": "write",
+    "phonetic": "raɪt",
+    "meaning": "書く",
+    "example": "He writes in his diary every night.",
+    "example_ja": "彼は毎晩日記を書く。"
+  },
+  {
+    "word": "listen",
+    "phonetic": "ˈlɪs.ən",
+    "meaning": "聴く",
+    "example": "She listens to music on the way to work.",
+    "example_ja": "彼女は通勤中に音楽を聴く。"
+  },
+  {
+    "word": "speak",
+    "phonetic": "spiːk",
+    "meaning": "話す",
+    "example": "He speaks three languages fluently.",
+    "example_ja": "彼は3つの言語を流ちょうに話す。"
+  },
+  {
+    "word": "watch",
+    "phonetic": "wɒtʃ",
+    "meaning": "見る・時計",
+    "example": "We watched a movie last night.",
+    "example_ja": "昨夜映画を見た。"
+  },
+  {
+    "word": "look",
+    "phonetic": "lʊk",
+    "meaning": "見る・様子",
+    "example": "Look at the beautiful sunset.",
+    "example_ja": "美しい夕日を見て。"
+  },
+  {
+    "word": "think",
+    "phonetic": "θɪŋk",
+    "meaning": "考える・思う",
+    "example": "Think carefully before you decide.",
+    "example_ja": "決める前によく考えて。"
+  },
+  {
+    "word": "know",
+    "phonetic": "nəʊ",
+    "meaning": "知っている",
+    "example": "Do you know where the library is?",
+    "example_ja": "図書館がどこにあるか知っていますか？"
+  },
+  {
+    "word": "understand",
+    "phonetic": "ˌʌn.dəˈstænd",
+    "meaning": "理解する",
+    "example": "I don't understand this question.",
+    "example_ja": "この質問が理解できない。"
+  },
+  {
+    "word": "help",
+    "phonetic": "help",
+    "meaning": "助ける・手伝う",
+    "example": "Can you help me carry this box?",
+    "example_ja": "この箱を運ぶのを手伝ってもらえますか？"
+  },
+  {
+    "word": "open",
+    "phonetic": "ˈəʊ.pən",
+    "meaning": "開ける・開いている",
+    "example": "Please open the door for me.",
+    "example_ja": "ドアを開けていただけますか？"
+  },
+  {
+    "word": "close",
+    "phonetic": "kləʊz",
+    "meaning": "閉める",
+    "example": "Close your eyes and take a deep breath.",
+    "example_ja": "目を閉じて深呼吸して。"
+  },
+  {
+    "word": "start",
+    "phonetic": "stɑːt",
+    "meaning": "始める",
+    "example": "Let's start the meeting now.",
+    "example_ja": "今から会議を始めましょう。"
+  },
+  {
+    "word": "stop",
+    "phonetic": "stɒp",
+    "meaning": "止まる・止める",
+    "example": "The bus stopped at the red light.",
+    "example_ja": "バスは赤信号で止まった。"
+  },
+  {
+    "word": "give",
+    "phonetic": "ɡɪv",
+    "meaning": "与える",
+    "example": "She gave him a birthday present.",
+    "example_ja": "彼女は彼に誕生日プレゼントを渡した。"
+  },
+  {
+    "word": "take",
+    "phonetic": "teɪk",
+    "meaning": "取る・持っていく",
+    "example": "Take an umbrella, it might rain.",
+    "example_ja": "雨が降るかもしれないので傘を持っていきなさい。"
+  },
+  {
+    "word": "come",
+    "phonetic": "kʌm",
+    "meaning": "来る",
+    "example": "Please come to my house tomorrow.",
+    "example_ja": "明日私の家に来てください。"
+  },
+  {
+    "word": "go",
+    "phonetic": "ɡəʊ",
+    "meaning": "行く",
+    "example": "We go hiking every weekend.",
+    "example_ja": "私たちは毎週末ハイキングに行く。"
+  },
+  {
+    "word": "make",
+    "phonetic": "meɪk",
+    "meaning": "作る",
+    "example": "She makes her own clothes.",
+    "example_ja": "彼女は自分の服を作る。"
+  },
+  {
+    "word": "use",
+    "phonetic": "juːz",
+    "meaning": "使う",
+    "example": "He uses public transportation every day.",
+    "example_ja": "彼は毎日公共交通機関を利用する。"
+  },
+  {
+    "word": "need",
+    "phonetic": "niːd",
+    "meaning": "必要とする",
+    "example": "I need more time to finish this.",
+    "example_ja": "これを終えるにはもっと時間が必要だ。"
+  },
+  {
+    "word": "want",
+    "phonetic": "wɒnt",
+    "meaning": "欲しい・望む",
+    "example": "She wants to travel around the world.",
+    "example_ja": "彼女は世界一周旅行をしたい。"
+  },
+  {
+    "word": "like",
+    "phonetic": "laɪk",
+    "meaning": "好きである",
+    "example": "I like spending time with my family.",
+    "example_ja": "家族と過ごす時間が好きだ。"
+  },
+  {
+    "word": "love",
+    "phonetic": "lʌv",
+    "meaning": "愛する・大好き",
+    "example": "She loves cooking Italian food.",
+    "example_ja": "彼女はイタリア料理を作るのが大好きだ。"
+  },
+  {
+    "word": "happy",
+    "phonetic": "ˈhæp.i",
+    "meaning": "幸せな・嬉しい",
+    "example": "He was happy to hear the good news.",
+    "example_ja": "彼は良い知らせを聞いて喜んだ。"
+  },
+  {
+    "word": "sad",
+    "phonetic": "sæd",
+    "meaning": "悲しい",
+    "example": "She felt sad when her friend moved away.",
+    "example_ja": "友達が引っ越したとき彼女は悲しくなった。"
+  },
+  {
+    "word": "tired",
+    "phonetic": "ˈtaɪəd",
+    "meaning": "疲れた",
+    "example": "I'm too tired to cook tonight.",
+    "example_ja": "今夜は疲れすぎて料理できない。"
+  },
+  {
+    "word": "busy",
+    "phonetic": "ˈbɪz.i",
+    "meaning": "忙しい",
+    "example": "She's been very busy with work lately.",
+    "example_ja": "彼女は最近仕事でとても忙しい。"
+  },
+  {
+    "word": "free",
+    "phonetic": "friː",
+    "meaning": "暇な・自由な",
+    "example": "Are you free this weekend?",
+    "example_ja": "今週末は暇ですか？"
+  },
+  {
+    "word": "late",
+    "phonetic": "leɪt",
+    "meaning": "遅い・遅刻した",
+    "example": "Sorry, I'm running late today.",
+    "example_ja": "すみません、今日遅れています。"
+  },
+  {
+    "word": "early",
+    "phonetic": "ˈɜː.li",
+    "meaning": "早い・早く",
+    "example": "She always arrives early for meetings.",
+    "example_ja": "彼女は会議にいつも早く到着する。"
+  },
+  {
+    "word": "fast",
+    "phonetic": "fɑːst",
+    "meaning": "速い・速く",
+    "example": "The train is very fast.",
+    "example_ja": "その電車はとても速い。"
+  },
+  {
+    "word": "slow",
+    "phonetic": "sləʊ",
+    "meaning": "遅い・ゆっくり",
+    "example": "Please drive slowly in this area.",
+    "example_ja": "このエリアではゆっくり運転してください。"
+  },
+  {
+    "word": "hot",
+    "phonetic": "hɒt",
+    "meaning": "熱い・暑い",
+    "example": "It's very hot outside today.",
+    "example_ja": "今日は外がとても暑い。"
+  },
+  {
+    "word": "cold",
+    "phonetic": "kəʊld",
+    "meaning": "冷たい・寒い",
+    "example": "It's too cold to go outside today.",
+    "example_ja": "今日は寒すぎて外に出られない。"
+  },
+  {
+    "word": "warm",
+    "phonetic": "wɔːm",
+    "meaning": "暖かい・温かい",
+    "example": "The soup is warm and comforting.",
+    "example_ja": "そのスープは温かくて心地よい。"
+  },
+  {
+    "word": "big",
+    "phonetic": "bɪɡ",
+    "meaning": "大きい",
+    "example": "They live in a big house.",
+    "example_ja": "彼らは大きな家に住んでいる。"
+  },
+  {
+    "word": "small",
+    "phonetic": "smɔːl",
+    "meaning": "小さい",
+    "example": "The kitten is very small and cute.",
+    "example_ja": "その子猫はとても小さくてかわいい。"
+  },
+  {
+    "word": "long",
+    "phonetic": "lɒŋ",
+    "meaning": "長い",
+    "example": "The meeting was very long today.",
+    "example_ja": "今日の会議はとても長かった。"
+  },
+  {
+    "word": "short",
+    "phonetic": "ʃɔːt",
+    "meaning": "短い・背が低い",
+    "example": "He wrote a short message to his friend.",
+    "example_ja": "彼は友達に短いメッセージを書いた。"
+  },
+  {
+    "word": "new",
+    "phonetic": "njuː",
+    "meaning": "新しい",
+    "example": "She bought a new jacket for winter.",
+    "example_ja": "彼女は冬のために新しいジャケットを買った。"
+  },
+  {
+    "word": "old",
+    "phonetic": "əʊld",
+    "meaning": "古い・年老いた",
+    "example": "That old building has a lot of history.",
+    "example_ja": "あの古い建物には多くの歴史がある。"
+  },
+  {
+    "word": "good",
+    "phonetic": "ɡʊd",
+    "meaning": "良い",
+    "example": "She did a good job on the project.",
+    "example_ja": "彼女はプロジェクトで良い仕事をした。"
+  },
+  {
+    "word": "bad",
+    "phonetic": "bæd",
+    "meaning": "悪い",
+    "example": "I had a bad day at work.",
+    "example_ja": "今日は仕事でひどい一日だった。"
+  },
+  {
+    "word": "easy",
+    "phonetic": "ˈiː.zi",
+    "meaning": "簡単な",
+    "example": "This recipe is easy to follow.",
+    "example_ja": "このレシピは簡単に作れる。"
+  },
+  {
+    "word": "difficult",
+    "phonetic": "ˈdɪf.ɪ.kəlt",
+    "meaning": "難しい",
+    "example": "The math exam was very difficult.",
+    "example_ja": "数学の試験はとても難しかった。"
+  },
+  {
+    "word": "clean",
+    "phonetic": "kliːn",
+    "meaning": "きれいな・掃除する",
+    "example": "Keep your room clean and organized.",
+    "example_ja": "部屋をきれいに整頓しておきなさい。"
+  },
+  {
+    "word": "dirty",
+    "phonetic": "ˈdɜː.ti",
+    "meaning": "汚い",
+    "example": "The dishes are dirty, please wash them.",
+    "example_ja": "皿が汚れているので洗ってください。"
+  },
+  {
+    "word": "safe",
+    "phonetic": "seɪf",
+    "meaning": "安全な",
+    "example": "This neighborhood is very safe.",
+    "example_ja": "この近所はとても安全だ。"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "ˈdeɪn.dʒər.əs",
+    "meaning": "危険な",
+    "example": "It's dangerous to swim alone.",
+    "example_ja": "一人で泳ぐのは危険だ。"
+  },
+  {
+    "word": "healthy",
+    "phonetic": "ˈhel.θi",
+    "meaning": "健康的な",
+    "example": "She leads a healthy lifestyle.",
+    "example_ja": "彼女は健康的な生活を送っている。"
+  },
+  {
+    "word": "sick",
+    "phonetic": "sɪk",
+    "meaning": "病気の",
+    "example": "He stayed home because he was sick.",
+    "example_ja": "彼は病気だったので家にいた。"
+  },
+  {
+    "word": "strong",
+    "phonetic": "strɒŋ",
+    "meaning": "強い",
+    "example": "She is strong both physically and mentally.",
+    "example_ja": "彼女は体力的にも精神的にも強い。"
+  },
+  {
+    "word": "weak",
+    "phonetic": "wiːk",
+    "meaning": "弱い",
+    "example": "He felt weak after his illness.",
+    "example_ja": "病気の後で彼は体が弱っていた。"
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "ˈbjuː.tɪ.fəl",
+    "meaning": "美しい",
+    "example": "The garden looks beautiful in spring.",
+    "example_ja": "春は庭が美しく見える。"
+  },
+  {
+    "word": "weather",
+    "phonetic": "ˈweð.ər",
+    "meaning": "天気",
+    "example": "The weather is perfect for a picnic.",
+    "example_ja": "ピクニックにちょうど良い天気だ。"
+  },
+  {
+    "word": "rain",
+    "phonetic": "reɪn",
+    "meaning": "雨・雨が降る",
+    "example": "It's been raining all day.",
+    "example_ja": "一日中雨が降っている。"
+  },
+  {
+    "word": "snow",
+    "phonetic": "snəʊ",
+    "meaning": "雪・雪が降る",
+    "example": "Children love playing in the snow.",
+    "example_ja": "子供たちは雪の中で遊ぶのが大好きだ。"
+  },
+  {
+    "word": "sun",
+    "phonetic": "sʌn",
+    "meaning": "太陽",
+    "example": "The sun is shining brightly today.",
+    "example_ja": "今日は太陽が明るく輝いている。"
+  },
+  {
+    "word": "wind",
+    "phonetic": "wɪnd",
+    "meaning": "風",
+    "example": "A cool wind blew through the trees.",
+    "example_ja": "涼しい風が木々の間を吹き抜けた。"
+  },
+  {
+    "word": "cloud",
+    "phonetic": "klaʊd",
+    "meaning": "雲",
+    "example": "Dark clouds appeared in the sky.",
+    "example_ja": "空に暗い雲が現れた。"
+  },
+  {
+    "word": "sky",
+    "phonetic": "skaɪ",
+    "meaning": "空",
+    "example": "The sky turned pink at sunset.",
+    "example_ja": "夕暮れ時に空がピンク色になった。"
+  },
+  {
+    "word": "color",
+    "phonetic": "ˈkʌl.ər",
+    "meaning": "色",
+    "example": "What is your favorite color?",
+    "example_ja": "好きな色は何ですか？"
+  },
+  {
+    "word": "red",
+    "phonetic": "red",
+    "meaning": "赤",
+    "example": "She wore a red dress to the party.",
+    "example_ja": "彼女はパーティーに赤いドレスを着ていった。"
+  },
+  {
+    "word": "blue",
+    "phonetic": "bluː",
+    "meaning": "青",
+    "example": "The ocean is a deep shade of blue.",
+    "example_ja": "海は深い青色をしている。"
+  },
+  {
+    "word": "green",
+    "phonetic": "ɡriːn",
+    "meaning": "緑",
+    "example": "The park is covered in green grass.",
+    "example_ja": "公園は緑の芝生で覆われている。"
+  },
+  {
+    "word": "white",
+    "phonetic": "waɪt",
+    "meaning": "白",
+    "example": "She painted the walls white.",
+    "example_ja": "彼女は壁を白く塗った。"
+  },
+  {
+    "word": "black",
+    "phonetic": "blæk",
+    "meaning": "黒",
+    "example": "He prefers black coffee without sugar.",
+    "example_ja": "彼は砂糖なしのブラックコーヒーが好きだ。"
+  },
+  {
+    "word": "number",
+    "phonetic": "ˈnʌm.bər",
+    "meaning": "数・番号",
+    "example": "Please write your phone number here.",
+    "example_ja": "ここに電話番号を書いてください。"
+  },
+  {
+    "word": "time",
+    "phonetic": "taɪm",
+    "meaning": "時間・時刻",
+    "example": "What time does the movie start?",
+    "example_ja": "映画は何時に始まりますか？"
+  },
+  {
+    "word": "place",
+    "phonetic": "pleɪs",
+    "meaning": "場所",
+    "example": "This is a great place to relax.",
+    "example_ja": "ここはくつろぐのに最高の場所だ。"
+  },
+  {
+    "word": "name",
+    "phonetic": "neɪm",
+    "meaning": "名前",
+    "example": "What is your name?",
+    "example_ja": "お名前は何ですか？"
+  },
+  {
+    "word": "address",
+    "phonetic": "ˈæd.res",
+    "meaning": "住所",
+    "example": "Please write your address on this form.",
+    "example_ja": "この用紙に住所を書いてください。"
+  },
+  {
+    "word": "age",
+    "phonetic": "eɪdʒ",
+    "meaning": "年齢",
+    "example": "You don't look your age at all.",
+    "example_ja": "全然年齢に見えませんね。"
+  },
+  {
+    "word": "question",
+    "phonetic": "ˈkwes.tʃən",
+    "meaning": "質問",
+    "example": "Do you have any questions?",
+    "example_ja": "何か質問はありますか？"
+  },
+  {
+    "word": "answer",
+    "phonetic": "ˈɑːn.sər",
+    "meaning": "答え・答える",
+    "example": "She knew the answer immediately.",
+    "example_ja": "彼女はすぐに答えを知っていた。"
+  },
+  {
+    "word": "problem",
+    "phonetic": "ˈprɒb.ləm",
+    "meaning": "問題",
+    "example": "Let's solve this problem together.",
+    "example_ja": "一緒にこの問題を解決しよう。"
+  },
+  {
+    "word": "idea",
+    "phonetic": "aɪˈdɪə",
+    "meaning": "アイデア・考え",
+    "example": "She had a brilliant idea for the project.",
+    "example_ja": "彼女はプロジェクトのために素晴らしいアイデアを思いついた。"
+  },
+  {
+    "word": "plan",
+    "phonetic": "plæn",
+    "meaning": "計画・計画する",
+    "example": "We need a plan for the vacation.",
+    "example_ja": "休暇の計画が必要だ。"
+  },
+  {
+    "word": "meeting",
+    "phonetic": "ˈmiː.tɪŋ",
+    "meaning": "会議・集まり",
+    "example": "The morning meeting starts at 9.",
+    "example_ja": "朝の会議は9時に始まる。"
+  },
+  {
+    "word": "appointment",
+    "phonetic": "əˈpɔɪnt.mənt",
+    "meaning": "予約・約束",
+    "example": "I have a doctor's appointment tomorrow.",
+    "example_ja": "明日医者の予約がある。"
+  },
+  {
+    "word": "message",
+    "phonetic": "ˈmes.ɪdʒ",
+    "meaning": "メッセージ",
+    "example": "Did you receive my message?",
+    "example_ja": "私のメッセージを受け取りましたか？"
+  },
+  {
+    "word": "email",
+    "phonetic": "ˈiː.meɪl",
+    "meaning": "メール",
+    "example": "Please send me an email with the details.",
+    "example_ja": "詳細をメールで送ってください。"
+  },
+  {
+    "word": "call",
+    "phonetic": "kɔːl",
+    "meaning": "電話をかける・呼ぶ",
+    "example": "I'll call you tonight.",
+    "example_ja": "今夜電話するね。"
+  },
+  {
+    "word": "visit",
+    "phonetic": "ˈvɪz.ɪt",
+    "meaning": "訪問する",
+    "example": "We visited our grandparents last weekend.",
+    "example_ja": "先週末に祖父母を訪ねた。"
+  },
+  {
+    "word": "travel",
+    "phonetic": "ˈtræv.əl",
+    "meaning": "旅行する",
+    "example": "She loves to travel to new places.",
+    "example_ja": "彼女は新しい場所に旅行するのが大好きだ。"
+  },
+  {
+    "word": "vacation",
+    "phonetic": "vəˈkeɪ.ʃən",
+    "meaning": "休暇",
+    "example": "We spent our vacation at the beach.",
+    "example_ja": "私たちはビーチで休暇を過ごした。"
+  },
+  {
+    "word": "holiday",
+    "phonetic": "ˈhɒl.ɪ.deɪ",
+    "meaning": "休日・祝日",
+    "example": "The whole family gathered on the holiday.",
+    "example_ja": "休日に家族全員が集まった。"
+  },
+  {
+    "word": "sport",
+    "phonetic": "spɔːt",
+    "meaning": "スポーツ",
+    "example": "She plays sport every weekend.",
+    "example_ja": "彼女は毎週末スポーツをする。"
+  },
+  {
+    "word": "game",
+    "phonetic": "ɡeɪm",
+    "meaning": "ゲーム・試合",
+    "example": "The game was exciting from start to finish.",
+    "example_ja": "その試合は最初から最後まで興奮した。"
+  },
+  {
+    "word": "music",
+    "phonetic": "ˈmjuː.zɪk",
+    "meaning": "音楽",
+    "example": "Music makes everyday life more enjoyable.",
+    "example_ja": "音楽は日常生活をより楽しいものにする。"
+  },
+  {
+    "word": "movie",
+    "phonetic": "ˈmuː.vi",
+    "meaning": "映画",
+    "example": "We watched a romantic movie last night.",
+    "example_ja": "昨夜ロマンティックな映画を見た。"
+  },
+  {
+    "word": "photo",
+    "phonetic": "ˈfəʊ.təʊ",
+    "meaning": "写真",
+    "example": "She took a photo of the sunset.",
+    "example_ja": "彼女は夕日の写真を撮った。"
+  },
+  {
+    "word": "picture",
+    "phonetic": "ˈpɪk.tʃər",
+    "meaning": "絵・写真",
+    "example": "He drew a beautiful picture of the mountains.",
+    "example_ja": "彼は山の美しい絵を描いた。"
+  },
+  {
+    "word": "news",
+    "phonetic": "njuːz",
+    "meaning": "ニュース",
+    "example": "I watch the news before bed.",
+    "example_ja": "寝る前にニュースを見る。"
+  },
+  {
+    "word": "internet",
+    "phonetic": "ˈɪn.tə.net",
+    "meaning": "インターネット",
+    "example": "She works on the internet all day.",
+    "example_ja": "彼女は一日中インターネットで仕事をしている。"
+  },
+  {
+    "word": "password",
+    "phonetic": "ˈpɑːs.wɜːd",
+    "meaning": "パスワード",
+    "example": "Don't share your password with anyone.",
+    "example_ja": "パスワードを誰とも共有しないでください。"
+  },
+  {
+    "word": "medicine",
+    "phonetic": "ˈmed.ɪ.sɪn",
+    "meaning": "薬・医学",
+    "example": "Take this medicine twice a day.",
+    "example_ja": "この薬を1日2回飲んでください。"
+  },
+  {
+    "word": "exercise",
+    "phonetic": "ˈek.sə.saɪz",
+    "meaning": "運動する・運動",
+    "example": "Regular exercise keeps you healthy.",
+    "example_ja": "定期的な運動は健康を保つ。"
+  },
+  {
+    "word": "diet",
+    "phonetic": "ˈdaɪ.ɪt",
+    "meaning": "食事制限・食生活",
+    "example": "She is on a diet to lose weight.",
+    "example_ja": "彼女は体重を減らすためにダイエット中だ。"
+  },
+  {
+    "word": "habit",
+    "phonetic": "ˈhæb.ɪt",
+    "meaning": "習慣",
+    "example": "Reading before bed is a good habit.",
+    "example_ja": "寝る前に読書するのは良い習慣だ。"
+  },
+  {
+    "word": "hobby",
+    "phonetic": "ˈhɒb.i",
+    "meaning": "趣味",
+    "example": "His hobby is collecting vintage stamps.",
+    "example_ja": "彼の趣味は古切手を集めることだ。"
+  },
+  {
+    "word": "dream",
+    "phonetic": "driːm",
+    "meaning": "夢・夢を見る",
+    "example": "She has a dream of becoming a writer.",
+    "example_ja": "彼女は作家になるという夢を持っている。"
+  },
+  {
+    "word": "goal",
+    "phonetic": "ɡəʊl",
+    "meaning": "目標・ゴール",
+    "example": "Set clear goals for your future.",
+    "example_ja": "将来のために明確な目標を設定しなさい。"
+  },
+  {
+    "word": "success",
+    "phonetic": "səkˈses",
+    "meaning": "成功",
+    "example": "Hard work leads to success.",
+    "example_ja": "努力は成功につながる。"
+  },
+  {
+    "word": "mistake",
+    "phonetic": "mɪˈsteɪk",
+    "meaning": "間違い",
+    "example": "Everyone makes mistakes sometimes.",
+    "example_ja": "誰でも時には間違いをする。"
+  },
+  {
+    "word": "lesson",
+    "phonetic": "ˈles.ən",
+    "meaning": "授業・教訓",
+    "example": "She learned an important lesson today.",
+    "example_ja": "彼女は今日大切な教訓を学んだ。"
+  },
+  {
+    "word": "class",
+    "phonetic": "klɑːs",
+    "meaning": "クラス・授業",
+    "example": "Math class starts at 9 in the morning.",
+    "example_ja": "数学の授業は午前9時に始まる。"
+  },
+  {
+    "word": "subject",
+    "phonetic": "ˈsʌb.dʒɪkt",
+    "meaning": "科目・テーマ",
+    "example": "English is her favorite subject.",
+    "example_ja": "英語は彼女の好きな科目だ。"
+  },
+  {
+    "word": "language",
+    "phonetic": "ˈlæŋ.ɡwɪdʒ",
+    "meaning": "言語",
+    "example": "Learning a new language takes time and effort.",
+    "example_ja": "新しい言語を学ぶには時間と努力が必要だ。"
+  },
+  {
+    "word": "word",
+    "phonetic": "wɜːd",
+    "meaning": "単語",
+    "example": "She learned ten new words today.",
+    "example_ja": "彼女は今日10個の新しい単語を覚えた。"
+  },
+  {
+    "word": "sentence",
+    "phonetic": "ˈsen.təns",
+    "meaning": "文・文章",
+    "example": "Write a sentence using this word.",
+    "example_ja": "この単語を使って文を書きなさい。"
+  },
+  {
+    "word": "grammar",
+    "phonetic": "ˈɡræm.ər",
+    "meaning": "文法",
+    "example": "Good grammar is important in writing.",
+    "example_ja": "良い文章には正しい文法が重要だ。"
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "ˈdɪk.ʃən.ər.i",
+    "meaning": "辞書",
+    "example": "Look up the word in the dictionary.",
+    "example_ja": "辞書でその単語を調べなさい。"
+  },
+  {
+    "word": "map",
+    "phonetic": "mæp",
+    "meaning": "地図",
+    "example": "She used a map to find the hotel.",
+    "example_ja": "彼女は地図を使ってホテルを見つけた。"
+  },
+  {
+    "word": "ticket",
+    "phonetic": "ˈtɪk.ɪt",
+    "meaning": "チケット・切符",
+    "example": "I bought two tickets for the concert.",
+    "example_ja": "コンサートのチケットを2枚買った。"
+  },
+  {
+    "word": "passport",
+    "phonetic": "ˈpɑːs.pɔːt",
+    "meaning": "パスポート",
+    "example": "Don't forget your passport when traveling abroad.",
+    "example_ja": "海外旅行のときはパスポートを忘れずに。"
+  },
+  {
+    "word": "luggage",
+    "phonetic": "ˈlʌɡ.ɪdʒ",
+    "meaning": "荷物・スーツケース",
+    "example": "She checked her luggage at the airport.",
+    "example_ja": "彼女は空港で荷物を預けた。"
+  },
+  {
+    "word": "neighborhood",
+    "phonetic": "ˈneɪ.bər.hʊd",
+    "meaning": "近所・地域",
+    "example": "It's a quiet and friendly neighborhood.",
+    "example_ja": "静かで親しみやすい近所だ。"
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "ˈneɪ.bər",
+    "meaning": "隣人",
+    "example": "Our neighbor brought us homemade cookies.",
+    "example_ja": "隣人が手作りクッキーを持ってきてくれた。"
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "ˈsuː.pə.mɑː.kɪt",
+    "meaning": "スーパーマーケット",
+    "example": "I go to the supermarket every Saturday.",
+    "example_ja": "私は毎週土曜日にスーパーマーケットに行く。"
+  },
+  {
+    "word": "checkout",
+    "phonetic": "ˈtʃek.aʊt",
+    "meaning": "レジ・チェックアウト",
+    "example": "There's a long line at the checkout.",
+    "example_ja": "レジに長い列ができている。"
+  },
+  {
+    "word": "receipt",
+    "phonetic": "rɪˈsiːt",
+    "meaning": "レシート・領収書",
+    "example": "Keep the receipt in case you need to return it.",
+    "example_ja": "返品する場合に備えてレシートを保管しておいて。"
+  },
+  {
+    "word": "discount",
+    "phonetic": "ˈdɪs.kaʊnt",
+    "meaning": "割引",
+    "example": "There is a 20% discount on all items today.",
+    "example_ja": "今日は全品20%引きだ。"
+  },
+  {
+    "word": "delivery",
+    "phonetic": "dɪˈlɪv.ər.i",
+    "meaning": "配達",
+    "example": "The delivery arrived right on time.",
+    "example_ja": "配達はちょうど時間通りに到着した。"
+  },
+  {
+    "word": "package",
+    "phonetic": "ˈpæk.ɪdʒ",
+    "meaning": "荷物・パッケージ",
+    "example": "There is a package for you at the door.",
+    "example_ja": "ドアに荷物が届いています。"
+  },
+  {
+    "word": "laundry",
+    "phonetic": "ˈlɔːn.dri",
+    "meaning": "洗濯物・洗濯",
+    "example": "I need to do the laundry today.",
+    "example_ja": "今日洗濯をしないといけない。"
+  },
+  {
+    "word": "trash",
+    "phonetic": "træʃ",
+    "meaning": "ゴミ",
+    "example": "Please take out the trash.",
+    "example_ja": "ゴミを出してください。"
+  },
+  {
+    "word": "recycle",
+    "phonetic": "ˌriːˈsaɪ.kəl",
+    "meaning": "リサイクルする",
+    "example": "Please recycle your plastic bottles.",
+    "example_ja": "ペットボトルをリサイクルしてください。"
+  },
+  {
+    "word": "electricity",
+    "phonetic": "ɪˌlek.ˈtrɪs.ɪ.ti",
+    "meaning": "電気",
+    "example": "The electricity bill was high this month.",
+    "example_ja": "今月の電気代が高かった。"
+  },
+  {
+    "word": "water bill",
+    "phonetic": "ˈwɔː.tər bɪl",
+    "meaning": "水道代",
+    "example": "The water bill arrives every two months.",
+    "example_ja": "水道代は2か月に一度届く。"
+  },
+  {
+    "word": "rent",
+    "phonetic": "rent",
+    "meaning": "家賃・借りる",
+    "example": "The rent for this apartment is reasonable.",
+    "example_ja": "このアパートの家賃はリーズナブルだ。"
+  },
+  {
+    "word": "furniture",
+    "phonetic": "ˈfɜː.nɪ.tʃər",
+    "meaning": "家具",
+    "example": "They bought new furniture for the living room.",
+    "example_ja": "彼らはリビング用に新しい家具を買った。"
+  },
+  {
+    "word": "curtain",
+    "phonetic": "ˈkɜː.tən",
+    "meaning": "カーテン",
+    "example": "She drew the curtains to block the sunlight.",
+    "example_ja": "彼女は日光を遮るためにカーテンを引いた。"
+  },
+  {
+    "word": "shelf",
+    "phonetic": "ʃelf",
+    "meaning": "棚",
+    "example": "The books are on the shelf.",
+    "example_ja": "本は棚の上にある。"
+  },
+  {
+    "word": "drawer",
+    "phonetic": "drɔːr",
+    "meaning": "引き出し",
+    "example": "He keeps his socks in the top drawer.",
+    "example_ja": "彼は靴下を一番上の引き出しにしまっている。"
+  },
+  {
+    "word": "refrigerator",
+    "phonetic": "rɪˈfrɪdʒ.ər.eɪ.tər",
+    "meaning": "冷蔵庫",
+    "example": "Put the leftovers in the refrigerator.",
+    "example_ja": "残り物を冷蔵庫に入れて。"
+  },
+  {
+    "word": "microwave",
+    "phonetic": "ˈmaɪ.krə.weɪv",
+    "meaning": "電子レンジ",
+    "example": "Heat the soup in the microwave.",
+    "example_ja": "スープを電子レンジで温めて。"
+  },
+  {
+    "word": "washing machine",
+    "phonetic": "ˈwɒʃ.ɪŋ məˌʃiːn",
+    "meaning": "洗濯機",
+    "example": "The washing machine broke down yesterday.",
+    "example_ja": "昨日洗濯機が壊れた。"
+  },
+  {
+    "word": "alarm",
+    "phonetic": "əˈlɑːm",
+    "meaning": "目覚まし・警報",
+    "example": "I set the alarm for 6 in the morning.",
+    "example_ja": "朝6時に目覚ましをセットした。"
+  },
+  {
+    "word": "shower",
+    "phonetic": "ˈʃaʊ.ər",
+    "meaning": "シャワー",
+    "example": "She takes a shower every morning.",
+    "example_ja": "彼女は毎朝シャワーを浴びる。"
+  },
+  {
+    "word": "towel",
+    "phonetic": "taʊəl",
+    "meaning": "タオル",
+    "example": "Bring a clean towel for the beach.",
+    "example_ja": "ビーチに清潔なタオルを持っていって。"
+  },
+  {
+    "word": "toothbrush",
+    "phonetic": "ˈtuːθ.brʌʃ",
+    "meaning": "歯ブラシ",
+    "example": "Replace your toothbrush every three months.",
+    "example_ja": "歯ブラシは3か月ごとに取り替えて。"
+  },
+  {
+    "word": "shampoo",
+    "phonetic": "ʃæmˈpuː",
+    "meaning": "シャンプー",
+    "example": "She uses a gentle shampoo for her hair.",
+    "example_ja": "彼女は髪にやさしいシャンプーを使っている。"
+  },
+  {
+    "word": "soap",
+    "phonetic": "səʊp",
+    "meaning": "石鹸",
+    "example": "Wash your hands with soap and water.",
+    "example_ja": "石鹸と水で手を洗ってください。"
+  },
+  {
+    "word": "tissue",
+    "phonetic": "ˈtɪʃ.uː",
+    "meaning": "ティッシュ",
+    "example": "She reached for a tissue when she sneezed.",
+    "example_ja": "くしゃみをしたときにティッシュに手を伸ばした。"
+  },
+  {
+    "word": "umbrella",
+    "phonetic": "ʌmˈbrel.ə",
+    "meaning": "傘",
+    "example": "Don't forget your umbrella today.",
+    "example_ja": "今日は傘を忘れずに。"
+  },
+  {
+    "word": "coat",
+    "phonetic": "kəʊt",
+    "meaning": "コート",
+    "example": "She wore a warm coat in winter.",
+    "example_ja": "彼女は冬に暖かいコートを着た。"
+  },
+  {
+    "word": "shirt",
+    "phonetic": "ʃɜːt",
+    "meaning": "シャツ",
+    "example": "He ironed his shirt before the interview.",
+    "example_ja": "彼は面接前にシャツにアイロンをかけた。"
+  },
+  {
+    "word": "pants",
+    "phonetic": "pænts",
+    "meaning": "ズボン・パンツ",
+    "example": "He bought a new pair of pants.",
+    "example_ja": "彼は新しいズボンを一本買った。"
+  },
+  {
+    "word": "shoes",
+    "phonetic": "ʃuːz",
+    "meaning": "靴",
+    "example": "She polished her shoes before the party.",
+    "example_ja": "彼女はパーティー前に靴を磨いた。"
+  },
+  {
+    "word": "hat",
+    "phonetic": "hæt",
+    "meaning": "帽子",
+    "example": "She wore a sun hat at the beach.",
+    "example_ja": "彼女はビーチでサンハットをかぶった。"
+  },
+  {
+    "word": "glasses",
+    "phonetic": "ˈɡlɑː.sɪz",
+    "meaning": "眼鏡",
+    "example": "He needs glasses to read small text.",
+    "example_ja": "彼は小さな文字を読むために眼鏡が必要だ。"
+  },
+  {
+    "word": "ring",
+    "phonetic": "rɪŋ",
+    "meaning": "指輪",
+    "example": "He gave her a ring on their anniversary.",
+    "example_ja": "彼は記念日に彼女に指輪を贈った。"
+  },
+  {
+    "word": "gift",
+    "phonetic": "ɡɪft",
+    "meaning": "贈り物",
+    "example": "She brought a gift for the host.",
+    "example_ja": "彼女はホストへの贈り物を持参した。"
+  },
+  {
+    "word": "party",
+    "phonetic": "ˈpɑː.ti",
+    "meaning": "パーティー",
+    "example": "They had a big party for her birthday.",
+    "example_ja": "彼女の誕生日のために大きなパーティーを開いた。"
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "ˈsel.ɪ.breɪt",
+    "meaning": "祝う",
+    "example": "Let's celebrate your promotion!",
+    "example_ja": "昇進を祝いましょう！"
+  },
+  {
+    "word": "invite",
+    "phonetic": "ɪnˈvaɪt",
+    "meaning": "招待する",
+    "example": "She invited all her friends to dinner.",
+    "example_ja": "彼女は全友達を夕食に招待した。"
+  },
+  {
+    "word": "wedding",
+    "phonetic": "ˈwed.ɪŋ",
+    "meaning": "結婚式",
+    "example": "They had a beautiful outdoor wedding.",
+    "example_ja": "彼らは美しい屋外の結婚式を挙げた。"
+  },
+  {
+    "word": "birthday",
+    "phonetic": "ˈbɜːθ.deɪ",
+    "meaning": "誕生日",
+    "example": "Happy birthday! I hope you have a great day.",
+    "example_ja": "お誕生日おめでとう！素敵な一日を。"
+  },
+  {
+    "word": "anniversary",
+    "phonetic": "ˌæn.ɪˈvɜː.sər.i",
+    "meaning": "記念日",
+    "example": "They celebrated their tenth wedding anniversary.",
+    "example_ja": "彼らは結婚10周年を祝った。"
+  },
+  {
+    "word": "flower",
+    "phonetic": "ˈflaʊ.ər",
+    "meaning": "花",
+    "example": "He gave her a bouquet of flowers.",
+    "example_ja": "彼は彼女に花束を贈った。"
+  },
+  {
+    "word": "tree",
+    "phonetic": "triː",
+    "meaning": "木",
+    "example": "The old tree in the yard provides good shade.",
+    "example_ja": "庭の古い木が良い日陰を作っている。"
+  },
+  {
+    "word": "leaf",
+    "phonetic": "liːf",
+    "meaning": "葉",
+    "example": "Leaves fall from the trees in autumn.",
+    "example_ja": "秋には葉が木から落ちる。"
+  },
+  {
+    "word": "grass",
+    "phonetic": "ɡrɑːs",
+    "meaning": "草・芝生",
+    "example": "The grass is freshly mowed in the garden.",
+    "example_ja": "庭の芝生が刈り込まれたばかりだ。"
+  },
+  {
+    "word": "river",
+    "phonetic": "ˈrɪv.ər",
+    "meaning": "川",
+    "example": "They kayaked down the river on Saturday.",
+    "example_ja": "土曜日に川をカヤックで下った。"
+  },
+  {
+    "word": "mountain",
+    "phonetic": "ˈmaʊn.tɪn",
+    "meaning": "山",
+    "example": "The view from the mountain top was stunning.",
+    "example_ja": "山頂からの眺めは息をのむほど美しかった。"
+  },
+  {
+    "word": "beach",
+    "phonetic": "biːtʃ",
+    "meaning": "ビーチ・海岸",
+    "example": "We spent the afternoon at the beach.",
+    "example_ja": "私たちはビーチで午後を過ごした。"
+  },
+  {
+    "word": "sea",
+    "phonetic": "siː",
+    "meaning": "海",
+    "example": "The sea was calm and clear today.",
+    "example_ja": "今日の海は穏やかで澄んでいた。"
+  },
+  {
+    "word": "forest",
+    "phonetic": "ˈfɒr.ɪst",
+    "meaning": "森",
+    "example": "They went hiking in the forest.",
+    "example_ja": "彼らは森にハイキングに行った。"
+  },
+  {
+    "word": "island",
+    "phonetic": "ˈaɪ.lənd",
+    "meaning": "島",
+    "example": "She dreamed of living on a tropical island.",
+    "example_ja": "彼女は熱帯の島に住む夢を見た。"
+  },
+  {
+    "word": "city",
+    "phonetic": "ˈsɪt.i",
+    "meaning": "都市",
+    "example": "Tokyo is a very large and vibrant city.",
+    "example_ja": "東京はとても大きく活気のある都市だ。"
+  },
+  {
+    "word": "town",
+    "phonetic": "taʊn",
+    "meaning": "町",
+    "example": "She grew up in a small town.",
+    "example_ja": "彼女は小さな町で育った。"
+  },
+  {
+    "word": "village",
+    "phonetic": "ˈvɪl.ɪdʒ",
+    "meaning": "村",
+    "example": "The village is surrounded by rice fields.",
+    "example_ja": "その村は田んぼに囲まれている。"
+  },
+  {
+    "word": "country",
+    "phonetic": "ˈkʌn.tri",
+    "meaning": "国・田舎",
+    "example": "She has lived in three different countries.",
+    "example_ja": "彼女は3つの異なる国に住んだことがある。"
+  },
+  {
+    "word": "culture",
+    "phonetic": "ˈkʌl.tʃər",
+    "meaning": "文化",
+    "example": "Japan has a rich and unique culture.",
+    "example_ja": "日本は豊かで独自の文化を持っている。"
+  },
+  {
+    "word": "tradition",
+    "phonetic": "trəˈdɪʃ.ən",
+    "meaning": "伝統",
+    "example": "This festival is an old local tradition.",
+    "example_ja": "このお祭りは古い地元の伝統だ。"
+  },
+  {
+    "word": "festival",
+    "phonetic": "ˈfes.tɪ.vəl",
+    "meaning": "祭り・フェスティバル",
+    "example": "The summer festival attracts many visitors.",
+    "example_ja": "夏祭りは多くの訪問者を集める。"
+  },
+  {
+    "word": "museum",
+    "phonetic": "mjuːˈziː.əm",
+    "meaning": "博物館・美術館",
+    "example": "We visited the history museum on Sunday.",
+    "example_ja": "日曜日に歴史博物館を訪れた。"
+  },
+  {
+    "word": "concert",
+    "phonetic": "ˈkɒn.sət",
+    "meaning": "コンサート",
+    "example": "She went to a jazz concert last night.",
+    "example_ja": "昨夜ジャズコンサートに行った。"
+  },
+  {
+    "word": "theater",
+    "phonetic": "ˈθɪə.tər",
+    "meaning": "劇場・映画館",
+    "example": "Let's go to the theater this weekend.",
+    "example_ja": "今週末に劇場に行こう。"
+  },
+  {
+    "word": "exhibition",
+    "phonetic": "ˌek.sɪˈbɪʃ.ən",
+    "meaning": "展示会・展覧会",
+    "example": "There is a photography exhibition at the gallery.",
+    "example_ja": "ギャラリーで写真展が開催されている。"
+  },
+  {
+    "word": "seat",
+    "phonetic": "siːt",
+    "meaning": "席・座る",
+    "example": "Please take your seat before the show starts.",
+    "example_ja": "ショーが始まる前に席についてください。"
+  },
+  {
+    "word": "stage",
+    "phonetic": "steɪdʒ",
+    "meaning": "舞台・ステージ",
+    "example": "The performers walked onto the stage.",
+    "example_ja": "演者たちがステージに上がった。"
+  },
+  {
+    "word": "audience",
+    "phonetic": "ˈɔː.di.əns",
+    "meaning": "観客",
+    "example": "The audience clapped enthusiastically.",
+    "example_ja": "観客は熱心に拍手した。"
+  },
+  {
+    "word": "score",
+    "phonetic": "skɔːr",
+    "meaning": "得点・スコア",
+    "example": "The final score was 3 to 1.",
+    "example_ja": "最終スコアは3対1だった。"
+  },
+  {
+    "word": "team",
+    "phonetic": "tiːm",
+    "meaning": "チーム",
+    "example": "Our team won the championship this year.",
+    "example_ja": "今年は私たちのチームが優勝した。"
+  },
+  {
+    "word": "player",
+    "phonetic": "ˈpleɪ.ər",
+    "meaning": "選手・プレイヤー",
+    "example": "She is the best player on the team.",
+    "example_ja": "彼女はチームで最高の選手だ。"
+  },
+  {
+    "word": "coach",
+    "phonetic": "kəʊtʃ",
+    "meaning": "コーチ",
+    "example": "The coach gave the players useful advice.",
+    "example_ja": "コーチは選手たちに有益なアドバイスをした。"
+  },
+  {
+    "word": "practice",
+    "phonetic": "ˈpræk.tɪs",
+    "meaning": "練習する・練習",
+    "example": "She practices piano for one hour every day.",
+    "example_ja": "彼女は毎日1時間ピアノを練習する。"
+  },
+  {
+    "word": "competition",
+    "phonetic": "ˌkɒm.pɪˈtɪʃ.ən",
+    "meaning": "競争・大会",
+    "example": "He entered a cooking competition.",
+    "example_ja": "彼は料理大会に参加した。"
+  },
+  {
+    "word": "prize",
+    "phonetic": "praɪz",
+    "meaning": "賞・賞品",
+    "example": "She won first prize at the art contest.",
+    "example_ja": "彼女は絵画コンテストで一位を獲得した。"
+  },
+  {
+    "word": "volunteer",
+    "phonetic": "ˌvɒl.ənˈtɪər",
+    "meaning": "ボランティア",
+    "example": "He volunteers at the local food bank.",
+    "example_ja": "彼は地元のフードバンクでボランティアをしている。"
+  },
+  {
+    "word": "charity",
+    "phonetic": "ˈtʃær.ɪ.ti",
+    "meaning": "慈善活動・寄付",
+    "example": "She donates to charity every month.",
+    "example_ja": "彼女は毎月慈善団体に寄付している。"
+  },
+  {
+    "word": "community",
+    "phonetic": "kəˈmjuː.nɪ.ti",
+    "meaning": "地域社会・コミュニティ",
+    "example": "It's important to give back to the community.",
+    "example_ja": "地域社会に貢献することは大切だ。"
+  },
+  {
+    "word": "environment",
+    "phonetic": "ɪnˈvaɪ.rən.mənt",
+    "meaning": "環境",
+    "example": "We should protect the natural environment.",
+    "example_ja": "自然環境を守るべきだ。"
+  },
+  {
+    "word": "pollution",
+    "phonetic": "pəˈluː.ʃən",
+    "meaning": "汚染・公害",
+    "example": "Air pollution is a serious problem in big cities.",
+    "example_ja": "大気汚染は大都市の深刻な問題だ。"
+  },
+  {
+    "word": "energy",
+    "phonetic": "ˈen.ə.dʒi",
+    "meaning": "エネルギー",
+    "example": "Solar energy is a clean source of power.",
+    "example_ja": "太陽エネルギーはクリーンな電力源だ。"
+  },
+  {
+    "word": "nature",
+    "phonetic": "ˈneɪ.tʃər",
+    "meaning": "自然",
+    "example": "Walking in nature reduces stress.",
+    "example_ja": "自然の中を歩くとストレスが減る。"
+  },
+  {
+    "word": "temperature",
+    "phonetic": "ˈtem.prɪ.tʃər",
+    "meaning": "気温・温度",
+    "example": "The temperature dropped to 5 degrees overnight.",
+    "example_ja": "気温は一晩で5度まで下がった。"
+  },
+  {
+    "word": "season",
+    "phonetic": "ˈsiː.zən",
+    "meaning": "季節",
+    "example": "Autumn is the most beautiful season.",
+    "example_ja": "秋は一番美しい季節だ。"
+  },
+  {
+    "word": "spring",
+    "phonetic": "sprɪŋ",
+    "meaning": "春",
+    "example": "Cherry blossoms bloom in spring.",
+    "example_ja": "桜は春に咲く。"
+  },
+  {
+    "word": "summer",
+    "phonetic": "ˈsʌm.ər",
+    "meaning": "夏",
+    "example": "They go to the beach every summer.",
+    "example_ja": "彼らは毎年夏にビーチに行く。"
+  },
+  {
+    "word": "autumn",
+    "phonetic": "ˈɔː.təm",
+    "meaning": "秋",
+    "example": "The leaves turn red and yellow in autumn.",
+    "example_ja": "秋には葉が赤や黄色に変わる。"
+  },
+  {
+    "word": "winter",
+    "phonetic": "ˈwɪn.tər",
+    "meaning": "冬",
+    "example": "I love drinking hot chocolate in winter.",
+    "example_ja": "冬にホットチョコレートを飲むのが大好きだ。"
+  },
+  {
+    "word": "pain",
+    "phonetic": "peɪn",
+    "meaning": "痛み",
+    "example": "She felt a sharp pain in her back.",
+    "example_ja": "彼女は背中に鋭い痛みを感じた。"
+  },
+  {
+    "word": "headache",
+    "phonetic": "ˈhed.eɪk",
+    "meaning": "頭痛",
+    "example": "I have a headache and need to rest.",
+    "example_ja": "頭痛がするので休む必要がある。"
+  },
+  {
+    "word": "fever",
+    "phonetic": "ˈfiː.vər",
+    "meaning": "熱・発熱",
+    "example": "He stayed in bed because of his fever.",
+    "example_ja": "彼は発熱のためベッドで寝ていた。"
+  },
+  {
+    "word": "cough",
+    "phonetic": "kɒf",
+    "meaning": "咳・咳をする",
+    "example": "She had a bad cough all week.",
+    "example_ja": "彼女は一週間ずっとひどい咳をしていた。"
+  },
+  {
+    "word": "allergy",
+    "phonetic": "ˈæl.ə.dʒi",
+    "meaning": "アレルギー",
+    "example": "She has an allergy to pollen.",
+    "example_ja": "彼女は花粉アレルギーがある。"
+  },
+  {
+    "word": "pharmacy",
+    "phonetic": "ˈfɑː.mə.si",
+    "meaning": "薬局",
+    "example": "I picked up my prescription at the pharmacy.",
+    "example_ja": "薬局で処方箋の薬を受け取った。"
+  },
+  {
+    "word": "insurance",
+    "phonetic": "ɪnˈʃʊər.əns",
+    "meaning": "保険",
+    "example": "He has health insurance through his company.",
+    "example_ja": "彼は会社の健康保険に加入している。"
+  },
+  {
+    "word": "emergency",
+    "phonetic": "ɪˈmɜː.dʒən.si",
+    "meaning": "緊急・非常事態",
+    "example": "Call 119 in case of an emergency.",
+    "example_ja": "緊急の場合は119に電話してください。"
+  },
+  {
+    "word": "accident",
+    "phonetic": "ˈæk.sɪ.dənt",
+    "meaning": "事故",
+    "example": "There was a car accident on the highway.",
+    "example_ja": "高速道路で交通事故があった。"
+  },
+  {
+    "word": "police",
+    "phonetic": "pəˈliːs",
+    "meaning": "警察",
+    "example": "She called the police when she saw a burglar.",
+    "example_ja": "強盗を見て警察に電話した。"
+  },
+  {
+    "word": "fire",
+    "phonetic": "faɪər",
+    "meaning": "火・火事",
+    "example": "The fire was put out quickly by firefighters.",
+    "example_ja": "消防士たちが素早く火を消した。"
+  },
+  {
+    "word": "earthquake",
+    "phonetic": "ˈɜːθ.kweɪk",
+    "meaning": "地震",
+    "example": "They evacuated after the earthquake.",
+    "example_ja": "地震の後に避難した。"
+  },
+  {
+    "word": "station",
+    "phonetic": "ˈsteɪ.ʃən",
+    "meaning": "駅・ステーション",
+    "example": "Let's meet at the train station at noon.",
+    "example_ja": "正午に電車の駅で会いましょう。"
+  },
+  {
+    "word": "platform",
+    "phonetic": "ˈplæt.fɔːm",
+    "meaning": "プラットフォーム・ホーム",
+    "example": "The train leaves from platform 3.",
+    "example_ja": "電車は3番ホームから出発する。"
+  },
+  {
+    "word": "schedule",
+    "phonetic": "ˈʃed.juːl",
+    "meaning": "スケジュール・時刻表",
+    "example": "Check the bus schedule online.",
+    "example_ja": "バスの時刻表をオンラインで確認して。"
+  },
+  {
+    "word": "delay",
+    "phonetic": "dɪˈleɪ",
+    "meaning": "遅延・遅れ",
+    "example": "There was a delay due to heavy rain.",
+    "example_ja": "大雨のため遅延が発生した。"
+  },
+  {
+    "word": "direction",
+    "phonetic": "dɪˈrek.ʃən",
+    "meaning": "方向・道案内",
+    "example": "Can you give me directions to the post office?",
+    "example_ja": "郵便局への道を教えてもらえますか？"
+  },
+  {
+    "word": "corner",
+    "phonetic": "ˈkɔː.nər",
+    "meaning": "角・コーナー",
+    "example": "Turn left at the corner of the street.",
+    "example_ja": "通りの角で左に曲がってください。"
+  },
+  {
+    "word": "bridge",
+    "phonetic": "brɪdʒ",
+    "meaning": "橋",
+    "example": "We crossed the bridge over the river.",
+    "example_ja": "川にかかる橋を渡った。"
+  },
+  {
+    "word": "traffic",
+    "phonetic": "ˈtræf.ɪk",
+    "meaning": "交通・渋滞",
+    "example": "There was heavy traffic on the highway.",
+    "example_ja": "高速道路がひどく渋滞していた。"
+  },
+  {
+    "word": "parking",
+    "phonetic": "ˈpɑː.kɪŋ",
+    "meaning": "駐車・駐車場",
+    "example": "Parking is free on weekends.",
+    "example_ja": "週末は駐車が無料だ。"
+  },
+  {
+    "word": "taxi",
+    "phonetic": "ˈtæk.si",
+    "meaning": "タクシー",
+    "example": "She took a taxi to the airport.",
+    "example_ja": "彼女は空港までタクシーに乗った。"
+  },
+  {
+    "word": "subway",
+    "phonetic": "ˈsʌb.weɪ",
+    "meaning": "地下鉄",
+    "example": "The subway is the fastest way downtown.",
+    "example_ja": "地下鉄は中心街への最速の手段だ。"
+  },
+  {
+    "word": "flight",
+    "phonetic": "flaɪt",
+    "meaning": "フライト・飛行",
+    "example": "Her flight was delayed by two hours.",
+    "example_ja": "彼女の便が2時間遅延した。"
+  },
+  {
+    "word": "boarding",
+    "phonetic": "ˈbɔː.dɪŋ",
+    "meaning": "搭乗・乗車",
+    "example": "Boarding starts 30 minutes before departure.",
+    "example_ja": "搭乗は出発30分前に始まる。"
+  },
+  {
+    "word": "destination",
+    "phonetic": "ˌdes.tɪˈneɪ.ʃən",
+    "meaning": "目的地",
+    "example": "Our final destination is Kyoto.",
+    "example_ja": "私たちの最終目的地は京都だ。"
+  },
+  {
+    "word": "reservation",
+    "phonetic": "ˌrez.əˈveɪ.ʃən",
+    "meaning": "予約",
+    "example": "I made a reservation at the restaurant.",
+    "example_ja": "レストランに予約を入れた。"
+  },
+  {
+    "word": "check-in",
+    "phonetic": "ˈtʃek.ɪn",
+    "meaning": "チェックイン",
+    "example": "Online check-in saves time at the airport.",
+    "example_ja": "オンラインチェックインで空港での時間が短縮できる。"
+  },
+  {
+    "word": "souvenir",
+    "phonetic": "ˌsuː.vəˈnɪər",
+    "meaning": "お土産",
+    "example": "She bought souvenirs for her family.",
+    "example_ja": "彼女は家族へのお土産を買った。"
+  },
+  {
+    "word": "camera",
+    "phonetic": "ˈkæm.ər.ə",
+    "meaning": "カメラ",
+    "example": "He took his camera to capture the scenery.",
+    "example_ja": "彼は風景を撮るためにカメラを持っていった。"
+  },
+  {
+    "word": "sightseeing",
+    "phonetic": "ˈsaɪt.siː.ɪŋ",
+    "meaning": "観光",
+    "example": "They spent the day sightseeing in Paris.",
+    "example_ja": "彼らはパリで一日観光を楽しんだ。"
+  },
+  {
+    "word": "tour",
+    "phonetic": "tʊər",
+    "meaning": "ツアー・見学",
+    "example": "We joined a guided tour of the castle.",
+    "example_ja": "城のガイドツアーに参加した。"
+  },
+  {
+    "word": "guide",
+    "phonetic": "ɡaɪd",
+    "meaning": "ガイド・案内する",
+    "example": "The tour guide was very knowledgeable.",
+    "example_ja": "ツアーガイドはとても知識が豊富だった。"
+  },
+  {
+    "word": "currency",
+    "phonetic": "ˈkʌr.ən.si",
+    "meaning": "通貨",
+    "example": "She exchanged currency at the airport.",
+    "example_ja": "彼女は空港で通貨を両替した。"
+  },
+  {
+    "word": "exchange",
+    "phonetic": "ɪksˈtʃeɪndʒ",
+    "meaning": "交換する・両替",
+    "example": "Can I exchange dollars for yen here?",
+    "example_ja": "ここでドルを円に両替できますか？"
+  },
+  {
+    "word": "tip",
+    "phonetic": "tɪp",
+    "meaning": "チップ・ヒント",
+    "example": "It's customary to leave a tip at restaurants.",
+    "example_ja": "レストランではチップを置くのが習慣だ。"
+  },
+  {
+    "word": "menu",
+    "phonetic": "ˈmen.juː",
+    "meaning": "メニュー",
+    "example": "Could I see the menu, please?",
+    "example_ja": "メニューを見せていただけますか？"
+  },
+  {
+    "word": "order",
+    "phonetic": "ˈɔː.dər",
+    "meaning": "注文する・注文",
+    "example": "Are you ready to order?",
+    "example_ja": "ご注文はお決まりですか？"
+  },
+  {
+    "word": "waiter",
+    "phonetic": "ˈweɪ.tər",
+    "meaning": "ウェイター",
+    "example": "The waiter brought the food quickly.",
+    "example_ja": "ウェイターが素早く料理を運んできた。"
+  },
+  {
+    "word": "bill",
+    "phonetic": "bɪl",
+    "meaning": "請求書・お会計",
+    "example": "Could we have the bill, please?",
+    "example_ja": "お会計をお願いします。"
+  },
+  {
+    "word": "taste",
+    "phonetic": "teɪst",
+    "meaning": "味・味わう",
+    "example": "This cake has a wonderful taste.",
+    "example_ja": "このケーキはすばらしい味だ。"
+  },
+  {
+    "word": "smell",
+    "phonetic": "smel",
+    "meaning": "においがする・においを嗅ぐ",
+    "example": "The flowers smell wonderful.",
+    "example_ja": "花がすばらしい香りを放っている。"
+  },
+  {
+    "word": "recipe",
+    "phonetic": "ˈres.ɪ.pi",
+    "meaning": "レシピ",
+    "example": "She followed the recipe carefully.",
+    "example_ja": "彼女はレシピを丁寧に守った。"
+  },
+  {
+    "word": "ingredient",
+    "phonetic": "ɪnˈɡriː.di.ənt",
+    "meaning": "材料・成分",
+    "example": "Gather all the ingredients before cooking.",
+    "example_ja": "料理前にすべての材料を揃えてください。"
+  },
+  {
+    "word": "flavor",
+    "phonetic": "ˈfleɪ.vər",
+    "meaning": "風味・フレーバー",
+    "example": "This sauce has a rich and spicy flavor.",
+    "example_ja": "このソースは濃くてスパイシーな風味がある。"
+  },
+  {
+    "word": "portion",
+    "phonetic": "ˈpɔː.ʃən",
+    "meaning": "量・一人前",
+    "example": "The portion size at that restaurant is huge.",
+    "example_ja": "あのレストランの量はとても多い。"
+  },
+  {
+    "word": "vegetarian",
+    "phonetic": "ˌvedʒ.ɪˈteər.i.ən",
+    "meaning": "ベジタリアン・菜食主義の",
+    "example": "She became vegetarian three years ago.",
+    "example_ja": "彼女は3年前にベジタリアンになった。"
+  },
+  {
+    "word": "dessert",
+    "phonetic": "dɪˈzɜːt",
+    "meaning": "デザート",
+    "example": "We ordered chocolate cake for dessert.",
+    "example_ja": "デザートにチョコレートケーキを注文した。"
+  },
+  {
+    "word": "snack",
+    "phonetic": "snæk",
+    "meaning": "おやつ・軽食",
+    "example": "She eats a snack between meals.",
+    "example_ja": "彼女は食事と食事の間に軽食を食べる。"
+  },
+  {
+    "word": "calorie",
+    "phonetic": "ˈkæl.ər.i",
+    "meaning": "カロリー",
+    "example": "This drink has very few calories.",
+    "example_ja": "この飲み物はカロリーがとても少ない。"
+  },
+  {
+    "word": "protein",
+    "phonetic": "ˈprəʊ.tiːn",
+    "meaning": "タンパク質",
+    "example": "Eggs are a good source of protein.",
+    "example_ja": "卵は良いタンパク質源だ。"
+  },
+  {
+    "word": "vitamin",
+    "phonetic": "ˈvɪt.ə.mɪn",
+    "meaning": "ビタミン",
+    "example": "Citrus fruits are rich in vitamin C.",
+    "example_ja": "柑橘類はビタミンCが豊富だ。"
+  },
+  {
+    "word": "mineral",
+    "phonetic": "ˈmɪn.ər.əl",
+    "meaning": "ミネラル",
+    "example": "Milk contains essential minerals for bone health.",
+    "example_ja": "牛乳には骨の健康に必要なミネラルが含まれている。"
+  },
+  {
+    "word": "organic",
+    "phonetic": "ɔːˈɡæn.ɪk",
+    "meaning": "オーガニック・有機の",
+    "example": "She prefers organic vegetables.",
+    "example_ja": "彼女は有機野菜を好む。"
+  },
+  {
+    "word": "fresh",
+    "phonetic": "freʃ",
+    "meaning": "新鮮な",
+    "example": "Fresh bread smells amazing.",
+    "example_ja": "焼きたてのパンはすばらしい香りがする。"
+  },
+  {
+    "word": "frozen",
+    "phonetic": "ˈfrəʊ.zən",
+    "meaning": "冷凍の",
+    "example": "She keeps frozen meals for busy nights.",
+    "example_ja": "彼女は忙しい夜のために冷凍食品をストックしている。"
+  },
+  {
+    "word": "container",
+    "phonetic": "kənˈteɪ.nər",
+    "meaning": "容器・コンテナ",
+    "example": "Store leftovers in a sealed container.",
+    "example_ja": "残り物は密封容器に入れて保存して。"
+  },
+  {
+    "word": "bottle",
+    "phonetic": "ˈbɒt.əl",
+    "meaning": "ボトル・瓶",
+    "example": "He drinks two bottles of water a day.",
+    "example_ja": "彼は1日に2本の水を飲む。"
+  },
+  {
+    "word": "glass",
+    "phonetic": "ɡlɑːs",
+    "meaning": "グラス・コップ",
+    "example": "Pour the juice into a glass.",
+    "example_ja": "ジュースをグラスに注いで。"
+  },
+  {
+    "word": "cup",
+    "phonetic": "kʌp",
+    "meaning": "カップ",
+    "example": "She drank two cups of coffee this morning.",
+    "example_ja": "彼女は今朝コーヒーを2杯飲んだ。"
+  },
+  {
+    "word": "plate",
+    "phonetic": "pleɪt",
+    "meaning": "皿",
+    "example": "He washed the plates after dinner.",
+    "example_ja": "彼は夕食後に皿を洗った。"
+  },
+  {
+    "word": "bowl",
+    "phonetic": "bəʊl",
+    "meaning": "ボウル・丼",
+    "example": "She ate a bowl of rice for lunch.",
+    "example_ja": "彼女は昼食に丼一杯のご飯を食べた。"
+  },
+  {
+    "word": "fork",
+    "phonetic": "fɔːk",
+    "meaning": "フォーク",
+    "example": "Use a fork and knife when eating steak.",
+    "example_ja": "ステーキを食べるときはフォークとナイフを使う。"
+  },
+  {
+    "word": "spoon",
+    "phonetic": "spuːn",
+    "meaning": "スプーン",
+    "example": "She stirred her coffee with a spoon.",
+    "example_ja": "彼女はスプーンでコーヒーをかき混ぜた。"
+  },
+  {
+    "word": "knife",
+    "phonetic": "naɪf",
+    "meaning": "ナイフ・包丁",
+    "example": "Be careful when using a sharp knife.",
+    "example_ja": "鋭いナイフを使うときは気をつけて。"
+  },
+  {
+    "word": "chopsticks",
+    "phonetic": "ˈtʃɒp.stɪks",
+    "meaning": "箸",
+    "example": "He learned how to use chopsticks.",
+    "example_ja": "彼は箸の使い方を覚えた。"
+  },
+  {
+    "word": "napkin",
+    "phonetic": "ˈnæp.kɪn",
+    "meaning": "ナプキン",
+    "example": "She placed a napkin on her lap.",
+    "example_ja": "彼女はひざにナプキンを置いた。"
+  },
+  {
+    "word": "tray",
+    "phonetic": "treɪ",
+    "meaning": "トレイ",
+    "example": "She carried the food on a tray.",
+    "example_ja": "彼女はトレイに食べ物を乗せて運んだ。"
+  },
+  {
+    "word": "pot",
+    "phonetic": "pɒt",
+    "meaning": "鍋",
+    "example": "The soup is simmering in the pot.",
+    "example_ja": "鍋でスープがコトコト煮えている。"
+  },
+  {
+    "word": "pan",
+    "phonetic": "pæn",
+    "meaning": "フライパン",
+    "example": "Heat the pan before adding the oil.",
+    "example_ja": "油を入れる前にフライパンを温めて。"
+  },
+  {
+    "word": "oven",
+    "phonetic": "ˈʌv.ən",
+    "meaning": "オーブン",
+    "example": "Bake the cake in the oven for 30 minutes.",
+    "example_ja": "ケーキをオーブンで30分焼く。"
+  },
+  {
+    "word": "grill",
+    "phonetic": "ɡrɪl",
+    "meaning": "グリル・焼く",
+    "example": "Grill the vegetables over medium heat.",
+    "example_ja": "野菜を中火でグリルする。"
+  },
+  {
+    "word": "boil",
+    "phonetic": "bɔɪl",
+    "meaning": "沸かす・茹でる",
+    "example": "Boil the pasta for ten minutes.",
+    "example_ja": "パスタを10分茹でる。"
+  },
+  {
+    "word": "fry",
+    "phonetic": "fraɪ",
+    "meaning": "揚げる・炒める",
+    "example": "Fry the onions until golden brown.",
+    "example_ja": "玉ねぎがきつね色になるまで炒める。"
+  },
+  {
+    "word": "stir",
+    "phonetic": "stɜːr",
+    "meaning": "かき混ぜる",
+    "example": "Stir the sauce gently.",
+    "example_ja": "ソースをゆっくりかき混ぜて。"
+  },
+  {
+    "word": "chop",
+    "phonetic": "tʃɒp",
+    "meaning": "刻む・切る",
+    "example": "Chop the vegetables into small pieces.",
+    "example_ja": "野菜を小さく刻む。"
+  },
+  {
+    "word": "peel",
+    "phonetic": "piːl",
+    "meaning": "皮をむく",
+    "example": "Peel the potatoes before boiling.",
+    "example_ja": "茹でる前にじゃがいもの皮をむく。"
+  },
+  {
+    "word": "mix",
+    "phonetic": "mɪks",
+    "meaning": "混ぜる",
+    "example": "Mix the flour and sugar together.",
+    "example_ja": "小麦粉と砂糖を一緒に混ぜる。"
+  },
+  {
+    "word": "pour",
+    "phonetic": "pɔːr",
+    "meaning": "注ぐ",
+    "example": "Pour the milk into the bowl slowly.",
+    "example_ja": "ゆっくりとボウルに牛乳を注いで。"
+  },
+  {
+    "word": "measure",
+    "phonetic": "ˈmeʒ.ər",
+    "meaning": "測る",
+    "example": "Measure the ingredients carefully.",
+    "example_ja": "材料を丁寧に計量する。"
+  },
+  {
+    "word": "serve",
+    "phonetic": "sɜːv",
+    "meaning": "出す・サーブする",
+    "example": "Serve the soup while it's still hot.",
+    "example_ja": "スープが熱いうちに出す。"
+  },
+  {
+    "word": "leftovers",
+    "phonetic": "ˈleft.əʊ.vərz",
+    "meaning": "残り物",
+    "example": "I'll have the leftovers for lunch tomorrow.",
+    "example_ja": "残り物を明日の昼食に食べよう。"
+  },
+  {
+    "word": "groceries",
+    "phonetic": "ˈɡrəʊ.sər.iz",
+    "meaning": "食料品",
+    "example": "She went to buy groceries after work.",
+    "example_ja": "彼女は仕事の後に食料品を買いに行った。"
+  },
+  {
+    "word": "list",
+    "phonetic": "lɪst",
+    "meaning": "リスト",
+    "example": "She wrote a shopping list before going out.",
+    "example_ja": "彼女は外出前に買い物リストを書いた。"
+  },
+  {
+    "word": "budget",
+    "phonetic": "ˈbʌdʒ.ɪt",
+    "meaning": "予算",
+    "example": "We need to stay within our budget.",
+    "example_ja": "予算内に収める必要がある。"
+  },
+  {
+    "word": "save",
+    "phonetic": "seɪv",
+    "meaning": "節約する・貯める",
+    "example": "He is saving money for a new laptop.",
+    "example_ja": "彼は新しいノートパソコンのためにお金を貯めている。"
+  },
+  {
+    "word": "spend",
+    "phonetic": "spend",
+    "meaning": "使う（お金・時間）",
+    "example": "She spends a lot on clothes.",
+    "example_ja": "彼女は洋服にたくさんお金を使う。"
+  },
+  {
+    "word": "invest",
+    "phonetic": "ɪnˈvest",
+    "meaning": "投資する",
+    "example": "He invests a portion of his salary each month.",
+    "example_ja": "彼は毎月給料の一部を投資している。"
+  },
+  {
+    "word": "loan",
+    "phonetic": "ləʊn",
+    "meaning": "ローン・貸し付け",
+    "example": "They took out a loan to buy a house.",
+    "example_ja": "彼らは家を買うためにローンを組んだ。"
+  },
+  {
+    "word": "salary",
+    "phonetic": "ˈsæl.ər.i",
+    "meaning": "給料",
+    "example": "He received a salary raise this year.",
+    "example_ja": "彼は今年昇給した。"
+  },
+  {
+    "word": "income",
+    "phonetic": "ˈɪn.kʌm",
+    "meaning": "収入",
+    "example": "Her income increased after the promotion.",
+    "example_ja": "昇進後に彼女の収入が増えた。"
+  },
+  {
+    "word": "tax",
+    "phonetic": "tæks",
+    "meaning": "税金",
+    "example": "The sales tax is 10% in Japan.",
+    "example_ja": "日本の消費税は10%だ。"
+  },
+  {
+    "word": "cash",
+    "phonetic": "kæʃ",
+    "meaning": "現金",
+    "example": "Do you accept cash payments?",
+    "example_ja": "現金での支払いは受け付けていますか？"
+  },
+  {
+    "word": "credit card",
+    "phonetic": "ˈkred.ɪt kɑːd",
+    "meaning": "クレジットカード",
+    "example": "She pays for everything by credit card.",
+    "example_ja": "彼女はすべての支払いをクレジットカードで行う。"
+  },
+  {
+    "word": "ATM",
+    "phonetic": "ˌeɪ.tiːˈem",
+    "meaning": "ATM",
+    "example": "There is an ATM near the entrance.",
+    "example_ja": "入口の近くにATMがある。"
+  },
+  {
+    "word": "account",
+    "phonetic": "əˈkaʊnt",
+    "meaning": "口座・アカウント",
+    "example": "She opened a savings account at the bank.",
+    "example_ja": "彼女は銀行に普通預金口座を開設した。"
+  },
+  {
+    "word": "deposit",
+    "phonetic": "dɪˈpɒz.ɪt",
+    "meaning": "預金・入金",
+    "example": "He made a deposit at the bank this morning.",
+    "example_ja": "彼は今朝銀行に預金した。"
+  },
+  {
+    "word": "withdraw",
+    "phonetic": "wɪðˈdrɔː",
+    "meaning": "引き出す",
+    "example": "She withdrew money from the ATM.",
+    "example_ja": "彼女はATMからお金を引き出した。"
+  },
+  {
+    "word": "transfer",
+    "phonetic": "ˈtræns.fɜːr",
+    "meaning": "振り込む・転送",
+    "example": "I'll transfer the money tomorrow.",
+    "example_ja": "明日お金を振り込みます。"
+  },
+  {
+    "word": "invoice",
+    "phonetic": "ˈɪn.vɔɪs",
+    "meaning": "請求書",
+    "example": "Send me the invoice by email.",
+    "example_ja": "請求書をメールで送ってください。"
+  },
+  {
+    "word": "contract",
+    "phonetic": "ˈkɒn.trækt",
+    "meaning": "契約・契約書",
+    "example": "Read the contract carefully before signing.",
+    "example_ja": "署名する前に契約書をよく読んで。"
+  },
+  {
+    "word": "sign",
+    "phonetic": "saɪn",
+    "meaning": "サインする・標識",
+    "example": "Please sign here to confirm your order.",
+    "example_ja": "注文を確認するためにここにサインしてください。"
+  },
+  {
+    "word": "stamp",
+    "phonetic": "stæmp",
+    "meaning": "切手・スタンプ",
+    "example": "She put a stamp on the envelope.",
+    "example_ja": "彼女は封筒に切手を貼った。"
+  },
+  {
+    "word": "envelope",
+    "phonetic": "ˈen.və.ləʊp",
+    "meaning": "封筒",
+    "example": "Put the letter in the envelope.",
+    "example_ja": "手紙を封筒に入れて。"
+  },
+  {
+    "word": "post office",
+    "phonetic": "ˈpəʊst ˌɒf.ɪs",
+    "meaning": "郵便局",
+    "example": "She went to the post office to send a parcel.",
+    "example_ja": "彼女は小包を送るために郵便局に行った。"
+  },
+  {
+    "word": "parcel",
+    "phonetic": "ˈpɑː.səl",
+    "meaning": "小包",
+    "example": "The parcel arrived two days early.",
+    "example_ja": "小包が2日早く届いた。"
+  },
+  {
+    "word": "landlord",
+    "phonetic": "ˈlænd.lɔːd",
+    "meaning": "家主・大家",
+    "example": "She called the landlord about the leaking roof.",
+    "example_ja": "雨漏りについて大家に電話した。"
+  },
+  {
+    "word": "tenant",
+    "phonetic": "ˈten.ənt",
+    "meaning": "借家人・テナント",
+    "example": "The tenant renewed the lease for another year.",
+    "example_ja": "借家人は契約をもう1年延長した。"
+  },
+  {
+    "word": "lease",
+    "phonetic": "liːs",
+    "meaning": "賃貸契約",
+    "example": "They signed a one-year lease for the apartment.",
+    "example_ja": "彼らはアパートの1年間の賃貸契約を結んだ。"
+  },
+  {
+    "word": "mortgage",
+    "phonetic": "ˈmɔː.ɡɪdʒ",
+    "meaning": "住宅ローン",
+    "example": "They applied for a mortgage to buy a house.",
+    "example_ja": "彼らは家を購入するために住宅ローンを申し込んだ。"
+  },
+  {
+    "word": "repair",
+    "phonetic": "rɪˈpeər",
+    "meaning": "修理する",
+    "example": "The plumber came to repair the pipe.",
+    "example_ja": "配管工がパイプを修理しに来た。"
+  },
+  {
+    "word": "renovate",
+    "phonetic": "ˈren.ə.veɪt",
+    "meaning": "改装する",
+    "example": "They plan to renovate the kitchen.",
+    "example_ja": "彼らはキッチンを改装する計画だ。"
+  },
+  {
+    "word": "move",
+    "phonetic": "muːv",
+    "meaning": "引っ越す・動く",
+    "example": "She moved to a new apartment last month.",
+    "example_ja": "彼女は先月新しいアパートに引っ越した。"
+  },
+  {
+    "word": "commute",
+    "phonetic": "kəˈmjuːt",
+    "meaning": "通勤する",
+    "example": "He commutes to work by train every day.",
+    "example_ja": "彼は毎日電車で通勤している。"
+  },
+  {
+    "word": "colleague",
+    "phonetic": "ˈkɒl.iːɡ",
+    "meaning": "同僚",
+    "example": "My colleague helped me finish the report.",
+    "example_ja": "同僚がレポートを終わらせるのを手伝ってくれた。"
+  },
+  {
+    "word": "boss",
+    "phonetic": "bɒs",
+    "meaning": "上司・ボス",
+    "example": "Her boss praised her hard work.",
+    "example_ja": "上司が彼女の努力を称えた。"
+  },
+  {
+    "word": "employee",
+    "phonetic": "ɪmˈplɔɪ.iː",
+    "meaning": "従業員",
+    "example": "The company has 500 employees.",
+    "example_ja": "その会社には500人の従業員がいる。"
+  },
+  {
+    "word": "employer",
+    "phonetic": "ɪmˈplɔɪ.ər",
+    "meaning": "雇用主",
+    "example": "Her employer offered flexible working hours.",
+    "example_ja": "雇用主がフレックスタイム制を提供した。"
+  },
+  {
+    "word": "interview",
+    "phonetic": "ˈɪn.tə.vjuː",
+    "meaning": "面接・インタビュー",
+    "example": "He had a job interview on Monday.",
+    "example_ja": "彼は月曜日に就職面接があった。"
+  },
+  {
+    "word": "resume",
+    "phonetic": "ˈrez.ɪ.meɪ",
+    "meaning": "履歴書",
+    "example": "She updated her resume before applying.",
+    "example_ja": "彼女は応募前に履歴書を更新した。"
+  },
+  {
+    "word": "deadline",
+    "phonetic": "ˈded.laɪn",
+    "meaning": "締め切り",
+    "example": "The deadline for the project is Friday.",
+    "example_ja": "プロジェクトの締め切りは金曜日だ。"
+  },
+  {
+    "word": "report",
+    "phonetic": "rɪˈpɔːt",
+    "meaning": "報告書・レポート",
+    "example": "She submitted her report on time.",
+    "example_ja": "彼女は時間通りにレポートを提出した。"
+  },
+  {
+    "word": "presentation",
+    "phonetic": "ˌprez.ənˈteɪ.ʃən",
+    "meaning": "プレゼンテーション",
+    "example": "His presentation impressed the whole team.",
+    "example_ja": "彼のプレゼンはチーム全員に感銘を与えた。"
+  },
+  {
+    "word": "conference",
+    "phonetic": "ˈkɒn.fər.əns",
+    "meaning": "会議・カンファレンス",
+    "example": "She attended an international conference.",
+    "example_ja": "彼女は国際会議に出席した。"
+  },
+  {
+    "word": "project",
+    "phonetic": "ˈprɒdʒ.ekt",
+    "meaning": "プロジェクト",
+    "example": "The new project starts next month.",
+    "example_ja": "新しいプロジェクトは来月から始まる。"
+  },
+  {
+    "word": "task",
+    "phonetic": "tɑːsk",
+    "meaning": "タスク・課題",
+    "example": "She completed all her tasks before lunch.",
+    "example_ja": "彼女は昼食前にすべての課題を終えた。"
+  },
+  {
+    "word": "cooperation",
+    "phonetic": "kəʊˌɒp.əˈreɪ.ʃən",
+    "meaning": "協力",
+    "example": "The project succeeded through teamwork and cooperation.",
+    "example_ja": "そのプロジェクトはチームワークと協力で成功した。"
+  },
+  {
+    "word": "feedback",
+    "phonetic": "ˈfiːd.bæk",
+    "meaning": "フィードバック",
+    "example": "Her manager gave useful feedback.",
+    "example_ja": "上司が有益なフィードバックをくれた。"
+  },
+  {
+    "word": "improvement",
+    "phonetic": "ɪmˈpruːv.mənt",
+    "meaning": "改善・向上",
+    "example": "There has been a lot of improvement lately.",
+    "example_ja": "最近多くの改善があった。"
+  },
+  {
+    "word": "promotion",
+    "phonetic": "prəˈməʊ.ʃən",
+    "meaning": "昇進・プロモーション",
+    "example": "He received a promotion after three years.",
+    "example_ja": "彼は3年後に昇進した。"
+  },
+  {
+    "word": "career",
+    "phonetic": "kəˈrɪər",
+    "meaning": "キャリア・職業",
+    "example": "She has had a long and successful career.",
+    "example_ja": "彼女は長く成功したキャリアを持っている。"
+  },
+  {
+    "word": "retirement",
+    "phonetic": "rɪˈtaɪər.mənt",
+    "meaning": "退職・引退",
+    "example": "He is planning for his retirement.",
+    "example_ja": "彼は退職の計画を立てている。"
+  },
+  {
+    "word": "pension",
+    "phonetic": "ˈpen.ʃən",
+    "meaning": "年金",
+    "example": "She receives a pension every month.",
+    "example_ja": "彼女は毎月年金を受け取っている。"
+  },
+  {
+    "word": "part-time",
+    "phonetic": "ˌpɑːtˈtaɪm",
+    "meaning": "パートタイムの",
+    "example": "She works part-time at a cafe.",
+    "example_ja": "彼女はカフェでパートタイムで働いている。"
+  },
+  {
+    "word": "full-time",
+    "phonetic": "ˌfʊlˈtaɪm",
+    "meaning": "フルタイムの",
+    "example": "He found a full-time position at a firm.",
+    "example_ja": "彼は会社でフルタイムのポジションを見つけた。"
+  },
+  {
+    "word": "overtime",
+    "phonetic": "ˈəʊ.vər.taɪm",
+    "meaning": "残業",
+    "example": "She worked overtime to finish the project.",
+    "example_ja": "彼女はプロジェクトを終わらせるために残業した。"
+  },
+  {
+    "word": "break",
+    "phonetic": "breɪk",
+    "meaning": "休憩",
+    "example": "Take a break and get some fresh air.",
+    "example_ja": "休憩して新鮮な空気を吸ってきて。"
+  },
+  {
+    "word": "lunch break",
+    "phonetic": "ˈlʌntʃ breɪk",
+    "meaning": "昼休み",
+    "example": "They go for a walk during lunch break.",
+    "example_ja": "彼らは昼休みに散歩に行く。"
+  },
+  {
+    "word": "remote",
+    "phonetic": "rɪˈməʊt",
+    "meaning": "リモートの・遠隔の",
+    "example": "She works remotely from home.",
+    "example_ja": "彼女はリモートで自宅から働いている。"
+  },
+  {
+    "word": "office",
+    "phonetic": "ˈɒf.ɪs",
+    "meaning": "オフィス・事務所",
+    "example": "The office is on the fifth floor.",
+    "example_ja": "オフィスは5階にある。"
+  },
+  {
+    "word": "desk",
+    "phonetic": "desk",
+    "meaning": "机・デスク",
+    "example": "She keeps her desk tidy at all times.",
+    "example_ja": "彼女はいつも机を整頓している。"
+  },
+  {
+    "word": "printer",
+    "phonetic": "ˈprɪnt.ər",
+    "meaning": "プリンター",
+    "example": "The printer ran out of ink.",
+    "example_ja": "プリンターのインクが切れた。"
+  },
+  {
+    "word": "document",
+    "phonetic": "ˈdɒk.jə.mənt",
+    "meaning": "書類・文書",
+    "example": "Please sign the document and return it.",
+    "example_ja": "書類にサインして返送してください。"
+  },
+  {
+    "word": "file",
+    "phonetic": "faɪl",
+    "meaning": "ファイル",
+    "example": "Save the file before closing the program.",
+    "example_ja": "プログラムを閉じる前にファイルを保存して。"
+  },
+  {
+    "word": "folder",
+    "phonetic": "ˈfəʊl.dər",
+    "meaning": "フォルダー",
+    "example": "Organize your files into folders.",
+    "example_ja": "ファイルをフォルダーに整理して。"
+  },
+  {
+    "word": "software",
+    "phonetic": "ˈsɒft.weər",
+    "meaning": "ソフトウェア",
+    "example": "Update the software to the latest version.",
+    "example_ja": "ソフトウェアを最新バージョンにアップデートして。"
+  },
+  {
+    "word": "application",
+    "phonetic": "ˌæp.lɪˈkeɪ.ʃən",
+    "meaning": "アプリ・申請",
+    "example": "Download the application on your phone.",
+    "example_ja": "スマホにアプリをダウンロードして。"
+  },
+  {
+    "word": "website",
+    "phonetic": "ˈweb.saɪt",
+    "meaning": "ウェブサイト",
+    "example": "Check the website for the latest news.",
+    "example_ja": "最新ニュースはウェブサイトを確認して。"
+  },
+  {
+    "word": "search",
+    "phonetic": "sɜːtʃ",
+    "meaning": "検索する・探す",
+    "example": "Search online for the best price.",
+    "example_ja": "最安値をオンラインで検索して。"
+  },
+  {
+    "word": "download",
+    "phonetic": "ˈdaʊn.ləʊd",
+    "meaning": "ダウンロードする",
+    "example": "Download the file and open it.",
+    "example_ja": "ファイルをダウンロードして開いて。"
+  },
+  {
+    "word": "upload",
+    "phonetic": "ˈʌp.ləʊd",
+    "meaning": "アップロードする",
+    "example": "Upload the photo to the cloud.",
+    "example_ja": "写真をクラウドにアップロードして。"
+  },
+  {
+    "word": "update",
+    "phonetic": "ˈʌp.deɪt",
+    "meaning": "アップデート・更新する",
+    "example": "Don't forget to update your password regularly.",
+    "example_ja": "パスワードを定期的に更新することを忘れずに。"
+  },
+  {
+    "word": "backup",
+    "phonetic": "ˈbæk.ʌp",
+    "meaning": "バックアップ",
+    "example": "Always make a backup of important files.",
+    "example_ja": "重要なファイルは必ずバックアップをとって。"
+  },
+  {
+    "word": "notification",
+    "phonetic": "ˌnəʊ.tɪ.fɪˈkeɪ.ʃən",
+    "meaning": "通知",
+    "example": "She turned off notifications at night.",
+    "example_ja": "彼女は夜に通知をオフにした。"
+  },
+  {
+    "word": "setting",
+    "phonetic": "ˈset.ɪŋ",
+    "meaning": "設定",
+    "example": "Change the language in the settings menu.",
+    "example_ja": "設定メニューで言語を変更して。"
+  },
+  {
+    "word": "battery",
+    "phonetic": "ˈbæt.ər.i",
+    "meaning": "バッテリー・電池",
+    "example": "The battery on my phone is almost dead.",
+    "example_ja": "スマホのバッテリーがほぼ切れそうだ。"
+  },
+  {
+    "word": "charger",
+    "phonetic": "ˈtʃɑː.dʒər",
+    "meaning": "充電器",
+    "example": "Have you seen my phone charger?",
+    "example_ja": "スマホの充電器を見かけましたか？"
+  },
+  {
+    "word": "cable",
+    "phonetic": "ˈkeɪ.bəl",
+    "meaning": "ケーブル",
+    "example": "Connect the cable to the monitor.",
+    "example_ja": "ケーブルをモニターに接続して。"
+  },
+  {
+    "word": "screen",
+    "phonetic": "skriːn",
+    "meaning": "画面・スクリーン",
+    "example": "The screen cracked when she dropped the phone.",
+    "example_ja": "スマホを落としたら画面が割れた。"
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "ˈkiː.bɔːd",
+    "meaning": "キーボード",
+    "example": "She types quickly on the keyboard.",
+    "example_ja": "彼女はキーボードを速く打つ。"
+  },
+  {
+    "word": "mouse",
+    "phonetic": "maʊs",
+    "meaning": "マウス（PC）",
+    "example": "The wireless mouse is very convenient.",
+    "example_ja": "ワイヤレスマウスはとても便利だ。"
+  },
+  {
+    "word": "headphones",
+    "phonetic": "ˈhed.fəʊnz",
+    "meaning": "ヘッドフォン",
+    "example": "She listens to podcasts with headphones.",
+    "example_ja": "彼女はヘッドフォンでポッドキャストを聴く。"
+  },
+  {
+    "word": "speaker",
+    "phonetic": "ˈspiː.kər",
+    "meaning": "スピーカー",
+    "example": "Turn up the volume on the speaker.",
+    "example_ja": "スピーカーの音量を上げて。"
+  },
+  {
+    "word": "television",
+    "phonetic": "ˈtel.ɪ.vɪʒ.ən",
+    "meaning": "テレビ",
+    "example": "They watch television together in the evening.",
+    "example_ja": "彼らは夜一緒にテレビを見る。"
+  },
+  {
+    "word": "channel",
+    "phonetic": "ˈtʃæn.əl",
+    "meaning": "チャンネル",
+    "example": "Change the channel to the news.",
+    "example_ja": "ニュースのチャンネルに変えて。"
+  },
+  {
+    "word": "program",
+    "phonetic": "ˈprəʊ.ɡræm",
+    "meaning": "番組・プログラム",
+    "example": "My favorite program is on at 8 pm.",
+    "example_ja": "好きな番組は午後8時からだ。"
+  },
+  {
+    "word": "remote control",
+    "phonetic": "rɪˌməʊt kənˈtrəʊl",
+    "meaning": "リモコン",
+    "example": "The remote control is on the sofa.",
+    "example_ja": "リモコンはソファの上にある。"
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "ˈnjuːz.peɪ.pər",
+    "meaning": "新聞",
+    "example": "He reads the newspaper over breakfast.",
+    "example_ja": "彼は朝食を食べながら新聞を読む。"
+  },
+  {
+    "word": "magazine",
+    "phonetic": "ˌmæɡ.əˈziːn",
+    "meaning": "雑誌",
+    "example": "She reads fashion magazines regularly.",
+    "example_ja": "彼女はファッション誌を定期的に読む。"
+  },
+  {
+    "word": "podcast",
+    "phonetic": "ˈpɒd.kɑːst",
+    "meaning": "ポッドキャスト",
+    "example": "I listen to a podcast during my commute.",
+    "example_ja": "通勤中にポッドキャストを聴く。"
+  },
+  {
+    "word": "social media",
+    "phonetic": "ˌsəʊ.ʃəl ˈmiː.di.ə",
+    "meaning": "ソーシャルメディア",
+    "example": "He spends too much time on social media.",
+    "example_ja": "彼はソーシャルメディアに時間を使いすぎる。"
+  },
+  {
+    "word": "post",
+    "phonetic": "pəʊst",
+    "meaning": "投稿する・投稿",
+    "example": "She posted a photo on her social media.",
+    "example_ja": "彼女はソーシャルメディアに写真を投稿した。"
+  },
+  {
+    "word": "comment",
+    "phonetic": "ˈkɒm.ent",
+    "meaning": "コメント",
+    "example": "He left a positive comment on the video.",
+    "example_ja": "彼は動画に好意的なコメントを残した。"
+  },
+  {
+    "word": "follow",
+    "phonetic": "ˈfɒl.əʊ",
+    "meaning": "フォローする・従う",
+    "example": "She follows many travel accounts online.",
+    "example_ja": "彼女はオンラインで多くの旅行アカウントをフォローしている。"
+  },
+  {
+    "word": "share",
+    "phonetic": "ʃeər",
+    "meaning": "共有する・シェア",
+    "example": "Please share this article with your friends.",
+    "example_ja": "この記事を友達にシェアしてください。"
+  },
+  {
+    "word": "subscribe",
+    "phonetic": "səbˈskraɪb",
+    "meaning": "登録する・購読する",
+    "example": "Subscribe to the channel for more videos.",
+    "example_ja": "さらに動画を見るためにチャンネル登録して。"
+  },
+  {
+    "word": "stream",
+    "phonetic": "striːm",
+    "meaning": "ストリーミングする",
+    "example": "They streamed the concert live online.",
+    "example_ja": "コンサートをオンラインでライブ配信した。"
+  },
+  {
+    "word": "video",
+    "phonetic": "ˈvɪd.i.əʊ",
+    "meaning": "動画",
+    "example": "She uploaded a cooking video online.",
+    "example_ja": "彼女は料理動画をオンラインにアップロードした。"
+  },
+  {
+    "word": "login",
+    "phonetic": "ˈlɒɡ.ɪn",
+    "meaning": "ログイン",
+    "example": "Enter your email to login.",
+    "example_ja": "ログインするにはメールアドレスを入力して。"
+  },
+  {
+    "word": "privacy",
+    "phonetic": "ˈprɪv.ə.si",
+    "meaning": "プライバシー",
+    "example": "Protect your personal information and privacy.",
+    "example_ja": "個人情報とプライバシーを守って。"
+  },
+  {
+    "word": "security",
+    "phonetic": "sɪˈkjʊər.ɪ.ti",
+    "meaning": "セキュリティ",
+    "example": "Enable two-factor authentication for security.",
+    "example_ja": "セキュリティのために二段階認証を有効にして。"
+  },
+  {
+    "word": "virus",
+    "phonetic": "ˈvaɪ.rəs",
+    "meaning": "ウイルス",
+    "example": "Install antivirus software to protect your computer.",
+    "example_ja": "コンピュータを守るためにウイルス対策ソフトをインストールして。"
+  },
+  {
+    "word": "hack",
+    "phonetic": "hæk",
+    "meaning": "ハッキングする",
+    "example": "Her account was hacked last month.",
+    "example_ja": "彼女のアカウントは先月ハッキングされた。"
+  },
+  {
+    "word": "data",
+    "phonetic": "ˈdeɪ.tə",
+    "meaning": "データ",
+    "example": "Back up your data before updating.",
+    "example_ja": "アップデートする前にデータをバックアップして。"
+  },
+  {
+    "word": "Wi-Fi",
+    "phonetic": "ˈwaɪ.faɪ",
+    "meaning": "ワイファイ",
+    "example": "Is there free Wi-Fi in this cafe?",
+    "example_ja": "このカフェに無料Wi-Fiはありますか？"
+  },
+  {
+    "word": "connection",
+    "phonetic": "kəˈnek.ʃən",
+    "meaning": "接続・コネクション",
+    "example": "The internet connection is slow today.",
+    "example_ja": "今日はインターネット接続が遅い。"
+  },
+  {
+    "word": "checkup",
+    "phonetic": "ˈtʃek.ʌp",
+    "meaning": "健康診断",
+    "example": "He goes for a checkup every year.",
+    "example_ja": "彼は毎年健康診断を受ける。"
+  },
+  {
+    "word": "prescription",
+    "phonetic": "prɪˈskrɪp.ʃən",
+    "meaning": "処方箋",
+    "example": "She picked up her prescription at the pharmacy.",
+    "example_ja": "彼女は薬局で処方箋の薬を受け取った。"
+  },
+  {
+    "word": "symptom",
+    "phonetic": "ˈsɪmp.təm",
+    "meaning": "症状",
+    "example": "What are the main symptoms of the flu?",
+    "example_ja": "インフルエンザの主な症状は何ですか？"
+  },
+  {
+    "word": "treatment",
+    "phonetic": "ˈtriːt.mənt",
+    "meaning": "治療",
+    "example": "The doctor recommended a new treatment.",
+    "example_ja": "医者が新しい治療法を勧めた。"
+  },
+  {
+    "word": "surgery",
+    "phonetic": "ˈsɜː.dʒər.i",
+    "meaning": "手術",
+    "example": "He had heart surgery last spring.",
+    "example_ja": "彼は昨年の春に心臓手術を受けた。"
+  },
+  {
+    "word": "recovery",
+    "phonetic": "rɪˈkʌv.ər.i",
+    "meaning": "回復",
+    "example": "Her recovery from the operation was quick.",
+    "example_ja": "手術からの回復は早かった。"
+  },
+  {
+    "word": "injection",
+    "phonetic": "ɪnˈdʒek.ʃən",
+    "meaning": "注射",
+    "example": "The nurse gave him an injection.",
+    "example_ja": "看護師が彼に注射をした。"
+  },
+  {
+    "word": "bandage",
+    "phonetic": "ˈbæn.dɪdʒ",
+    "meaning": "包帯",
+    "example": "She wrapped the wound with a bandage.",
+    "example_ja": "彼女は傷口に包帯を巻いた。"
+  },
+  {
+    "word": "wheelchair",
+    "phonetic": "ˈwiːl.tʃeər",
+    "meaning": "車椅子",
+    "example": "He uses a wheelchair to get around.",
+    "example_ja": "彼は移動に車椅子を使っている。"
+  },
+  {
+    "word": "ambulance",
+    "phonetic": "ˈæm.bjʊ.ləns",
+    "meaning": "救急車",
+    "example": "Call an ambulance immediately!",
+    "example_ja": "すぐに救急車を呼んで！"
+  },
+  {
+    "word": "dentist",
+    "phonetic": "ˈden.tɪst",
+    "meaning": "歯医者",
+    "example": "She visits the dentist every six months.",
+    "example_ja": "彼女は6か月ごとに歯医者に行く。"
+  },
+  {
+    "word": "optician",
+    "phonetic": "ɒpˈtɪʃ.ən",
+    "meaning": "眼科医・眼鏡士",
+    "example": "She saw an optician for her new glasses.",
+    "example_ja": "新しい眼鏡のために眼鏡士に診てもらった。"
+  },
+  {
+    "word": "yoga",
+    "phonetic": "ˈjəʊ.ɡə",
+    "meaning": "ヨガ",
+    "example": "She does yoga every morning.",
+    "example_ja": "彼女は毎朝ヨガをする。"
+  },
+  {
+    "word": "gym",
+    "phonetic": "dʒɪm",
+    "meaning": "ジム・体育館",
+    "example": "He goes to the gym three times a week.",
+    "example_ja": "彼は週3回ジムに行く。"
+  },
+  {
+    "word": "swim",
+    "phonetic": "swɪm",
+    "meaning": "泳ぐ",
+    "example": "They swim at the pool every weekend.",
+    "example_ja": "彼らは毎週末プールで泳ぐ。"
+  },
+  {
+    "word": "stretch",
+    "phonetic": "stretʃ",
+    "meaning": "ストレッチをする",
+    "example": "Always stretch before exercising.",
+    "example_ja": "運動前は必ずストレッチをして。"
+  },
+  {
+    "word": "meditation",
+    "phonetic": "ˌmed.ɪˈteɪ.ʃən",
+    "meaning": "瞑想",
+    "example": "Meditation helps reduce daily stress.",
+    "example_ja": "瞑想は日常のストレスを減らすのに役立つ。"
+  },
+  {
+    "word": "stress",
+    "phonetic": "stres",
+    "meaning": "ストレス",
+    "example": "Work has been causing her a lot of stress.",
+    "example_ja": "仕事が彼女に多くのストレスを与えている。"
+  },
+  {
+    "word": "relax",
+    "phonetic": "rɪˈlæks",
+    "meaning": "リラックスする",
+    "example": "He relaxes by reading in the evening.",
+    "example_ja": "彼は夕方に読書でリラックスする。"
+  },
+  {
+    "word": "rest",
+    "phonetic": "rest",
+    "meaning": "休む・休息",
+    "example": "Get plenty of rest when you're sick.",
+    "example_ja": "体調が悪いときはよく休んで。"
+  },
+  {
+    "word": "nap",
+    "phonetic": "næp",
+    "meaning": "昼寝",
+    "example": "She takes a short nap after lunch.",
+    "example_ja": "彼女は昼食後に少し昼寝をする。"
+  },
+  {
+    "word": "hygiene",
+    "phonetic": "ˈhaɪ.dʒiːn",
+    "meaning": "衛生",
+    "example": "Good hygiene prevents the spread of disease.",
+    "example_ja": "良い衛生習慣が病気の拡散を防ぐ。"
+  },
+  {
+    "word": "mask",
+    "phonetic": "mɑːsk",
+    "meaning": "マスク",
+    "example": "Wear a mask in crowded places.",
+    "example_ja": "混雑した場所ではマスクを着用して。"
+  },
+  {
+    "word": "sanitize",
+    "phonetic": "ˈsæn.ɪ.taɪz",
+    "meaning": "消毒する",
+    "example": "Sanitize your hands before eating.",
+    "example_ja": "食事前に手を消毒して。"
+  },
+  {
+    "word": "weight",
+    "phonetic": "weɪt",
+    "meaning": "体重・重さ",
+    "example": "She checks her weight every Monday.",
+    "example_ja": "彼女は毎週月曜日に体重を測る。"
+  },
+  {
+    "word": "height",
+    "phonetic": "haɪt",
+    "meaning": "身長・高さ",
+    "example": "His height is 175 centimeters.",
+    "example_ja": "彼の身長は175センチだ。"
+  },
+  {
+    "word": "blood pressure",
+    "phonetic": "ˈblʌd ˌpreʃ.ər",
+    "meaning": "血圧",
+    "example": "He monitors his blood pressure every day.",
+    "example_ja": "彼は毎日血圧を測っている。"
+  },
+  {
+    "word": "garbage",
+    "phonetic": "ˈɡɑː.bɪdʒ",
+    "meaning": "ゴミ",
+    "example": "Put the garbage in the bin.",
+    "example_ja": "ゴミをゴミ箱に入れて。"
+  },
+  {
+    "word": "bin",
+    "phonetic": "bɪn",
+    "meaning": "ゴミ箱・容器",
+    "example": "Throw the packaging in the recycling bin.",
+    "example_ja": "包装をリサイクルボックスに入れて。"
+  },
+  {
+    "word": "mop",
+    "phonetic": "mɒp",
+    "meaning": "モップ・モップがけする",
+    "example": "He mopped the kitchen floor after cooking.",
+    "example_ja": "料理の後でキッチンの床をモップがけした。"
+  },
+  {
+    "word": "vacuum",
+    "phonetic": "ˈvæk.juːm",
+    "meaning": "掃除機をかける",
+    "example": "She vacuums the carpet every Saturday.",
+    "example_ja": "彼女は毎週土曜日にカーペットに掃除機をかける。"
+  },
+  {
+    "word": "broom",
+    "phonetic": "bruːm",
+    "meaning": "ほうき",
+    "example": "She swept the floor with a broom.",
+    "example_ja": "彼女はほうきで床を掃いた。"
+  },
+  {
+    "word": "detergent",
+    "phonetic": "dɪˈtɜː.dʒənt",
+    "meaning": "洗剤",
+    "example": "Use this detergent for washing dishes.",
+    "example_ja": "皿洗いにこの洗剤を使って。"
+  },
+  {
+    "word": "iron",
+    "phonetic": "ˈaɪ.ən",
+    "meaning": "アイロン・アイロンをかける",
+    "example": "Iron your shirt before the presentation.",
+    "example_ja": "プレゼン前にシャツにアイロンをかけて。"
+  },
+  {
+    "word": "hanger",
+    "phonetic": "ˈhæŋ.ər",
+    "meaning": "ハンガー",
+    "example": "Hang your jacket on the hanger.",
+    "example_ja": "ジャケットをハンガーにかけて。"
+  },
+  {
+    "word": "wardrobe",
+    "phonetic": "ˈwɔː.drəʊb",
+    "meaning": "ワードローブ・洋服ダンス",
+    "example": "She organized her wardrobe over the weekend.",
+    "example_ja": "彼女は週末にワードローブを整理した。"
+  },
+  {
+    "word": "pillow",
+    "phonetic": "ˈpɪl.əʊ",
+    "meaning": "枕",
+    "example": "She prefers a soft pillow when sleeping.",
+    "example_ja": "彼女は寝るときに柔らかい枕を好む。"
+  },
+  {
+    "word": "blanket",
+    "phonetic": "ˈblæŋ.kɪt",
+    "meaning": "毛布",
+    "example": "He wrapped himself in a warm blanket.",
+    "example_ja": "彼は暖かい毛布に包まった。"
+  },
+  {
+    "word": "sheet",
+    "phonetic": "ʃiːt",
+    "meaning": "シーツ",
+    "example": "She changed the bed sheets on Sunday.",
+    "example_ja": "彼女は日曜日にシーツを交換した。"
+  },
+  {
+    "word": "mattress",
+    "phonetic": "ˈmæt.rəs",
+    "meaning": "マットレス",
+    "example": "A good mattress helps you sleep better.",
+    "example_ja": "良いマットレスはより良い睡眠に役立つ。"
+  },
+  {
+    "word": "alarm clock",
+    "phonetic": "əˈlɑːm klɒk",
+    "meaning": "目覚まし時計",
+    "example": "Set the alarm clock for 6 am.",
+    "example_ja": "午前6時に目覚まし時計をセットして。"
+  },
+  {
+    "word": "sunrise",
+    "phonetic": "ˈsʌn.raɪz",
+    "meaning": "日の出",
+    "example": "She wakes up to watch the sunrise.",
+    "example_ja": "彼女は日の出を見るために起きる。"
+  },
+  {
+    "word": "sunset",
+    "phonetic": "ˈsʌn.set",
+    "meaning": "日の入り・夕日",
+    "example": "They walked along the beach at sunset.",
+    "example_ja": "彼らは日没時にビーチを歩いた。"
+  },
+  {
+    "word": "shadow",
+    "phonetic": "ˈʃæd.əʊ",
+    "meaning": "影",
+    "example": "The tree cast a long shadow in the afternoon.",
+    "example_ja": "午後には木が長い影を作った。"
+  },
+  {
+    "word": "light",
+    "phonetic": "laɪt",
+    "meaning": "光・明るい",
+    "example": "The light in this room is too dim.",
+    "example_ja": "この部屋の明かりは暗すぎる。"
+  },
+  {
+    "word": "dark",
+    "phonetic": "dɑːk",
+    "meaning": "暗い",
+    "example": "It gets dark early in winter.",
+    "example_ja": "冬は早く暗くなる。"
+  },
+  {
+    "word": "quiet",
+    "phonetic": "ˈkwaɪ.ɪt",
+    "meaning": "静かな",
+    "example": "The library is very quiet.",
+    "example_ja": "図書館はとても静かだ。"
+  },
+  {
+    "word": "loud",
+    "phonetic": "laʊd",
+    "meaning": "うるさい・大きい（音）",
+    "example": "The music next door is very loud.",
+    "example_ja": "隣の音楽がとてもうるさい。"
+  },
+  {
+    "word": "noise",
+    "phonetic": "nɔɪz",
+    "meaning": "騒音",
+    "example": "The noise from traffic kept me awake.",
+    "example_ja": "交通の騒音で眠れなかった。"
+  },
+  {
+    "word": "touch",
+    "phonetic": "tʌtʃ",
+    "meaning": "触れる・触感",
+    "example": "The fabric feels soft to the touch.",
+    "example_ja": "その生地は触れると柔らかい。"
+  },
+  {
+    "word": "sight",
+    "phonetic": "saɪt",
+    "meaning": "視覚・景観",
+    "example": "The waterfall is an impressive sight.",
+    "example_ja": "滝は印象的な景観だ。"
+  },
+  {
+    "word": "sound",
+    "phonetic": "saʊnd",
+    "meaning": "音・音が聞こえる",
+    "example": "The sound of rain is very relaxing.",
+    "example_ja": "雨の音はとてもリラックスできる。"
+  },
+  {
+    "word": "shape",
+    "phonetic": "ʃeɪp",
+    "meaning": "形",
+    "example": "The cake is in the shape of a heart.",
+    "example_ja": "ケーキはハートの形をしている。"
+  },
+  {
+    "word": "round",
+    "phonetic": "raʊnd",
+    "meaning": "丸い・ラウンド",
+    "example": "The table is round and fits in the corner.",
+    "example_ja": "テーブルは丸くて隅にぴったり収まる。"
+  },
+  {
+    "word": "square",
+    "phonetic": "skweər",
+    "meaning": "四角い・正方形",
+    "example": "The room has a square layout.",
+    "example_ja": "その部屋は正方形のレイアウトだ。"
+  },
+  {
+    "word": "straight",
+    "phonetic": "streɪt",
+    "meaning": "まっすぐな",
+    "example": "Draw a straight line across the page.",
+    "example_ja": "ページをまたがるまっすぐな線を引いて。"
+  },
+  {
+    "word": "curved",
+    "phonetic": "kɜːvd",
+    "meaning": "曲がった",
+    "example": "The road has many curved sections.",
+    "example_ja": "その道路には多くの曲がった部分がある。"
+  },
+  {
+    "word": "thick",
+    "phonetic": "θɪk",
+    "meaning": "厚い・太い",
+    "example": "The wall is very thick and sturdy.",
+    "example_ja": "壁はとても厚くて頑丈だ。"
+  },
+  {
+    "word": "thin",
+    "phonetic": "θɪn",
+    "meaning": "薄い・細い",
+    "example": "She prefers a thin crust pizza.",
+    "example_ja": "彼女は薄いクラストのピザが好みだ。"
+  },
+  {
+    "word": "full",
+    "phonetic": "fʊl",
+    "meaning": "満腹の・いっぱいの",
+    "example": "I'm full, I can't eat any more.",
+    "example_ja": "お腹がいっぱいで、もう食べられない。"
+  },
+  {
+    "word": "empty",
+    "phonetic": "ˈemp.ti",
+    "meaning": "空の",
+    "example": "The bottle is empty, buy a new one.",
+    "example_ja": "瓶が空だ、新しいのを買って。"
+  },
+  {
+    "word": "heavy",
+    "phonetic": "ˈhev.i",
+    "meaning": "重い",
+    "example": "The suitcase is too heavy to carry alone.",
+    "example_ja": "スーツケースが重すぎて一人では運べない。"
+  },
+  {
+    "word": "hard",
+    "phonetic": "hɑːd",
+    "meaning": "硬い・難しい",
+    "example": "The ground is hard after the frost.",
+    "example_ja": "霜が降りた後で地面が硬い。"
+  },
+  {
+    "word": "soft",
+    "phonetic": "sɒft",
+    "meaning": "柔らかい",
+    "example": "The bread is fresh and soft.",
+    "example_ja": "パンが新鮮で柔らかい。"
+  },
+  {
+    "word": "sharp",
+    "phonetic": "ʃɑːp",
+    "meaning": "鋭い",
+    "example": "Use a sharp knife to cut the vegetables.",
+    "example_ja": "野菜を切るには鋭いナイフを使って。"
+  },
+  {
+    "word": "smooth",
+    "phonetic": "smuːð",
+    "meaning": "滑らかな",
+    "example": "The surface is smooth and shiny.",
+    "example_ja": "その表面は滑らかでつやがある。"
+  },
+  {
+    "word": "rough",
+    "phonetic": "rʌf",
+    "meaning": "ざらざらした・荒い",
+    "example": "The path was rough and uneven.",
+    "example_ja": "道はざらざらしていて凸凹だった。"
+  },
+  {
+    "word": "bright",
+    "phonetic": "braɪt",
+    "meaning": "明るい・輝く",
+    "example": "She has a bright smile.",
+    "example_ja": "彼女は明るい笑顔を持っている。"
+  },
+  {
+    "word": "wide",
+    "phonetic": "waɪd",
+    "meaning": "広い・幅広い",
+    "example": "The road is wide enough for two cars.",
+    "example_ja": "その道路は2台の車が通れるほど広い。"
+  },
+  {
+    "word": "narrow",
+    "phonetic": "ˈnær.əʊ",
+    "meaning": "狭い",
+    "example": "The hallway is too narrow for the sofa.",
+    "example_ja": "廊下が狭すぎてソファが通れない。"
+  },
+  {
+    "word": "deep",
+    "phonetic": "diːp",
+    "meaning": "深い",
+    "example": "The lake is very deep near the center.",
+    "example_ja": "湖の中心付近はとても深い。"
+  },
+  {
+    "word": "shallow",
+    "phonetic": "ˈʃæl.əʊ",
+    "meaning": "浅い",
+    "example": "The water is shallow near the shore.",
+    "example_ja": "岸の近くは水が浅い。"
+  },
+  {
+    "word": "flat",
+    "phonetic": "flæt",
+    "meaning": "平らな・フラットな",
+    "example": "The road is flat and easy to cycle on.",
+    "example_ja": "道路が平らで自転車で走りやすい。"
+  },
+  {
+    "word": "steep",
+    "phonetic": "stiːp",
+    "meaning": "急斜面の",
+    "example": "The hill is very steep.",
+    "example_ja": "その丘はとても急だ。"
+  },
+  {
+    "word": "crowded",
+    "phonetic": "ˈkraʊ.dɪd",
+    "meaning": "混んでいる",
+    "example": "The train is very crowded in the morning.",
+    "example_ja": "朝の電車はとても混んでいる。"
+  },
+  {
+    "word": "modern",
+    "phonetic": "ˈmɒd.ən",
+    "meaning": "現代的な・モダンな",
+    "example": "The apartment has a modern design.",
+    "example_ja": "そのアパートはモダンなデザインだ。"
+  },
+  {
+    "word": "traditional",
+    "phonetic": "trəˈdɪʃ.ən.əl",
+    "meaning": "伝統的な",
+    "example": "She wore a traditional kimono at the festival.",
+    "example_ja": "彼女はお祭りで伝統的な着物を着た。"
+  },
+  {
+    "word": "popular",
+    "phonetic": "ˈpɒp.jʊ.lər",
+    "meaning": "人気のある",
+    "example": "This restaurant is very popular with locals.",
+    "example_ja": "このレストランは地元の人に人気がある。"
+  },
+  {
+    "word": "boring",
+    "phonetic": "ˈbɔː.rɪŋ",
+    "meaning": "退屈な",
+    "example": "He found the lecture rather boring.",
+    "example_ja": "彼はその講義をかなり退屈に感じた。"
+  },
+  {
+    "word": "interesting",
+    "phonetic": "ˈɪn.trɪ.stɪŋ",
+    "meaning": "面白い・興味深い",
+    "example": "That is a very interesting idea.",
+    "example_ja": "それはとても面白いアイデアだ。"
+  },
+  {
+    "word": "exciting",
+    "phonetic": "ɪkˈsaɪ.tɪŋ",
+    "meaning": "ワクワクする・刺激的な",
+    "example": "The trip was the most exciting adventure.",
+    "example_ja": "その旅は最もワクワクする冒険だった。"
+  },
+  {
+    "word": "funny",
+    "phonetic": "ˈfʌn.i",
+    "meaning": "面白い・おかしい",
+    "example": "He told a funny story at dinner.",
+    "example_ja": "彼は夕食でおかしな話をした。"
+  },
+  {
+    "word": "serious",
+    "phonetic": "ˈsɪər.i.əs",
+    "meaning": "真剣な・深刻な",
+    "example": "This is a serious matter, we need to talk.",
+    "example_ja": "これは深刻な問題で、話し合う必要がある。"
+  },
+  {
+    "word": "nervous",
+    "phonetic": "ˈnɜː.vəs",
+    "meaning": "緊張した・不安な",
+    "example": "She was nervous before the presentation.",
+    "example_ja": "彼女はプレゼン前に緊張していた。"
+  },
+  {
+    "word": "confident",
+    "phonetic": "ˈkɒn.fɪ.dənt",
+    "meaning": "自信のある",
+    "example": "He walked into the room feeling confident.",
+    "example_ja": "彼は自信を持って部屋に入った。"
+  },
+  {
+    "word": "shy",
+    "phonetic": "ʃaɪ",
+    "meaning": "恥ずかしがり屋の",
+    "example": "She's shy around people she doesn't know.",
+    "example_ja": "彼女は知らない人の前では恥ずかしがり屋だ。"
+  },
+  {
+    "word": "outgoing",
+    "phonetic": "ˈaʊt.ɡəʊ.ɪŋ",
+    "meaning": "社交的な・外向的な",
+    "example": "She is outgoing and makes friends easily.",
+    "example_ja": "彼女は社交的ですぐに友達ができる。"
+  },
+  {
+    "word": "kind",
+    "phonetic": "kaɪnd",
+    "meaning": "親切な",
+    "example": "She is always kind to everyone.",
+    "example_ja": "彼女はいつもみんなに親切だ。"
+  },
+  {
+    "word": "rude",
+    "phonetic": "ruːd",
+    "meaning": "失礼な",
+    "example": "It's rude to talk with your mouth full.",
+    "example_ja": "口に食べ物を入れて話すのは失礼だ。"
+  },
+  {
+    "word": "polite",
+    "phonetic": "pəˈlaɪt",
+    "meaning": "丁寧な・礼儀正しい",
+    "example": "Always be polite when speaking to others.",
+    "example_ja": "他の人と話すときはいつも礼儀正しくしなさい。"
+  },
+  {
+    "word": "honest",
+    "phonetic": "ˈɒn.ɪst",
+    "meaning": "正直な",
+    "example": "She is always honest about her feelings.",
+    "example_ja": "彼女は自分の気持ちについていつも正直だ。"
+  },
+  {
+    "word": "patient",
+    "phonetic": "ˈpeɪ.ʃənt",
+    "meaning": "忍耐強い・患者",
+    "example": "Be patient, the bus will come soon.",
+    "example_ja": "もう少し待って、バスはすぐ来るよ。"
+  },
+  {
+    "word": "creative",
+    "phonetic": "kriˈeɪ.tɪv",
+    "meaning": "創造的な",
+    "example": "She is very creative and full of ideas.",
+    "example_ja": "彼女はとても創造的でアイデアにあふれている。"
+  },
+  {
+    "word": "clever",
+    "phonetic": "ˈklev.ər",
+    "meaning": "賢い・利口な",
+    "example": "He is a clever student who learns quickly.",
+    "example_ja": "彼は覚えが早い賢い生徒だ。"
+  },
+  {
+    "word": "smart",
+    "phonetic": "smɑːt",
+    "meaning": "賢い・おしゃれな",
+    "example": "That was a very smart decision.",
+    "example_ja": "それはとても賢い判断だった。"
+  },
+  {
+    "word": "responsible",
+    "phonetic": "rɪˈspɒn.sɪ.bəl",
+    "meaning": "責任感のある",
+    "example": "She is a responsible and reliable worker.",
+    "example_ja": "彼女は責任感があって頼れる仕事をする。"
+  },
+  {
+    "word": "careless",
+    "phonetic": "ˈkeər.ləs",
+    "meaning": "不注意な",
+    "example": "A careless mistake cost them the game.",
+    "example_ja": "不注意なミスで試合を落とした。"
+  },
+  {
+    "word": "careful",
+    "phonetic": "ˈkeər.fəl",
+    "meaning": "注意深い",
+    "example": "Be careful when crossing the street.",
+    "example_ja": "道を渡るときは注意して。"
+  },
+  {
+    "word": "curious",
+    "phonetic": "ˈkjʊər.i.əs",
+    "meaning": "好奇心のある",
+    "example": "Children are naturally curious.",
+    "example_ja": "子供はもともと好奇心旺盛だ。"
+  },
+  {
+    "word": "brave",
+    "phonetic": "breɪv",
+    "meaning": "勇敢な",
+    "example": "She was brave enough to speak up.",
+    "example_ja": "彼女は声を上げるほど勇敢だった。"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "əˈfreɪd",
+    "meaning": "怖い・心配している",
+    "example": "He is afraid of the dark.",
+    "example_ja": "彼は暗闇が怖い。"
+  },
+  {
+    "word": "lonely",
+    "phonetic": "ˈləʊn.li",
+    "meaning": "孤独な・寂しい",
+    "example": "She felt lonely after moving to a new city.",
+    "example_ja": "彼女は新しい都市に引っ越した後、孤独を感じた。"
+  },
+  {
+    "word": "excited",
+    "phonetic": "ɪkˈsaɪ.tɪd",
+    "meaning": "興奮した・楽しみにしている",
+    "example": "The children were excited about the trip.",
+    "example_ja": "子供たちは旅行に興奮していた。"
+  },
+  {
+    "word": "surprised",
+    "phonetic": "səˈpraɪzd",
+    "meaning": "驚いた",
+    "example": "She was surprised by the unexpected gift.",
+    "example_ja": "彼女は予期しない贈り物に驚いた。"
+  },
+  {
+    "word": "disappointed",
+    "phonetic": "ˌdɪs.əˈpɔɪn.tɪd",
+    "meaning": "がっかりした",
+    "example": "He was disappointed with the result.",
+    "example_ja": "彼は結果にがっかりした。"
+  },
+  {
+    "word": "proud",
+    "phonetic": "praʊd",
+    "meaning": "誇りに思う",
+    "example": "She is proud of her children's achievements.",
+    "example_ja": "彼女は子供たちの成果を誇りに思っている。"
+  },
+  {
+    "word": "grateful",
+    "phonetic": "ˈɡreɪt.fəl",
+    "meaning": "感謝している",
+    "example": "I am grateful for your help.",
+    "example_ja": "あなたの助けに感謝しています。"
+  },
+  {
+    "word": "embarrassed",
+    "phonetic": "ɪmˈbær.əst",
+    "meaning": "恥ずかしい・気まずい",
+    "example": "He was embarrassed when he forgot her name.",
+    "example_ja": "彼は彼女の名前を忘れて恥ずかしかった。"
+  },
+  {
+    "word": "angry",
+    "phonetic": "ˈæŋ.ɡri",
+    "meaning": "怒った",
+    "example": "She was angry when her order was wrong.",
+    "example_ja": "注文が間違っていて彼女は怒った。"
+  },
+  {
+    "word": "calm",
+    "phonetic": "kɑːm",
+    "meaning": "穏やかな・落ち着いた",
+    "example": "She remained calm during the emergency.",
+    "example_ja": "彼女は緊急事態でも落ち着いていた。"
+  },
+  {
+    "word": "worry",
+    "phonetic": "ˈwʌr.i",
+    "meaning": "心配する",
+    "example": "Don't worry, everything will be fine.",
+    "example_ja": "心配しないで、すべてうまくいくよ。"
+  },
+  {
+    "word": "laugh",
+    "phonetic": "lɑːf",
+    "meaning": "笑う",
+    "example": "They laughed at his funny joke.",
+    "example_ja": "彼のおかしなジョークに笑った。"
+  },
+  {
+    "word": "cry",
+    "phonetic": "kraɪ",
+    "meaning": "泣く",
+    "example": "She cried when she watched the sad movie.",
+    "example_ja": "悲しい映画を見て泣いた。"
+  },
+  {
+    "word": "smile",
+    "phonetic": "smaɪl",
+    "meaning": "微笑む",
+    "example": "He smiled when he saw his old friend.",
+    "example_ja": "旧友に会ったとき彼は微笑んだ。"
+  },
+  {
+    "word": "hug",
+    "phonetic": "hʌɡ",
+    "meaning": "抱きしめる",
+    "example": "She hugged her daughter tightly.",
+    "example_ja": "彼女は娘をぎゅっと抱きしめた。"
+  },
+  {
+    "word": "argue",
+    "phonetic": "ˈɑː.ɡjuː",
+    "meaning": "言い争う・議論する",
+    "example": "They argued about where to go for dinner.",
+    "example_ja": "彼らは夕食をどこに食べに行くかで言い争った。"
+  },
+  {
+    "word": "apologize",
+    "phonetic": "əˈpɒl.ə.dʒaɪz",
+    "meaning": "謝る",
+    "example": "He apologized for being late.",
+    "example_ja": "彼は遅刻を謝った。"
+  },
+  {
+    "word": "forgive",
+    "phonetic": "fəˈɡɪv",
+    "meaning": "許す",
+    "example": "She forgave him for his mistake.",
+    "example_ja": "彼女は彼のミスを許した。"
+  },
+  {
+    "word": "agree",
+    "phonetic": "əˈɡriː",
+    "meaning": "同意する",
+    "example": "I agree with your suggestion.",
+    "example_ja": "あなたの提案に同意します。"
+  },
+  {
+    "word": "disagree",
+    "phonetic": "ˌdɪs.əˈɡriː",
+    "meaning": "反対する・意見が違う",
+    "example": "She disagrees with his approach.",
+    "example_ja": "彼女は彼のアプローチに反対する。"
+  },
+  {
+    "word": "suggest",
+    "phonetic": "səˈdʒest",
+    "meaning": "提案する",
+    "example": "He suggested going to the new cafe.",
+    "example_ja": "彼は新しいカフェに行くことを提案した。"
+  },
+  {
+    "word": "decide",
+    "phonetic": "dɪˈsaɪd",
+    "meaning": "決める",
+    "example": "She finally decided to change jobs.",
+    "example_ja": "彼女はついに転職を決めた。"
+  },
+  {
+    "word": "choose",
+    "phonetic": "tʃuːz",
+    "meaning": "選ぶ",
+    "example": "He chose the blue shirt over the red one.",
+    "example_ja": "彼は赤いシャツより青いシャツを選んだ。"
+  },
+  {
+    "word": "prefer",
+    "phonetic": "prɪˈfɜːr",
+    "meaning": "好む・〜の方が好き",
+    "example": "She prefers tea over coffee.",
+    "example_ja": "彼女はコーヒーよりお茶の方が好きだ。"
+  },
+  {
+    "word": "hope",
+    "phonetic": "həʊp",
+    "meaning": "希望する・望む",
+    "example": "I hope to see you again soon.",
+    "example_ja": "またすぐ会えることを願っています。"
+  },
+  {
+    "word": "wish",
+    "phonetic": "wɪʃ",
+    "meaning": "願う",
+    "example": "She wished for good weather on her birthday.",
+    "example_ja": "彼女は誕生日に晴天を願った。"
+  },
+  {
+    "word": "promise",
+    "phonetic": "ˈprɒm.ɪs",
+    "meaning": "約束する",
+    "example": "He promised to be home for dinner.",
+    "example_ja": "彼は夕食までに帰宅すると約束した。"
+  },
+  {
+    "word": "trust",
+    "phonetic": "trʌst",
+    "meaning": "信頼する",
+    "example": "She trusts her colleagues completely.",
+    "example_ja": "彼女は同僚を完全に信頼している。"
+  },
+  {
+    "word": "respect",
+    "phonetic": "rɪˈspekt",
+    "meaning": "尊重する・敬意",
+    "example": "We should respect each other's opinions.",
+    "example_ja": "お互いの意見を尊重すべきだ。"
+  },
+  {
+    "word": "support",
+    "phonetic": "səˈpɔːt",
+    "meaning": "支援する・サポート",
+    "example": "Her family supports her career choices.",
+    "example_ja": "彼女の家族はキャリアの選択を支持している。"
+  },
+  {
+    "word": "encourage",
+    "phonetic": "ɪnˈkʌr.ɪdʒ",
+    "meaning": "励ます",
+    "example": "She encourages her students to try their best.",
+    "example_ja": "彼女は生徒たちに最善を尽くすよう励ます。"
+  },
+  {
+    "word": "advise",
+    "phonetic": "ədˈvaɪz",
+    "meaning": "アドバイスする",
+    "example": "He advised her to take a break.",
+    "example_ja": "彼は彼女に休息を取るようアドバイスした。"
+  },
+  {
+    "word": "warn",
+    "phonetic": "wɔːn",
+    "meaning": "警告する",
+    "example": "She warned him about the icy road.",
+    "example_ja": "彼女は彼に凍った道路について警告した。"
+  },
+  {
+    "word": "remind",
+    "phonetic": "rɪˈmaɪnd",
+    "meaning": "思い出させる・リマインドする",
+    "example": "Please remind me to call the dentist.",
+    "example_ja": "歯医者に電話するのを思い出させてください。"
+  },
+  {
+    "word": "forget",
+    "phonetic": "fəˈɡet",
+    "meaning": "忘れる",
+    "example": "I forgot to bring my umbrella.",
+    "example_ja": "傘を持ってくるのを忘れた。"
+  },
+  {
+    "word": "remember",
+    "phonetic": "rɪˈmem.bər",
+    "meaning": "覚えている・思い出す",
+    "example": "Do you remember where we met?",
+    "example_ja": "どこで会ったか覚えていますか？"
+  },
+  {
+    "word": "learn",
+    "phonetic": "lɜːn",
+    "meaning": "学ぶ",
+    "example": "She learns something new every day.",
+    "example_ja": "彼女は毎日何か新しいことを学ぶ。"
+  },
+  {
+    "word": "teach",
+    "phonetic": "tiːtʃ",
+    "meaning": "教える",
+    "example": "He teaches English at a high school.",
+    "example_ja": "彼は高校で英語を教えている。"
+  },
+  {
+    "word": "study",
+    "phonetic": "ˈstʌd.i",
+    "meaning": "勉強する",
+    "example": "She studied for three hours last night.",
+    "example_ja": "彼女は昨夜3時間勉強した。"
+  },
+  {
+    "word": "review",
+    "phonetic": "rɪˈvjuː",
+    "meaning": "復習する・レビュー",
+    "example": "Review your notes before the exam.",
+    "example_ja": "試験前にノートを復習して。"
+  },
+  {
+    "word": "test",
+    "phonetic": "test",
+    "meaning": "テスト・試験",
+    "example": "The test was harder than expected.",
+    "example_ja": "テストは予想より難しかった。"
+  },
+  {
+    "word": "exam",
+    "phonetic": "ɪɡˈzæm",
+    "meaning": "試験",
+    "example": "She passed the final exam with high marks.",
+    "example_ja": "彼女は期末試験を高得点で合格した。"
+  },
+  {
+    "word": "grade",
+    "phonetic": "ɡreɪd",
+    "meaning": "成績・学年",
+    "example": "He got excellent grades this semester.",
+    "example_ja": "彼は今学期優秀な成績を取った。"
+  },
+  {
+    "word": "homework",
+    "phonetic": "ˈhəʊm.wɜːk",
+    "meaning": "宿題",
+    "example": "She finished her homework before dinner.",
+    "example_ja": "彼女は夕食前に宿題を終えた。"
+  },
+  {
+    "word": "assignment",
+    "phonetic": "əˈsaɪn.mənt",
+    "meaning": "課題・任務",
+    "example": "The assignment is due tomorrow.",
+    "example_ja": "課題の締め切りは明日だ。"
+  },
+  {
+    "word": "scholarship",
+    "phonetic": "ˈskɒl.ə.ʃɪp",
+    "meaning": "奨学金",
+    "example": "She won a scholarship to study abroad.",
+    "example_ja": "彼女は留学のための奨学金を獲得した。"
+  },
+  {
+    "word": "graduate",
+    "phonetic": "ˈɡrædʒ.u.eɪt",
+    "meaning": "卒業する",
+    "example": "He graduated from university last spring.",
+    "example_ja": "彼は昨年の春に大学を卒業した。"
+  },
+  {
+    "word": "degree",
+    "phonetic": "dɪˈɡriː",
+    "meaning": "学位",
+    "example": "She holds a degree in economics.",
+    "example_ja": "彼女は経済学の学位を持っている。"
+  },
+  {
+    "word": "university",
+    "phonetic": "ˌjuː.nɪˈvɜː.sɪ.ti",
+    "meaning": "大学",
+    "example": "He applied to three universities.",
+    "example_ja": "彼は3つの大学に出願した。"
+  },
+  {
+    "word": "college",
+    "phonetic": "ˈkɒl.ɪdʒ",
+    "meaning": "大学・専門学校",
+    "example": "She is attending a community college.",
+    "example_ja": "彼女はコミュニティカレッジに通っている。"
+  },
+  {
+    "word": "campus",
+    "phonetic": "ˈkæm.pəs",
+    "meaning": "キャンパス",
+    "example": "The campus is beautiful in spring.",
+    "example_ja": "キャンパスは春に美しい。"
+  },
+  {
+    "word": "dormitory",
+    "phonetic": "ˈdɔː.mɪ.tər.i",
+    "meaning": "寮",
+    "example": "She lived in the dormitory during her first year.",
+    "example_ja": "彼女は1年目に寮に住んでいた。"
+  },
+  {
+    "word": "club",
+    "phonetic": "klʌb",
+    "meaning": "クラブ・部活",
+    "example": "He joined the photography club at school.",
+    "example_ja": "彼は学校の写真クラブに入った。"
+  },
+  {
+    "word": "activity",
+    "phonetic": "ækˈtɪv.ɪ.ti",
+    "meaning": "活動",
+    "example": "She is involved in many school activities.",
+    "example_ja": "彼女は多くの学校活動に参加している。"
+  },
+  {
+    "word": "field trip",
+    "phonetic": "ˈfiːld trɪp",
+    "meaning": "校外学習",
+    "example": "The class went on a field trip to the zoo.",
+    "example_ja": "クラスは動物園に校外学習に行った。"
+  },
+  {
+    "word": "graduation",
+    "phonetic": "ˌɡrædʒ.uˈeɪ.ʃən",
+    "meaning": "卒業式",
+    "example": "Her graduation ceremony is next Saturday.",
+    "example_ja": "彼女の卒業式は来週土曜日だ。"
+  },
+  {
+    "word": "tuition",
+    "phonetic": "tjuˈɪʃ.ən",
+    "meaning": "授業料",
+    "example": "The tuition has increased this year.",
+    "example_ja": "今年から授業料が上がった。"
+  },
+  {
+    "word": "textbook",
+    "phonetic": "ˈtekst.bʊk",
+    "meaning": "教科書",
+    "example": "She left her textbook at school.",
+    "example_ja": "彼女は教科書を学校に置き忘れた。"
+  },
+  {
+    "word": "notebook",
+    "phonetic": "ˈnəʊt.bʊk",
+    "meaning": "ノート",
+    "example": "Fill your notebook with useful vocabulary.",
+    "example_ja": "ノートを役立つ語彙で埋めなさい。"
+  },
+  {
+    "word": "pencil",
+    "phonetic": "ˈpen.səl",
+    "meaning": "鉛筆",
+    "example": "Lend me your pencil, please.",
+    "example_ja": "鉛筆を貸してください。"
+  },
+  {
+    "word": "eraser",
+    "phonetic": "ɪˈreɪ.zər",
+    "meaning": "消しゴム",
+    "example": "She used an eraser to fix her mistake.",
+    "example_ja": "彼女は消しゴムでミスを消した。"
+  },
+  {
+    "word": "ruler",
+    "phonetic": "ˈruː.lər",
+    "meaning": "定規",
+    "example": "Use a ruler to draw a straight line.",
+    "example_ja": "まっすぐな線を引くために定規を使って。"
+  },
+  {
+    "word": "scissors",
+    "phonetic": "ˈsɪz.əz",
+    "meaning": "はさみ",
+    "example": "She cut the paper with scissors.",
+    "example_ja": "彼女ははさみで紙を切った。"
+  },
+  {
+    "word": "glue",
+    "phonetic": "ɡluː",
+    "meaning": "のり・接着剤",
+    "example": "Use glue to stick the pieces together.",
+    "example_ja": "のりを使ってパーツをくっつけて。"
+  },
+  {
+    "word": "tape",
+    "phonetic": "teɪp",
+    "meaning": "テープ",
+    "example": "She used tape to wrap the gift.",
+    "example_ja": "彼女はテープでプレゼントを包んだ。"
+  },
+  {
+    "word": "calculator",
+    "phonetic": "ˈkæl.kjʊ.leɪ.tər",
+    "meaning": "電卓",
+    "example": "He used a calculator to check the figures.",
+    "example_ja": "彼は数字を確認するために電卓を使った。"
+  },
+  {
+    "word": "stapler",
+    "phonetic": "ˈsteɪ.plər",
+    "meaning": "ホッチキス",
+    "example": "She used a stapler to bind the papers.",
+    "example_ja": "彼女はホッチキスで書類をとめた。"
+  },
+  {
+    "word": "whiteboard",
+    "phonetic": "ˈwaɪt.bɔːd",
+    "meaning": "ホワイトボード",
+    "example": "The teacher wrote on the whiteboard.",
+    "example_ja": "先生はホワイトボードに書いた。"
+  },
+  {
+    "word": "research",
+    "phonetic": "rɪˈsɜːtʃ",
+    "meaning": "調査する・研究",
+    "example": "She spent months doing research.",
+    "example_ja": "彼女は何か月も調査した。"
+  },
+  {
+    "word": "experiment",
+    "phonetic": "ɪkˈsper.ɪ.mənt",
+    "meaning": "実験",
+    "example": "They conducted a science experiment.",
+    "example_ja": "彼らは理科の実験を行った。"
+  },
+  {
+    "word": "result",
+    "phonetic": "rɪˈzʌlt",
+    "meaning": "結果",
+    "example": "The results of the test came out today.",
+    "example_ja": "テストの結果が今日出た。"
+  },
+  {
+    "word": "conclusion",
+    "phonetic": "kənˈkluː.ʒən",
+    "meaning": "結論",
+    "example": "He reached an interesting conclusion.",
+    "example_ja": "彼は興味深い結論に達した。"
+  },
+  {
+    "word": "theory",
+    "phonetic": "ˈθɪə.ri",
+    "meaning": "理論",
+    "example": "She explained the theory clearly.",
+    "example_ja": "彼女は理論をわかりやすく説明した。"
+  },
+  {
+    "word": "fact",
+    "phonetic": "fækt",
+    "meaning": "事実",
+    "example": "It's a fact that water boils at 100 degrees.",
+    "example_ja": "水は100度で沸騰するというのは事実だ。"
+  },
+  {
+    "word": "opinion",
+    "phonetic": "əˈpɪn.jən",
+    "meaning": "意見",
+    "example": "Everyone has their own opinion.",
+    "example_ja": "みんな自分の意見を持っている。"
+  },
+  {
+    "word": "information",
+    "phonetic": "ˌɪn.fəˈmeɪ.ʃən",
+    "meaning": "情報",
+    "example": "She gathered information for the report.",
+    "example_ja": "彼女はレポートのために情報を集めた。"
+  },
+  {
+    "word": "experience",
+    "phonetic": "ɪkˈspɪər.i.əns",
+    "meaning": "経験",
+    "example": "She has ten years of work experience.",
+    "example_ja": "彼女には10年の職務経験がある。"
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "ˈnɒl.ɪdʒ",
+    "meaning": "知識",
+    "example": "She has a wide knowledge of history.",
+    "example_ja": "彼女は歴史について幅広い知識を持っている。"
+  },
+  {
+    "word": "skill",
+    "phonetic": "skɪl",
+    "meaning": "スキル・技能",
+    "example": "Communication skills are very important.",
+    "example_ja": "コミュニケーションスキルはとても重要だ。"
+  },
+  {
+    "word": "talent",
+    "phonetic": "ˈtæl.ənt",
+    "meaning": "才能",
+    "example": "She has a natural talent for music.",
+    "example_ja": "彼女は音楽の天性の才能がある。"
+  },
+  {
+    "word": "ability",
+    "phonetic": "əˈbɪl.ɪ.ti",
+    "meaning": "能力",
+    "example": "He has the ability to solve complex problems.",
+    "example_ja": "彼には複雑な問題を解決する能力がある。"
+  },
+  {
+    "word": "strength",
+    "phonetic": "streŋθ",
+    "meaning": "強み・強さ",
+    "example": "Knowing your strengths helps in interviews.",
+    "example_ja": "自分の強みを知ることは面接で役立つ。"
+  },
+  {
+    "word": "weakness",
+    "phonetic": "ˈwiːk.nəs",
+    "meaning": "弱点",
+    "example": "He is working to improve his weaknesses.",
+    "example_ja": "彼は弱点を改善しようとしている。"
+  },
+  {
+    "word": "challenge",
+    "phonetic": "ˈtʃæl.ɪndʒ",
+    "meaning": "挑戦・課題",
+    "example": "Every challenge is an opportunity to grow.",
+    "example_ja": "すべての挑戦は成長の機会だ。"
+  },
+  {
+    "word": "opportunity",
+    "phonetic": "ˌɒp.əˈtjuː.nɪ.ti",
+    "meaning": "機会・チャンス",
+    "example": "This is a great opportunity for you.",
+    "example_ja": "これはあなたにとって素晴らしい機会だ。"
+  },
+  {
+    "word": "choice",
+    "phonetic": "tʃɔɪs",
+    "meaning": "選択",
+    "example": "She made the right choice.",
+    "example_ja": "彼女は正しい選択をした。"
+  },
+  {
+    "word": "decision",
+    "phonetic": "dɪˈsɪʒ.ən",
+    "meaning": "決断",
+    "example": "The final decision is yours.",
+    "example_ja": "最終的な決断はあなた次第だ。"
+  },
+  {
+    "word": "change",
+    "phonetic": "tʃeɪndʒ",
+    "meaning": "変化・変える",
+    "example": "Change can be scary but necessary.",
+    "example_ja": "変化は怖いこともあるが必要だ。"
+  },
+  {
+    "word": "future",
+    "phonetic": "ˈfjuː.tʃər",
+    "meaning": "未来",
+    "example": "She is excited about her future.",
+    "example_ja": "彼女は自分の未来にわくわくしている。"
+  },
+  {
+    "word": "past",
+    "phonetic": "pɑːst",
+    "meaning": "過去",
+    "example": "Learn from the past and move forward.",
+    "example_ja": "過去から学んで前に進もう。"
+  },
+  {
+    "word": "present",
+    "phonetic": "ˈprez.ənt",
+    "meaning": "現在・プレゼント",
+    "example": "Focus on the present moment.",
+    "example_ja": "今この瞬間に集中して。"
+  },
+  {
+    "word": "memory",
+    "phonetic": "ˈmem.ər.i",
+    "meaning": "記憶・思い出",
+    "example": "That trip left her with beautiful memories.",
+    "example_ja": "その旅は彼女に美しい思い出を残した。"
+  },
+  {
+    "word": "adventure",
+    "phonetic": "ədˈven.tʃər",
+    "meaning": "冒険",
+    "example": "They went on an adventure in the mountains.",
+    "example_ja": "彼らは山で冒険に出かけた。"
+  },
+  {
+    "word": "journey",
+    "phonetic": "ˈdʒɜː.ni",
+    "meaning": "旅・旅程",
+    "example": "Life is a journey, enjoy every step.",
+    "example_ja": "人生は旅だ、一歩一歩を楽しもう。"
+  },
+  {
+    "word": "path",
+    "phonetic": "pɑːθ",
+    "meaning": "道・経路",
+    "example": "She chose the path that felt right.",
+    "example_ja": "彼女は正しいと感じる道を選んだ。"
+  }
+]

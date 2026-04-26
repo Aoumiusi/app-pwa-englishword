@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Linguist Card</title>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#2563eb" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Linguist Card" />
+  <link rel="apple-touch-icon" href="icons/icon-192.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #FFF8E8;
+      --surface: #F7EED3;
+      --card-front: #AAB396;
+      --card-back: #F7EED3;
+      --border: #AAB396;
+      --text: #674636;
+      --text-muted: #8a6550;
+      --text-light: #FFF8E8;
+      --accent: #AAB396;
+      --accent-hover: #98a085;
+      --accent-dark: #674636;
+      --danger: #d32f2f;
+      --shadow: 0 4px 15px rgba(103,70,54,0.15);
+      --shadow-card: 0 10px 30px rgba(103,70,54,0.1);
+      --radius: 15px;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans JP', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100dvh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      box-shadow: 0 4px 8px rgba(103,70,54,0.1);
+    }
+
+    .app-title {
+      font-size: 1.4em;
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: 0.02em;
+      text-shadow: 2px 2px 4px rgba(103,70,54,0.1);
+    }
+
+    .header-actions { display: flex; gap: 8px; }
+
+    /* ── Buttons ── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 16px;
+      font-family: inherit;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      white-space: nowrap;
+      text-decoration: none;
+    }
+    .btn:hover { transform: translateY(-2px); box-shadow: 0 6px 12px rgba(103,70,54,0.2); }
+    .btn:active { transform: scale(0.97); }
+    .btn-primary   { background: var(--accent); color: var(--text-light); }
+    .btn-primary:hover { background: var(--accent-hover); }
+    .btn-ghost     { background: var(--accent-dark); color: var(--text-light); }
+    .btn-ghost:hover { background: #5a3d30; }
+    .btn-danger    { background: var(--danger); color: #fff; }
+    .btn-danger:hover { background: #c62828; }
+    .btn-icon      { padding: 8px; border-radius: 50%; background: var(--accent); color: var(--text-light); border: none; cursor: pointer; font-size: 20px; line-height: 1; transition: all 0.3s ease; }
+    .btn-icon:hover { background: var(--accent-hover); transform: translateY(-2px); }
+    .btn-icon:active { transform: scale(0.94); }
+
+    /* ── Main ── */
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px;
+      gap: 20px;
+    }
+
+    /* ── Progress ── */
+    .progress-bar {
+      width: 100%;
+      max-width: 480px;
+      height: 20px;
+      background: var(--bg);
+      border-radius: 10px;
+      overflow: hidden;
+      border: 2px solid var(--border);
+    }
+    .progress-fill {
+      height: 100%;
+      background: var(--accent);
+      border-radius: 10px;
+      transition: width 0.3s ease;
+    }
+    .progress-label {
+      width: 100%;
+      max-width: 480px;
+      font-size: 13px;
+      color: var(--text-muted);
+      text-align: center;
+    }
+
+    /* ── Card Scene ── */
+    .card-scene {
+      width: 100%;
+      max-width: 480px;
+      height: 280px;
+      perspective: 1000px;
+      cursor: pointer;
+    }
+
+    .card-inner {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.6s;
+    }
+
+    .card-inner.flipped { transform: rotateY(180deg); }
+
+    .card-face {
+      position: absolute;
+      inset: 0;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 28px 24px;
+      gap: 10px;
+      user-select: none;
+    }
+
+    .card-face.front {
+      background: var(--card-front);
+      color: var(--text-light);
+    }
+
+    .card-face.back {
+      background: var(--card-back);
+      color: var(--text);
+      transform: rotateY(180deg);
+      border: 1px solid var(--border);
+    }
+
+    /* Front face */
+    .card-word {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: clamp(28px, 8vw, 42px);
+      font-weight: 700;
+      color: var(--text-light);
+      text-align: center;
+      line-height: 1.2;
+    }
+
+    .card-phonetic {
+      font-size: 18px;
+      font-weight: 400;
+      color: rgba(255,248,232,0.85);
+      text-align: center;
+      letter-spacing: 0.03em;
+    }
+
+    .card-hint {
+      margin-top: 12px;
+      font-size: 12px;
+      color: rgba(255,248,232,0.7);
+    }
+
+    /* Back face */
+    .card-meaning {
+      font-size: clamp(16px, 4.5vw, 22px);
+      font-weight: 700;
+      color: var(--text);
+      text-align: center;
+    }
+
+    .card-example {
+      font-size: 14px;
+      color: var(--text-muted);
+      text-align: center;
+      line-height: 1.6;
+      font-style: italic;
+    }
+
+    .card-front-actions {
+      display: flex;
+      gap: 10px;
+      margin-top: 6px;
+    }
+
+    .card-example-ja {
+      font-size: 13px;
+      color: var(--text-muted);
+      text-align: center;
+      line-height: 1.5;
+    }
+
+    /* ── Navigation ── */
+    .nav-row {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      width: 100%;
+      max-width: 480px;
+      justify-content: center;
+    }
+
+    .nav-btn {
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      border: 2px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      font-size: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 6px rgba(103,70,54,0.1);
+    }
+    .nav-btn:hover { background: var(--accent); color: var(--text-light); transform: translateY(-2px); box-shadow: 0 6px 12px rgba(103,70,54,0.2); }
+    .nav-btn:active { transform: scale(0.93); }
+    .nav-btn:disabled { opacity: 0.35; cursor: not-allowed; transform: none; }
+
+    /* ── Empty state ── */
+    .empty-state {
+      width: 100%;
+      max-width: 480px;
+      background: var(--surface);
+      border: 2px dashed var(--border);
+      border-radius: var(--radius);
+      padding: 48px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      text-align: center;
+      box-shadow: var(--shadow-card);
+    }
+    .empty-state-icon { font-size: 48px; }
+    .empty-state h2 { font-size: 18px; font-weight: 700; color: var(--text); }
+    .empty-state p  { font-size: 14px; color: var(--text-muted); line-height: 1.6; }
+
+    /* ── Modal ── */
+    .modal-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(103,70,54,0.45);
+      display: flex;
+      align-items: flex-end;
+      justify-content: center;
+      z-index: 100;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.2s;
+    }
+    .modal-overlay.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .modal {
+      background: var(--surface);
+      border-radius: var(--radius) var(--radius) 0 0;
+      width: 100%;
+      max-width: 560px;
+      padding: 24px 20px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      transform: translateY(100%);
+      transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+      box-shadow: 0 -4px 20px rgba(103,70,54,0.15);
+    }
+    .modal-overlay.open .modal { transform: translateY(0); }
+    .modal h2 { font-size: 17px; font-weight: 700; color: var(--text); }
+    .modal-row { display: flex; gap: 10px; flex-wrap: wrap; }
+    .modal-sep { height: 1px; background: var(--border); }
+
+    /* Toast */
+    #toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(20px);
+      background: var(--text);
+      color: var(--text-light);
+      padding: 10px 20px;
+      border-radius: 100px;
+      font-size: 14px;
+      opacity: 0;
+      transition: opacity 0.2s, transform 0.2s;
+      z-index: 200;
+      pointer-events: none;
+      white-space: nowrap;
+      box-shadow: 0 4px 12px rgba(103,70,54,0.3);
+    }
+    #toast.show {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+
+    /* hidden file input */
+    #file-input { display: none; }
+
+    @media (min-width: 480px) {
+      .card-scene { height: 300px; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <span class="app-title">📚 Linguist Card</span>
+  <div class="header-actions">
+    <button class="btn btn-ghost" id="menu-btn" aria-label="メニュー">
+      ⚙️ メニュー
+    </button>
+  </div>
+</header>
+
+<main id="main-content">
+  <!-- Populated by JS -->
+</main>
+
+<!-- Menu Modal -->
+<div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal">
+    <h2 id="modal-title">管理メニュー</h2>
+    <div class="modal-row">
+      <button class="btn btn-primary" id="import-json-btn">📂 JSONを読み込む</button>
+      <button class="btn btn-primary" id="import-csv-btn">📂 CSVを読み込む</button>
+    </div>
+    <p style="font-size:13px;color:var(--text-muted);line-height:1.6;background:var(--bg);padding:10px;border-radius:8px;border:1px solid var(--border)">
+      JSON形式: <code>[{"word":"...","phonetic":"...","meaning":"...","example":"...","example_ja":"..."}]</code><br>
+      CSV形式: <code>word,phonetic,meaning,example,example_ja</code>（1行目はヘッダー）
+    </p>
+    <div class="modal-sep"></div>
+    <button class="btn btn-danger" id="clear-btn">🗑️ データをすべて削除</button>
+    <button class="btn btn-ghost" id="modal-close-btn">閉じる</button>
+  </div>
+</div>
+
+<input type="file" id="file-input" accept=".json,.csv" />
+<div id="toast"></div>
+
+<script>
+// ───────────────────────────────
+// Storage
+// ───────────────────────────────
+const DB_NAME = 'linguist-card';
+const STORE   = 'words';
+let db;
+
+function openDB() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open(DB_NAME, 1);
+    req.onupgradeneeded = e => {
+      e.target.result.createObjectStore(STORE, { keyPath: 'id', autoIncrement: true });
+    };
+    req.onsuccess = e => resolve(e.target.result);
+    req.onerror   = e => reject(e.target.error);
+  });
+}
+
+async function saveWords(words) {
+  const tx = db.transaction(STORE, 'readwrite');
+  const store = tx.objectStore(STORE);
+  store.clear();
+  words.forEach(w => store.add(w));
+  return new Promise((res, rej) => { tx.oncomplete = res; tx.onerror = rej; });
+}
+
+async function loadWords() {
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(STORE, 'readonly');
+    const req = tx.objectStore(STORE).getAll();
+    req.onsuccess = e => resolve(e.target.result);
+    req.onerror   = e => reject(e.target.error);
+  });
+}
+
+async function clearWords() {
+  const tx = db.transaction(STORE, 'readwrite');
+  tx.objectStore(STORE).clear();
+  return new Promise((res, rej) => { tx.oncomplete = res; tx.onerror = rej; });
+}
+
+// ───────────────────────────────
+// Parse helpers
+// ───────────────────────────────
+function parseJSON(text) {
+  const data = JSON.parse(text);
+  const arr = Array.isArray(data) ? data : [data];
+  return arr.map(normalizeEntry);
+}
+
+function parseCSV(text) {
+  const lines = text.trim().split(/\r?\n/);
+  const headers = lines[0].split(',').map(h => h.trim().replace(/^"|"$/g, ''));
+  return lines.slice(1).map(line => {
+    const cols = splitCSVLine(line);
+    const obj = {};
+    headers.forEach((h, i) => { obj[h] = (cols[i] || '').trim(); });
+    return normalizeEntry(obj);
+  });
+}
+
+function splitCSVLine(line) {
+  const result = [];
+  let cur = '', inQ = false;
+  for (const ch of line) {
+    if (ch === '"') { inQ = !inQ; continue; }
+    if (ch === ',' && !inQ) { result.push(cur); cur = ''; continue; }
+    cur += ch;
+  }
+  result.push(cur);
+  return result;
+}
+
+function normalizeEntry(obj) {
+  return {
+    word:       (obj.word       || obj.英単語  || '').trim(),
+    phonetic:   (obj.phonetic   || obj.発音記号 || '').trim(),
+    meaning:    (obj.meaning    || obj.意味    || '').trim(),
+    example:    (obj.example    || obj.例文    || '').trim(),
+    example_ja: (obj.example_ja || obj.例文和訳 || '').trim(),
+  };
+}
+
+// ───────────────────────────────
+// Speech
+// ───────────────────────────────
+function speak(text) {
+  if (!window.speechSynthesis || !text) return;
+  window.speechSynthesis.cancel();
+  const utt = new SpeechSynthesisUtterance(text);
+  utt.lang  = 'en-US';
+  utt.rate  = 0.9;
+  window.speechSynthesis.speak(utt);
+}
+
+// ───────────────────────────────
+// Toast
+// ───────────────────────────────
+let toastTimer;
+function showToast(msg) {
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove('show'), 2600);
+}
+
+// ───────────────────────────────
+// App state
+// ───────────────────────────────
+let words   = [];
+let current = 0;
+let flipped = false;
+
+// ───────────────────────────────
+// Render
+// ───────────────────────────────
+function render() {
+  const main = document.getElementById('main-content');
+
+  if (words.length === 0) {
+    main.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">📚</div>
+        <h2>単語データがありません</h2>
+        <p>右上のメニューからJSONまたはCSVファイルを<br>読み込んでください。</p>
+        <button class="btn btn-primary" id="empty-import-btn">📂 ファイルを読み込む</button>
+      </div>`;
+    document.getElementById('empty-import-btn')
+      .addEventListener('click', () => triggerImport('both'));
+    return;
+  }
+
+  const w = words[current];
+  const pct = ((current + 1) / words.length) * 100;
+
+  main.innerHTML = `
+    <div class="progress-bar"><div class="progress-fill" style="width:${pct}%"></div></div>
+    <div class="progress-label">${current + 1} / ${words.length}</div>
+
+    <div class="card-scene" id="card-scene" role="button" aria-label="カードをタップして裏返す" tabindex="0">
+      <div class="card-inner" id="card-inner">
+        <!-- Front -->
+        <div class="card-face front">
+          <div class="card-word">${escHtml(w.word)}</div>
+          ${w.phonetic ? `<div class="card-phonetic">/${escHtml(w.phonetic)}/</div>` : ''}
+          <div class="card-front-actions">
+            <button class="btn-icon" id="speak-btn" title="発音を聞く" aria-label="発音を聞く">🔊</button>
+          </div>
+          <div class="card-hint">タップして意味を確認 →</div>
+        </div>
+        <!-- Back -->
+        <div class="card-face back">
+          <div class="card-meaning">${escHtml(w.meaning)}</div>
+          ${w.example ? `<div class="card-example">"${escHtml(w.example)}"</div>` : ''}
+          ${w.example_ja ? `<div class="card-example-ja">「${escHtml(w.example_ja)}」</div>` : ''}
+        </div>
+      </div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" id="prev-btn" ${current === 0 ? 'disabled' : ''} aria-label="前の単語">‹</button>
+      <button class="nav-btn" id="shuffle-btn" title="シャッフル" aria-label="シャッフル">🔀</button>
+      <button class="nav-btn" id="next-btn" ${current === words.length - 1 ? 'disabled' : ''} aria-label="次の単語">›</button>
+    </div>`;
+
+  // re-apply flip state
+  if (flipped) document.getElementById('card-inner').classList.add('flipped');
+
+  // card flip
+  document.getElementById('card-scene').addEventListener('click', toggleFlip);
+  document.getElementById('card-scene').addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); toggleFlip(); }
+  });
+
+  // speak (stop propagation so flip doesn't fire)
+  document.getElementById('speak-btn').addEventListener('click', e => {
+    e.stopPropagation();
+    speak(w.word);
+  });
+
+  document.getElementById('prev-btn').addEventListener('click', goBack);
+  document.getElementById('next-btn').addEventListener('click', goNext);
+  document.getElementById('shuffle-btn').addEventListener('click', shuffle);
+}
+
+function escHtml(str) {
+  return (str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function toggleFlip() {
+  flipped = !flipped;
+  const inner = document.getElementById('card-inner');
+  if (inner) inner.classList.toggle('flipped', flipped);
+}
+
+function goNext() {
+  if (current < words.length - 1) { current++; flipped = false; render(); }
+}
+
+function goBack() {
+  if (current > 0) { current--; flipped = false; render(); }
+}
+
+function shuffle() {
+  for (let i = words.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [words[i], words[j]] = [words[j], words[i]];
+  }
+  current = 0; flipped = false; render();
+  showToast('シャッフルしました');
+}
+
+// keyboard nav
+document.addEventListener('keydown', e => {
+  if (document.getElementById('modal-overlay').classList.contains('open')) return;
+  if (e.key === 'ArrowRight') goNext();
+  if (e.key === 'ArrowLeft')  goBack();
+  if (e.key === 'ArrowUp' || e.key === 'ArrowDown') { e.preventDefault(); toggleFlip(); }
+});
+
+// ───────────────────────────────
+// Import
+// ───────────────────────────────
+let importMode = 'both';
+
+function triggerImport(mode) {
+  importMode = mode;
+  const fi = document.getElementById('file-input');
+  fi.accept = mode === 'json' ? '.json' : mode === 'csv' ? '.csv' : '.json,.csv';
+  fi.click();
+}
+
+document.getElementById('file-input').addEventListener('change', async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  e.target.value = '';
+  try {
+    const text = await file.text();
+    let parsed;
+    if (file.name.endsWith('.json')) {
+      parsed = parseJSON(text);
+    } else {
+      parsed = parseCSV(text);
+    }
+    if (!parsed.length) throw new Error('データが空です');
+    await saveWords(parsed);
+    words = parsed;
+    current = 0; flipped = false;
+    closeModal();
+    render();
+    showToast(`${parsed.length}件の単語を読み込みました`);
+  } catch (err) {
+    showToast('読み込みエラー: ' + err.message);
+  }
+});
+
+document.getElementById('import-json-btn').addEventListener('click', () => triggerImport('json'));
+document.getElementById('import-csv-btn').addEventListener('click',  () => triggerImport('csv'));
+
+// ───────────────────────────────
+// Modal
+// ───────────────────────────────
+function openModal()  { document.getElementById('modal-overlay').classList.add('open'); }
+function closeModal() { document.getElementById('modal-overlay').classList.remove('open'); }
+
+document.getElementById('menu-btn').addEventListener('click', openModal);
+document.getElementById('modal-close-btn').addEventListener('click', closeModal);
+document.getElementById('modal-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('modal-overlay')) closeModal();
+});
+
+document.getElementById('clear-btn').addEventListener('click', async () => {
+  if (!confirm('すべての単語データを削除しますか？')) return;
+  await clearWords();
+  words = []; current = 0; flipped = false;
+  closeModal();
+  render();
+  showToast('データを削除しました');
+});
+
+// ───────────────────────────────
+// Service Worker
+// ───────────────────────────────
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('service-worker.js')
+    .catch(err => console.warn('SW registration failed:', err));
+}
+
+// ───────────────────────────────
+// Init
+// ───────────────────────────────
+(async () => {
+  db = await openDB();
+  words = await loadWords();
+  render();
+})();
+</script>
+</body>
+</html>
