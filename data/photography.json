@@ -1,0 +1,212 @@
+[
+  {
+    "word": "Aperture",
+    "phonetic": "/ˈæpərtʃər/",
+    "meaning": "絞り、アパーチャ",
+    "example": "A wide aperture creates a shallow depth of field.",
+    "example_ja": "大きな絞り（小さなF値）は、浅い被写界深度を作り出します。"
+  },
+  {
+    "word": "Shutter speed",
+    "phonetic": "/ˈʃʌtər spiːd/",
+    "meaning": "シャッタースピード",
+    "example": "Use a fast shutter speed to freeze motion.",
+    "example_ja": "動きを止めるには、速いシャッタースピードを使用してください。"
+  },
+  {
+    "word": "Exposure",
+    "phonetic": "/ɪkˈspoʊʒər/",
+    "meaning": "露出",
+    "example": "The exposure needs to be adjusted for the bright sunlight.",
+    "example_ja": "明るい日光に合わせて露出を調整する必要があります。"
+  },
+  {
+    "word": "Composition",
+    "phonetic": "/ˌkɑːmpəˈzɪʃn/",
+    "meaning": "構図",
+    "example": "Good composition is essential for a compelling photograph.",
+    "example_ja": "魅力的な写真には良い構図が不可欠です。"
+  },
+  {
+    "word": "Focal length",
+    "phonetic": "/ˈfoʊkl leŋθ/",
+    "meaning": "焦点距離",
+    "example": "A longer focal length is better for portrait photography.",
+    "example_ja": "長い焦点距離はポートレート撮影に適しています。"
+  },
+  {
+    "word": "Viewfinder",
+    "phonetic": "/ˈvjuːfaɪndər/",
+    "meaning": "ファインダー",
+    "example": "Look through the viewfinder to frame your shot.",
+    "example_ja": "ファインダーをのぞいてショットの構図を決めてください。"
+  },
+  {
+    "word": "Tripod",
+    "phonetic": "/ˈtraɪpɑːd/",
+    "meaning": "三脚",
+    "example": "A tripod is necessary for long exposure photography.",
+    "example_ja": "長時間露光撮影には三脚が必要です。"
+  },
+  {
+    "word": "Flash",
+    "phonetic": "/flæʃ/",
+    "meaning": "フラッシュ、閃光",
+    "example": "The flash was too bright and washed out the colors.",
+    "example_ja": "フラッシュが明るすぎて色が白っぽくなってしまいました。"
+  },
+  {
+    "word": "Depth of field",
+    "phonetic": "/depθ əv fiːld/",
+    "meaning": "被写界深度",
+    "example": "You can control the depth of field by changing the aperture.",
+    "example_ja": "絞りを変えることで被写界深度をコントロールできます。"
+  },
+  {
+    "word": "ISO",
+    "phonetic": "/ˌaɪ es ˈoʊ/",
+    "meaning": "ISO感度",
+    "example": "Increasing the ISO allows you to shoot in low light.",
+    "example_ja": "ISO感度を上げると、暗い場所でも撮影できるようになります。"
+  },
+  {
+    "word": "Saturation",
+    "phonetic": "/ˌsætʃəˈreɪʃn/",
+    "meaning": "彩度",
+    "example": "I increased the saturation to make the colors pop.",
+    "example_ja": "色を鮮やかにするために彩度を上げました。"
+  },
+  {
+    "word": "Contrast",
+    "phonetic": "/ˈkɑːntræst/",
+    "meaning": "コントラスト、対比",
+    "example": "The high contrast between light and shadow looks dramatic.",
+    "example_ja": "光と影の強いコントラストがドラマチックに見えます。"
+  },
+  {
+    "word": "Histogram",
+    "phonetic": "/ˈhɪstəɡræm/",
+    "meaning": "ヒストグラム",
+    "example": "Check the histogram to ensure the highlights aren't blown out.",
+    "example_ja": "ハイライトが白飛びしていないか、ヒストグラムを確認してください。"
+  },
+  {
+    "word": "Vignetting",
+    "phonetic": "/vɪˈnjetɪŋ/",
+    "meaning": "周辺光量落ち、ビネッティング",
+    "example": "Some lenses have noticeable vignetting at wide apertures.",
+    "example_ja": "レンズによっては、開放絞りで目立つ周辺光量落ちが生じます。"
+  },
+  {
+    "word": "Post-processing",
+    "phonetic": "/poʊst ˈprɑːsesɪŋ/",
+    "meaning": "後処理、現像・編集",
+    "example": "Most professional photos undergo some post-processing.",
+    "example_ja": "ほとんどのプロの写真は、何らかの後処理（編集）が行われています。"
+  },
+  {
+    "word": "Landscape",
+    "phonetic": "/ˈlændskeɪp/",
+    "meaning": "風景、風景写真",
+    "example": "He specializes in landscape photography.",
+    "example_ja": "彼は風景写真を専門としています。"
+  },
+  {
+    "word": "Portrait",
+    "phonetic": "/ˈpɔːrtrət/",
+    "meaning": "肖像、ポートレート",
+    "example": "She took a beautiful portrait of her grandmother.",
+    "example_ja": "彼女は祖母の美しいポートレートを撮りました。"
+  },
+  {
+    "word": "Macro",
+    "phonetic": "/ˈmækroʊ/",
+    "meaning": "マクロ、接写",
+    "example": "Macro photography allows you to see tiny details.",
+    "example_ja": "マクロ撮影では、非常に細かなディテールを見ることができます。"
+  },
+  {
+    "word": "Golden hour",
+    "phonetic": "/ˈɡoʊldən ˈaʊər/",
+    "meaning": "ゴールデンアワー（日の出・日の入り前後の時間帯）",
+    "example": "The light during the golden hour is soft and warm.",
+    "example_ja": "ゴールデンアワーの光は柔らかく、温かみがあります。"
+  },
+  {
+    "word": "Bokeh",
+    "phonetic": "/ˈboʊkə/",
+    "meaning": "ボケ",
+    "example": "The lens produces a beautiful, creamy bokeh.",
+    "example_ja": "そのレンズは美しく、クリーミーなボケ味を出します。"
+  },
+  {
+    "word": "Underexposed",
+    "phonetic": "/ˌʌndərɪkˈspoʊzd/",
+    "meaning": "露出不足の",
+    "example": "The image is underexposed and looks too dark.",
+    "example_ja": "画像が露出不足で、暗すぎます。"
+  },
+  {
+    "word": "Overexposed",
+    "phonetic": "/ˌoʊvərɪkˈspoʊzd/",
+    "meaning": "露出過度の",
+    "example": "The sky is overexposed and has no detail.",
+    "example_ja": "空が露出過度で、ディテールがありません。"
+  },
+  {
+    "word": "White balance",
+    "phonetic": "/waɪt ˈbæləns/",
+    "meaning": "ホワイトバランス",
+    "example": "Adjust the white balance to correct the color cast.",
+    "example_ja": "色かぶりを補正するためにホワイトバランスを調整してください。"
+  },
+  {
+    "word": "Resolution",
+    "phonetic": "/ˌrezəˈluːʃn/",
+    "meaning": "解像度",
+    "example": "The camera has a high resolution for detailed prints.",
+    "example_ja": "そのカメラは詳細なプリントが可能な高い解像度を持っています。"
+  },
+  {
+    "word": "Distortion",
+    "phonetic": "/dɪˈstɔːrʃn/",
+    "meaning": "歪み、ディストーション",
+    "example": "Wide-angle lenses often cause barrel distortion.",
+    "example_ja": "広角レンズはしばしば樽型の歪みを引き起こします。"
+  },
+  {
+    "word": "Grain",
+    "phonetic": "/ɡreɪn/",
+    "meaning": "粒子、ノイズ",
+    "example": "High ISO settings can result in visible grain in the photo.",
+    "example_ja": "高ISO設定では、写真に目立つ粒子（ノイズ）が生じることがあります。"
+  },
+  {
+    "word": "Filter",
+    "phonetic": "/ˈfɪltər/",
+    "meaning": "フィルター",
+    "example": "A polarizing filter can reduce reflections in the water.",
+    "example_ja": "偏光フィルターを使用すると、水面の反射を抑えることができます。"
+  },
+  {
+    "word": "Shutter release",
+    "phonetic": "/ˈʌtər rɪˈliːs/",
+    "meaning": "シャッターボタン",
+    "example": "Gently press the shutter release to take the picture.",
+    "example_ja": "写真を撮るには、シャッターボタンを軽く押してください。"
+  },
+  {
+    "word": "Telephoto",
+    "phonetic": "/ˌteləˈfoʊtoʊ/",
+    "meaning": "望遠の、テレフォト",
+    "example": "I used a telephoto lens to capture the distant wildlife.",
+    "example_ja": "遠くの野生動物を撮るために望遠レンズを使用しました。"
+  },
+  {
+    "word": "Candid",
+    "phonetic": "/ˈkændɪd/",
+    "meaning": "ありのままの、スナップ写真",
+    "example": "She loves taking candid photos of people in the street.",
+    "example_ja": "彼女は街の人々のありのままの姿（キャンディッドフォト）を撮るのが大好きです。"
+  }
+]

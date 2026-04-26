@@ -1,0 +1,212 @@
+[
+  {
+    "word": "Algorithm",
+    "phonetic": "/ˈælɡərɪðəm/",
+    "meaning": "アルゴリズム、計算手順",
+    "example": "The search engine uses a complex algorithm to rank pages.",
+    "example_ja": "その検索エンジンは、ページをランク付けするために複雑なアルゴリズムを使用しています。"
+  },
+  {
+    "word": "Encryption",
+    "phonetic": "/ɪnˈkrɪpʃn/",
+    "meaning": "暗号化",
+    "example": "Data encryption is essential for secure online transactions.",
+    "example_ja": "安全なオンライン取引にはデータの暗号化が不可欠です。"
+  },
+  {
+    "word": "Framework",
+    "phonetic": "/ˈfreɪmwɜːrk/",
+    "meaning": "フレームワーク、枠組み",
+    "example": "We are using a new JavaScript framework for this project.",
+    "example_ja": "このプロジェクトでは新しいJavaScriptフレームワークを使用しています。"
+  },
+  {
+    "word": "Database",
+    "phonetic": "/ˈdeɪtəbeɪs/",
+    "meaning": "データベース",
+    "example": "The customer information is stored in a secure database.",
+    "example_ja": "顧客情報は安全なデータベースに保存されています。"
+  },
+  {
+    "word": "Deployment",
+    "phonetic": "/dɪˈplɔɪmənt/",
+    "meaning": "配備、デプロイメント",
+    "example": "The deployment of the new software version went smoothly.",
+    "example_ja": "新しいソフトウェアバージョンのデプロイはスムーズに進みました。"
+  },
+  {
+    "word": "Interface",
+    "phonetic": "/ˈɪntərfeɪs/",
+    "meaning": "インターフェース、接点",
+    "example": "The user interface is intuitive and easy to navigate.",
+    "example_ja": "ユーザーインターフェースは直感的で操作が簡単です。"
+  },
+  {
+    "word": "Protocol",
+    "phonetic": "/ˈproʊtəkɑːl/",
+    "meaning": "プロトコル、通信規約",
+    "example": "HTTP is the standard protocol for web communication.",
+    "example_ja": "HTTPはウェブ通信の標準プロトコルです。"
+  },
+  {
+    "word": "Serverless",
+    "phonetic": "/ˈsɜːrvərləs/",
+    "meaning": "サーバーレス",
+    "example": "Serverless computing allows developers to focus on code.",
+    "example_ja": "サーバーレスコンピューティングにより、開発者はコードに集中できます。"
+  },
+  {
+    "word": "Authentication",
+    "phonetic": "/ɔːˌθentɪˈkeɪʃn/",
+    "meaning": "認証",
+    "example": "Multi-factor authentication adds an extra layer of security.",
+    "example_ja": "多要素認証により、セキュリティの層がさらに追加されます。"
+  },
+  {
+    "word": "Repository",
+    "phonetic": "/rɪˈpɑːzətɔːri/",
+    "meaning": "リポジトリ、貯蔵庫",
+    "example": "Please push your changes to the remote repository.",
+    "example_ja": "変更をリモートリポジトリにプッシュしてください。"
+  },
+  {
+    "word": "Architecture",
+    "phonetic": "/ˈɑːrkɪtektʃər/",
+    "meaning": "アーキテクチャ、構成",
+    "example": "The system architecture is based on microservices.",
+    "example_ja": "システムアーキテクチャはマイクロサービスに基づいています。"
+  },
+  {
+    "word": "Optimization",
+    "phonetic": "/ˌɑːptɪməˈzeɪʃn/",
+    "meaning": "最適化",
+    "example": "Code optimization can significantly improve performance.",
+    "example_ja": "コードの最適化により、パフォーマンスを大幅に向上させることができます。"
+  },
+  {
+    "word": "Vulnerability",
+    "phonetic": "/ˌvʌlnərəˈbɪləti/",
+    "meaning": "脆弱性",
+    "example": "The security patch fixes a critical vulnerability.",
+    "example_ja": "そのセキュリティパッチは重大な脆弱性を修正します。"
+  },
+  {
+    "word": "API",
+    "phonetic": "/ˌeɪ piː ˈaɪ/",
+    "meaning": "API (アプリケーション・プログラミング・インターフェース)",
+    "example": "We use a third-party API to process payments.",
+    "example_ja": "支払処理にはサードパーティのAPIを使用しています。"
+  },
+  {
+    "word": "Compatibility",
+    "phonetic": "/kəmˌpætəˈbɪləti/",
+    "meaning": "互換性",
+    "example": "We need to ensure backward compatibility with older versions.",
+    "example_ja": "旧バージョンとの後方互換性を確保する必要があります。"
+  },
+  {
+    "word": "Configuration",
+    "phonetic": "/kənˌfɪɡjəˈreɪʃn/",
+    "meaning": "設定、構成",
+    "example": "Check the configuration file for any errors.",
+    "example_ja": "設定ファイルにエラーがないか確認してください。"
+  },
+  {
+    "word": "Redundancy",
+    "phonetic": "/rɪˈdʌndənsi/",
+    "meaning": "冗長性",
+    "example": "System redundancy ensures high availability.",
+    "example_ja": "システムの冗長性により、高い可用性が確保されます。"
+  },
+  {
+    "word": "Scalability",
+    "phonetic": "/ˌskeɪləˈbɪləti/",
+    "meaning": "拡張性、スケーラビリティ",
+    "example": "Cloud computing offers excellent scalability for growing businesses.",
+    "example_ja": "クラウドコンピューティングは、成長するビジネスに優れた拡張性を提供します。"
+  },
+  {
+    "word": "Latency",
+    "phonetic": "/ˈleɪtənsi/",
+    "meaning": "遅延、レイテンシ",
+    "example": "Low latency is crucial for real-time applications.",
+    "example_ja": "リアルタイムアプリケーションにとって低レイテンシは非常に重要です。"
+  },
+  {
+    "word": "Middleware",
+    "phonetic": "/ˈmɪdlwer/",
+    "meaning": "ミドルウェア",
+    "example": "Middleware helps different software applications communicate.",
+    "example_ja": "ミドルウェアは異なるソフトウェアアプリケーション間の通信を助けます。"
+  },
+  {
+    "word": "Agile",
+    "phonetic": "/ˈædʒl/",
+    "meaning": "アジャイル、機敏な",
+    "example": "Our team follows the Agile methodology for development.",
+    "example_ja": "私たちのチームは開発にアジャイル手法を採用しています。"
+  },
+  {
+    "word": "Debugging",
+    "phonetic": "/ˌdiːˈbʌɡɪŋ/",
+    "meaning": "デバッグ",
+    "example": "He spent all afternoon debugging the new feature.",
+    "example_ja": "彼は午後の間ずっと新機能のデバッグに費やしました。"
+  },
+  {
+    "word": "Back-end",
+    "phonetic": "/ˈbæk end/",
+    "meaning": "バックエンド",
+    "example": "The back-end of the application handles data processing.",
+    "example_ja": "アプリケーションのバックエンドがデータ処理を担当します。"
+  },
+  {
+    "word": "Front-end",
+    "phonetic": "/ˈfrʌnt end/",
+    "meaning": "フロントエンド",
+    "example": "The front-end developer is working on the user interface.",
+    "example_ja": "フロントエンド開発者がユーザーインターフェースの作業をしています。"
+  },
+  {
+    "word": "Virtualization",
+    "phonetic": "/ˌvɜːrtʃuələˈzeɪʃn/",
+    "meaning": "仮想化",
+    "example": "Virtualization allows multiple OS to run on a single machine.",
+    "example_ja": "仮想化により、1台のマシンで複数のOSを実行できます。"
+  },
+  {
+    "word": "Endpoint",
+    "phonetic": "/ˈendpɔɪnt/",
+    "meaning": "エンドポイント",
+    "example": "The API endpoint returns data in JSON format.",
+    "example_ja": "そのAPIエンドポイントはJSON形式でデータを返します。"
+  },
+  {
+    "word": "Integration",
+    "phonetic": "/ˌɪntɪˈɡreɪʃn/",
+    "meaning": "統合、インテグレーション",
+    "example": "Continuous integration helps catch bugs early in development.",
+    "example_ja": "継続的インテグレーションは、開発の初期段階でバグを見つけるのに役立ちます。"
+  },
+  {
+    "word": "Migration",
+    "phonetic": "/maɪˈɡreɪʃn/",
+    "meaning": "移行、マイグレーション",
+    "example": "We are planning a database migration next weekend.",
+    "example_ja": "来週末にデータベースの移行を計画しています。"
+  },
+  {
+    "word": "Sandbox",
+    "phonetic": "/ˈsændbɑːks/",
+    "meaning": "サンドボックス（テスト環境）",
+    "example": "Test the new code in the sandbox before deploying to production.",
+    "example_ja": "本番環境にデプロイする前に、サンドボックスで新しいコードをテストしてください。"
+  },
+  {
+    "word": "Analytics",
+    "phonetic": "/ˌænəˈlɪtɪks/",
+    "meaning": "分析、アナリティクス",
+    "example": "Data analytics provide insights into user behavior.",
+    "example_ja": "データ分析により、ユーザー行動に関する洞察が得られます。"
+  }
+]

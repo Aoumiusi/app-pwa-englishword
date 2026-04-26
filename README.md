@@ -41,6 +41,18 @@ resilient,rɪˈzɪl.i.ənt,回復力のある,She is remarkably resilient in the
 
 カラム順序はヘッダー名で判断されるため、順不同でも動作します。`phonetic` / `example` / `example_ja` は省略可能です。
 
+## サンプルデータ
+
+`data/` フォルダにカテゴリ別の単語データが含まれています。
+
+| ファイル | カテゴリ |
+|---|---|
+| [daily_life.json](data/daily_life.json) | 日常生活 |
+| [business.json](data/business.json) | ビジネス |
+| [it.json](data/it.json) | IT |
+| [photography.json](data/photography.json) | 写真 |
+| [travel.json](data/travel.json) | 旅行 |
+
 ## 機能
 
 - カードをタップ/クリックで表裏を反転

@@ -1,0 +1,1752 @@
+[
+  {
+    "word": "Itinerary",
+    "phonetic": "/aɪˈtɪnəreri/",
+    "meaning": "旅行計画、日程表",
+    "example": "We need to finalize our travel itinerary by tomorrow.",
+    "example_ja": "明日までに旅行日程を確定させる必要があります。"
+  },
+  {
+    "word": "Accommodation",
+    "phonetic": "/əˌkɑːməˈdeɪʃn/",
+    "meaning": "宿泊施設",
+    "example": "We have booked our accommodation for the entire trip.",
+    "example_ja": "旅行全行程の宿泊施設を予約しました。"
+  },
+  {
+    "word": "Boarding pass",
+    "phonetic": "/ˈbɔːrdɪŋ pæs/",
+    "meaning": "搭乗券",
+    "example": "Please have your boarding pass ready for inspection.",
+    "example_ja": "検査のために搭乗券をご用意ください。"
+  },
+  {
+    "word": "Layover",
+    "phonetic": "/ˈleɪoʊvər/",
+    "meaning": "途中下車、乗り継ぎ待ち",
+    "example": "We have a six-hour layover in Dubai.",
+    "example_ja": "ドバイで6時間の乗り継ぎ待ちがあります。"
+  },
+  {
+    "word": "Destination",
+    "phonetic": "/ˌdestɪˈneɪʃn/",
+    "meaning": "目的地",
+    "example": "Hawaii is a popular holiday destination.",
+    "example_ja": "ハワイは人気の休暇先です。"
+  },
+  {
+    "word": "Customs",
+    "phonetic": "/ˈkʌstəmz/",
+    "meaning": "税関",
+    "example": "We had to go through customs at the airport.",
+    "example_ja": "空港で税関を通過しなければなりませんでした。"
+  },
+  {
+    "word": "Sightseeing",
+    "phonetic": "/ˈsaɪtsiːɪŋ/",
+    "meaning": "観光",
+    "example": "We did a lot of sightseeing in Paris.",
+    "example_ja": "パリでたくさん観光をしました。"
+  },
+  {
+    "word": "Embark",
+    "phonetic": "/ɪmˈbɑːrk/",
+    "meaning": "搭乗する、着手する",
+    "example": "Passengers are requested to embark now.",
+    "example_ja": "乗客の皆様はただいまからご搭乗ください。"
+  },
+  {
+    "word": "Currency",
+    "phonetic": "/ˈkɜːrənsi/",
+    "meaning": "通貨",
+    "example": "What is the local currency in Thailand?",
+    "example_ja": "タイの現地通貨は何ですか？"
+  },
+  {
+    "word": "Hospitality",
+    "phonetic": "/ˌhɑːspɪˈtæləti/",
+    "meaning": "おもてなし、親切",
+    "example": "We were touched by the hospitality of the local people.",
+    "example_ja": "地元の人々のおもてなしに感動しました。"
+  },
+  {
+    "word": "Souvenir",
+    "phonetic": "/ˌsuːvəˈnɪr/",
+    "meaning": "お土産",
+    "example": "I bought this keychain as a souvenir from New York.",
+    "example_ja": "ニューヨークのお土産としてこのキーホルダーを買いました。"
+  },
+  {
+    "word": "Reservation",
+    "phonetic": "/ˌrezərˈveɪʃn/",
+    "meaning": "予約",
+    "example": "I made a reservation for two at the restaurant.",
+    "example_ja": "レストランに2名で予約を入れました。"
+  },
+  {
+    "word": "Depart",
+    "phonetic": "/dɪˈpɑːrt/",
+    "meaning": "出発する",
+    "example": "The train is scheduled to depart at 10 AM.",
+    "example_ja": "列車は午前10時に出発する予定です。"
+  },
+  {
+    "word": "Arrival",
+    "phonetic": "/əˈraɪvl/",
+    "meaning": "到着",
+    "example": "We waited in the arrival hall for our friends.",
+    "example_ja": "到着ロビーで友人たちを待ちました。"
+  },
+  {
+    "word": "Concierge",
+    "phonetic": "/kəʊnˈsjerʒ/",
+    "meaning": "コンシェルジュ",
+    "example": "The hotel concierge helped us book a city tour.",
+    "example_ja": "ホテルのコンシェルジュが市内観光の予約を助けてくれました。"
+  },
+  {
+    "word": "Insurance",
+    "phonetic": "/ɪnˈʃʊrəns/",
+    "meaning": "保険",
+    "example": "It is wise to take out travel insurance before your trip.",
+    "example_ja": "旅行前に旅行保険に加入しておくのが賢明です。"
+  },
+  {
+    "word": "Passport",
+    "phonetic": "/ˈpæspɔːrt/",
+    "meaning": "パスポート",
+    "example": "Make sure your passport is valid for at least six months.",
+    "example_ja": "パスポートの有効期限が少なくとも6ヶ月あることを確認してください。"
+  },
+  {
+    "word": "Luggage",
+    "phonetic": "/ˈlʌɡɪdʒ/",
+    "meaning": "手荷物",
+    "example": "You are allowed two pieces of checked luggage.",
+    "example_ja": "預け入れ手荷物は2個まで可能です。"
+  },
+  {
+    "word": "Jet lag",
+    "phonetic": "/ˈdʒet læɡ/",
+    "meaning": "時差ぼけ",
+    "example": "It takes me a few days to recover from jet lag.",
+    "example_ja": "時差ぼけから回復するのに数日かかります。"
+  },
+  {
+    "word": "Landmark",
+    "phonetic": "/ˈlændmɑːrk/",
+    "meaning": "名所、目印",
+    "example": "The Eiffel Tower is a famous landmark in Paris.",
+    "example_ja": "エッフェル塔はパリの有名な名所です。"
+  },
+  {
+    "word": "Excursion",
+    "phonetic": "/ɪkˈskɜːrʒn/",
+    "meaning": "遠足、小旅行",
+    "example": "We went on a day excursion to the mountains.",
+    "example_ja": "山へ日帰り旅行に行きました。"
+  },
+  {
+    "word": "Refund",
+    "phonetic": "/ˈriːfʌnd/",
+    "meaning": "払い戻し",
+    "example": "Can I get a refund if the flight is cancelled?",
+    "example_ja": "フライトがキャンセルされた場合、払い戻しは受けられますか？"
+  },
+  {
+    "word": "Upgrade",
+    "phonetic": "/ˌʌpˈɡreɪd/",
+    "meaning": "アップグレード、格上げ",
+    "example": "They gave us a free upgrade to a suite.",
+    "example_ja": "スイートルームへ無料でアップグレードしてくれました。"
+  },
+  {
+    "word": "Terminal",
+    "phonetic": "/ˈtɜːrmɪnl/",
+    "meaning": "ターミナル",
+    "example": "International flights depart from Terminal 2.",
+    "example_ja": "国際線は第2ターミナルから出発します。"
+  },
+  {
+    "word": "Delayed",
+    "phonetic": "/dɪˈleɪd/",
+    "meaning": "遅延した",
+    "example": "Our flight was delayed due to bad weather.",
+    "example_ja": "悪天候のため、私たちのフライトは遅れました。"
+  },
+  {
+    "word": "Shuttle",
+    "phonetic": "/ˈʃʌtl/",
+    "meaning": "シャトルバス",
+    "example": "The hotel provides a free shuttle service to the airport.",
+    "example_ja": "ホテルは空港への無料シャトルサービスを提供しています。"
+  },
+  {
+    "word": "Local",
+    "phonetic": "/ˈloʊkl/",
+    "meaning": "地元の",
+    "example": "We love trying local food whenever we travel.",
+    "example_ja": "旅行するときはいつも地元の料理を食べるのが大好きです。"
+  },
+  {
+    "word": "Amenity",
+    "phonetic": "/əˈmenəti/",
+    "meaning": "アメニティ、心地よさ",
+    "example": "The hotel offers many amenities, including a pool and a gym.",
+    "example_ja": "そのホテルはプールやジムなど多くのアメニティを提供しています。"
+  },
+  {
+    "word": "Expedition",
+    "phonetic": "/ˌekspəˈdɪʃn/",
+    "meaning": "探検、遠征",
+    "example": "They are planning an expedition to the Amazon.",
+    "example_ja": "彼らはアマゾンへの探検を計画しています。"
+  },
+  {
+    "word": "Vaccination",
+    "phonetic": "/ˌvæksɪˈneɪʃn/",
+    "meaning": "予防接種",
+    "example": "Some countries require proof of vaccination for entry.",
+    "example_ja": "国によっては入国に予防接種の証明が必要です。"
+  },
+  {
+    "word": "Check-in",
+    "phonetic": "/ˈtʃek ɪn/",
+    "meaning": "チェックイン、搭乗手続き",
+    "example": "You should complete your check-in at least two hours before the flight.",
+    "example_ja": "フライトの少なくとも2時間前にはチェックインを済ませるべきです。"
+  },
+  {
+    "word": "Baggage claim",
+    "phonetic": "/ˈbæɡɪdʒ kleɪm/",
+    "meaning": "手荷物受取所",
+    "example": "Wait for your suitcases at the baggage claim area.",
+    "example_ja": "手荷物受取所でスーツケースを待ってください。"
+  },
+  {
+    "word": "Gate",
+    "phonetic": "/ɡeɪt/",
+    "meaning": "搭乗口",
+    "example": "The flight to London is boarding at gate 15.",
+    "example_ja": "ロンドン行きの便は15番搭乗口で搭乗を受け付けています。"
+  },
+  {
+    "word": "Security check",
+    "phonetic": "/sɪˈkjʊrəti tʃek/",
+    "meaning": "保安検査",
+    "example": "Empty your pockets before going through the security check.",
+    "example_ja": "保安検査を通る前にポケットの中身を空にしてください。"
+  },
+  {
+    "word": "Duty-free",
+    "phonetic": "/ˌdjuːti ˈfriː/",
+    "meaning": "免税の",
+    "example": "I bought some perfume at the duty-free shop.",
+    "example_ja": "免税店で香水を買いました。"
+  },
+  {
+    "word": "Lounge",
+    "phonetic": "/laʊndʒ/",
+    "meaning": "ラウンジ、待合室",
+    "example": "Business class passengers have access to the airport lounge.",
+    "example_ja": "ビジネスクラスの乗客は空港ラウンジを利用できます。"
+  },
+  {
+    "word": "Flight attendant",
+    "phonetic": "/ˈflaɪt ətendənt/",
+    "meaning": "客室乗務員",
+    "example": "The flight attendant served us drinks and snacks.",
+    "example_ja": "客室乗務員が飲み物と軽食を出してくれました。"
+  },
+  {
+    "word": "Pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "meaning": "パイロット、操縦士",
+    "example": "The pilot announced that we would land in ten minutes.",
+    "example_ja": "パイロットはあと10分で着陸するとアナウンスしました。"
+  },
+  {
+    "word": "Takeoff",
+    "phonetic": "/ˈteɪkɔːf/",
+    "meaning": "離陸",
+    "example": "Please fasten your seatbelts for takeoff.",
+    "example_ja": "離陸のためシートベルトをお締めください。"
+  },
+  {
+    "word": "Landing",
+    "phonetic": "/ˈlændɪŋ/",
+    "meaning": "着陸",
+    "example": "The landing was very smooth despite the wind.",
+    "example_ja": "風があったにもかかわらず、着陸はとてもスムーズでした。"
+  },
+  {
+    "word": "Direct flight",
+    "phonetic": "/dəˈrekt flaɪt/",
+    "meaning": "直行便",
+    "example": "Is there a direct flight from Tokyo to New York?",
+    "example_ja": "東京からニューヨークへの直行便はありますか？"
+  },
+  {
+    "word": "Connecting flight",
+    "phonetic": "/kəˈnektɪŋ flaɪt/",
+    "meaning": "乗り継ぎ便",
+    "example": "I missed my connecting flight because of the delay.",
+    "example_ja": "遅延のせいで乗り継ぎ便に乗り遅れました。"
+  },
+  {
+    "word": "Visa",
+    "phonetic": "/ˈviːzə/",
+    "meaning": "査証、ビザ",
+    "example": "Do I need a visa to visit Brazil?",
+    "example_ja": "ブラジルを訪れるのにビザは必要ですか？"
+  },
+  {
+    "word": "Immigration",
+    "phonetic": "/ˌɪmɪˈɡreɪʃn/",
+    "meaning": "入国審査",
+    "example": "The line at immigration was very long.",
+    "example_ja": "入国審査の列は非常に長かったです。"
+  },
+  {
+    "word": "Subway",
+    "phonetic": "/ˈsʌbweɪ/",
+    "meaning": "地下鉄",
+    "example": "The easiest way to get around the city is by subway.",
+    "example_ja": "市内を移動する最も簡単な方法は地下鉄です。"
+  },
+  {
+    "word": "Fare",
+    "phonetic": "/fer/",
+    "meaning": "運賃",
+    "example": "How much is the bus fare to the city center?",
+    "example_ja": "市街地までのバス運賃はいくらですか？"
+  },
+  {
+    "word": "Rental car",
+    "phonetic": "/ˈrentl kɑːr/",
+    "meaning": "レンタカー",
+    "example": "We decided to get a rental car for our road trip.",
+    "example_ja": "ロードトリップのためにレンタカーを借りることにしました。"
+  },
+  {
+    "word": "Pedestrian",
+    "phonetic": "/pəˈdestriən/",
+    "meaning": "歩行者",
+    "example": "This street is for pedestrians only.",
+    "example_ja": "この通りは歩行者専用です。"
+  },
+  {
+    "word": "Check-out",
+    "phonetic": "/ˈtʃek aʊt/",
+    "meaning": "チェックアウト",
+    "example": "Check-out time is 11 AM.",
+    "example_ja": "チェックアウトの時間は午前11時です。"
+  },
+  {
+    "word": "Lobby",
+    "phonetic": "/ˈlɑːbi/",
+    "meaning": "ロビー",
+    "example": "Let's meet in the hotel lobby at 8 PM.",
+    "example_ja": "午後8時にホテルのロビーで会いましょう。"
+  },
+  {
+    "word": "Room service",
+    "phonetic": "/ˈruːm sɜːrvɪs/",
+    "meaning": "ルームサービス",
+    "example": "I ordered breakfast through room service.",
+    "example_ja": "ルームサービスで朝食を注文しました。"
+  },
+  {
+    "word": "Housekeeping",
+    "phonetic": "/ˈhaʊskiːpɪŋ/",
+    "meaning": "客室係、清掃",
+    "example": "Housekeeping will clean your room every morning.",
+    "example_ja": "客室係が毎朝お部屋を掃除します。"
+  },
+  {
+    "word": "Guided tour",
+    "phonetic": "/ˈɡaɪdɪd tʊr/",
+    "meaning": "ガイド付きツアー",
+    "example": "We joined a guided tour of the Colosseum.",
+    "example_ja": "コロッセオのガイド付きツアーに参加しました。"
+  },
+  {
+    "word": "Museum",
+    "phonetic": "/mjuˈziːəm/",
+    "meaning": "博物館、美術館",
+    "example": "The British Museum is free to the public.",
+    "example_ja": "大英博物館は一般に無料で公開されています。"
+  },
+  {
+    "word": "Monument",
+    "phonetic": "/ˈmɑːnjumənt/",
+    "meaning": "記念碑、遺跡",
+    "example": "The Washington Monument is a famous site.",
+    "example_ja": "ワシントン記念塔は有名な場所です。"
+  },
+  {
+    "word": "Scenic",
+    "phonetic": "/ˈsiːnɪk/",
+    "meaning": "景色の良い",
+    "example": "We took the scenic route through the mountains.",
+    "example_ja": "山の景色の良いルートを通りました。"
+  },
+  {
+    "word": "Menu",
+    "phonetic": "/ˈmenjuː/",
+    "meaning": "メニュー",
+    "example": "Could we see the menu, please?",
+    "example_ja": "メニューを見せていただけますか？"
+  },
+  {
+    "word": "Beverage",
+    "phonetic": "/ˈbevərɪdʒ/",
+    "meaning": "飲み物、飲料",
+    "example": "Would you like a hot or cold beverage?",
+    "example_ja": "温かいお飲み物と冷たいお飲み物のどちらがよろしいですか？"
+  },
+  {
+    "word": "Dietary restriction",
+    "phonetic": "/ˈdaɪəteri rɪˈstrɪkʃn/",
+    "meaning": "食事制限",
+    "example": "Do you have any dietary restrictions?",
+    "example_ja": "何か食事制限はありますか？"
+  },
+  {
+    "word": "Bill",
+    "phonetic": "/bɪl/",
+    "meaning": "勘定書、請求書",
+    "example": "Can I have the bill, please?",
+    "example_ja": "お勘定をお願いします。"
+  },
+  {
+    "word": "Hospital",
+    "phonetic": "/ˈhɑːspɪtl/",
+    "meaning": "病院",
+    "example": "Where is the nearest hospital?",
+    "example_ja": "一番近い病院はどこですか？"
+  },
+  {
+    "word": "Police",
+    "phonetic": "/pəˈliːs/",
+    "meaning": "警察",
+    "example": "Call the police if you see anything suspicious.",
+    "example_ja": "何か不審なものを見かけたら警察に電話してください。"
+  },
+  {
+    "word": "Lost",
+    "phonetic": "/lɔːst/",
+    "meaning": "道に迷った、紛失した",
+    "example": "I think we are lost; let's check the map.",
+    "example_ja": "道に迷ったようです。地図を確認しましょう。"
+  },
+  {
+    "word": "Emergency contact",
+    "phonetic": "/ɪˈmɜːrdʒənsi ˈkɑːntækt/",
+    "meaning": "緊急連絡先",
+    "example": "Please provide an emergency contact number.",
+    "example_ja": "緊急連絡先番号を教えてください。"
+  },
+  {
+    "word": "Intersection",
+    "phonetic": "/ˌɪntərˈsekʃn/",
+    "meaning": "交差点",
+    "example": "Turn left at the next intersection.",
+    "example_ja": "次の交差点を左に曲がってください。"
+  },
+  {
+    "word": "Block",
+    "phonetic": "/blɑːk/",
+    "meaning": "ブロック、街区",
+    "example": "The hotel is just two blocks away.",
+    "example_ja": "ホテルはわずか2ブロック先にあります。"
+  },
+  {
+    "word": "North",
+    "phonetic": "/nɔːrθ/",
+    "meaning": "北",
+    "example": "The museum is to the north of the city.",
+    "example_ja": "博物館は市の北側にあります。"
+  },
+  {
+    "word": "Opposite",
+    "phonetic": "/ˈɑːpəzət/",
+    "meaning": "向かい側の",
+    "example": "The bank is opposite the post office.",
+    "example_ja": "銀行は郵便局の向かい側にあります。"
+  },
+  {
+    "word": "Exchange rate",
+    "phonetic": "/ɪksˈtʃeɪndʒ reɪt/",
+    "meaning": "為替レート",
+    "example": "What is the current exchange rate for Yen to Dollars?",
+    "example_ja": "現在の円からドルへの為替レートはいくらですか？"
+  },
+  {
+    "word": "Backpacker",
+    "phonetic": "/ˈbækpækər/",
+    "meaning": "バックパッカー",
+    "example": "The hostel is full of backpackers from around the world.",
+    "example_ja": "そのホステルは世界中からのバックパッカーでいっぱいです。"
+  },
+  {
+    "word": "Guidebook",
+    "phonetic": "/ˈɡaɪdbʊk/",
+    "meaning": "ガイドブック、旅行案内書",
+    "example": "I read about this temple in my guidebook.",
+    "example_ja": "この寺院についてはガイドブックで読みました。"
+  },
+  {
+    "word": "Booking",
+    "phonetic": "/ˈbʊkɪŋ/",
+    "meaning": "予約",
+    "example": "I'd like to confirm my hotel booking.",
+    "example_ja": "ホテルの予約を確認したいのですが。"
+  },
+  {
+    "word": "Carry-on",
+    "phonetic": "/ˈkæri ɑːn/",
+    "meaning": "機内持ち込み手荷物",
+    "example": "This bag is small enough to be a carry-on.",
+    "example_ja": "このバッグは機内持ち込み手荷物として十分な小ささです。"
+  },
+  {
+    "word": "Boarding",
+    "phonetic": "/ˈbɔːrdɪŋ/",
+    "meaning": "搭乗",
+    "example": "Boarding will begin in fifteen minutes.",
+    "example_ja": "搭乗は15分後に始まります。"
+  },
+  {
+    "word": "Departure",
+    "phonetic": "/dɪˈpɑːrtʃər/",
+    "meaning": "出発",
+    "example": "Check the departure board for your flight status.",
+    "example_ja": "フライトの状況は出発案内板で確認してください。"
+  },
+  {
+    "word": "Gateway",
+    "phonetic": "/ˈɡeɪtweɪ/",
+    "meaning": "入り口、玄関口",
+    "example": "Singapore is the gateway to Southeast Asia.",
+    "example_ja": "シンガポールは東南アジアへの玄関口です。"
+  },
+  {
+    "word": "In-flight",
+    "phonetic": "/ˈɪn flaɪt/",
+    "meaning": "機内の",
+    "example": "We enjoyed the in-flight entertainment during the long journey.",
+    "example_ja": "長い旅の間、機内エンターテインメントを楽しみました。"
+  },
+  {
+    "word": "Off-peak",
+    "phonetic": "/ˌɔːf ˈpiːk/",
+    "meaning": "混雑時以外の、オフピークの",
+    "example": "Travel is much cheaper during off-peak seasons.",
+    "example_ja": "オフピークの時期は旅行代金がずっと安くなります。"
+  },
+  {
+    "word": "Overbook",
+    "phonetic": "/ˌoʊvərˈbʊk/",
+    "meaning": "オーバーブックする、定員以上の予約を受ける",
+    "example": "The airline often overbooks its flights.",
+    "example_ja": "その航空会社はしばしばフライトの予約を定員以上に受けます。"
+  },
+  {
+    "word": "Round-trip",
+    "phonetic": "/ˌraʊnd ˈtrɪp/",
+    "meaning": "往復の",
+    "example": "A round-trip ticket is usually cheaper than two one-way tickets.",
+    "example_ja": "通常、往復航空券は片道2枚よりも安いです。"
+  },
+  {
+    "word": "Stopover",
+    "phonetic": "/ˈstɑːpoʊvər/",
+    "meaning": "途中降機、ストップオーバー",
+    "example": "We decided to have a two-day stopover in Hong Kong.",
+    "example_ja": "香港で2日間のストップオーバーをすることにしました。"
+  },
+  {
+    "word": "Transit",
+    "phonetic": "/ˈtrænzɪt/",
+    "meaning": "通過、乗り継ぎ",
+    "example": "I'm just in transit to London.",
+    "example_ja": "私はロンドンへの乗り継ぎの途中です。"
+  },
+  {
+    "word": "Voyage",
+    "phonetic": "/ˈvɔɪɪdʒ/",
+    "meaning": "航海、長い旅",
+    "example": "The ship set out on a long voyage across the Atlantic.",
+    "example_ja": "その船は大西洋を横断する長い航海に出発しました。"
+  },
+  {
+    "word": "Youth hostel",
+    "phonetic": "/ˈjuːθ ˌhɑːstl/",
+    "meaning": "ユースホステル",
+    "example": "Staying at a youth hostel is a great way to save money.",
+    "example_ja": "ユースホステルに泊まるのは、お金を節約する素晴らしい方法です。"
+  },
+  {
+    "word": "Zipline",
+    "phonetic": "/ˈzɪplaɪn/",
+    "meaning": "ジップライン",
+    "example": "We tried the zipline through the tropical rainforest.",
+    "example_ja": "熱帯雨林の中でジップラインに挑戦しました。"
+  },
+  {
+    "word": "Cruising",
+    "phonetic": "/ˈkruːzɪŋ/",
+    "meaning": "クルージング、巡航",
+    "example": "The ship was cruising at 20 knots.",
+    "example_ja": "船は20ノットで巡航していました。"
+  },
+  {
+    "word": "Dock",
+    "phonetic": "/dɑːk/",
+    "meaning": "埠頭、ドック",
+    "example": "The ferry will dock at the harbor at noon.",
+    "example_ja": "フェリーは正午に港の埠頭に到着します。"
+  },
+  {
+    "word": "Embassy",
+    "phonetic": "/ˈembəsi/",
+    "meaning": "大使館",
+    "example": "If you lose your passport, go to your embassy.",
+    "example_ja": "パスポートを紛失した場合は、大使館に行ってください。"
+  },
+  {
+    "word": "Expel",
+    "phonetic": "/ɪkˈspel/",
+    "meaning": "国外追放する、追い出す",
+    "example": "The tourist was expelled for violating local laws.",
+    "example_ja": "その観光客は現地の法律に違反したため国外追放されました。"
+  },
+  {
+    "word": "Hitchhike",
+    "phonetic": "/ˈhɪtʃhaɪk/",
+    "meaning": "ヒッチハイクする",
+    "example": "They managed to hitchhike across the country.",
+    "example_ja": "彼らは何とかヒッチハイクで国を横断しました。"
+  },
+  {
+    "word": "Jetty",
+    "phonetic": "/ˈdʒeti/",
+    "meaning": "桟橋、突堤",
+    "example": "We walked along the jetty to see the sunset.",
+    "example_ja": "夕日を見るために桟橋を歩きました。"
+  },
+  {
+    "word": "Peak season",
+    "phonetic": "/piːk ˈsiːzn/",
+    "meaning": "繁忙期",
+    "example": "Hotel prices double during the peak season.",
+    "example_ja": "繁忙期にはホテルの価格が2倍になります。"
+  },
+  {
+    "word": "Quarantine",
+    "phonetic": "/ˈkwɔːrəntiːn/",
+    "meaning": "検疫、隔離",
+    "example": "Pets may need to be in quarantine when entering the country.",
+    "example_ja": "入国時にペットは検疫を受ける必要があるかもしれません。"
+  },
+  {
+    "word": "Resort",
+    "phonetic": "/rɪˈzɔːrt/",
+    "meaning": "リゾート地、行楽地",
+    "example": "We stayed at a luxury beach resort in Bali.",
+    "example_ja": "バリ島の高級ビーチリゾートに滞在しました。"
+  },
+  {
+    "word": "Staycation",
+    "phonetic": "/ˌsteɪˈkeɪʃn/",
+    "meaning": "ステイケーション（近場で過ごす休暇）",
+    "example": "We decided to have a staycation in a local hotel this weekend.",
+    "example_ja": "今週末は地元のホテルでステイケーションをすることにしました。"
+  },
+  {
+    "word": "Trek",
+    "phonetic": "/trek/",
+    "meaning": "トレッキング、骨の折れる旅",
+    "example": "They went on a five-day trek in the Himalayas.",
+    "example_ja": "彼らはヒマラヤで5日間のトレッキングに行きました。"
+  },
+  {
+    "word": "Uncharted",
+    "phonetic": "/ˌʌnˈtʃɑːrtəd/",
+    "meaning": "未知の、地図に載っていない",
+    "example": "They explored the uncharted areas of the jungle.",
+    "example_ja": "彼らはジャングルの未知の領域を探索しました。"
+  },
+  {
+    "word": "Vacate",
+    "phonetic": "/vəˈkeɪt/",
+    "meaning": "立ち退く、空ける",
+    "example": "Guests are required to vacate their rooms by noon.",
+    "example_ja": "宿泊客は正午までにお部屋を空ける必要があります。"
+  },
+  {
+    "word": "Wanderlust",
+    "phonetic": "/ˈwɑːndərlʌst/",
+    "meaning": "放浪癖、旅行熱",
+    "example": "Her wanderlust took her to over fifty different countries.",
+    "example_ja": "彼女の旅行熱は、彼女を50以上の異なる国々へと連れて行きました。"
+  },
+  {
+    "word": "Xenophobia",
+    "phonetic": "/ˌzenəˈfoʊbiə/",
+    "meaning": "外国人嫌い、他国の人への恐怖",
+    "example": "Travel helps reduce xenophobia by connecting people.",
+    "example_ja": "旅行は人々を繋ぐことで、外国人への拒絶感を減らす助けになります。"
+  },
+  {
+    "word": "Yacht",
+    "phonetic": "/jɑːt/",
+    "meaning": "ヨット",
+    "example": "They spent their vacation sailing on a private yacht.",
+    "example_ja": "彼らはプライベートヨットでセーリングをしながら休暇を過ごしました。"
+  },
+  {
+    "word": "Zoo",
+    "phonetic": "/zuː/",
+    "meaning": "動物園",
+    "example": "We took the children to the city zoo on Sunday.",
+    "example_ja": "日曜日に子供たちを市営動物園に連れて行きました。"
+  },
+  {
+    "word": "Aisle",
+    "phonetic": "/aɪl/",
+    "meaning": "通路",
+    "example": "Would you prefer a window seat or an aisle seat?",
+    "example_ja": "窓側の席と通路側の席、どちらがよろしいですか？"
+  },
+  {
+    "word": "Baggage",
+    "phonetic": "/ˈbæɡɪdʒ/",
+    "meaning": "手荷物",
+    "example": "How many pieces of baggage are you checking in?",
+    "example_ja": "手荷物は何個預けますか？"
+  },
+  {
+    "word": "Check-in counter",
+    "phonetic": "/ˈtʃek ɪn ˈkaʊntər/",
+    "meaning": "チェックインカウンター",
+    "example": "Please proceed to the check-in counter with your ID.",
+    "example_ja": "身分証明書を持ってチェックインカウンターへお進みください。"
+  },
+  {
+    "word": "Departure gate",
+    "phonetic": "/dɪˈpɑːrtʃər ɡeɪt/",
+    "meaning": "出発ゲート",
+    "example": "Your departure gate has been changed to gate 42.",
+    "example_ja": "出発ゲートが42番に変更されました。"
+  },
+  {
+    "word": "Excess baggage",
+    "phonetic": "/ˈekses ˈbæɡɪdʒ/",
+    "meaning": "超過手荷物",
+    "example": "You will have to pay a fee for excess baggage.",
+    "example_ja": "超過手荷物料金を支払う必要があります。"
+  },
+  {
+    "word": "Flight number",
+    "phonetic": "/flaɪt ˈnʌmbər/",
+    "meaning": "便名",
+    "example": "What is your flight number to London?",
+    "example_ja": "ロンドン行きの便名は何ですか？"
+  },
+  {
+    "word": "Immigration officer",
+    "phonetic": "/ˌɪmɪˈɡreɪʃn ˈɔːfɪsər/",
+    "meaning": "入国審査官",
+    "example": "The immigration officer asked for the purpose of my visit.",
+    "example_ja": "入国審査官に訪問の目的を尋ねられました。"
+  },
+  {
+    "word": "Life jacket",
+    "phonetic": "/laɪf ˈdʒækɪt/",
+    "meaning": "救命胴衣",
+    "example": "The life jacket is located under your seat.",
+    "example_ja": "救命胴衣は座席の下にあります。"
+  },
+  {
+    "word": "Passport control",
+    "phonetic": "/ˈpæspɔːrt kənˈtroʊl/",
+    "meaning": "出入国審査（パスポートコントロール）",
+    "example": "We had to wait for an hour at passport control.",
+    "example_ja": "出入国審査で1時間待たなければなりませんでした。"
+  },
+  {
+    "word": "Runway",
+    "phonetic": "/ˈrʌnweɪ/",
+    "meaning": "滑走路",
+    "example": "The plane is waiting for clearance to enter the runway.",
+    "example_ja": "飛行機は滑走路に入る許可を待っています。"
+  },
+  {
+    "word": "Scales",
+    "phonetic": "/skeɪlz/",
+    "meaning": "はかり、計量器",
+    "example": "Put your suitcase on the scales, please.",
+    "example_ja": "スーツケースをはかりの上に乗せてください。"
+  },
+  {
+    "word": "Transit visa",
+    "phonetic": "/ˈtrænzɪt ˈviːzə/",
+    "meaning": "通過ビザ",
+    "example": "Do I need a transit visa for a layover in China?",
+    "example_ja": "中国での乗り継ぎに通過ビザは必要ですか？"
+  },
+  {
+    "word": "Unaccompanied minor",
+    "phonetic": "/ˌʌnəˈkʌmpənid ˈmaɪnər/",
+    "meaning": "単独で旅行する子供（アナカンパニード・マイナー）",
+    "example": "The airline provides extra assistance for unaccompanied minors.",
+    "example_ja": "航空会社は、単独で旅行する子供たちのために特別な援助を提供しています。"
+  },
+  {
+    "word": "Window seat",
+    "phonetic": "/ˈwɪndoʊ siːt/",
+    "meaning": "窓側の席",
+    "example": "I love the window seat because I can see the clouds.",
+    "example_ja": "雲が見えるので、窓側の席が大好きです。"
+  },
+  {
+    "word": "Bicycle rental",
+    "phonetic": "/ˈbaɪsɪkl ˈrentl/",
+    "meaning": "レンタサイクル、自転車レンタル",
+    "example": "Is there a bicycle rental shop near here?",
+    "example_ja": "この近くにレンタサイクルショップはありますか？"
+  },
+  {
+    "word": "Bus stop",
+    "phonetic": "/bʌs stɑːp/",
+    "meaning": "バス停",
+    "example": "The bus stop is just around the corner.",
+    "example_ja": "バス停は角を曲がったところにあります。"
+  },
+  {
+    "word": "Cab driver",
+    "phonetic": "/kæb ˈdraɪvər/",
+    "meaning": "タクシー運転手",
+    "example": "I gave the cab driver a generous tip.",
+    "example_ja": "タクシー運転手に多めのチップを渡しました。"
+  },
+  {
+    "word": "Ferry terminal",
+    "phonetic": "/ˈferi ˈtɜːrmɪnl/",
+    "meaning": "フェリーターミナル",
+    "example": "We need to be at the ferry terminal 30 minutes before departure.",
+    "example_ja": "出発の30分前にはフェリーターミナルにいる必要があります。"
+  },
+  {
+    "word": "Highway",
+    "phonetic": "/ˈhaɪweɪ/",
+    "meaning": "高速道路、幹線道路",
+    "example": "We took the highway to reach the coast faster.",
+    "example_ja": "海岸に早く着くために高速道路を利用しました。"
+  },
+  {
+    "word": "Metro station",
+    "phonetic": "/ˈmetroʊ ˈsteɪʃn/",
+    "meaning": "地下鉄の駅",
+    "example": "Which metro station is closest to the Eiffel Tower?",
+    "example_ja": "エッフェル塔に一番近い地下鉄の駅はどこですか？"
+  },
+  {
+    "word": "One-way ticket",
+    "phonetic": "/ˌwʌn ˈweɪ ˈtɪkɪt/",
+    "meaning": "片道切符",
+    "example": "How much is a one-way ticket to Paris?",
+    "example_ja": "パリまでの片道切符はいくらですか？"
+  },
+  {
+    "word": "Public transport",
+    "phonetic": "/ˈpʌblɪk ˈtrænspɔːrt/",
+    "meaning": "公共交通機関",
+    "example": "London has an excellent public transport system.",
+    "example_ja": "ロンドンには優れた公共交通システムがあります。"
+  },
+  {
+    "word": "Taxi stand",
+    "phonetic": "/ˈtæksi stænd/",
+    "meaning": "タクシー乗り場",
+    "example": "There is a taxi stand right outside the airport.",
+    "example_ja": "空港のすぐ外にタクシー乗り場があります。"
+  },
+  {
+    "word": "Train station",
+    "phonetic": "/treɪn ˈsteɪʃn/",
+    "meaning": "鉄道駅",
+    "example": "I'll meet you at the main train station.",
+    "example_ja": "中央駅で会いましょう。"
+  },
+  {
+    "word": "Underground",
+    "phonetic": "/ˈʌndərɡraʊnd/",
+    "meaning": "地下鉄（特にロンドン）",
+    "example": "Let's take the underground to Oxford Street.",
+    "example_ja": "オックスフォード・ストリートまで地下鉄で行きましょう。"
+  },
+  {
+    "word": "Bed and breakfast",
+    "phonetic": "/ˌbed ən ˈbrekfəst/",
+    "meaning": "B&B、朝食付きの宿",
+    "example": "We stayed at a charming bed and breakfast in the countryside.",
+    "example_ja": "田舎の素敵なB&Bに泊まりました。"
+  },
+  {
+    "word": "Double room",
+    "phonetic": "/ˈdʌbl ruːm/",
+    "meaning": "ダブルルーム（1ベッド）",
+    "example": "We booked a double room with a sea view.",
+    "example_ja": "海が見えるダブルルームを予約しました。"
+  },
+  {
+    "word": "Front desk",
+    "phonetic": "/frʌnt desk/",
+    "meaning": "フロント",
+    "example": "Please leave your key at the front desk when you go out.",
+    "example_ja": "外出の際は鍵をフロントに預けてください。"
+  },
+  {
+    "word": "Hostel",
+    "phonetic": "/ˈhɑːstl/",
+    "meaning": "ホステル、安宿",
+    "example": "This hostel offers dormitory-style rooms.",
+    "example_ja": "このホステルはドミトリー形式の部屋を提供しています。"
+  },
+  {
+    "word": "Key card",
+    "phonetic": "/kiː kɑːrd/",
+    "meaning": "カードキー",
+    "example": "My key card isn't working for the elevator.",
+    "example_ja": "カードキーがエレベーターで使えません。"
+  },
+  {
+    "word": "Safe",
+    "phonetic": "/seɪf/",
+    "meaning": "金庫、セーフティボックス",
+    "example": "You can keep your valuables in the hotel safe.",
+    "example_ja": "貴重品はホテルの金庫に保管できます。"
+  },
+  {
+    "word": "Single room",
+    "phonetic": "/ˈsɪŋɡl ruːm/",
+    "meaning": "シングルルーム",
+    "example": "I requested a quiet single room on the top floor.",
+    "example_ja": "最上階の静かなシングルルームを希望しました。"
+  },
+  {
+    "word": "Suite",
+    "phonetic": "/swiːt/",
+    "meaning": "スイートルーム",
+    "example": "The bridal suite was beautifully decorated.",
+    "example_ja": "ブライダルスイートは美しく装飾されていました。"
+  },
+  {
+    "word": "Twin room",
+    "phonetic": "/twɪn ruːm/",
+    "meaning": "ツインルーム（2ベッド）",
+    "example": "My friend and I are sharing a twin room.",
+    "example_ja": "友人と私はツインルームをシェアしています。"
+  },
+  {
+    "word": "Wake-up call",
+    "phonetic": "/ˈweɪk ʌp kɔːl/",
+    "meaning": "モーニングコール",
+    "example": "Can I have a wake-up call at 6:30 AM?",
+    "example_ja": "午前6時半にモーニングコールをお願いできますか？"
+  },
+  {
+    "word": "Art gallery",
+    "phonetic": "/ˈɑːrt ˌɡæləri/",
+    "meaning": "アートギャラリー、画廊",
+    "example": "We spent the afternoon browsing the art gallery.",
+    "example_ja": "午後はアートギャラリーを見て回って過ごしました。"
+  },
+  {
+    "word": "Castle",
+    "phonetic": "/ˈkæsl/",
+    "meaning": "城",
+    "example": "The castle sits on top of a hill overlooking the town.",
+    "example_ja": "その城は町を見下ろす丘の上にあります。"
+  },
+  {
+    "word": "Cathedral",
+    "phonetic": "/kəˈθiːdrəl/",
+    "meaning": "大聖堂",
+    "example": "The cathedral is famous for its stained-glass windows.",
+    "example_ja": "その大聖堂はステンドグラスの窓で有名です。"
+  },
+  {
+    "word": "City tour",
+    "phonetic": "/ˈsɪti tʊr/",
+    "meaning": "市内観光ツアー",
+    "example": "We took a bus for the city tour.",
+    "example_ja": "市内観光ツアーのためにバスに乗りました。"
+  },
+  {
+    "word": "Historic site",
+    "phonetic": "/hɪˈstɔːrɪk saɪt/",
+    "meaning": "史跡",
+    "example": "This historic site dates back to the 12th century.",
+    "example_ja": "この史跡は12世紀までさかのぼります。"
+  },
+  {
+    "word": "Local market",
+    "phonetic": "/ˈloʊkl ˈmɑːrkɪt/",
+    "meaning": "地元の市場",
+    "example": "I bought some fresh fruit at the local market.",
+    "example_ja": "地元の市場で新鮮な果物を買いました。"
+  },
+  {
+    "word": "Palace",
+    "phonetic": "/ˈpæləs/",
+    "meaning": "宮殿",
+    "example": "Buckingham Palace is the official residence of the monarch.",
+    "example_ja": "バッキンガム宮殿は君主の公邸です。"
+  },
+  {
+    "word": "Plaza",
+    "phonetic": "/ˈplæzə/",
+    "meaning": "広場",
+    "example": "Let's meet at the main plaza.",
+    "example_ja": "メイン広場で会いましょう。"
+  },
+  {
+    "word": "Ruins",
+    "phonetic": "/ˈruːɪnz/",
+    "meaning": "遺跡、廃墟",
+    "example": "We visited the ancient Greek ruins.",
+    "example_ja": "古代ギリシャの遺跡を訪れました。"
+  },
+  {
+    "word": "Statue",
+    "phonetic": "/ˈstætʃuː/",
+    "meaning": "像、彫像",
+    "example": "The Statue of Liberty is a symbol of freedom.",
+    "example_ja": "自由の女神像は自由の象徴です。"
+  },
+  {
+    "word": "Temple",
+    "phonetic": "/ˈtempl/",
+    "meaning": "寺院",
+    "example": "Please remove your shoes before entering the temple.",
+    "example_ja": "寺院に入る前に靴を脱いでください。"
+  },
+  {
+    "word": "Appetizer",
+    "phonetic": "/ˈæpɪtaɪzər/",
+    "meaning": "前菜",
+    "example": "We ordered a plate of calamari as an appetizer.",
+    "example_ja": "前菜としてイカのフリットを注文しました。"
+  },
+  {
+    "word": "Beverage menu",
+    "phonetic": "/ˈbevərɪdʒ ˈmenjuː/",
+    "meaning": "ドリンクメニュー",
+    "example": "Can I see the beverage menu, please?",
+    "example_ja": "ドリンクメニューを見せていただけますか？"
+  },
+  {
+    "word": "Chef's special",
+    "phonetic": "/ˈʃefs ˈspeʃl/",
+    "meaning": "シェフのおすすめ、本日のスペシャル",
+    "example": "What is the chef's special today?",
+    "example_ja": "今日のシェフのおすすめは何ですか？"
+  },
+  {
+    "word": "Dessert",
+    "phonetic": "/dɪˈzɜːrt/",
+    "meaning": "デザート",
+    "example": "I'm too full to have dessert.",
+    "example_ja": "お腹がいっぱいでデザートが食べられません。"
+  },
+  {
+    "word": "Fast food",
+    "phonetic": "/ˌfæst ˈfuːd/",
+    "meaning": "ファストフード",
+    "example": "We grabbed some fast food before the movie.",
+    "example_ja": "映画の前にファストフードをさっと食べました。"
+  },
+  {
+    "word": "Main course",
+    "phonetic": "/ˌmeɪn ˈkɔːrs/",
+    "meaning": "メインディッシュ、主菜",
+    "example": "For the main course, I'll have the grilled salmon.",
+    "example_ja": "メインディッシュは、サーモンのグリルにします。"
+  },
+  {
+    "word": "Recommendation",
+    "phonetic": "/ˌrekəmənˈdeɪʃn/",
+    "meaning": "おすすめ",
+    "example": "Do you have any recommendations for a local dish?",
+    "example_ja": "地元の料理で何かおすすめはありますか？"
+  },
+  {
+    "word": "Soft drink",
+    "phonetic": "/ˌsɔːft ˈdrɪŋk/",
+    "meaning": "清涼飲料、ソフトドリンク",
+    "example": "I'll just have a soft drink, please.",
+    "example_ja": "ソフトドリンクをいただけますか。"
+  },
+  {
+    "word": "Street food",
+    "phonetic": "/ˈstriːt fuːd/",
+    "meaning": "屋台料理",
+    "example": "You must try the street food when you visit Bangkok.",
+    "example_ja": "バンコクを訪れたら、ぜひ屋台料理を食べてみてください。"
+  },
+  {
+    "word": "Tip",
+    "phonetic": "/tɪp/",
+    "meaning": "チップ、心付け",
+    "example": "Is it customary to leave a tip in this country?",
+    "example_ja": "この国ではチップを残すのが習慣ですか？"
+  },
+  {
+    "word": "Waiter",
+    "phonetic": "/ˈweɪtər/",
+    "meaning": "ウェイター",
+    "example": "The waiter was very polite and helpful.",
+    "example_ja": "そのウェイターはとても丁寧で親切でした。"
+  },
+  {
+    "word": "Allergy",
+    "phonetic": "/ˈælərdʒi/",
+    "meaning": "アレルギー",
+    "example": "I have a severe nut allergy.",
+    "example_ja": "私はひどいナッツアレルギーがあります。"
+  },
+  {
+    "word": "Ambulance",
+    "phonetic": "/ˈæmbjələns/",
+    "meaning": "救急車",
+    "example": "Call an ambulance immediately!",
+    "example_ja": "すぐに救急車を呼んでください！"
+  },
+  {
+    "word": "Clinic",
+    "phonetic": "/ˈklɪnɪk/",
+    "meaning": "診療所、クリニック",
+    "example": "The hotel doctor recommended a nearby clinic.",
+    "example_ja": "ホテルの医者が近くの診療所を勧めてくれました。"
+  },
+  {
+    "word": "Doctor",
+    "phonetic": "/ˈdɑːktər/",
+    "meaning": "医者",
+    "example": "Is there a doctor on board?",
+    "example_ja": "機内にお医者様はいらっしゃいますか？"
+  },
+  {
+    "word": "First aid",
+    "phonetic": "/ˌfɜːrst ˈeɪd/",
+    "meaning": "応急処置",
+    "example": "Does anyone here know first aid?",
+    "example_ja": "ここで誰か応急処置を知っている人はいますか？"
+  },
+  {
+    "word": "Medicine",
+    "phonetic": "/ˈmedsn/",
+    "meaning": "薬",
+    "example": "I need to take my medicine after dinner.",
+    "example_ja": "夕食後に薬を飲む必要があります。"
+  },
+  {
+    "word": "Pharmacy",
+    "phonetic": "/ˈfɑːrməsi/",
+    "meaning": "薬局",
+    "example": "I went to the pharmacy to buy some aspirin.",
+    "example_ja": "アスピリンを買うために薬局に行きました。"
+  },
+  {
+    "word": "Sick",
+    "phonetic": "/sɪk/",
+    "meaning": "病気の、気分が悪い",
+    "example": "I feel a bit sick; I think it was the seafood.",
+    "example_ja": "少し気分が悪いです。シーフードのせいだと思います。"
+  },
+  {
+    "word": "Stolen",
+    "phonetic": "/ˈstoʊlən/",
+    "meaning": "盗まれた",
+    "example": "My wallet was stolen on the subway.",
+    "example_ja": "地下鉄で財布を盗まれました。"
+  },
+  {
+    "word": "Across",
+    "phonetic": "/əˈkrɔːs/",
+    "meaning": "〜を横切って、〜の向かいに",
+    "example": "The park is just across the street.",
+    "example_ja": "公園は通りのすぐ向かいにあります。"
+  },
+  {
+    "word": "Between",
+    "phonetic": "/bɪˈtwiːn/",
+    "meaning": "〜の間に",
+    "example": "The cafe is between the library and the bank.",
+    "example_ja": "カフェは図書館と銀行の間にあります。"
+  },
+  {
+    "word": "East",
+    "phonetic": "/iːst/",
+    "meaning": "東",
+    "example": "The sun rises in the east.",
+    "example_ja": "太陽は東から昇ります。"
+  },
+  {
+    "word": "Far",
+    "phonetic": "/fɑːr/",
+    "meaning": "遠い",
+    "example": "Is the airport far from here?",
+    "example_ja": "空港はここから遠いですか？"
+  },
+  {
+    "word": "Left",
+    "phonetic": "/left/",
+    "meaning": "左",
+    "example": "Turn left at the traffic light.",
+    "example_ja": "信号を左に曲がってください。"
+  },
+  {
+    "word": "Near",
+    "phonetic": "/nɪr/",
+    "meaning": "近い",
+    "example": "Our hotel is near the beach.",
+    "example_ja": "私たちのホテルはビーチの近くにあります。"
+  },
+  {
+    "word": "Right",
+    "phonetic": "/raɪt/",
+    "meaning": "右",
+    "example": "The museum is on your right.",
+    "example_ja": "博物館は右側にあります。"
+  },
+  {
+    "word": "South",
+    "phonetic": "/saʊθ/",
+    "meaning": "南",
+    "example": "They traveled south for the winter.",
+    "example_ja": "彼らは冬の間、南へ旅をしました。"
+  },
+  {
+    "word": "Straight",
+    "phonetic": "/streɪt/",
+    "meaning": "真っ直ぐに",
+    "example": "Go straight for two blocks and then turn right.",
+    "example_ja": "2ブロック真っ直ぐ行ってから、右に曲がってください。"
+  },
+  {
+    "word": "West",
+    "phonetic": "/west/",
+    "meaning": "西",
+    "example": "The mountains are to the west of the city.",
+    "example_ja": "山は市の西側にあります。"
+  },
+  {
+    "word": "Altitude",
+    "phonetic": "/ˈæltɪtuːd/",
+    "meaning": "高度、標高",
+    "example": "We are flying at an altitude of 30,000 feet.",
+    "example_ja": "私たちは高度3万フィートで飛行しています。"
+  },
+  {
+    "word": "Bay",
+    "phonetic": "/beɪ/",
+    "meaning": "湾",
+    "example": "The hotel has a beautiful view of the bay.",
+    "example_ja": "ホテルからは湾の美しい景色が見えます。"
+  },
+  {
+    "word": "Border",
+    "phonetic": "/ˈbɔːrdər/",
+    "meaning": "国境、境界",
+    "example": "We crossed the border between France and Spain.",
+    "example_ja": "フランスとスペインの国境を越えました。"
+  },
+  {
+    "word": "Canal",
+    "phonetic": "/kəˈnæl/",
+    "meaning": "運河",
+    "example": "Venice is famous for its romantic canals.",
+    "example_ja": "ベネチアはロマンチックな運河で有名です。"
+  },
+  {
+    "word": "Coast",
+    "phonetic": "/koʊst/",
+    "meaning": "海岸、沿岸",
+    "example": "We drove along the coast for the whole day.",
+    "example_ja": "一日中、海岸沿いをドライブしました。"
+  },
+  {
+    "word": "Continent",
+    "phonetic": "/ˈkɑːntɪnənt/",
+    "meaning": "大陸",
+    "example": "Africa is a vast continent with diverse cultures.",
+    "example_ja": "アフリカは多様な文化を持つ広大な大陸です。"
+  },
+  {
+    "word": "Cruise",
+    "phonetic": "/kruːz/",
+    "meaning": "クルーズ、船旅",
+    "example": "We are going on a Caribbean cruise next month.",
+    "example_ja": "来月、カリブ海クルーズに行きます。"
+  },
+  {
+    "word": "Island",
+    "phonetic": "/ˈaɪlənd/",
+    "meaning": "島",
+    "example": "The island is only accessible by boat.",
+    "example_ja": "その島へは船でしか行けません。"
+  },
+  {
+    "word": "Lake",
+    "phonetic": "/leɪk/",
+    "meaning": "湖",
+    "example": "We went fishing at the lake yesterday.",
+    "example_ja": "昨日、湖へ釣りに行きました。"
+  },
+  {
+    "word": "Mountain",
+    "phonetic": "/ˈmaʊntn/",
+    "meaning": "山",
+    "example": "We climbed to the top of the mountain.",
+    "example_ja": "山の頂上まで登りました。"
+  },
+  {
+    "word": "Ocean",
+    "phonetic": "/ˈoʊʃn/",
+    "meaning": "海洋、大洋",
+    "example": "The Atlantic Ocean separates Europe from America.",
+    "example_ja": "大西洋がヨーロッパとアメリカを隔てています。"
+  },
+  {
+    "word": "Port",
+    "phonetic": "/pɔːrt/",
+    "meaning": "港",
+    "example": "The ship docked at the port early in the morning.",
+    "example_ja": "船は早朝に港にドッキングしました。"
+  },
+  {
+    "word": "River",
+    "phonetic": "/ˈrɪvər/",
+    "meaning": "川",
+    "example": "The river flows through the heart of the city.",
+    "example_ja": "その川は市の中心部を流れています。"
+  },
+  {
+    "word": "Valley",
+    "phonetic": "/ˈvæli/",
+    "meaning": "谷",
+    "example": "The village is nestled in a green valley.",
+    "example_ja": "その村は緑豊かな谷間にあります。"
+  },
+  {
+    "word": "Waterfall",
+    "phonetic": "/ˈwɔːtərfɔːl/",
+    "meaning": "滝",
+    "example": "The waterfall was a magnificent sight.",
+    "example_ja": "その滝は壮大な光景でした。"
+  },
+  {
+    "word": "Backpack",
+    "phonetic": "/ˈbækpæk/",
+    "meaning": "バックパック、リュックサック",
+    "example": "I packed everything I need in my backpack.",
+    "example_ja": "必要なものはすべてバックパックに詰めました。"
+  },
+  {
+    "word": "Binoculars",
+    "phonetic": "/bɪˈnɑːkjələrz/",
+    "meaning": "双眼鏡",
+    "example": "I used binoculars to see the birds more clearly.",
+    "example_ja": "鳥をよりはっきり見るために双眼鏡を使いました。"
+  },
+  {
+    "word": "Camera",
+    "phonetic": "/ˈkæmrə/",
+    "meaning": "カメラ",
+    "example": "Don't forget to bring your camera for the trip.",
+    "example_ja": "旅行にカメラを持っていくのを忘れないでください。"
+  },
+  {
+    "word": "Map",
+    "phonetic": "/mæp/",
+    "meaning": "地図",
+    "example": "Can you show me where we are on the map?",
+    "example_ja": "地図上で私たちがどこにいるか教えてくれますか？"
+  },
+  {
+    "word": "Sunscreen",
+    "phonetic": "/ˈsʌnskriːn/",
+    "meaning": "日焼け止め",
+    "example": "Apply sunscreen to protect your skin from the sun.",
+    "example_ja": "日差しから肌を守るために日焼け止めを塗ってください。"
+  },
+  {
+    "word": "Toiletries",
+    "phonetic": "/ˈtɔɪlətriz/",
+    "meaning": "洗面用具、トイレタリー",
+    "example": "I bought a small travel kit for my toiletries.",
+    "example_ja": "洗面用具用に小さなトラベルキットを買いました。"
+  },
+  {
+    "word": "Umbrella",
+    "phonetic": "/ʌmˈbrelə/",
+    "meaning": "傘",
+    "example": "It's raining; you'd better take an umbrella.",
+    "example_ja": "雨が降っています。傘を持っていったほうがいいですよ。"
+  },
+  {
+    "word": "Wallet",
+    "phonetic": "/ˈwɑːlɪt/",
+    "meaning": "財布",
+    "example": "I keep my credit cards and cash in my wallet.",
+    "example_ja": "クレジットカードと現金は財布に入れています。"
+  },
+  {
+    "word": "Admission fee",
+    "phonetic": "/ədˈmɪʃn fiː/",
+    "meaning": "入場料",
+    "example": "How much is the admission fee for the museum?",
+    "example_ja": "博物館の入場料はいくらですか？"
+  },
+  {
+    "word": "Brochure",
+    "phonetic": "/broʊˈʃʊr/",
+    "meaning": "パンフレット",
+    "example": "I picked up a brochure about the city's landmarks.",
+    "example_ja": "市の名所に関するパンフレットをもらいました。"
+  },
+  {
+    "word": "Exhibition",
+    "phonetic": "/ˌeksɪˈbɪʃn/",
+    "meaning": "展示会、展覧会",
+    "example": "There is a special exhibition of Monet's paintings.",
+    "example_ja": "モネの絵画の特別展が開催されています。"
+  },
+  {
+    "word": "Festival",
+    "phonetic": "/ˈfestɪvl/",
+    "meaning": "祭り、フェスティバル",
+    "example": "The local festival is held every July.",
+    "example_ja": "地元のお祭りは毎年7月に開催されます。"
+  },
+  {
+    "word": "Guided walk",
+    "phonetic": "/ˈɡaɪdɪd wɔːk/",
+    "meaning": "ガイド付きウォーキングツアー",
+    "example": "We took a guided walk through the historic district.",
+    "example_ja": "歴史地区のガイド付きウォーキングツアーに参加しました。"
+  },
+  {
+    "word": "Tourist attraction",
+    "phonetic": "/ˈtʊrɪst əˈtrækʃn/",
+    "meaning": "観光名所",
+    "example": "The Great Wall is China's most famous tourist attraction.",
+    "example_ja": "万里の長城は中国で最も有名な観光名所です。"
+  },
+  {
+    "word": "Tourist office",
+    "phonetic": "/ˈtʊrɪst ˈɔːfɪs/",
+    "meaning": "観光案内所",
+    "example": "You can get a free map at the tourist office.",
+    "example_ja": "観光案内所で無料の地図をもらえます。"
+  },
+  {
+    "word": "UNESCO World Heritage",
+    "phonetic": "/juːˈneskoʊ wɜːrld ˈherɪtɪdʒ/",
+    "meaning": "ユネスコ世界遺産",
+    "example": "This temple is a UNESCO World Heritage site.",
+    "example_ja": "この寺院はユネスコ世界遺産です。"
+  },
+  {
+    "word": "Viewpoint",
+    "phonetic": "/ˈvjuːpɔɪnt/",
+    "meaning": "展望台、視点",
+    "example": "There is a great viewpoint at the top of the hill.",
+    "example_ja": "丘の頂上に素晴らしい展望台があります。"
+  },
+  {
+    "word": "Visitor center",
+    "phonetic": "/ˈvɪzɪtər ˈsentər/",
+    "meaning": "ビジターセンター",
+    "example": "The visitor center has information about the park's trails.",
+    "example_ja": "ビジターセンターには、公園のトレイルに関する情報があります。"
+  },
+  {
+    "word": "Airfare",
+    "phonetic": "/ˈerfer/",
+    "meaning": "航空運賃",
+    "example": "Airfare prices fluctuate throughout the year.",
+    "example_ja": "航空運賃は年間を通じて変動します。"
+  },
+  {
+    "word": "Airliner",
+    "phonetic": "/ˈerlaɪnər/",
+    "meaning": "大型旅客機",
+    "example": "The huge airliner landed smoothly on the runway.",
+    "example_ja": "巨大な旅客機が滑走路上にスムーズに着陸しました。"
+  },
+  {
+    "word": "Boarding gate",
+    "phonetic": "/ˈbɔːrdɪŋ ɡeɪt/",
+    "meaning": "搭乗ゲート",
+    "example": "Please report to the boarding gate at 9:30 AM.",
+    "example_ja": "午前9時半に搭乗ゲートにお越しください。"
+  },
+  {
+    "word": "Cabin crew",
+    "phonetic": "/ˈkæbɪn kruː/",
+    "meaning": "客室乗務員（クルー）",
+    "example": "The cabin crew will be happy to assist you.",
+    "example_ja": "客室乗務員が喜んでお手伝いいたします。"
+  },
+  {
+    "word": "Charter flight",
+    "phonetic": "/ˈtʃɑːrtər flaɪt/",
+    "meaning": "チャーター便",
+    "example": "They took a charter flight for the company trip.",
+    "example_ja": "彼らは社員旅行のためにチャーター便を利用しました。"
+  },
+  {
+    "word": "Cockpit",
+    "phonetic": "/ˈkɑːkpɪt/",
+    "meaning": "コックピット、操縦室",
+    "example": "The pilots are busy in the cockpit before takeoff.",
+    "example_ja": "離陸前、パイロットたちはコックピットで忙しくしています。"
+  },
+  {
+    "word": "Economy class",
+    "phonetic": "/ɪˈkɑːnəmi klæs/",
+    "meaning": "エコノミークラス",
+    "example": "I usually travel in economy class to save money.",
+    "example_ja": "私は通常、お金を節約するためにエコノミークラスで旅行します。"
+  },
+  {
+    "word": "First class",
+    "phonetic": "/ˌfɜːrst ˈklæs/",
+    "meaning": "ファーストクラス",
+    "example": "First class passengers enjoy extra legroom and better meals.",
+    "example_ja": "ファーストクラスの乗客は、広い足元とより良い食事を楽しめます。"
+  },
+  {
+    "word": "Fuselage",
+    "phonetic": "/ˈfjuːsəlɑːʒ/",
+    "meaning": "（飛行機の）胴体",
+    "example": "The fuselage of the plane was painted with the company logo.",
+    "example_ja": "飛行機の胴体には会社のロゴが描かれていました。"
+  },
+  {
+    "word": "Jet engine",
+    "phonetic": "/ˈdʒet ˈendʒɪn/",
+    "meaning": "ジェットエンジン",
+    "example": "The jet engine provides the thrust needed for flight.",
+    "example_ja": "ジェットエンジンは飛行に必要な推進力を提供します。"
+  },
+  {
+    "word": "Life raft",
+    "phonetic": "/laɪf ræft/",
+    "meaning": "救命いかだ",
+    "example": "In an emergency, the life raft will be deployed.",
+    "example_ja": "緊急時には救命いかだが展開されます。"
+  },
+  {
+    "word": "Oxygen mask",
+    "phonetic": "/ˈɑːksɪdʒən mæsk/",
+    "meaning": "酸素マスク",
+    "example": "An oxygen mask will drop from the ceiling if needed.",
+    "example_ja": "必要に応じて酸素マスクが天井から降りてきます。"
+  },
+  {
+    "word": "Seatbelt",
+    "phonetic": "/ˈsiːtbelt/",
+    "meaning": "シートベルト",
+    "example": "Please keep your seatbelt fastened while seated.",
+    "example_ja": "着席中はシートベルトを締めたままにしてください。"
+  },
+  {
+    "word": "Take-off",
+    "phonetic": "/ˈteɪk ɔːf/",
+    "meaning": "離陸",
+    "example": "We are cleared for take-off.",
+    "example_ja": "離陸の許可が出ました。"
+  },
+  {
+    "word": "Turbulence",
+    "phonetic": "/ˈtɜːrbjələns/",
+    "meaning": "乱気流",
+    "example": "We experienced some light turbulence over the ocean.",
+    "example_ja": "海洋上で軽い乱気流を経験しました。"
+  },
+  {
+    "word": "Artisan",
+    "phonetic": "/ˈɑːrtəzn/",
+    "meaning": "職人、工芸家",
+    "example": "The local market features many artisan goods.",
+    "example_ja": "地元の市場には多くの職人による工芸品が並んでいます。"
+  },
+  {
+    "word": "Cultural heritage",
+    "phonetic": "/ˈkʌltʃərəl ˈherɪtɪdʒ/",
+    "meaning": "文化遺産",
+    "example": "The city is proud of its rich cultural heritage.",
+    "example_ja": "その市は豊かな文化遺産を誇りに思っています。"
+  },
+  {
+    "word": "Folklore",
+    "phonetic": "/ˈfoʊklɔːr/",
+    "meaning": "民間伝承、民俗学",
+    "example": "We learned about local folklore during the tour.",
+    "example_ja": "ツアー中に地元の民間伝承について学びました。"
+  },
+  {
+    "word": "Indigenous",
+    "phonetic": "/ɪnˈdɪdʒənəs/",
+    "meaning": "先住の、その土地固有の",
+    "example": "We visited an indigenous community in the mountains.",
+    "example_ja": "山の先住民のコミュニティを訪れました。"
+  },
+  {
+    "word": "Old town",
+    "phonetic": "/oʊld taʊn/",
+    "meaning": "旧市街",
+    "example": "The old town has many narrow, winding streets.",
+    "example_ja": "旧市街には狭くて曲がりくねった通りがたくさんあります。"
+  },
+  {
+    "word": "Traditional",
+    "phonetic": "/trəˈdɪʃənl/",
+    "meaning": "伝統的な",
+    "example": "They performed a traditional dance for the guests.",
+    "example_ja": "彼らは客人のために伝統的なダンスを披露しました。"
+  },
+  {
+    "word": "Adventure",
+    "phonetic": "/ədˈventʃər/",
+    "meaning": "冒険",
+    "example": "Traveling solo was a great adventure for her.",
+    "example_ja": "一人旅は彼女にとって大きな冒険でした。"
+  },
+  {
+    "word": "Check-in desk",
+    "phonetic": "/ˈtʃek ɪn desk/",
+    "meaning": "チェックインカウンター、受付",
+    "example": "Go to the check-in desk to get your room key.",
+    "example_ja": "受付に行って部屋の鍵を受け取ってください。"
+  },
+  {
+    "word": "Currency exchange",
+    "phonetic": "/ˈkɜːrənsi ɪksˈtʃeɪndʒ/",
+    "meaning": "両替、両替所",
+    "example": "Where can I find a currency exchange office?",
+    "example_ja": "両替所はどこにありますか？"
+  },
+  {
+    "word": "Daily pass",
+    "phonetic": "/ˈdeɪli pæs/",
+    "meaning": "1日乗車券",
+    "example": "I bought a daily pass for the city's bus network.",
+    "example_ja": "市のバス網の1日乗車券を買いました。"
+  },
+  {
+    "word": "Ecotourism",
+    "phonetic": "/ˈiːkoʊtʊrɪzəm/",
+    "meaning": "エコツーリズム",
+    "example": "The country is promoting ecotourism to protect its forests.",
+    "example_ja": "その国は森林を守るためにエコツーリズムを推進しています。"
+  },
+  {
+    "word": "Flight delay",
+    "phonetic": "/flaɪt dɪˈleɪ/",
+    "meaning": "フライトの遅延",
+    "example": "The flight delay was caused by a technical issue.",
+    "example_ja": "フライトの遅延は技術的な問題によって引き起こされました。"
+  },
+  {
+    "word": "Guest house",
+    "phonetic": "/ɡest haʊs/",
+    "meaning": "ゲストハウス、民宿",
+    "example": "We stayed at a cozy guest house near the temple.",
+    "example_ja": "寺院の近くの居心地の良いゲストハウスに泊まりました。"
+  },
+  {
+    "word": "Identity card",
+    "phonetic": "/aɪˈdentəti kɑːrd/",
+    "meaning": "身分証明書、IDカード",
+    "example": "You need to show your identity card to enter the building.",
+    "example_ja": "建物に入るには身分証明書を提示する必要があります。"
+  },
+  {
+    "word": "Main entrance",
+    "phonetic": "/meɪn ˈentrəns/",
+    "meaning": "メインエントランス、正面玄関",
+    "example": "Wait for me at the main entrance of the hotel.",
+    "example_ja": "ホテルの正面玄関で待っていてください。"
+  },
+  {
+    "word": "Night market",
+    "phonetic": "/naɪt ˈmɑːrkɪt/",
+    "meaning": "夜市",
+    "example": "The night market is a great place to find cheap souvenirs.",
+    "example_ja": "夜市は安いお土産を見つけるのに最適な場所です。"
+  },
+  {
+    "word": "Online booking",
+    "phonetic": "/ˌɑːnˈlaɪn ˈbʊkɪŋ/",
+    "meaning": "オンライン予約",
+    "example": "I made an online booking for the train tickets.",
+    "example_ja": "電車のチケットをオンライン予約しました。"
+  },
+  {
+    "word": "Package tour",
+    "phonetic": "/ˈpækɪdʒ tʊr/",
+    "meaning": "パック旅行、パッケージツアー",
+    "example": "The package tour includes flights, hotels, and meals.",
+    "example_ja": "そのパッケージツアーには、フライト、ホテル、食事が含まれています。"
+  },
+  {
+    "word": "Rainforest",
+    "phonetic": "/ˈreɪnfɔːrɪst/",
+    "meaning": "熱帯雨林",
+    "example": "We saw many exotic animals in the rainforest.",
+    "example_ja": "熱帯雨林で多くの珍しい動物を見ました。"
+  },
+  {
+    "word": "Safari",
+    "phonetic": "/səˈfɑːri/",
+    "meaning": "サファリ、野生動物の観察旅行",
+    "example": "They went on a safari in Kenya to see lions.",
+    "example_ja": "彼らはライオンを見るためにケニアでサファリに行きました。"
+  },
+  {
+    "word": "Terminal building",
+    "phonetic": "/ˈtɜːrmɪnl ˈbɪldɪŋ/",
+    "meaning": "ターミナルビル",
+    "example": "The new terminal building is very modern.",
+    "example_ja": "新しいターミナルビルはとても近代的です。"
+  },
+  {
+    "word": "Unpack",
+    "phonetic": "/ˌʌnˈpæk/",
+    "meaning": "（荷物を）解く、荷出しする",
+    "example": "I'll unpack my suitcase once we get to the hotel.",
+    "example_ja": "ホテルに着いたらスーツケースの荷物を解きます。"
+  },
+  {
+    "word": "Villa",
+    "phonetic": "/ˈvɪlə/",
+    "meaning": "ヴィラ、別荘",
+    "example": "They rented a private villa for their honeymoon.",
+    "example_ja": "彼らは新婚旅行のためにプライベートヴィラを借りました。"
+  },
+  {
+    "word": "Walking tour",
+    "phonetic": "/ˈwɔːkɪŋ tʊr/",
+    "meaning": "ウォーキングツアー",
+    "example": "We signed up for a free walking tour of the city.",
+    "example_ja": "市の無料ウォーキングツアーに申し込みました。"
+  }
+]
